@@ -166,41 +166,18 @@ def main():
     decoded_dir_links = decode_dir_links(dir_links)
     print(f"Decoded {len(decoded_dir_links)} direct text sources")
 
-    # print("Combining and filtering configs...")
-    # combined_data = decoded_links + decoded_dir_links
-    # merged_configs = filter_and_categorize(combined_data, protocols)
-    # print(f"Found {len(merged_configs)} unique configs after filtering")
-
-    # print("Combining and filtering configs...")
-    # combined_data = decoded_links + decoded_dir_links
-    # categories = filter_and_categorize(combined_data, protocols)
-
-    merged_configs = []
-    for proto_configs in categories.values():
-        merged_configs.extend(proto_configs)
-
-    
-    # for proto, configs in categories.items():
-    #     if not configs: continue
-    #     proto_file = os.path.join(output_folder, f"{proto}.txt")
-    #     with open(proto_file, "w", encoding="utf-8") as f:
-    #         f.write(f"# {proto} Configs\n")
-    #         for config in configs:
-    #             f.write(config + "\n")
-    #     with open(proto_file, "r", encoding="utf-8") as f:
-    #         content = f.read()
-    #     base64_proto_file = os.path.join(base64_folder, f"{proto}_base64.txt")
-    #     with open(base64_proto_file, "w", encoding="utf-8") as f:
-    #         f.write(base64.b64encode(content.encode()).decode())
-    #     print(f"Created: {proto}.txt and its base64 version.")
-
-    
     print("Combining and filtering configs...")
     combined_data = decoded_links + decoded_dir_links
     
-    categories = filter_and_categorize(combined_data, protocols)
+    # --- اصلاحات از اینجا شروع میشه ---
     
-    # ======================================
+    # 1. مقداردهی اولیه categories قبل از فراخوانی تابع
+    categories = {} 
+    
+    # 2. فراخوانی تابع filter_and_categorize برای مقداردهی categories
+    categories = filter_and_categorize(combined_data, protocols) 
+    
+    # 3. حالا که categories مقدار داره، میتونیم ازش استفاده کنیم
     print("Saving categorized configs by folders...")
     
     for proto, configs in categories.items():
@@ -223,9 +200,14 @@ def main():
                 f.write(content_b64)
 
     print("All folders and batches created successfully.")
-    # ======================================
 
+    # 4. حالا merged_configs رو بر اساس categories که تعریف شده، میسازیم
+    merged_configs = []
+    for proto_configs in categories.values():
+        merged_configs.extend(proto_configs)
     
+    # --- تا اینجا اصلاحات ادامه داره ---
+
     # Write merged configs to output file
     print("Writing main config file...")
     output_filename = os.path.join(output_folder, "All_Configs_Sub.txt")
@@ -294,4 +276,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
