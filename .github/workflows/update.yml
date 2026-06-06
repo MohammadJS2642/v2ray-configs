@@ -44,8 +44,12 @@ jobs:
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
-            exit 0
+          exit 0
           fi
 
           git commit -m "Auto Update Subscriptions"
-          git push
+
+          # گرفتن آخرین تغییرات از ریموت و اعمال کامیت روی آن
+          git pull --rebase origin main
+
+          git push origin main
