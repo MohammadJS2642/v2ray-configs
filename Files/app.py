@@ -66,7 +66,7 @@ def filter_for_protocols(data, protocols):
                         filtered_data.append(line)
                         seen_configs.add(line)
     return filtered_data
-
+    
 def filter_and_categorize(data, protocols):
     categorized = {p: [] for p in protocols}
     seen_configs = set()
@@ -75,14 +75,12 @@ def filter_and_categorize(data, protocols):
         if content and content.strip():
             for line in content.strip().split('\n'):
                 line = line.strip()
-                if line.startswith('#') or not line:
-                    continue
+                if not line or line.startswith('#'): continue
                 
                 for proto in protocols:
-                    if proto in line and line not in seen_configs:
-                        if len(categorized[proto]) < 100:  # محدودیت ۱۰۰ تایی
-                            categorized[proto].append(line)
-                            seen_configs.add(line)
+                    if line.startswith(f"{proto}://") and line not in seen_configs:
+                        categorized[proto].append(line)
+                        seen_configs.add(line)
                         break
     return categorized
 
@@ -173,28 +171,59 @@ def main():
     # merged_configs = filter_and_categorize(combined_data, protocols)
     # print(f"Found {len(merged_configs)} unique configs after filtering")
 
+    # print("Combining and filtering configs...")
+    # combined_data = decoded_links + decoded_dir_links
+    # categories = filter_and_categorize(combined_data, protocols)
+
+    # merged_configs = []
+    # for proto_configs in categories.values():
+    #     merged_configs.extend(proto_configs)
+
+    
+    # for proto, configs in categories.items():
+    #     if not configs: continue
+    #     proto_file = os.path.join(output_folder, f"{proto}.txt")
+    #     with open(proto_file, "w", encoding="utf-8") as f:
+    #         f.write(f"# {proto} Configs\n")
+    #         for config in configs:
+    #             f.write(config + "\n")
+    #     with open(proto_file, "r", encoding="utf-8") as f:
+    #         content = f.read()
+    #     base64_proto_file = os.path.join(base64_folder, f"{proto}_base64.txt")
+    #     with open(base64_proto_file, "w", encoding="utf-8") as f:
+    #         f.write(base64.b64encode(content.encode()).decode())
+    #     print(f"Created: {proto}.txt and its base64 version.")
+
+    
     print("Combining and filtering configs...")
     combined_data = decoded_links + decoded_dir_links
+    
     categories = filter_and_categorize(combined_data, protocols)
-
-    merged_configs = []
-    for proto_configs in categories.values():
-        merged_configs.extend(proto_configs)
-
+    
+    # ======================================
+    print("Saving categorized configs by folders...")
     
     for proto, configs in categories.items():
         if not configs: continue
-        proto_file = os.path.join(output_folder, f"{proto}.txt")
-        with open(proto_file, "w", encoding="utf-8") as f:
-            f.write(f"# {proto} Configs\n")
-            for config in configs:
-                f.write(config + "\n")
-        with open(proto_file, "r", encoding="utf-8") as f:
-            content = f.read()
-        base64_proto_file = os.path.join(base64_folder, f"{proto}_base64.txt")
-        with open(base64_proto_file, "w", encoding="utf-8") as f:
-            f.write(base64.b64encode(content.encode()).decode())
-        print(f"Created: {proto}.txt and its base64 version.")
+        
+        proto_folder = os.path.join("..", proto)
+        os.makedirs(proto_folder, exist_ok=True)
+        
+        for i in range(0, len(configs), 100):
+            batch = configs[i:i + 100]
+            batch_number = (i // 100) + 1
+            
+            file_path = os.path.join(proto_folder, f"{batch_number}.txt")
+            with open(file_path, "w", encoding="utf-8") as f:
+                f.write("\n".join(batch))
+            
+            b64_path = os.path.join(proto_folder, f"{batch_number}_base64.txt")
+            with open(b64_path, "w", encoding="utf-8") as f:
+                content_b64 = base64.b64encode("\n".join(batch).encode()).decode()
+                f.write(content_b64)
+
+    print("All folders and batches created successfully.")
+    # ======================================
 
     
     # Write merged configs to output file
