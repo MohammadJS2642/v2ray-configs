@@ -23,7 +23,9 @@ jobs:
           pip install pybase64 requests
 
       - name: Run script
-        run: python script.py
+        run: |
+          cd Files
+          python app.py
 
       - name: Commit files
         run: |
