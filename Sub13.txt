@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://afdcd662-a067-48dd-b27c-c6b9ac1ae194@157.90.244.241:39487?security=none&encryption=none&headerType=none&type=tcp#SafeV2ray🇩🇪MCI
 vless://afdcd662-a067-48dd-b27c-c6b9ac1ae194@157.90.244.241:39487?security=none&encryption=none&headerType=none&type=tcp#SafeV2ray🇩🇪MCI  همراه اولیا تست کنن
 vless://b0155773-f2b3-4d65-911f-de76f4e44ed1@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73727
 vless://b07f6d59-8ae7-4e7d-8043-98077acb88e8@104.18.32.47:8443?path=/@Neo_MtxNet&security=tls&encryption=none&insecure=1&host=neo.matrixprotocol.dpdns.org&fp=chrome&type=ws&allowInsecure=1&sni=neo.matrixprotocol.dpdns.org#TEL;Father_vpn/hamrahAval
@@ -253,3 +252,4 @@ vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.18.153.188:443?path=/sg-melbi&s
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&security=tls&sni=cyylr.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cyylr.eu.cc&path=/sg-melbi#✅  @vistav2ray  👈👈کانال ما ✅
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&allowInsecure=0#17https://t.me/ConfigX2ray
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&host=cyylr.eu.cc&type=ws&sni=cyylr.eu.cc#@hi_proxy_iran :👈کانال تلگرام
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&host=cyylr.eu.cc&type=ws&sni=cyylr.eu.cc#🚀@V2ray_official

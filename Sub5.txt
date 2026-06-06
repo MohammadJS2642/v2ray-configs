@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#@fastkanfig 1
 vless://1bdacb3c-2f30-459c-84ba-11fd55bdbd7e@104.236.12.64:443?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?security=reality&type=tcp&sni=www.ozon.ru&fp=chrome&sid=ffffffffff&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&encryption=none#🇳🇱NL-🚀@VPNine1
 vless://1cbf4f65-eac1-4963-96cf-c3c8941e6c23@95.110.157.117:1006?security=reality&encryption=none&pbk=2iijxUyJsanFAkX0ctH6H4RTW1N4mQYnIsaP8qrbbS8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0c3a409c2ba7d083#%vmessorg
@@ -253,3 +252,4 @@ vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&e
 vless://37fb4d99-7169-48fe-bc60-0a1b383a9a41@xco.xonline.sbs:8443?encryption=none&security=tls&sni=xco.trevor.ir&fp=chrome&alpn=h2,http/1.1,h3&type=xhttp&host=xco.trevor.ir&path=/cocjslfnr#🔵@chillguy_vpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#@Evay_vpn
 vless://389bd877-c10c-4d99-9db9-4ad718af302e@englishpanelketab.konkuriran.sbs:39917?security=reality&encryption=none&pbk=2as6bEaiLJMzwIYoqg39U1fKJJm7Z2ybpFtmGZJBJXg&headerType=&fp=chrome&spx=/&type=tcp&sni=www.amazon.com&sid=3bfc886f279c#@icv2ray
+vless://39180103-e1e5-42a7-8180-6b928e74122a@sdafa.shompolexy.shop:80?path=/Shompolexy&security=none&encryption=none&host=play.google.com&type=ws#@appsooner کانال تلگرام 🕊️
