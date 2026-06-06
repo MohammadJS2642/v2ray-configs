@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
-vless://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 | @v2ray_configs_pools
 vless://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#👶@FreakConfig
 vless://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#👶@V2rayng_Fast
 vless://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=none&type=tcp#@v2ray_configs_pools
@@ -253,3 +251,5 @@ vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&e
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&type=tcp&sni=yastatic.net&sid=5e841fab#@fastkanfig 6
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@de1.vitok.cc:443?security=reality&alpn=http/1.1&encryption=none&pbk=zxzgWvYs4pMN3fEduth1soI1yMZDkynb1bBM4tj85EE&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=5e841fab#@HiByeVPNN ❤️‍🔥🧧🔥 71
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?encryption=none&fp=&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#@Ap_Ir6
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?encryption=none&fp=&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#📀86@oneclickvpnkeys
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#@fastkanfig 1

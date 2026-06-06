@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@FaStly1.YaShArMoBiLe.cOm:8880?security=none&type=ws&headerType=&path=/?ed=2080&host=mastercdn2.yasharteam.com#🇳🇱 متود (1)
-vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@Ip.yaShaRteAm.cOm:8880?security=none&type=ws&headerType=&path=/?ed=2080&host=moslem1.yasharteam.com#🇳🇱 متود (2)
 vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@svn.yasharmobile.com:3838?security=none&type=tcp&headerType=http&path=/&host=cdn.jsdelivr.net#🇮🇷 سرویس ویژه نت ملی
 vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@svn.yasharmobile.com:690?security=none&encryption=none&headerType=none&type=tcp#@Gap_ip
 vless://a393c4e7-5406-42e6-86d3-6489840fa4ea@varzesh3.com:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@imokping
@@ -253,3 +251,5 @@ vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&enc
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=decdn7.suio.me#⚡Telegram =@CUSTOMVPNSERVER
 vless://bab293a0-6ab0-436b-9779-3c66df0dff10@snapp.ir:2052?type=ws&encryption=none&path=/&host=music.ir.temas-lomat.ir&security=none#V2rayng_Fast
 vless://bac628dc-cd64-460c-8657-8128c9d6d7b7@108.162.193.173:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ch.nping.ir#Telegram : @V2ynpv
+vless://bac628dc-cd64-460c-8657-8128c9d6d7b7@188.114.99.160:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ch.nping.ir#Telegram : @V2ynpv
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.208.184:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️376🌐🆕️
