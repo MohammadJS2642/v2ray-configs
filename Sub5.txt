@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1d4b327f-110d-45c0-b1a0-0c5489789f33@31.76.113.132:443?mode=auto&path=/xhttp-proxy&security=reality&encryption=none&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&fp=chrome&spx=/&type=xhttp&sni=5post-gate.x5.ru&sid=a8f3c1d7e9b4c2f6&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
-vless://1d4b327f-110d-45c0-b1a0-0c5489789f33@31.76.39.21:443?mode=auto&path=/xhttp-proxy&security=reality&encryption=none&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&fp=chrome&spx=/&type=xhttp&sni=5post-gate.x5.ru&sid=a8f3c1d7e9b4c2f6#@Filtershekan_channel |6
 vless://1da09875-d12a-443e-a5c2-766f6a422585@185.143.233.122:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#V2rayng_Fast
 vless://1dd32d92-cf4b-44cb-b6b9-4790302db67f@5.75.196.174:2096?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/new&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5e11ecc7d4#🚀@V2ray_official
 vless://1dd6e1e3-aa5b-434e-be6f-890f95b0e1dd@snapp.ir:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#proxymelimon
@@ -253,3 +251,5 @@ vless://31445bd8-5cfb-4fc4-899f-216cbc119bd4@panel.dibaux.ir:80?encryption=none&
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#@CUSTOMVPNSERVER
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#@KAFING_2
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#Telegram : @V2ynpv
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#🌾 @ProxyVPN11
+vless://327bf8a4-52ec-4fc1-afab-fc37ecec8be9@150.241.94.160:33199?security=reality&encryption=none&pbk=0paB9-U-QzEBoSQiOP161BPvc2PhWrfQ_5nbfk2AezM&headerType=none&fp=chrome&type=tcp&sni=web.max.ru&sid=a9766c#@HajmVPN_Config ⚡
