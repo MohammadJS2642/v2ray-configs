@@ -176,6 +176,12 @@ def main():
     print("Combining and filtering configs...")
     combined_data = decoded_links + decoded_dir_links
     categories = filter_and_categorize(combined_data, protocols)
+
+    merged_configs = []
+    for proto_configs in categories.values():
+        merged_configs.extend(proto_configs)
+
+    
     for proto, configs in categories.items():
         if not configs: continue
         proto_file = os.path.join(output_folder, f"{proto}.txt")
