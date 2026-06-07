@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@173.245.58.209:443?path=/37cdnws&security=tls&encryption=none&insecure=0&host=37cdnws.iamali.info&type=ws&allowInsecure=0&sni=37cdnws.iamali.info#@fastkanfig
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@nelly.ns.cloudflare.com:443?path=/37cdnws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=37cdnws.iamali.info&fp=chrome&type=ws&allowInsecure=0&sni=37cdnws.iamali.info#@iguanaVPN
-vless://e2bb298a-3c77-4c42-a5b0-614ed0470491@185.143.233.234:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=cyrus2.frtshop.ir&fp=chrome&type=ws&sni=cyrus2.frtshop.ir#V2RFA
-vless://e30ba9e9-afc6-4236-803f-7b4ca30ce44b@193.22.229.138:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=pimxpass.alex96336997.workers.dev&path=/&security=none&type=ws#♾️55@BIGAntony
 vless://e30ba9e9-afc6-4236-803f-7b4ca30ce44b@193.22.229.138:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=pimxpass.alex96336997.workers.dev&path=/&security=none&type=ws#♾️55@oneclickvpnkeys
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 vless://e3115c84-266b-4c46-b3f2-16cc3263d555@151.101.193.57:80?encryption=none&type=ws&path=/&host=superip2.global.ssl.fastly.net#@meliproxyy
@@ -253,3 +249,7 @@ vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?security=none&en
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#IR-@V2rayAlpha-15
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#IR-@V2rayAlpha-13
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@CUSTOMVPNSERVER
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#Telegram : @V2ynpv
+vless://ff246f65-8ecf-4e08-901e-3a15e09c68d0@varzesh3.com:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@imokping
