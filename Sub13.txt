@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"1-1","scMaxEachPostBytes":"1000000","headers":{"x-host":"netlify.parsashonam.sbs:444"}}&insecure=1&host=ir-netlify-unlimited-new.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#t.me/ConfigFori  -  Config 73747
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#HqV2rayNG
 vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www.n.ahmadhamoumi.fun:443?fp=chrome&sni=autoconfig.internetwebhub.blog&alpn=h2,http/1.1&encryption=none&host=autoconfig.internetwebhub.bloG.&mode=auto&path=/atrepellatnullaquosnamoptioimpedit&security=tls&type=xhttp&x_padding_bytes=100-1000#@VPsave
 vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www8.n.ahmadhamoumi.fun:443?fp=chrome&sni=autoconfig.internetwebhub.blog&alpn=h2,http/1.1&encryption=none&host=autoconfig.internetwebhub.bloG.&mode=auto&path=/atrepellatnullaquosnamoptioimpedit&security=tls&type=xhttp&x_padding_bytes=100-1000#@VPsave
 vless://a05f8278-d521-4652-bfb9-2b8dbe6b3102@a2.hamrahnode.ir:2053?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=op2.x-upload.org#@TanhaNet
@@ -253,3 +251,5 @@ vless://b95e6017-d54e-4016-b651-91c86aeaa463@nld02.helpbot.click:443?security=re
 vless://b9dccdab-0f77-4fb7-8949-4d378e92df5c@areal1.greewebservices.ir:2425?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️383🌐🆕️
 vless://ba642e98-3de2-409d-b129-e15767c175ee@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73729
 vless://ba642e98-3de2-409d-b129-e15767c175ee@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73732
+vless://ba7c2a7d-cf2f-4ce5-a9f0-74bb548a37d9@193.228.91.75:44555?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#تلگرام : V2ynpv @
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&headerType=none&type=tcp&sni=decdn7.suio.me#@CUSTOMVPNSERVER

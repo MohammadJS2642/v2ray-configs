@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vh.mojaz-persian-music.ir#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
-vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&encryption=none&alpn=h2&fp=chrome&type=xhttp&sni=vh.mojaz-persian-music.ir#@on_proxy1
 vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.193:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&fp=chrome&type=xhttp&sni=ssj.new-persian-song.ir#⚡@V2ray_official
 vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.193:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&fp=chrome&type=xhttp&sni=ssj.new-persian-song.ir#🔵@chillguy_vpn
 vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.193:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssj.new-persian-song.ir#@V2dogs_n
@@ -253,3 +251,5 @@ vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?path=/containers/
 vless://50cbc8f3-08e1-4a82-bfd5-bc2587a392c7@188.114.97.6:443?path=/random&security=tls&encryption=none&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&sni=dfsuporte.garena.com.ex33r.eu.cc#🛸@V2ray_official
 vless://50cbc8f3-08e1-4a82-bfd5-bc2587a392c7@188.114.97.6:443?path=/random&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#@FarazV2ray
 vless://50cbc8f3-08e1-4a82-bfd5-bc2587a392c7@188.114.97.6:443?path=/random&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#@vmesskhodam
+vless://511156b4-6d50-438c-bb46-95c553635874@95.179.169.64:17006?encryption=none&type=tcp&security=none#@ehsawn8-500gig
+vless://5176c140-be46-459b-b5b6-8a87478034f5@104.18.169.21:80?encryption=none&host=xU.aSaCO.sTorE&path=/&security=none&type=ws#🇨🇦55724 | ⚡️Telegram = t.me/SOSkeyNET
