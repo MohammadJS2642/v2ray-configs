@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@one-theme.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮2
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@one-theme.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪2
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪1
@@ -253,3 +252,4 @@ vless://511156b4-6d50-438c-bb46-95c553635874@95.179.169.64:17006?encryption=none
 vless://518aaad4-2d92-4a68-b009-880e909e88b0@45.130.125.158:2095?path=/&security=&encryption=none&host=de.carefreemob2.com.&type=httpupgrade#⚡@V2ray_official
 vless://518aaad4-2d92-4a68-b009-880e909e88b0@45.130.125.158:2095?path=/&security=&encryption=none&host=de.carefreemob2.com.&type=httpupgrade#🚀@V2ray_official
 vless://51c2e2ae-d477-4802-ab73-64324e5c69f2@217.114.40.34:443?security=none&encryption=none&headerType=none&type=tcp#🇮🇷IR-🚀@VPNine1
+vless://526be552-290f-47b1-9a61-a13da8a0a43b@bmi.ir:80?path=/&security=&encryption=none&host=fi1.kianorbit.ir&type=httpupgrade#@electvpn0

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
 vless://c7addea9-6d8a-48d6-8a00-aa99b8ece143@188.114.97.6:443?path=%2Fpath&security=tls&encryption=none&insecure=0&host=ws27.adsvxpro.com&fp=firefox&type=ws&allowInsecure=0&sni=ws27.adsvxpro.com#%3E%3E%40v2rayNG_Matsuri%3A%3AGB
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%3E%3E%40outline_vpn%3A%3AUS
 vless://d555dac9-27cb-4ddb-89f5-6a1d8d1e4798@198.41.223.121:443?encryption=none&host=momi.timoreyhaneh.workers.dev&security=tls&sni=momi.timoreyhaneh.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -155,8 +154,6 @@ trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F
 trojan://BxceQaOe@95.40.47.145:28111?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
 trojan://BxceQaOe@95.40.68.150:2702?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD17
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?sni=az.01.naiun.bilibili.com#%F0%9F%87%A6%F0%9F%87%BFAZ%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86
-trojan://humanity@45.130.125.160:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#
-trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
 trojan://1111@104.18.32.75:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev#1 🇩🇪 @V2ngFast
@@ -253,3 +250,6 @@ trojan://Masir_Sefid@195.15.253.91:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw
 trojan://Masir_Sefid@195.15.253.91:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#@hi_proxy_iran :👈کانال تلگرام
 trojan://Masir_Sefid@195.15.253.91:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#@internet_azad_2026
 trojan://Masir_Sefid@195.15.253.91:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#@meliproxyy
+trojan://Masir_Sefid@195.15.253.91:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#🇨🇳@FreakConfig
+trojan://Masir_Sefid@195.15.253.91:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#🇨🇳@NoxTunnel 17/3.hamrah3
+trojan://Masir_Sefid@84.234.31.111:1040?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=/wfD34qRyzxDuKgX&type=tcp&sni=store.steampowered.com&sid=5f#@hi_proxy_iran :👈کانال تلگرام
