@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.193:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssj.new-persian-song.ir#☑➜چنلمون: Express_freevpn@
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.194:8443?encryption=none&security=tls&sni=vip.mojaz-persian-music.ir&fp=chrome&alpn=h3,h2&insecure=0&allowInsecure=0&type=xhttp&path=/&mode=auto&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}#🇸🇨SC_428_@Surfboardv2ray
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.194:8443?encryption=none&type=xhttp&security=tls&path=/?ed=2053&mode=auto&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&sni=vip.mojaz-persian-music.ir&alpn=h3,h2&fp=chrome&allowInsecure=0#@meliproxyy
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.194:8443?encryption=none&type=xhttp&security=tls&path=/?ed=2053&mode=auto&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&sni=vip.mojaz-persian-music.ir&alpn=h3,h2&fp=chrome&allowInsecure=0#🔵@chillguy_vpn
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.194:8443?mode=auto&path=/&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip.mojaz-persian-music.ir#میوو
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.194:8443?mode=auto&path=/&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip.mojaz-persian-music.ir#میوو#kurdconfig
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@5.75.196.53:80?encryption=none&type=ws&path=/?ed=80&host=speedtest.net#@meliproxyy
 vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@5.75.196.53:80?path=/?ed=80&security=none&encryption=none&host=speedtest.net&type=ws#☑➜چنلمون: Express_freevpn@
 vless://144847c2-6a94-4e0d-ad80-8779d7e083f1@162.159.233.191:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🌾 @ProxyVPN11
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@93.114.194.131:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&security=reality&sid=247fd6dab1a34a48&sni=web.max.ru&type=tcp#🥎6@oneclickvpnkeys
@@ -253,3 +246,10 @@ vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.glitchout.ir:443?security=none&en
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.glitchout.ir:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@188.114.97.6:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=2.glitchout.ir&sni=2.glitchout.ir#🔵@chillguy_vpn
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@3.glitchshop.ir:8080?encryption=none&security=none&type=ws&headerType=none&path=/#🔵@chillguy_vpn
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@5.call-me-seyed.ir:2053?encryption=none&security=none&type=ws&headerType=none&path=/#🔵@chillguy_vpn
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=&encryption=none&headerType=none&type=tcp#@confiig_hub
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=&encryption=none&headerType=none&type=tcp#bored_vpn
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#@hi_proxy_iran :👈کانال تلگرام
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
