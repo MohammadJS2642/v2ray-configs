@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@nid.pink-perfect.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#⚡@V2ray_official
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#@KAFING_2
 vless://5e0212f0-297f-4f68-a256-013466bab0d2@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/?ed&host=t4.tzteam.online&sni=t4.tzteam.online&fp=chrome&allowInsecure=0#@meliproxyy
 vless://5e0212f0-297f-4f68-a256-013466bab0d2@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&host=t3.tzteam.online&fp=chrome&type=ws&sni=t3.tzteam.online#@internet_azad_2026 : کانال ما
@@ -253,3 +252,4 @@ vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.130:2087?encryption=none
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.18.38.47:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🚀@VPNine1
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.215.97:443?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🚀@VPNine1
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.149.209:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🚀@VPNine1
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.175:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🚀@VPNine1

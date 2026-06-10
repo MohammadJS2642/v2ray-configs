@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9ad4f937-6366-474b-9d7e-e2a694deb4e2@pro-fi.emrata.top:753?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#@filembad
 vless://9ad4f937-6366-474b-9d7e-e2a694deb4e2@pro-fi.emrata.top:753?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#🔵@chillguy_vpn
 vless://9b6971cf-60cb-4ead-9d8c-92bb44823f84@5.75.196.174:443?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/atvKoAwX1UsJfaX&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=26baa584ed0e88#@Net2ray ⭐️
 vless://9bbddc9c-b39f-4928-8e34-a694112200ca@188.42.88.254:2096?path=/&security=tls&encryption=none&insecure=0&host=holy-pine-9a1c.mr-amirzareei.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=holy-pine-9a1c.mr-amirzareei.workers.dev#@VPsave
@@ -253,3 +252,4 @@ vless://a6e3a51a-05c9-42ba-96cf-9e45421cce46@www.hcaptcha.com:443?encryption=non
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@173.245.58.80:443?security=tls&type=ws&path=/?ed=2048&host=juzi.qea.ccwu.cc&sni=juzi.qea.ccwu.cc&fp=chrome#🇨🇦60136 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@chatgpt.com:443?path=/?ed @ProxyVPN11&security=tls&encryption=none&insecure=0&host=juzi.qea.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.qea.ccwu.cc#🌾 @ProxyVPN11
 vless://a85e4fce-bffb-4fc4-bcf1-ac57fd3453e5@185.143.232.24:80?path=/&security=&encryption=none&host=rahamegalodon44.personal-kyra.ir&type=ws#⚡@V2ray_official
+vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn

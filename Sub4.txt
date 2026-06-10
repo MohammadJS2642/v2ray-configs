@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&encryption=none&headerType=none&type=tcp&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
 vless://03f929bb-7a94-4400-a882-d846d18b614e@185.141.107.42:777?encryption=none&security=none&type=tcp&headerType=none&host=@BlueberryNetWork#@BlueberryNetWork
 vless://045acec8-7d9e-4793-9917-c909a4a70887@104.18.26.90:2087?encryption=none&security=tls&type=ws&headerType=none&host=ln1.monopolitass.ir&sni=ln1.monopolitass.ir&fp=chrome&alpn=h2,http/1.1&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در #7
 vless://045acec8-7d9e-4793-9917-c909a4a70887@104.18.26.90:2087?encryption=none&security=tls&type=ws&headerType=none&host=us1.monopolitass.ir&sni=us1.monopolitass.ir&fp=chrome&alpn=h2,http/1.1&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در #6
@@ -253,3 +252,4 @@ vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encr
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/16K876L0W1BeJ0u0?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (5)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/DBD001v7ZAlmIpnP?ed=2560#CxrolVPN Free (3)
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@23.26.193.73:2040?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=tradingview.com&fp=chrome&sid=53197c66aef53c44&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0#🇩🇪 t.me/Natrixo AA
