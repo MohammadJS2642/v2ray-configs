@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@vpnv1.aspidnet.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&fp=chrome&security=reality&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48#https://t.me/AarazV2ray
-vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@104.18.31.168:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@ip.hamrahto.com:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
 vless://16d59f55-2cf7-49f0-81af-c6df88bb2976@snapp.ir:80?type=ws&encryption=none&path=/&host=do.pupload.ir&security=none#@Pirimod
@@ -253,3 +251,5 @@ vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&en
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#telegram @mtmvpn 1
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
+vless://2e7306af-9f3b-44bc-8632-a45fccb18bb2@173.245.58.9:2096?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=v2ngfast.xswqaz11215.workers.dev&fp=chrome&type=ws&sni=v2ngfast.xswqaz11215.workers.dev#🇩🇪 @V2ngFast
+vless://2e834c8c-2b4d-4cc5-9725-23ed738b4333@AzarakhshProxy.fast.hosting-ip.com:80?path=/?ed=2048&security=none&encryption=none&host=lookivpn3.ir&type=ws#🩵+@Azarakhsh_Proxy+🩷
