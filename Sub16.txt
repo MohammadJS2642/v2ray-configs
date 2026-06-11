@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
 vless://e4ec0319-a924-42eb-84a5-9bff93d91d60@107.161.174.68:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#TEL;Father_vpn
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws&host=join---appsoonervpn---join---appsoonervpn---join---appsoonervpn---join---appsoonervpn&path=/#@v2rayconfigamir 7062
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws&host=join---planb_net---join---planb_net---join---planb_net&path=/#@v2rayconfigamir 7084
@@ -251,5 +253,3 @@ vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?security=none&en
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#IR-@V2rayAlpha-15
 vless://fed517b1-ca69-48f2-a0e8-b6e56641664b@104.18.26.94:80?type=ws&host=esetsecuritylicense.kaxlmn.workers.dev&path=/?ed=2560@ELiV2Ray@ELiV2ray@ELiV2ray#@v2ray_configs_pools-join-us-on-Telegram
 vless://fef0a926-099e-4c26-a1fb-d9f76438cb6f@104.17.148.22:8443?security=tls&sni=VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com&type=ws&host=VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com&path=/www.speedtest.net/VPNCSTOMIZE?ed=8443&fp=chrome&alpn=h3,h2,http/1.1#@v2ray_configs_pools-join-us-on-Telegram
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#IR-@V2rayAlpha-13
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@CUSTOMVPNSERVER
