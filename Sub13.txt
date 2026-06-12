@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://accc1b01-f960-409c-ba43-7d819226f820@173.245.49.159:8443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=ftp.singoshop.ir&path=/&security=tls&sni=ftp.singoshop.ir&type=ws#@meliproxyy
 vless://accc1b01-f960-409c-ba43-7d819226f820@173.245.49.159:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ftp.singoshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.singoshop.ir#🇩🇪@FreakConfig
 vless://accc1b01-f960-409c-ba43-7d819226f820@173.245.49.159:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ftp.singoshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.singoshop.ir#@meliproxyy
 vless://accc1b01-f960-409c-ba43-7d819226f820@173.245.49.159:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ftp.singoshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.singoshop.ir#🔵@chillguy_vpn
@@ -253,3 +252,4 @@ vless://bff7b258-8291-4298-bdee-991a92c1f33c@anriqkeqsd.online:8443?security=rea
 vless://c06b2815-c117-4319-8cf2-725fbf864f7e@freeiran-opiran-2.shaygan.site:8880?path=/&security=none&encryption=none&type=ws#@KAFING_2
 vless://c07f5179-2d11-41da-8a98-798ff05be1fd@104.17.122.123:2083?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=nf.velizor.ir&mode=auto&path=/&security=tls&sni=nf.velizor.ir&type=xhttp&x_padding_bytes=100-1000#🇨🇦66295 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c07f5179-2d11-41da-8a98-798ff05be1fd@104.17.122.123:2083?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=nf.velizor.ir&mode=auto&path=/&security=tls&sni=nf.velizor.ir&type=xhttp&x_padding_bytes=100-1000#🇩🇪 t.me/Natrixo AA
+vless://c07f5179-2d11-41da-8a98-798ff05be1fd@104.17.122.123:2083?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=nf.velizor.ir&mode=auto&path=/&security=tls&sni=nf.velizor.ir&type=xhttp&x_padding_bytes=100-1000#🔵@chillguy_vpn
