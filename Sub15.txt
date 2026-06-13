@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
-vless://dcb2544a-b257-4267-9200-4b522f0001e6@snapp.ir:80?path=/&security=none&encryption=none&host=worldt.wawariweb.ir&type=ws#چنل عضو شو @v2ra_config
 vless://dcb2544a-b257-4267-9200-4b522f0001e6@snapp.ir:80?path=/&type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls& encryption=none&security=none&encryption=none&host=worldt.wawariweb.ir&type=ws#🇩🇪@V2RAYNGRAISI | All
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#TEL;Father_vpn
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#🇩🇪 t.me/Natrixo AA
@@ -253,3 +251,5 @@ vless://fb16214c-cc75-4eab-a7fd-31b102db1279@188.114.97.6:8443?path=/?ed=2048&se
 vless://fb8b3229-d792-4dc3-b87a-6da84f098c03@178.105.3.69:38639?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://fc2be12b-e815-4db1-baaf-4d836d5c5ff8@static.94.219.109.65.clients.your-server.de:8080?security=none&allowInsecure=0&encryption=mlkem768x25519plus.native.0rtt.-a3SjR5SwelNsnaxLHT2CuOAJuBDnrzPTw88l3eTVUw&type=ws&host=static.94.219.109.65.clients.your-server.de&path=/news#🦉@FreeConfigForYou
 vless://fc53bae5-92f5-4572-9ce8-9e56901479f1@104.20.5.134:80?encryption=none&security=none&type=ws&host=尼亞團員1尼亞團員2尼亞團員3尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞3亞團員亞團員.尼亞團員1尼亞團員2尼亞團員3尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞團亞團員亞團員.com.&path=/amo-mohammad#@SheriffNet
+vless://fc841d97-3159-4424-81cb-a71b2e4d824d@nrs.free4all.com.de:2095?security=none&encryption=none&headerType=none&type=tcp#چنل عضو شو @v2ra_config
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#عضو شو تا وصل بمونی : @fastkanfig
