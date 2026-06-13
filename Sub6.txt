@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2c3175fc-4a19-4bb6-bb8e-34c2a9fca770@37.140.242.53:2626?encryption=mlkem768x25519plus.native.0rtt.YRLRmAMWsy_p5QXFdGd4K1320s0ZiX1svQbg8u-pVis&fp=chrome&pbk=7EzXVyxyyUOhZf_qrxZ5ULLk3LmsUOkJNzb7iDjfHwM&security=reality&sid=b5&sni=www.yahoo.com&spx=/rrBwJfw7BTMVz6Y&type=tcp#@meliproxyy
 vless://2c3175fc-4a19-4bb6-bb8e-34c2a9fca770@37.140.242.53:443?encryption=none&fp=chrome&pbk=N2lNP_mURhdPm_2BPeT_dAkELQaCEjjdhOkd_j8hCiE&security=reality&sid=6c8c7b&sni=www.yahoo.com&spx=/z63QIyKJePc0k3g&type=tcp#@meliproxyy
 vless://2c3175fc-4a19-4bb6-bb8e-34c2a9fca770@37.140.242.53:67?encryption=mlkem768x25519plus.native.0rtt.fvlI2ulNm0DDnw3VHotDl3sQc-a9L-7Qlca68jiNKxk&fp=chrome&pbk=UJnDrgpwJmffiBUaX4myPjts_jpt_1bCEj9wuPQ_lGc&security=reality&sid=e84c875d7a6dff13&sni=www.intel.com&spx=/srTQ0bhopApaR1C&type=tcp#@meliproxyy
 vless://2c3175fc-4a19-4bb6-bb8e-34c2a9fca770@37.140.242.53:8080?encryption=none&security=none&type=tcp#@meliproxyy
@@ -253,3 +252,4 @@ vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@147.185.161.165:2052?encryption=non
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@88.216.67.230:2052?encryption=none&type=xhttp&mode=auto&host=p1.pabloping.cloud&path=/pabloping&security=none#@meliproxyy
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@88.216.67.230:2052?encryption=none&type=xhttp&mode=auto&host=u1.pabloping.cloud&path=/pabloping&security=none#@meliproxyy
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@88.216.67.230:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=p1.pabloping.cloud&type=xhttp#@hex_proxy ⁴
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@88.216.67.230:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=u1.pabloping.cloud&type=xhttp#@hex_proxy ⁸
