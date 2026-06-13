@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
+trojan://telegram-id-directvpn@13.36.52.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷69002 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://telegram-id-directvpn@13.36.52.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1
 trojan://telegram-id-directvpn@13.39.38.126:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@13.36.52.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -251,5 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#عضو باش @fastkanfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#⚡@V2ray_official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#🛸@V2ray_official
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTc2a0FtZkx3ZE5wQ3RmV1h4bzNQbWlqZ0tUb0VZblZOVVo3V3FxOFhnYk04TkJCOEdjdmt0V2RhRzc3WmtHMXo2YXdRZVRLRkZpbjQ0UmU4Zks3ZFpYZ1Q1ZXo2Wkg=@185.5.38.111:55988#@v2rayconfigamir 6661
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYjBlYTdiNC1iZDI3LTQ5OTUtYmM5NS1hODE3MTc0YjZmN2M=@116.162.172.53:23334#@Hope_Net
