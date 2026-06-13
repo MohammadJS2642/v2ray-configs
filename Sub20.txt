@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#@prrofile_purple  ♥️👈 تلگرام
 trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#telegram @mtmvpn
 trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🟢V2dogs_n
 trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:29642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#telegram @mtmvpn
@@ -252,4 +253,3 @@ trojan://telegram-id-privatevpns@3.78.191.119:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@35.181.194.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.198.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.149.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@52.47.178.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
