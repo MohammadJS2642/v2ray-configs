@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?allowInsecure=1&encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?allowInsecure=1&encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -101,9 +102,6 @@ vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.25.118.255:2096?path=%2Fws%3Fed
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@162.159.247.74:2096?path=%2Fws%3Fed&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=872ede3847653442.hozheen.ir#@v2reya88
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.149.209:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#@v2reya88
 trojan://humanity@172.64.155.209:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=random&type=ws&allowInsecure=0&sni=www.gossipglove.com#Tel-%40irconfiig%F0%9F%A6%87%203
-trojan://humanity@104.17.121.9:443?allowInsecure=1&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.20.6.134:443?allowInsecure=0&sni=www.calmloud.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
-trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?allowInsecure=0&sni=www.mesaly.click#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20V2CROSS.COM
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?allowInsecure=0&sni=fra34.tracker-ws.click#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20V2CROSS.COM
 trojan://d02e3bb7e6b3333e818d36866d40de6e@16.162.192.48:2008?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://BxceQaOe@16.162.220.24:1035?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
@@ -253,3 +251,5 @@ trojan://SoftNetConnect@167.233.105.87:443?mode=auto&path=/&security=reality&ext
 trojan://SoftNetConnect@185.204.169.164:443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=d591#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
 trojan://SoftNetConnect@185.204.169.164:443?security=reality&sni=www.yahoo.com&fp=chrome&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&sid=d591&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#@filembad
 trojan://SoftNetConnect@194.5.192.89:2087?mode=gun&security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=160b91b3#@Azaranv2ray
+trojan://SoftNetConnect@194.5.192.89:2087?mode=gun&security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=160b91b3#@bored_vpn
+trojan://SoftNetConnect@194.5.192.89:2087?mode=gun&security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=160b91b3#@confiig_hub
