@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.233.104.128:2096?mode=gun&security=none&encryption=none&type=grpc&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop#@FarazV2ray
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.233.36.115:2096?encryption=none&security=none&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop&type=grpc#🐊4@oneclickvpnkeys
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.233.69.85:2096?encryption=none&security=none&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop&type=grpc#🐊28@oneclickvpnkeys
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.233.69.85:2096?mode=gun&security=none&encryption=none&type=grpc&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop#@FarazV2ray
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@bored_vpn
@@ -251,5 +253,3 @@ vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?encryption=none
 vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?encryption=none&security=tls&sni=kl.mojaz-persian-music.ir&fp=chrome&alpn=h3,h2&insecure=0&allowInsecure=0&type=xhttp&path=/?ed=2053&mode=auto#✅  @vistav2ray  👈👈کانال ما ✅
 vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?encryption=none&security=tls&sni=ssd.mojaz-persian-music.ir&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=/?ed=80&mode=auto#✅  @vistav2ray  👈👈کانال ما ✅
 vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?encryption=none&type=xhttp&security=tls&path=/?ed=2053&mode=auto&sni=vi.new-persian-song.ir&alpn=h3,h2&fp=chrome&insecure=0&allowInsecure=0#🦉@FreeConfigForYou
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?encryption=none&type=xhttp&security=tls&path=/?ed=80&mode=auto&sni=ssd.mojaz-persian-music.ir&fp=chrome&insecure=0&allowInsecure=0#@Morrfinchnl
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#🇩🇪@FreakConfig
