@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#TEL;Father_vpn
 vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@167.104.223.68:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#@v2raybaaz ¹
 vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@195.184.247.252:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#@v2raybaaz ²
 vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@31.56.188.15:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mi.com&sid=be0ce047#@v2raybaaz ³
@@ -252,4 +253,3 @@ vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@tr.tgru.in:443?security=reality&enc
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=/?ed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 vless://349ece52-713d-4955-b8c7-5874b4906235@151.101.66.219:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.com#@v2ray_configs_pools-join-us-on-Telegram
 vless://34f2df07-0315-4be3-b7a3-05283bc43f0f@104.26.6.159:2053?path=/&security=tls&encryption=none&insecure=1&host=noone.bingnet.online&type=ws&allowInsecure=1&sni=noone.bingnet.online#@  ♥️👈 تلگرام
-vless://34f2df07-0315-4be3-b7a3-05283bc43f0f@104.26.6.159:2053?path=/&security=tls&encryption=none&insecure=1&host=noone.bingnet.online&type=ws&allowInsecure=1&sni=noone.bingnet.online#@meliproxyy
