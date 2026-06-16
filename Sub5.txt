@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/DBD001v7ZAlmIpnP?ed=2560#CxrolVPN Free (3)
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@108.165.236.144:2040?encryption=none&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#🇩🇪73084 | ⚡️Telegram = t.me/SOSkeyNET
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@108.165.236.144:2040?encryption=none&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@108.165.236.173:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#@meliproxyy
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@108.165.236.173:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=chrome&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#@internet_azad_2026
@@ -253,3 +251,5 @@ vless://3098d602-5103-4bc3-b3bd-7dda94c26af0@onnevpn.dibaux.ir:80?encryption=non
 vless://3119ae73-0386-4b9e-91a0-d69e9ebee3a6@199.232.78.159:80?mode=auto&path=/xhttp&security=&encryption=none&host=simorghbot.global.ssl.fastly.net&type=xhttp#@icv2ray
 vless://31445bd8-5cfb-4fc4-899f-216cbc119bd4@panel.dibaux.ir:80?encryption=none&security=none&type=ws&path=/stream#🇳🇱 NL
 vless://3147e3bf-23bb-402f-8b41-19a6df19438e@del.fattsh8.ir:29113?security=reality&encryption=none&pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&headerType=&fp=chrome&spx=/&type=tcp&sni=aws.amazon.com&sid=2641062b76c9#@ReleaseNet
+vless://3147e3bf-23bb-402f-8b41-19a6df19438e@del.fattsh8.ir:29113?security=reality&encryption=none&pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&headerType=&fp=chrome&spx=/&type=tcp&sni=aws.amazon.com&sid=2641062b76c9#@icv2ray
+vless://3159c3a7-d306-ae48-f114-359a2fc00dc3@143.246.136.73:443?path=/Tel:@#NormanV2ray-140
