@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#CxrolVPN Free (4)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/ebmJ4UcdPxKGcPdT?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (6)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#CxrolVPN Free (1)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
@@ -252,4 +253,3 @@ vless://31830c67-ce15-49d6-83db-7f354dbb7d52@pg.restauranzorban.ir:2052?path=/&s
 vless://31830c67-ce15-49d6-83db-7f354dbb7d52@pg.restauranzorban.ir:2052?path=/&security=none&encryption=none&host=finland1.restaurantnetwork.ir&type=ws#@ReleaseNet
 vless://31830c67-ce15-49d6-83db-7f354dbb7d52@pg.restauranzorban.ir:2052?path=/&security=none&encryption=none&host=finland1.restaurantnetwork.ir&type=ws#🇮🇷73547 | ⚡️Telegram = t.me/SOSkeyNET
 vless://31830c67-ce15-49d6-83db-7f354dbb7d52@pg.restauranzorban.ir:2052?path=/&security=none&encryption=none&host=finland1.restaurantnetwork.ir&type=ws#🇮🇷IR-🚀@VPNine1
-vless://31cc652e-08a6-4d7c-90b8-0d37d7022d9f@snapp.ir:2087?path=/BetForward&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#🇮🇷73633 | ⚡️Telegram = t.me/SOSkeyNET

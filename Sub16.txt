@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e01a5a9b-66d2-431a-84a9-71d200e3a89f@195.230.107.61:12653?security=none&encryption=none&headerType=none&type=tcp#@NewsDarya
 vless://e01a5a9b-66d2-431a-84a9-71d200e3a89f@195.230.107.61:12653?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz
 vless://e01a5a9b-66d2-431a-84a9-71d200e3a89f@195.230.107.61:12653?security=none&encryption=none&headerType=none&type=tcp@freenettir
 vless://e02ec9ed-3214-4914-80f1-ed2cf435314d@mail.erwinhoda.shop:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=mail.erwinhoda.shop&path=/&sni=mail.erwinhoda.shop&fp=chrome&alpn=h2,http/1.1#5823 | @WetConfig~FREE-TUN🇫🇮
@@ -252,4 +253,3 @@ vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@45.82.13.5:443?security=reality&enc
 vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@78.159.131.83:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ElEALiFaDTMj9lYwMPYaCVnbMkz22pvzD10dGW61kyc&security=reality&sid=d98613f3853a7c26&sni=alb00.sidecloud.ru&type=tcp#🫐6@oneclickvpnkeys
 vless://f65f649a-b719-4bdc-806f-3d9c3fae2c20@49.13.36.254:6742?security=reality&encryption=none&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&headerType=none&fp=chrome&spx=/8pzqB9y6FR1mkbv&type=tcp&sni=play.google.com&sid=86d4#@MimiTdl vpn 🔥
 vless://f71ecbed-d37a-78d6-3875-5f505c958d0c@66.33.23.75:443?path=/ws/f71ecbed-d37a-78d6-3875-5f505c958d0c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift-production.up.railway.app#‎🛰️ @nitruStore 1
-vless://f7a94052-c97e-413a-b45d-33464dbadd5e@37.152.187.201:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=algorithmmarket.ir#telegram @mtmvpn
