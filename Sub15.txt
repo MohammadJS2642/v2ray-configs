@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@error.horluma.ir:5039?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=chrome&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&sid=57c62818ab48e647#🇸🇪SE-🚀@VPNine1
 vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@log.horluma.ir:5039?security=reality&type=tcp&headerType=&path=&host=&sni=www.yahoo.com&fp=chrome&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&sid=57c62818ab48e647#🇹🇷TR-🚀@VPNine1
 vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@portal.horluma.ir:21289?security=none&type=tcp&headerType=none&path=&host=#🇩🇪DE-🚀@VPNine1
 vless://d8f03a63-5f7f-4ee7-b19c-1adc9efc118a@portal.horluma.ir:42268?security=none&type=httpupgrade&headerType=&path=/&host=play.google.com#🇩🇪DE-🚀@VPNine1
@@ -253,3 +252,4 @@ vless://e966d5c7-d78b-475d-b53d-cf13e5acaef5@188.114.97.6:8443?encryption=none&s
 vless://e966d5c7-d78b-475d-b53d-cf13e5acaef5@188.114.97.6:8443?mode=auto&path=/Telegram@MGv2rayOfficial-Telegram@MGv2rayOfficial-Telegram@MGv2rayOfficial-Telegram@MGv2rayOfficial-Telegram@MGv2rayOfficial-Telegram@MGv2rayOfficial-Telegram@MGv2rayOfficial?ed=1024&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=api.mgvip.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api.mgvip.ir#🇨🇦@FreakConfig
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#[Kia_Net] 🇱🇻 LV-16
 vless://e9d6b936-5164-40a0-9279-4b588ae1e29a@tamam-1.conf-tun.site:44441?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#Telegram : @V2ynpv
+vless://e9fb98e3-28bd-4ee4-962f-195c4f6354a0@188.114.97.6:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=parstoday.com.iribnews.ir.donya-e-eqtesad.com.alef.ir.donya-e-eqtesad.com.iribnews.ir.farsnews.ir&allowInsecure=0&sni=eARlY-maTErIAl37F06AQWD6.SaMsUNGovENS.iR#TEL;Father_vpn
