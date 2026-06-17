@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@Leecher56
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@bored_vpn
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@confiig_hub
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
@@ -253,3 +252,4 @@ vless://cfe007e3-f264-4403-b834-70d82e26cade@94.125.102.111:7443?security=realit
 vless://d00ef066-1c2b-4af9-8795-7c998572d13f@188.114.97.6:2087?mode=auto&path=/media&security=tls&encryption=none&insecure=0&host=de.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#@hi_proxy_iran :👈کانال تلگرام
 vless://d00ef066-1c2b-4af9-8795-7c998572d13f@45.130.125.20:2087?mode=auto&path=/media&security=tls&encryption=none&insecure=0&host=de.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#@hi_proxy_iran :👈کانال تلگرام
 vless://d028b9b3-6fe8-487f-8c3a-7a9ff2740dcb@135.84.67.77:2083?encryption=none&security=tls&sni=iran-zamin.space&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=iran-zamin.space&path=/us#@Daily_Configs
+vless://d038a743-467e-4293-8cf9-6ec4282c3372@216.24.57.1:8443?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.l4CHGxq5BlpiW8BYNoqwZtR_iIPKVcExmHVDbqpKXQo&insecure=0&host=salamasalmabacheha.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=salamasalmabacheha.dpdns.org#@V2ConfigPro

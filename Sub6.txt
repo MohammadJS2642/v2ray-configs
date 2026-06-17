@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://30316ea1-f79e-4cd6-a8b9-278141dbed1e@31.56.89.55:9093?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://30316ea1-f79e-4cd6-a8b9-278141dbed1e@31.56.89.55:9093?security=none&encryption=none&headerType=none&type=tcp#🇦🇪AE-🚀@VPNine1
 vless://30316ea1-f79e-4cd6-a8b9-278141dbed1e@31.56.89.55:9093?security=none&encryption=none&headerType=none&type=tcp#🇮🇷75832 | ⚡️Telegram = t.me/SOSkeyNET
 vless://304841b7-5d01-41fd-ab90-f7aaddbf1d50@213.176.121.101:2052?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#@VpnCostumer+|+بیا+تو+وصل+باش+💙
@@ -253,3 +252,4 @@ vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&enc
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 @GozargahVPN
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&host=@ProxyVPN11&headerType=none&type=tcp#TEL;Father_vpn
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&host=@ProxyVPN11&headerType=none&type=tcp#🇩🇪 @ProxyVPN11
+vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?encryption=none&host=bazaryabab.global.ssl.fastly.net&security=tls&sni=default.ssl.fastly.net&type=ws#🏟️19@oneclickvpnkeys

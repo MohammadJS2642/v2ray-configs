@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d038a743-467e-4293-8cf9-6ec4282c3372@216.24.57.1:8443?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.l4CHGxq5BlpiW8BYNoqwZtR_iIPKVcExmHVDbqpKXQo&insecure=0&host=salamasalmabacheha.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=salamasalmabacheha.dpdns.org#@V2ConfigPro
 vless://d038a743-467e-4293-8cf9-6ec4282c3372@91.107.173.251:8443?path=/&security=none&encryption=none&type=ws#@V2ConfigPro
 vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
 vless://d0df7edd-2208-45a1-8947-0b8da6ed9a9b@104.19.148.24:8880?encryption=none&security=none&type=xhttp&host=aa2b8d685208c4f5.us.cdnless.com&path=/&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#@Daily_Configs
@@ -253,3 +252,4 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&h
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#2🫐@oneclickvpnkeys
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.60.231:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🫐74@oneclickvpnkeys
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🫐79@oneclickvpnkeys
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?path=/&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@FarazV2ray
