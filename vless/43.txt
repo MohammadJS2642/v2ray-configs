@@ -1,6 +1,3 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443/?type=tcp&encryption=none&flow=&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?allowInsecure=1&encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.235.74:8443?encryption=none&security=tls&sni=tlv-il.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIL
 vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.245.5:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?encryption=none&security=tls&sni=yyz-ca-01.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACA
 vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%3E%3E%40configshub2%3A%3AJP
@@ -98,3 +95,6 @@ vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443/?Telegram=@Gozarg
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.37:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.204:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.39:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-25.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIN

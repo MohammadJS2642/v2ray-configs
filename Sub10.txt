@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://835989bc-f82c-4ae5-93d8-77bcb63105b3@31.56.117.211:443?path=/ws&security=&encryption=none&host=31.56.117.211&type=ws#@ReleaseNet
-vless://835989bc-f82c-4ae5-93d8-77bcb63105b3@31.56.117.211:443?path=/ws&security=none&encryption=none&host=31.56.117.211&type=ws#🇱🇻[kia_net] vless-LV
 vless://835dca30-9ea8-459b-addb-3f5464a23c14@shop.hyby.ir:8443?security=tls&encryption=none&insecure=0&host=www.hyby.ir&type=ws&allowInsecure=0&sni=www.hyby.ir#@hi_proxy_iran :👈کانال تلگرام
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🇨🇳 @FREE_VPN02
 vless://8389483a-5064-4b9a-d577-59add9ee927c@5.61.24.228:58864?path=/rocketnet&security=none&encryption=none&headerType=none&type=ws&quicSecurity=none#@v2rayconfigamir 4294
@@ -253,3 +251,5 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc#@outline_ir
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc#🦁Tel: @Proxy_Vpney (2)
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@FarazV2ray
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@ReleaseNet
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@FarazV2ray

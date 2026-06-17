@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d00ef066-1c2b-4af9-8795-7c998572d13f@45.130.125.20:2087?mode=auto&path=/media&security=tls&encryption=none&insecure=0&host=de.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#@hi_proxy_iran :👈کانال تلگرام
-vless://d028b9b3-6fe8-487f-8c3a-7a9ff2740dcb@135.84.67.77:2083?encryption=none&security=tls&sni=iran-zamin.space&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=iran-zamin.space&path=/us#@Daily_Configs
 vless://d038a743-467e-4293-8cf9-6ec4282c3372@216.24.57.1:8443?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.l4CHGxq5BlpiW8BYNoqwZtR_iIPKVcExmHVDbqpKXQo&insecure=0&host=salamasalmabacheha.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=salamasalmabacheha.dpdns.org#@V2ConfigPro
 vless://d038a743-467e-4293-8cf9-6ec4282c3372@91.107.173.251:8443?path=/&security=none&encryption=none&type=ws#@V2ConfigPro
 vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
@@ -253,3 +251,5 @@ vless://e53d3c58-c143-4d33-824c-4e3f1ef3b655@104.17.147.22:80?path=/@Vpn_Mikey،
 vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=33f2#@iguanaVPN [4]
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#2🫐@oneclickvpnkeys
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.60.231:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🫐74@oneclickvpnkeys
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🫐79@oneclickvpnkeys
