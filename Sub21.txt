@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://65fQmPHHbPcBCfvSHt@au-4.tr202605.com:443?#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?sni=ch.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%ADCH%E7%91%9E%E5%A3%AB
-trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.125.63:6357?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.125.63:29642?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://BxceQaOe@18.162.213.254:41889?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
 trojan://BxceQaOe@18.163.84.233:9149?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
@@ -27,8 +24,6 @@ trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?sni=yazhou10.dynu.net#%E6%9C%AA%E7
 trojan://BxceQaOe@95.40.68.150:2702?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14
 trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.107.157:17005?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD15
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34436?sni=hh4.sonofthewinds.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
-trojan://telegram-id-privatevpns@63.176.115.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-directvpn@63.184.57.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
 trojan://0ab59a11983d4ce7862d156c164d927d@188.114.96.3:443?path=/eyJqdW5rIjoicFlpMlNNRHl3bkdYOSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=faST-RoUtE-dd4E2D.FrEefiRemO7964.WoRkeRs.dEV&fp=chrome&type=ws&allowInsecure=0&sni=fasT-ROute-dd4e2D.fREEfIremo7964.WoRKerS.dev#@filembad
 trojan://0ab59a11983d4ce7862d156c164d927d@188.114.96.3:443?path=/eyJqdW5rIjoicFlpMlNNRHl3bkdYOSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=faST-RoUtE-dd4E2D.FrEefiRemO7964.WoRkeRs.dEV&fp=chrome&type=ws&allowInsecure=0&sni=fasT-ROute-dd4e2D.fREEfIremo7964.WoRKerS.dev#🇨🇦74750 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +248,8 @@ trojan://humanity@188.114.98.0:443?security=tls&sni=www.multiplydose.com&fp=chro
 trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 🇺🇸
 trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hopev2ray🩵
 trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#عضو باش تا قطع نشی -https://t.me/fastkanfig
+trojan://humanity@208.103.161.170:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#برای اتصال دائمی جوین شو⛩️ TelegramID ⌲Express_freevpn 🪩
+trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#🇦🇹 اتریش | https://t.me/FREECONFIGSPLUS ✨
+trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@RzChanel1
+trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#@prrofile_purple  ♥️👈 تلگرام
