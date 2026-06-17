@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=#@SheriffNet
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2#@SheriffNet
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=1&allowInsecure=1&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@APPXA#@SheriffNet
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇬🇧 @EXPRESSVPN_420 رایگان
@@ -253,3 +252,4 @@ vless://74dd2117-47d5-4e0f-b9fa-d83e4f6ffd5d@91.107.166.66:44728?type=tcp&encryp
 vless://750b1fd0-fcd7-48bf-a7b6-92cbbda1b502@172.67.220.1:2053?path=/onfkjsnkdlvmd&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=kish.arshia-nova.ir&fp=chrome&type=ws&allowInsecure=0&sni=kish.arshia-nova.ir#@ansooyefilter
 vless://750b1fd0-fcd7-48bf-a7b6-92cbbda1b502@ansooyefilter.qeshmdiyar.ir:2053?path=/rdtchvjghvydstraeerst&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=assets.qeshmdiyar.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=assets.qeshmdiyar.ir#@ansooyefilter
 vless://750b1fd0-fcd7-48bf-a7b6-92cbbda1b502@ansooyefilter.yonesyasin.ir:2053?path=/rdtchvjghvydstraeerst&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=channel.yonesyasin.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.yonesyasin.ir#@ansooyefilter🇩🇪
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪@FreakConfig

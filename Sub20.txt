@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.77:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.83:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@185.229.190.245:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40configshub2%3A%3AXX
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.124:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -253,3 +252,4 @@ trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310?sni=vpn1.rnmcnm.com#%F0%9
 trojan://65fQmPHHbPcBCfvSHt@au-4.tr202605.com:443?#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?sni=ch.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%ADCH%E7%91%9E%E5%A3%AB
 trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.125.63:6357?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.125.63:29642?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13

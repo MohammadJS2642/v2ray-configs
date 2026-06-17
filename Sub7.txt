@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.119:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁶
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.121:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆³
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.86:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁷
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.96:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁸
@@ -253,3 +252,4 @@ vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=rea
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#🇳🇱@FreakConfig
 vless://4c7baf58-8ecb-44b0-9656-2b9247dd8290@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=Fijji.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#@hopev2ray❤️
+vless://4c7baf58-8ecb-44b0-9656-2b9247dd8290@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=Fijji.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#@hopev2ray💛
