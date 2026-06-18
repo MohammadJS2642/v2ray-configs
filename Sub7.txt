@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3face59d-a711-4999-9c69-7e48e2c6ed77@91.107.185.59:44728?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&sid=dbb6ea0b&spx=/&type=tcp&headerType=none#Channel : @Daily_Configs
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#floor 555
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@brayirani •☕ | عضو شید قطع نشید.
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
@@ -253,3 +251,5 @@ vless://54a54ea0-4409-4030-ad9b-44c45849c05a@45.67.136.184:7443?security=reality
 vless://54a83fbb-c966-4bb2-bed6-a808b2fc3913@104.24.168.54:443?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=de1.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
 vless://54a83fbb-c966-4bb2-bed6-a808b2fc3913@de1.gamelistak.com:443?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=de1.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
 vless://54a83fbb-c966-4bb2-bed6-a808b2fc3913@www.chatgpt.com:443?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=de1.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
+vless://54c91154-0559-4c48-923b-3872a77be226@104.21.74.112:443?path=/&security=tls&encryption=none&insecure=0&host=ez-9ef1b7.ezaccess1ad2f86.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9ef1b7.ezaccess1ad2f86.workers.dev#telegram @mtmvpn
+vless://54c91154-0559-4c48-923b-3872a77be226@172.67.157.237:443?path=/&security=tls&encryption=none&insecure=0&host=ez-9ef1b7.ezaccess1ad2f86.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9ef1b7.ezaccess1ad2f86.workers.dev#telegram @mtmvpn
