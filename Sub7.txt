@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?path=/&security=tls&encryption=none&host=bazaryabab.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#@outline_ir
+vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@NewsDarya
 vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@vmesskhodam
 vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇩🇪@EXPRESSVPN_420 | All1
 vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇺🇸76153 | ⚡️Telegram = t.me/SOSkeyNET
@@ -251,5 +253,3 @@ vless://53146906-5cb5-4332-ac19-d4822762b1cd@euro.connectingissues.ir:80?mode=au
 vless://53146906-5cb5-4332-ac19-d4822762b1cd@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#@bored_vpn
 vless://53146906-5cb5-4332-ac19-d4822762b1cd@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#@icv2ray
 vless://53146906-5cb5-4332-ac19-d4822762b1cd@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#telegram @mtmvpn
-vless://53146906-5cb5-4332-ac19-d4822762b1cd@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#⚡@V2ray_official
-vless://53146906-5cb5-4332-ac19-d4822762b1cd@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#telegram @mtmvpn
