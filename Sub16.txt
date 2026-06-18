@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e8c61352-444f-4154-ba34-9d3141154a8d@162.159.253.41:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@ai_duet عضو باشید
-vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@ai_duet
-vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@tanhanet
-vless://e8d4b024-968d-478d-a201-a862958ec69a@188.121.111.137:443?security=&encryption=none&headerType=&type=tcp#🇮🇷IR-🚀@VPNine1
-vless://e900f40a-6b89-4963-927f-a1f9a138270d@ista.yellowsky.ir:8084?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷| @v2raybaaz
-vless://e900f40a-6b89-4963-927f-a1f9a138270d@oman.yellowsky.ir:8084?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇴🇲| @v2raybaaz
-vless://e900f40a-6b89-4963-927f-a1f9a138270d@suolar.yellowsky.ir:2053?mode=auto&path=?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=ashburn.appleseraj.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=ashburn.appleseraj.ir#🇺🇸| @v2raybaaz
 vless://e900f40a-6b89-4963-927f-a1f9a138270d@suolar.yellowsky.ir:2053?mode=auto&path=?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=belgho.appleseraj.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=belgho.appleseraj.ir#🇨🇭| @v2raybaaz
 vless://e900f40a-6b89-4963-927f-a1f9a138270d@suolar.yellowsky.ir:2053?mode=auto&path=?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=bulghari.appleseraj.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=bulghari.appleseraj.ir#🇧🇬| @v2raybaaz
 vless://e900f40a-6b89-4963-927f-a1f9a138270d@suolar.yellowsky.ir:2053?mode=auto&path=?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=camanda.appleseraj.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=camanda.appleseraj.ir#🇱🇹| @v2raybaaz
@@ -253,3 +246,10 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.1:443?path=/tsghdws&secur
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&insecure=0&allowInsecure=0#@hi_proxy_iran :👈کانال تلگرام
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#@appsooner کانال تلگرام 🕊️
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#@FREE_VPN02
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#⚡@V2ray_official
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#@FREE_VPN02
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#⚡@V2ray_official
+vless://fce343d5-188f-4a5a-a508-830f39090909@blubank.ir:80?path=/&security=none&encryption=none&host=s3.tehranionliine.ir&type=ws#🏳️ Join+Telegram:@Farah_VPN 🏳️
+vless://fd10b5bd-cc2d-4de6-b4c4-03abcd79bd7e@31.56.89.53:9092?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
+vless://fd1df366-31db-4ac1-87e1-b55cd025c74a@57.129.117.234:14501?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
+vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁷⁹
