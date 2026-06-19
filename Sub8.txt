@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=fi.dns.xn--q9jyb4c&fp=chrome&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#@V2dogs_n
+vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=fi.dns.xn--q9jyb4c&fp=chrome&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#@erfanandroid
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=fi.dns.xn--q9jyb4c&fp=chrome&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#Lumosconfig
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cloud.dns.xn--q9jyb4c&fp=chrome&type=xhttp&allowInsecure=0&sni=cloud.dns.xn--q9jyb4c#@v2raybaaz ⁴
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@8.6.112.121:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=fi.dns.xn--q9jyb4c&fp=chrome&type=xhttp&allowInsecure=0&sni=ProxyVPN11.dns.xn--q9jyb4c#🇫🇮 @ProxyVPN11
@@ -251,5 +253,3 @@ vless://31436faa-6794-46c6-82d4-09b0a95eae78@fr.mail-appstatus.net:23356?mode=gu
 vless://31436faa-6794-46c6-82d4-09b0a95eae78@pl.mail-appstatus.net:23356?mode=gun&security=reality&encryption=none&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&fp=chrome&type=grpc&serviceName=api&sni=apple.com&sid=483d116ad48a4091#⚫ 43 • @spotfyhits ❤
 vless://31436faa-6794-46c6-82d4-09b0a95eae78@uk.mail-appstatus.net:23356?mode=gun&security=reality&encryption=none&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&fp=chrome&type=grpc&serviceName=api&sni=apple.com&sid=483d116ad48a4091#⚫ 40 • @spotfyhits ❤
 vless://31445bd8-5cfb-4fc4-899f-216cbc119bd4@panel.dibaux.ir:80?encryption=none&security=none&type=ws&path=/stream#🇳🇱 NL
-vless://3147e3bf-23bb-402f-8b41-19a6df19438e@del.fattsh8.ir:29113?security=reality&encryption=none&pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&headerType=&fp=chrome&spx=/&type=tcp&sni=aws.amazon.com&sid=2641062b76c9#@icv2ray
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#@CUSTOMVPNSERVER

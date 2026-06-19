@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bf890d66-0c47-4e62-a22f-05af3a2a6b51@209.38.196.100:16150?security=&encryption=none&headerType=none&type=tcp#Channel id: @ShadowProxy66 🇩🇪
+vless://bf8fb0b8-affc-42f3-9e82-f9a821066de1@188.94.156.216:443?security=reality&encryption=none&pbk=cEKfInbAE2ZWB3RH-MYQiIfA2aAPO6wZT_TNCPgh7TE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=kz-ala-1.blook.network&sid=85b45f16#Channel id: @ShadowProxy66 🇰🇿
 vless://bfb2be9b-3b9c-a215-6be9-78f9ec83b93a@172.65.132.152:3389?security=none&encryption=none&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://bfccdd5a-824b-4fe8-8163-9ab81c7bc0a4@SnaPp.ir:2082?path=/&security=none&encryption=none&host=aLiReza.mobilesubasa.com&type=ws#@konfig_zub
 vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@95.182.89.218:23356?security=reality&sni=apple.com&type=grpc&serviceName=api&fp=chrome&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091&allowInsecure=1#@v2rayconfigamir 4649
@@ -251,5 +253,3 @@ vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?encryption=none&f
 vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nlxeon41x611.potatosubge20.org#@outline_ir
 vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nlxeon41x611.potatosubge20.org#@meliproxyy
 vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nlxeon41x611.potatosubge20.org#[🇳🇱]t.me/Kia_Net
-vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nlxeon41x611.potatosubge20.org#[🇳🇱]t.me/vmessorg
-vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nlxeon41x611.potatosubge20.org#@V2dogs_n 🇫🇷
