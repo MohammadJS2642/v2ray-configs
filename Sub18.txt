@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ccdce320-7eef-4815-8edb-c599987c2279@5.254.14.169:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn9-40.yahoo.com&sid=0dc0ced5bf4f756c#@FREE_VPN02
-vless://ccdce320-7eef-4815-8edb-c599987c2279@5.254.14.169:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn9-40.yahoo.com&sid=0dc0ced5bf4f756c#⚡@V2ray_official
-vless://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650?encryption=none&type=tcp&headerType=none#kurdconfig
-vless://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650?security=&encryption=none&headerType=none&type=tcp#@bored_vpn
-vless://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650?security=&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
 vless://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
 vless://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650?security=none&encryption=none&headerType=none&type=tcp#@TEHRANARGO
 vless://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650?security=none&encryption=none&headerType=none&type=tcp#@V2raySup0〽️
@@ -253,3 +248,8 @@ vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/@v2rayNplus@v2rayNplus@v2rayNplus@v2rayNplus@v2rayNplus@v2rayNplus&type=xhttp&sni=www.google.com&sid=44#https://t.me/v2rayNplus |🇹🇷
 vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?security=reality&encryption=none&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&headerType=none&type=tcp&sni=www.icloud.com&sid=90#@FarazV2ray
 vless://de8f907c-53cc-40da-b9eb-87775b31258e@185.143.233.222:8080?path=/&security=&encryption=none&host=free.tradepal.ir&type=ws#@Leecher56
+vless://de8f907c-53cc-40da-b9eb-87775b31258e@185.143.233.222:8080?path=/&security=&encryption=none&host=free.tradepal.ir&type=ws#@bored_vpn
+vless://de92dc6a-4eed-4888-9077-1fc006ad339d@sy2.syragame.com:443?type=xhttp&host=sy.syragame.com&path=/&mode=auto&security=tls&sni=sy.syragame.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@CxrolVPN
+vless://ded3638e-ab7f-4ff8-bc60-9fc6666cff22@87.120.126.228:443?encryption=none&fp=&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&security=reality&serviceName=gun&sid=3fa234ea9feaa048&sni=opensuse.ubuntuhosting.host&type=grpc#🧢89@oneclickvpnkeys
+vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80?path=/&security=none&encryption=none&host=vl.dalazhi.cloudns.biz&type=ws#🔵@chillguy_vpn
+vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80?path=/&security=none&encryption=none&host=vl.dalazhi.cloudns.biz&type=ws#🚀@VPNine1
