@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.169.50.3:443?security=reality&encryption=none&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&headerType=none&fp=firefox&spx=%2Fis7UqNeUm5nh8rQ&type=tcp&sni=play.google.com&sid=ed41#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20170ms
 vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.179.72.159:443?security=reality&encryption=none&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&headerType=none&fp=firefox&spx=%2Fis7UqNeUm5nh8rQ&type=tcp&sni=play.google.com&sid=ed41#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20170ms
 vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.255.197.6:443?security=reality&encryption=none&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&headerType=none&fp=firefox&spx=%2Fis7UqNeUm5nh8rQ&type=tcp&sni=play.google.com&sid=ed41#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20169ms
 vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@56.10.7.195:443?security=reality&encryption=none&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&headerType=none&fp=firefox&spx=%2Fis7UqNeUm5nh8rQ&type=tcp&sni=play.google.com&sid=ed41#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20169ms
@@ -253,3 +252,4 @@ vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality
 vless://098ad71d-c5f1-4e61-8df8-d3d21b6fc311@panel.hardvezoo.ir:2476?security=reality&encryption=none&pbk=vZIClKI7vhhV82hKZyiAdyoamDlOjz4zqwqmuR_1J3w&headerType=none&fp=chrome&type=tcp&sni=panel.hardvezoo.ir&sid=a713eda9121635c2#⚡@V2ray_official
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?flow=xtls-rprx-vision&fp=chrome&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp👉🆔freenettir📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:53ms
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?security=reality&encryption=none&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=b9988c11#🇳🇱NL-🚀@VPNine1
+vless://09c03941-dc9e-4080-8f08-c5e1781adc67@172.67.220.1:8443?encryption=none&security=tls&sni=new2.arshia-nova.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=new2.arshia-nova.ir&path=/api/v2/stream#Channel : @Daily_Configs

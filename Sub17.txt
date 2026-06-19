@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b0af1bed-2c43-440c-90bc-4f737fb037ec@biato.sayevpni.store:443?path=/SayeVPNi&security=tls&encryption=none&insecure=0&host=biato.sayevpni.store&type=ws&allowInsecure=0#30🐝Tel--@V2rayAlpha
 vless://b0af1bed-2c43-440c-90bc-4f737fb037ec@biato.sayevpni.store:443?path=/SayeVPNi&security=tls&encryption=none&insecure=0&host=biato.sayevpni.store&type=ws&allowInsecure=0#@meliproxyy
 vless://b1652445-fcee-4746-aa2b-8900265338c9@130.49.129.179:56293?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁸⁴
 vless://b1734ae1-1ea4-480a-aec8-10442e09b046@46.225.254.233:443?encryption=none&fp=&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&security=reality&sid=a796a1f52722b3a5&sni=play.google.com&type=tcp#🧢68@oneclickvpnkeys
@@ -253,3 +252,4 @@ vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=no
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@CUSTOMVPNSERVER
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#⚡Telegram =@CUSTOMVPNSERVER
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)
+vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)  ایرانسل:
