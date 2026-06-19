@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5c1f0a4f-bec9-4191-ad50-22dc05b13074@dnn6.avaaaal.ir:2087?path=/720f09dba195549b425g771551162528/workers/services7/view7/Avaal7/production7/settings&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=aaaa5.avaaal.ir&fp=chrome&type=ws&allowInsecure=0&sni=aaaa5.avaaal.ir#telegram @mtmvpn
+vless://5c73671a-a773-4d11-8fe8-155c77d18cb1@du.mobileemdad.top:42542?security=none&encryption=none&host=du.mobileemdad.top&headerType=http&type=tcp#@TEHRANARGO
 vless://5cc4700c-1383-439d-8be2-590deaa5aec6@201.51.20.76:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HQKHvE_jMTB_Lt5fAAWP_bWS0iwKVnTg0qak_67N_DA&security=reality&sid=0e7e4a08&sni=dl.google.com&type=tcp#🧢28@oneclickvpnkeys
 vless://5cc4700c-1383-439d-8be2-590deaa5aec6@201.51.20.76:2083?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HQKHvE_jMTB_Lt5fAAWP_bWS0iwKVnTg0qak_67N_DA&security=reality&sid=0e7e4a08&sni=dl.google.com&type=tcp#@Ap_Ir6
 vless://5cc4700c-1383-439d-8be2-590deaa5aec6@201.51.20.76:2083?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HQKHvE_jMTB_Lt5fAAWP_bWS0iwKVnTg0qak_67N_DA&security=reality&sid=0e7e4a08&sni=dl.google.com&type=tcp#🧢20@oneclickvpnkeys
@@ -251,5 +253,3 @@ vless://76a556ba-cec0-4323-81d4-546ea40a360c@em.iratom.com:443?path=/atom88?ed=2
 vless://76a556ba-cec0-4323-81d4-546ea40a360c@em.iratom.com:443?path=/atom88?ed=2560&security=tls&encryption=none&insecure=0&host=atom1.appleidcity.com&type=ws&allowInsecure=0&sni=atom1.appleidcity.com#@TEHRANARGO
 vless://76a556ba-cec0-4323-81d4-546ea40a360c@em.iratom.com:443?path=/atom88?ed=2560&security=tls&encryption=none&insecure=0&host=atom1.appleidcity.com&type=ws&allowInsecure=0&sni=atom1.appleidcity.com#@configprxy
 vless://76a556ba-cec0-4323-81d4-546ea40a360c@em.iratom.com:443?path=/atom88?ed=2560&security=tls&encryption=none&insecure=0&host=atom1.appleidcity.com&type=ws&allowInsecure=0&sni=atom1.appleidcity.com#@vmesskhodam
-vless://76a556ba-cec0-4323-81d4-546ea40a360c@ir.iratom.com:443?path=/atom10?ed=2560&security=tls&encryption=none&insecure=0&host=d2.iratom.com&type=ws&allowInsecure=0&sni=d2.iratom.com#@Ap_Ir6
-vless://76a556ba-cec0-4323-81d4-546ea40a360c@ir.iratom.com:443?path=/atom10?ed=2560&security=tls&encryption=none&insecure=0&host=d2.iratom.com&type=ws&allowInsecure=0&sni=d2.iratom.com#@vmesskhodam

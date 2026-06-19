@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv5.yunus.guru:443?security=reality&encryption=none&pbk=E56UL8pvnV6FNSPmv_Q9AZnSgHZpjOm-jrLyOEKwO0Q&headerType=&type=tcp&flow=xtls-rprx-vision&sni=&sid=399a4569c48e12e6#@v2reya88
+vless://c27538ca-d170-4182-87e5-aee87c8a0c4a@188.114.97.6:443?encryption=none&host=small-voice-c4c5.itsnewrzan.workers.dev&path=%2Fproxyip%3D40.233.87.120&security=tls&sni=small-voice-c4c5.itsnewrzan.workers.dev&type=ws#%F0%9F%8F%9F%EF%B8%8F36@NetFlowTools
+vless://039a1658-e86e-475f-a3a4-67cc249acada@46.8.98.55:443?security=reality&encryption=none&pbk=MFuAxjdSnjCk_8Vi_-KGyWryFfSmm902nVhACDSIzBw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us1.panel11.ru&sid=d9d688fc488ae13b#@v2reya88
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#@v2reya88
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=%2F%3Fed%3D3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#🔵@chillguy_vpn
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.149.54:80?path=%2F%3Fed%3D3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#🔵@chillguy_vpn
@@ -250,6 +253,3 @@ trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&in
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#@meliproxyy
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#Mix--@V2rayAlpha--9
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#NormanV2ray-40
-trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#Tel-@Alpha_V2rayip🫡 2
-trojan://MiTiVPN@188.114.97.6:443?path=index.php?mitivpn&security=tls&alpn=http/1.1&host=cdn.95r.ir&fp=chrome&type=ws&sni=cdn.95r.ir#@outline_ir
-trojan://MiTiVPN@188.114.97.6:443?path=index.php?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=cdn.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.95r.ir#4 @fastkanfig

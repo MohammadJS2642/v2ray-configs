@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d531c1ee-62a2-49d6-9f94-b6005f8b2dac@162.55.98.167:8080?mode=auto&path=/mediaprocessing&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=EuZnNlT9zkzoHD04YffK0HpKnjPVpEGuEOXrNJPiQWs&fp=chrome&spx=/favicon.ico&type=xhttp&sni=www.yahoo.com&sid=79efe4#@FarazV2ray
+vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=/&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#@ReleaseNet
 vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=/&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#@meliproxyy
 vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=/&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#https://t.me/v2rayNplus |🇮🇷🇩🇪
 vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=/&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#🔵@chillguy_vpn
@@ -251,5 +253,3 @@ vless://eba407c9-7c1f-477e-977c-ba5ed81a763a@188.114.97.6:443?path=/?ed=2048&sec
 vless://ec015d59-fa78-4a41-9357-2c94f3a88a74@104.17.121.224:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
 vless://ec015d59-fa78-4a41-9357-2c94f3a88a74@104.17.121.226:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
 vless://ec015d59-fa78-4a41-9357-2c94f3a88a74@104.17.121.227:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
-vless://ec015d59-fa78-4a41-9357-2c94f3a88a74@104.17.121.230:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
-vless://ec015d59-fa78-4a41-9357-2c94f3a88a74@104.17.121.231:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
