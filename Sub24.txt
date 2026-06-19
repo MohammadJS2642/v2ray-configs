@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://%{q:qf}'ogr;@www.speedtest.net:443?path=/eyJqdW5rIjoieDVyTzlGQktZZUJjIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=lumosconfig.codmdemonyt1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=lumOSCONfiG.coDmDemoNYt1.WOrkerS.DEv#@Ap_Ir6
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
 trojan://0e681470-6845-11f1-8364-1239d0255272@news.microsoft.com:443?path=/howdy&security=tls&insecure=0&host=usa.test3.net&type=ws&allowInsecure=0&sni=usa.test3.net#@prrofile_purple  ♥️👈 تلگرام
 trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#@KAFING_2
@@ -252,4 +253,3 @@ trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0
 trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@104.19.208.184:443?host=www.multiplydose.com&path=//assignment&sni=www.multiplydose.com&type=ws#✈️14@oneclickvpnkeys
 trojan://humanity@104.19.208.184:443?host=www.multiplydose.com&path=//assignment&sni=www.multiplydose.com&type=ws#🚀@VPNine1
-trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@Maznet -SOS468

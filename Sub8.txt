@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@developers.cloudflare.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Lumosconfig
-vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@files.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Ap_Ir6
-vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@files.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Lumosconfig
-vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@files.udemy.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Ap_Ir6
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@files.udemy.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Lumosconfig
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@js.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Ap_Ir6
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@js.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Lumosconfig
@@ -253,3 +249,7 @@ vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@v2.medium.com:443?type=ws&encryptio
 vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@v2.udemy.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
 vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@www.canva.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
 vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@www.fiverr.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
+vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@www.medium.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
+vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@www.npmjs.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
+vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@www.workers.dev:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
+vless://2b127cd7-6117-46c7-8efc-f69dc003b206@45.130.125.158:443?encryption=none&security=tls&sni=mahsa94.manhamunamkeyeruz.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=mahsa94.manhamunamkeyeruz.ir&path=/sSJ124xs/sd&mode=auto#🇸🇨SC_604_@Surfboardv2ray
