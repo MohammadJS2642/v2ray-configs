@@ -1,5 +1,3 @@
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%3E%3E%40configV2rayNG%3A%3AXX
 vless://12cb0a24-0438-4980-8617-9c93205895fa@216.24.57.6:8443?encryption=none&fp=chrome&host=kakoolnews.dontstealkakoolnews.workers.dev&path=%2F&security=tls&sni=kakoolnews.dontstealkakoolnews.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://14fcbcd4-2c96-4c30-b3ca-2e87ea8918d7@188.114.97.6:80?path=%2Fws-vlees&security=&encryption=none&host=app3.app-all-ccoo.com&type=ws#%3E%3E%40shadowproxy66%3A%3ADE
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
@@ -98,3 +96,5 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?encryption=none&s
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?encryption=none&fp=chrome&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3ATR
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3ATR
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.120:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3ARO
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARO

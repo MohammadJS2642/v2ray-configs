@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@194.87.31.22:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-FQM2tUbpiBjwjgla2mwkSkFhFIKQU0FQOvRi0ZD_mY&security=reality&sid=540f5784c2481b5a&sni=mishaduck.duckdns.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.45:2083?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=wk1.f1w.de5.net&path=%2F&security=tls&sni=wk1.f1w.de5.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -252,4 +253,3 @@ trojan://humanity@199.181.197.212:443?sni=www.calmloud.com#%F0%9F%87%BA%F0%9F%87
 trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34436?sni=hh4.sonofthewinds.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF4
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:45619?sni=fr.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13
-trojan://humanity@104.16.71.213:443?sni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14
