@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3805c64a-ac60-49ad-883c-43e6309b68d0@65.21.109.91:80?encryption=none&security=none&type=ws&host=speedtest.com&path=/notbin#🔵@chillguy_vpn
-vless://38152672-e48f-4115-9dfe-1bedf1a0f82f@64.176.72.154:443?encryption=none&security=none&type=tcp&headerType=none#روز اول سینه زیربغل
 vless://382874cf-38f0-48a2-a1ca-592710b006fc@140.248.185.253:443?allowInsecure=1&encryption=none&host=bazaryabab.global.ssl.fastly.net&path=/&security=tls&sni=default.ssl.fastly.net👉🆔freenettir📡🇺🇸®️United+States©️San+Francisco🅿️ping:52.85ms&type=ws#🧢90@NetFlowTools
 vless://38652492-c1ac-43de-b152-789e3b20f7aa@91.107.185.59:44728?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&sid=dbb6ea0b&spx=/&type=tcp&headerType=none#Channel : @Daily_Configs
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#@Evay_vpn
@@ -253,3 +251,5 @@ vless://42498710-0479-4a04-ab89-a367669b982b@172.67.158.60:443?path=/eyJqdW5rIjo
 vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#IR-@V2rayAlpha-14
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (3)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)

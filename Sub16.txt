@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9f2ecebe-3a52-460e-80ac-74a21fffdaf7@sourceforge.net:2087?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=nameless-band-227d.shampooooo.workers.dev&fp=chrome&type=ws&sni=nameless-band-227d.shampooooo.workers.dev#🇩🇪 @V2ngFast
-vless://@IR_NETLIFY@194.59.183.234:666?type=tcp&encryption=none&security=none#@IR_NETLIFY
 vless://@IR_NETLIFY@89.22.236.213:666?type=tcp&encryption=none&security=none#@IR_NETLIFY
 vless://@Net2ray@47.250.195.135:20393?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#@v2rayconfigamir 9412
 vless://@Net2ray@47.250.195.219:23063?security=none&encryption=none&headerType=none&type=tcp#Channel id: @internet_azad_2026 🇲🇾
@@ -253,3 +251,5 @@ vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&s
 vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇮🇷 - IR - @FreeOnlineVPN
 vless://adc476f9-fc85-e10e-741e-4910cc547c1d@167.82.101.210:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdnfasts.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#18🐝Tel--@V2rayAlpha
 vless://adc476f9-fc85-e10e-741e-4910cc547c1d@167.82.101.210:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdnfasts.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#@meliproxyy
+vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=2418ed47b875e923#@FREE_VPN02
+vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=2418ed47b875e923#[🇹🇷]t.me@vmessorg
