@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2cc64cad-1a77-4a40-8d98-3834a95d0a44@65.109.189.154:2052?security=none&encryption=none&host=/@Net2ray&headerType=none&type=tcp#🧡 @Net2ray
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?path=/tg@zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram
 vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:2096?path=/v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet&security=tls&encryption=none&host=nhjydtgd454.manijippqw.workers.dev&fp=chrome&type=ws&sni=nhjydtgd454.manijippqw.workers.dev#kurdconfig
 vless://2d11f9a7-5cb9-4a76-acbe-0064305b570a@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#🇩🇪@FREE_VPN02
@@ -252,4 +253,3 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&e
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#@bored_vpn
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#@v2rayNplus |The+Netherlands
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&fp=chrome&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🫐22@oneclickvpnkeys
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?alpn=http/1.1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#⏰8@oneclickvpnkeys
