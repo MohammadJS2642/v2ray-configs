@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b8f58a98-313c-6882-1c90-a01d46418eb5@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/b8f58a98-313c-6882-1c90-a01d46418eb5#95
-vless://b92c29c4-a667-493b-b93b-5433b08f670c@Mc3.azadbird.com:719?path=/api/v2/xtrnwqjbkr?ed&security=none&encryption=none&host=play.google.com&type=ws#[🇬🇧]t.me%vmessorg
 vless://b92c29c4-a667-493b-b93b-5433b08f670c@Mc3.azadbird.com:719?path=/api/v2/xtrnwqjbkr?ed&security=none&encryption=none&host=play.google.com&type=ws#[🇬🇧]t.me/Kia_Net
 vless://b9fa5a10-c8cd-453c-911b-3d6dad4a4aff@fn2-unlimited.q09.ir:1020?security=reality&encryption=none&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3fa2fdb7dce16b8b#https://t.me/v2raynplus |🇫🇮
 vless://b9fa5a10-c8cd-453c-911b-3d6dad4a4aff@fn2-unlimited.q09.ir:1020?security=reality&encryption=none&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3fa2fdb7dce16b8b#🔵@chillguy_vpn
@@ -253,3 +251,5 @@ vless://d038a743-467e-4293-8cf9-6ec4282c3372@216.24.57.1:8443?path=/&security=tl
 vless://d038a743-467e-4293-8cf9-6ec4282c3372@91.107.173.251:8443?path=/&security=none&encryption=none&type=ws#@V2ConfigPro
 vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@104.18.153.188:443?path=/sg-orcl&security=tls&encryption=none&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&sni=ads.ruangguru.com.cyylr.eu.cc#@routel1+🦋
 vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
+vless://d0d8bb53-9e85-4bb3-a6cb-d6a6d6e9b9f7@188.114.97.6:443?mode=auto&path=/myfamily&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=expriencelab.mightyfalcon.qzz.io&fp=chrome&type=xhttp&allowInsecure=0#34🐝Tel--@V2rayAlpha
+vless://d0d8bb53-9e85-4bb3-a6cb-d6a6d6e9b9f7@188.114.97.6:443?mode=auto&path=/myfamily&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=expriencelab.mightyfalcon.qzz.io&fp=chrome&type=xhttp&allowInsecure=0#@config_NG

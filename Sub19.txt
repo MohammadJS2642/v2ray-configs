@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d0d8bb53-9e85-4bb3-a6cb-d6a6d6e9b9f7@188.114.97.6:443?mode=auto&path=/myfamily&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=expriencelab.mightyfalcon.qzz.io&fp=chrome&type=xhttp&allowInsecure=0#34🐝Tel--@V2rayAlpha
-vless://d0d8bb53-9e85-4bb3-a6cb-d6a6d6e9b9f7@188.114.97.6:443?mode=auto&path=/myfamily&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=expriencelab.mightyfalcon.qzz.io&fp=chrome&type=xhttp&allowInsecure=0#@config_NG
 vless://d0d8bb53-9e85-4bb3-a6cb-d6a6d6e9b9f7@188.114.97.6:443?mode=auto&path=/myfamily&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=expriencelab.mightyfalcon.qzz.io&fp=chrome&type=xhttp&allowInsecure=0#@meliproxyy
 vless://d0d8bb53-9e85-4bb3-a6cb-d6a6d6e9b9f7@188.114.97.6:443?mode=auto&path=/myfamily&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=expriencelab.mightyfalcon.qzz.io&fp=chrome&type=xhttp&allowInsecure=0#Channel id: @ShadowProxy66 🇨🇦
 vless://d0df7edd-2208-45a1-8947-0b8da6ed9a9b@104.19.148.24:8880?encryption=none&security=none&type=xhttp&host=aa2b8d685208c4f5.us.cdnless.com&path=/&mode=auto&extra={"xmux":{"hKeepAlivePeriod":5}}#@Daily_Configs
@@ -253,3 +251,5 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&h
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=/fp&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@hopev2ray🩵
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.60.231:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🧢88@NetFlowTools
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🫐79@NetFlowTools
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=/fp&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@NetFlowTools
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=/fp&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@V2dogs_n
