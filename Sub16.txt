@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.64:443?path=/blue&security=tls&encryption=none&type=ws&sni=je.ylks01.eu.org#@Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.73:443?path=/blue&security=tls&encryption=none&type=ws&sni=ke.ylks.xyz#@Hope_Net-join-us-on-Telegram
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@144.31.4.220:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@prrofile_purple  ♥️👈 تلگرام
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@V2dogs_n
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@erfanandroid
@@ -253,3 +251,5 @@ vless://b311f4fb-8e83-40d7-0b91-ff94e5156e41@snapp.ir:2087?path=/BetForward&secu
 vless://b311f4fb-8e83-40d7-0b91-ff94e5156e41@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=cdn.qorilo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.qorilo.ir#telegram @mtmvpn
 vless://b34b42e4-b5a2-4bb8-a561-3310a9111bdb@135.125.185.76:8443?security=reality&encryption=none&pbk=L93pUmrIq1nz9Me5tE_tUNL1HmCG0cUVwdnjmP9hxhQ&headerType=none&fp=chrome&spx=/3RO2Oc8dKFYQOoq&type=tcp&flow=xtls-rprx-vision&sni=www.wolfssl.com&sid=6367828c9a95dd81#@configprxy
 vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2053?path=/&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#Darya-2053
+vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2083?path=/&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#Darya-2083
+vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2087?path=/&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#@ReleaseNet

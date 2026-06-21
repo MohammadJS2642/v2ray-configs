@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2083?path=/&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#Darya-2083
-vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2087?path=/&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#@ReleaseNet
 vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2087?path=/&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#@vmesskhodam
 vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2087?path=/&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#Darya-2087
 vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2096?path=/&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#@ReleaseNet
@@ -253,3 +251,5 @@ vless://c8a8dcf1-18aa-40e6-97d5-5dae9912e51b@65.109.219.2:4043?security=reality&
 vless://c8a8dcf1-18aa-40e6-97d5-5dae9912e51b@65.109.219.2:4043?security=reality&encryption=none&pbk=fZb2ML3bJWVeV7e2_pQ9RaHqB_kJBJr7dfx6yxXJCGI&headerType=none&fp=chrome&spx=/fbwsdGcmCKUzP7S&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=c05ff1c8e194#@NETMelliAnti
 vless://c8a8dcf1-18aa-40e6-97d5-5dae9912e51b@65.109.219.2:4043?security=reality&encryption=none&pbk=fZb2ML3bJWVeV7e2_pQ9RaHqB_kJBJr7dfx6yxXJCGI&headerType=none&fp=chrome&spx=/fbwsdGcmCKUzP7S&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=c05ff1c8e194#@meliproxyy
 vless://c8a8dcf1-18aa-40e6-97d5-5dae9912e51b@65.109.219.2:4043?security=reality&encryption=none&pbk=fZb2ML3bJWVeV7e2_pQ9RaHqB_kJBJr7dfx6yxXJCGI&headerType=none&fp=chrome&spx=/fbwsdGcmCKUzP7S&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=c05ff1c8e194#Tel--@V2rayAlpha--23
+vless://c9c7a2b1-caf7-4adb-a184-1f55573ecba0@snapp.ir:80?path=/&security=none&encryption=none&host=cactos.cactuscloud.ir&type=ws#@v2rayngzendegimamad🕊️
+vless://c9d13457-0578-4414-a830-f29244a6f711@201.51.1.108:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=G2WGTXVVeC2YzXaWI9gSHKjiNU3PEvN7QinuOPE1lDs&sid=132b&type=tcp&headerType=none#@Daily_Configs
