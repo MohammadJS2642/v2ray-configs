@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=cdn3-87.vk-cdnvideo.com#اگه میخوای قطع نشی جوین شو : @farsiproxy
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@fastkanfig 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#@outline_ir
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#@vmess_ir
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#@icv2ray
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Ai_DueT🌐
@@ -253,3 +249,7 @@ vless://TIGNAL-CRYPTO@151.101.129.57:80?mode=auto&path=/&security=none&encryptio
 vless://Tel-HqV2rayNG-HqV2rayNG@gkgjfjeifidjejfj.fars-daxter.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#hope of freedom - @anotherme_night
 vless://Tel-HqV2rayNG-HqV2rayNG@gkgjfjeifidjejfj.fars-daxter.ir:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#channel→@TEHRANARGO
 vless://Telegram : free_conf_iran@135.125.136.238:46989?security=none&encryption=none&headerType=none&type=tcp#Telegram : free_conf_iran 🇩🇪
+vless://Telegram-Parsashonam-12@188.114.97.6:443?encryption=none&security=tls&sni=p4r34m.hendevaneh.sbs&insecure=0&allowInsecure=0&type=xhttp&host=p4r34m.hendevaneh.sbs&path=/p4r34m&mode=auto&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🇨🇦CA_2302_@Surfboardv2ray
+vless://Telegram-Parsashonam-12@79.175.189.145:443?mode=auto&path=/p4r34m&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=p4r34m.hendevaneh.sbs&type=xhttp&allowInsecure=0&sni=p4r34m.hendevaneh.sbs#@Parsashonam
+vless://Telegram-Parsashonam-12@www.speedtest.net:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.limoo.blog&fp=chrome&type=ws&allowInsecure=0&sni=cdn.limoo.blog#@Parsashonam-8Jun
+vless://Telegram-Parsashonam-12@www.speedtest.net:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.limoo.blog&fp=chrome&type=ws&allowInsecure=0&sni=cdn.limoo.blog#@Parsashonam-8Jun برای خودم وصله، شما هم داشته باشید.💙
