@@ -1,4 +1,3 @@
-vless://e2647246-df60-4cf5-840a-c71c625e9a90@panel.renvaro.ir:8443?encryption=none&type=tcp&headerType=none#@configprxy
 vless://e2647246-df60-4cf5-840a-c71c625e9a90@panel.renvaro.ir:8443?encryption=none&type=tcp&headerType=none#@meliproxyy
 vless://e274d81c-6118-44cf-8864-06b3dc83e0c0@95.85.231.0:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=musicboss.eu&fp=chrome&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe&type=tcp&headerType=none#@meliproxyy
 vless://e274d81c-6118-44cf-8864-06b3dc83e0c0@95.85.231.0:443?encryption=none&type=tcp&security=reality&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=musicboss.eu&fp=chrome&insecure=1&allowInsecure=1&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe&flow=xtls-rprx-vision#@configprxy
@@ -98,3 +97,4 @@ vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@212.69.86.220:9443?security=reality
 vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@212.69.86.220:9443?security=reality&encryption=none&pbk=2MnLp2jBmP-bPYRHf3VY3wyGMwIYIAizXCB7UxgYVGc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=estonianode.dostupnet.ru&sid=7c16c340cde3ed39#🇫🇷 @rayhub_ir 0621-5
 vless://ec242fb6-faeb-4f34-afb8-3fbf80e527e3@130.49.179.128:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=data-sync&fp=chrome&sni=google.com&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d#🇷🇺RU-🚀@VPNine1
 vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@66.33.23.33:443?encryption=none&security=tls&type=grpc&host=r-production-260d.up.railway.app&serviceName=grpc&sni=r-production-260d.up.railway.app&fp=chrome&mode=gun#V2dogs_n
+vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@66.33.23.33:443?encryption=none&security=tls&type=httpupgrade&host=r-production-260d.up.railway.app&path=/hu&sni=r-production-260d.up.railway.app&fp=chrome#V2dogs_n
