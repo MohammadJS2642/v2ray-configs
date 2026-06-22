@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#🆔v2ray_vpn_ir%20🔒%20VL-TCP-N/A%20❔%20XX%2093ms
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#🆔v2ray_vpn_ir%20🔒%20VL-TCP-N/A%20❔%20XX%2098ms
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.67:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&insecure=1&allowInsecure=1#🆔v2ray_vpn_ir%20🔒%20VL-TCP-N/A%20❔%20XX%2090ms
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?encryption=none&type=ws&security=tls&path=%2Ftsghdws&host=octopusss4.com&sni=octopusss4.com&insecure=1&allowInsecure=1#🆔v2ray_vpn_ir%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=1&allowInsecure=1#🆔v2ray_vpn_ir%20🔒%20VL-TCP-N/A%20❔%20XX%2092ms
@@ -251,5 +253,3 @@ vless://51094ea9-182f-4b59-9dd6-edcfb9a47d17@fanland.monopoli.shop:56626?mode=gu
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#🆔anty_filter%20🔒%20VL-TCP-N/A%20❔%20XX%2096ms
 vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&encryption=none&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=d13ddfca12760d03#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20110ms
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🆔anty_filter%20🔒%20VL-WS-N/A%20❔%20XX%202ms
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20down
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🆔anty_filter%20🔒%20VL-WS-N/A%20❔%20XX%2010ms

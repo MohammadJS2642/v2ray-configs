@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a1f67377-c5db-4aa0-90a9-fec646ef5e9b@dl2.ai.shi-n.ing:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@vmess_ir
+vless://a1f67377-c5db-4aa0-90a9-fec646ef5e9b@dl2.ai.shi-n.ing:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[80708] - Telegram : @V2All
+vless://a1f67377-c5db-4aa0-90a9-fec646ef5e9b@fast.roviedol.com:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6ba85179e30d4fc2#@outline_ir
+vless://a1f67377-c5db-4aa0-90a9-fec646ef5e9b@fast.roviedol.com:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6ba85179e30d4fc2#@vmess_ir
 vless://a1f67377-c5db-4aa0-90a9-fec646ef5e9b@fast.roviedol.com:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6ba85179e30d4fc2#[80702] - Telegram : @V2All
 vless://a1f67377-c5db-4aa0-90a9-fec646ef5e9b@fastly.videobazi.com:443?security=tls&encryption=none&host=azaboijji.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#@outline_ir
 vless://a1f67377-c5db-4aa0-90a9-fec646ef5e9b@fastly.videobazi.com:443?security=tls&encryption=none&host=looaboijjsji.global.ssl.fastly.neT&type=ws&sni=default.ssl.fastly.net#@outline_ir
@@ -249,7 +253,3 @@ vless://b3fbf377-2344-4b7e-a06b-bf4e767374b2@104.16.48.21:443?path=/&security=tl
 vless://b3fbf377-2344-4b7e-a06b-bf4e767374b2@104.16.48.21:80?path=/&security=none&encryption=none&insecure=0&host=ez-97b75a.ubetsjvz7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-97b75a.ubetsjvz7.workers.dev#@Ap_Ir6
 vless://b3fbf377-2344-4b7e-a06b-bf4e767374b2@172.67.251.233:443?path=/&security=tls&encryption=none&insecure=0&host=ez-97b75a.ubetsjvz7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-97b75a.ubetsjvz7.workers.dev#@Ap_Ir6
 vless://b3fbf377-2344-4b7e-a06b-bf4e767374b2@172.67.251.233:80?path=/&security=none&encryption=none&insecure=0&host=ez-97b75a.ubetsjvz7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-97b75a.ubetsjvz7.workers.dev#@Ap_Ir6
-vless://b3fbf377-2344-4b7e-a06b-bf4e767374b2@198.41.214.192:443?path=/&security=tls&encryption=none&insecure=0&host=ez-97b75a.ubetsjvz7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-97b75a.ubetsjvz7.workers.dev#@Ap_Ir6
-vless://b3fbf377-2344-4b7e-a06b-bf4e767374b2@198.41.214.192:80?path=/&security=none&encryption=none&insecure=0&host=ez-97b75a.ubetsjvz7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-97b75a.ubetsjvz7.workers.dev#@Ap_Ir6
-vless://b3fbf377-2344-4b7e-a06b-bf4e767374b2@198.41.215.140:443?path=/&security=tls&encryption=none&insecure=0&host=ez-97b75a.ubetsjvz7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-97b75a.ubetsjvz7.workers.dev#@Ap_Ir6
-vless://b3fbf377-2344-4b7e-a06b-bf4e767374b2@198.41.215.140:80?path=/&security=none&encryption=none&insecure=0&host=ez-97b75a.ubetsjvz7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-97b75a.ubetsjvz7.workers.dev#@Ap_Ir6
