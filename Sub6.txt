@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4d2f353f-73cd-44f0-834c-e4e6874551df@console.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&sid=b9a9&type=tcp&headerType=none#🆔capoit%20🔒%20VL-TCP-%20❔%20XX%20down
-vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@31.77.56.79:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🆔capoit%20🔒%20VL-GRPC-%20❔%20XX%20113ms
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn8-90.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=8015c191d21aa452&type=tcp&headerType=none#🆔capoit%20🔒%20VL-TCP-%20❔%20XX%2095ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime28.workers.dev&path=%2F#🆔capoit%20🔓%20VL-WS-N/A%20❔%20XX%206ms
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🆔capoit%20🔒%20VL-GRPC-%20❔%20XX%20158ms
@@ -253,3 +251,5 @@ vless://5835c3e3-9caf-4b71-8fb6-50c47b69eb12@sni.speedtun.ir:2087?encryption=non
 vless://6bb0a8ec-ec08-4358-b53d-7e6193069119@b4.lunaparkmaku.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20278ms
 vless://6bb0a8ec-ec08-4358-b53d-7e6193069119@ipw.ygdfw.com:8443?path=%2F&security=tls&encryption=none&insecure=1&host=iphone.lunamobil.fun&type=ws&allowInsecure=1&sni=iphone.lunamobil.fun#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2098ms
 vless://6bb0a8ec-ec08-4358-b53d-7e6193069119@rshirt.lordmakuboutiqu.site:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20153ms
+vless://6bb0a8ec-ec08-4358-b53d-7e6193069119@v1.lunaparkmaku.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20293ms
+vless://6bb0a8ec-ec08-4358-b53d-7e6193069119@v2.lunaparkmaku.ir:42542?security=none&encryption=none&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20280ms
