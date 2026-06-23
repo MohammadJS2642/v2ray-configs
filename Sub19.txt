@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@94.249.176.68:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=spain1.potatosubge20.org#@erfanandroid
 vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#@tanhanet
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=.afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#IR-@V2rayAlpha-10
@@ -253,3 +252,4 @@ vless://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=/@Vpn_Mikey،
 vless://bd45152d-75ce-4c0a-a703-01a16fb317ad@7rjgwg110568.dop1000.com:8443?mode=auto&path=/xlts&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=DT2KfL8ohVSsLze3EJdbF3SZFWm06Oqs7Pc1m5VpV2U&host=7rjgwg110568.dop1000.com&fp=chrome&spx=/QUVFfqDaAOrxeKn&type=xhttp&sni=www.nvidia.com&sid=f4851c95f31670#@TEHRANARGO
 vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=/&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
+vless://bd835edc-1eb6-2920-7d80-283ba2da5510@185.193.30.94:8443?path=/sync&security=tls&encryption=none&insecure=0&host=telegramjoin.noght-azadi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=telegramjoin.noght-azadi.workers.dev#🇬🇧GB-🚀@VPNine1

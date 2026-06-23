@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4ca0489d-9d16-45e9-bf31-75993c964c0f@edge.aiteamplus.ir:10009?security=none&encryption=none&host=outlook.office365.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://4d2f353f-73cd-44f0-834c-e4e6874551df@72.56.71.247:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&sid=b9a9&type=tcp&headerType=none#@W570W
 vless://4d2f353f-73cd-44f0-834c-e4e6874551df@72.56.71.247:40443?security=reality&encryption=none&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=b9a9#@NormanV2ray
 vless://4d2f353f-73cd-44f0-834c-e4e6874551df@72.56.71.247:40443?security=reality&encryption=none&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=b9a9#@Soul737
@@ -253,3 +252,4 @@ vless://5f1683f3-20a8-4523-8620-b7212270350d@s5.tehranionliine.ir:80?path=/&secu
 vless://5f1683f3-20a8-4523-8620-b7212270350d@s5.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#https://t.me/v2rayNplus |🇹🇷
 vless://5f1eb446-5104-41cb-a3e2-27a1f9e7f060@varzesh3.com:80?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#telegram @mtmvpn
 vless://5f1eb446-5104-41cb-a3e2-27a1f9e7f060@varzesh3.com:80?path=/&security=none&encryption=none&host=sajjad.panivo.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام
+vless://5f4620eb-8fdf-4456-b342-ee093f58cd0e@104.16.7.70:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=MAM.steamzy.ir&fp=chrome&type=ws&allowInsecure=0#@NETMelliAnti
