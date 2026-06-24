@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#https://t.me/v2raynplus |🇹🇷
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#https://t.me/v2raynplus🇹🇷
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#@V2dogs_n
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.107:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#🇷🇴RO-🚀@VPNine1
@@ -252,4 +253,3 @@ vless://4c7baf58-8ecb-44b0-9656-2b9247dd8290@151.101.110.219:443?path=/&security
 vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=xhttp&host=wizardali.global.ssl.fastly.net&path=/mammadalifsx&mode=packet-up#Channel : @Daily_Configs
 vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?encryption=none&type=xhttp&security=tls&path=/mammadalifsx&host=wizardali.global.ssl.fastly.net&mode=auto&sni=ssl.fastly.com&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@configprxy
 vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?encryption=none&type=xhttp&security=tls&path=/mammadalifsx&host=wizardali.global.ssl.fastly.net&mode=auto&sni=ssl.fastly.com&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
-vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?mode=auto&path=/mammadalifsx&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wizardali.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@flyv2ray

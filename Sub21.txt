@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@Soul737
 vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@V2dogs_n
 vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@V2ray_Alpha🍄 4
 vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@erfanandroid
@@ -252,4 +253,3 @@ vless://df666979-d7ce-4e34-ae23-05ac01bd2476@37.9.4.38:8443?security=reality&enc
 vless://df666979-d7ce-4e34-ae23-05ac01bd2476@37.9.4.38:8450?mode=gun&security=reality&encryption=none&pbk=7V0vADPc7LkbXMs2rPyw-Pp6CBazw3Tt6N_WbkwdvCI&type=grpc&serviceName=/api/v2/events/collect&sni=api.vk.ru&sid=7ccbcb93b59845de#⭐️@ANA_SERVICE⭐️ثابت ip⭐️
 vless://df666979-d7ce-4e34-ae23-05ac01bd2476@media-us.frdmhere.com:443?path=/mp3/all/us/&security=tls&encryption=none&insecure=0&host=media-us.frdmhere.com&type=ws&allowInsecure=0&sni=media-us.frdmhere.com#⭐️@ANA_SERVICE⭐️ثابت ip⭐️
 vless://df666979-d7ce-4e34-ae23-05ac01bd2476@rus.frdmhere.com:443?mode=auto&security=reality&encryption=none&pbk=008Ofl6YJthYSWM6x2cBCy-CQqAZOcxKsyL7pvwI7Dc&type=xhttp&sni=live.mediacdn.ru&sid=714c8f0f06a53cf1#⭐️@ANA_SERVICE⭐️ثابت ip⭐️
-vless://df666979-d7ce-4e34-ae23-05ac01bd2476@usa.frdmhere.com:443?mode=auto&security=reality&encryption=none&pbk=RdFhDE70isO-QgUur_OVe8_TetvBHP-qe18MHJ44gFQ&type=xhttp&sni=strm.yandex.ru&sid=b00b1e5b#⭐️@ANA_SERVICE⭐️ثابت ip⭐️
