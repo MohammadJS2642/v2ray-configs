@@ -1,5 +1,3 @@
-vless://5b9fbf67-e47c-4a2e-9dc2-f1a7a024a9b8@www.speedtest.net:443?path=%2FeyJqdW5rIjoiRHFvaXJXdEc2QjF1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ezaccess-project-ffd5d4.ez-b75eb6.workers.dev&fp=ios&type=ws#%3E%3E%40v2rayng_fast%3A%3AUS
-vless://5d5b12de-0da5-3243-f674-e75a691053f3@104.18.12.149:2053?security=tls&sni=daltun.daltunads.workers.dev&insecure=1&fp=chrome&type=ws&path=%2Fsync&host=daltun.daltunads.workers.dev&packetEncoding=xudp&encryption=none#%3E%3E%40V2raNG_DA%3A%3AUS
 vless://5d5b12de-0da5-3243-f674-e75a691053f3@104.18.12.149:443?security=tls&sni=daltun.daltunads.workers.dev&insecure=1&fp=chrome&type=ws&path=%2Fsync&host=daltun.daltunads.workers.dev&packetEncoding=xudp&encryption=none#%3E%3E%40V2raNG_DA%3A%3AUS
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://5d5b12de-0da5-3243-f674-e75a691053f3@104.18.32.47:2053?security=tls&sni=daltun.daltunads.workers.dev&insecure=1&fp=chrome&type=ws&path=%2Fsync&host=daltun.daltunads.workers.dev&packetEncoding=xudp&encryption=none#%3E%3E%40V2raNG_DA%3A%3AUS
@@ -98,3 +96,5 @@ vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?allowI
 vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb2.oneokapp.com:443?encryption=none&security=tls&serviceName=grpc-api&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?path=%2Fpourya&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3AUS
 vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb4.oneokapp.com:443?encryption=none&security=tls&serviceName=grpc-api&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry3.brocollisuper.click:443?encryption=none&security=tls&serviceName=grpc-api&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?encryption=none&host=rutube.globaledgenet.com&path=%2Frutube&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
