@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@icv2ray
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#@appsooner کانال تلگرام 🕊️
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@V2raySup0 🚀
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#⚡Tel: @Proxy_Vpney (2)
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#02 @fastkanfig
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@EXPRESSVPN_420
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@iguanaVPN
@@ -249,7 +253,3 @@ vless://@Net2ray@95.38.232.59:41651?security=none&encryption=none&headerType=non
 vless://@V2ConfigPro@188.114.98.235:443?path=/&security=tls&encryption=none&insecure=0&host=insomnia.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=insomnia.dpdns.org#@V2ConfigPro
 vless://@V2ConfigPro@188.121.125.169:2083?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.R53o6T7qs1BOuqPzb02dDIBzpKqtioSPChYKw-jD11Q&insecure=0&host=salamasalmabacheha.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=salamasalmabacheha.dpdns.org#@V2ConfigPro
 vless://@V2ConfigPro@192.0.63.61:2083?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.OB4yhTV2iFBBbdkBvMkVFLCcTlAdXKnTdm6NGlvt_wA&insecure=0&host=twotwoirvz.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=twotwoirvz.dpdns.org#@V2ConfigPro
-vless://@V2ConfigPro@199.181.197.240:443?path=/&security=tls&encryption=none&insecure=0&host=jimmymacgill.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=jimmymacgill.dpdns.org#@V2ConfigPro
-vless://@V2ConfigPro@216.24.57.195:443?path=/&security=tls&encryption=none&insecure=0&host=sanjiopmin.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=sanjiopmin.dpdns.org#@V2ConfigPro
-vless://@V2ConfigPro@216.24.57.1:443?path=/&security=tls&encryption=none&insecure=0&host=kazavakialitakimeki.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=kazavakialitakimeki.dpdns.org#@V2ConfigPro
-vless://@V2ConfigPro@216.24.57.1:443?path=/&security=tls&encryption=none&insecure=0&host=youknowali.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=youknowali.dpdns.org#@V2ConfigPro

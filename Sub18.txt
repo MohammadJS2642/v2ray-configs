@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://@V2ConfigPro@199.181.197.240:443?path=/&security=tls&encryption=none&insecure=0&host=jimmymacgill.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=jimmymacgill.dpdns.org#@V2ConfigPro
+vless://@V2ConfigPro@216.24.57.195:443?path=/&security=tls&encryption=none&insecure=0&host=sanjiopmin.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=sanjiopmin.dpdns.org#@V2ConfigPro
+vless://@V2ConfigPro@216.24.57.1:443?path=/&security=tls&encryption=none&insecure=0&host=kazavakialitakimeki.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=kazavakialitakimeki.dpdns.org#@V2ConfigPro
+vless://@V2ConfigPro@216.24.57.1:443?path=/&security=tls&encryption=none&insecure=0&host=youknowali.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=youknowali.dpdns.org#@V2ConfigPro
 vless://@free_conf_iran@104.16.75.127:2095?path=/ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=ws#🔥 @free_conf_iran 🔥 8
 vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈 کانفیگ جدید
 vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=httpupgrade#🔥 @free_conf_iran 🔥 4
@@ -249,7 +253,3 @@ vless://ab24fb72-09dc-4e84-956c-19e076f7b3fa@9sbisocj5c11.dxdx5.com:33982?path=/
 vless://ab24fb72-09dc-4e84-956c-19e076f7b3fa@9sbisocj5c11.dxdx5.com:33982?path=/store&security=none&encryption=none&host=play.google.com&type=ws#@ReleaseNet
 vless://ab24fb72-09dc-4e84-956c-19e076f7b3fa@9sbisocj5c11.dxdx5.com:33982?path=/store&security=none&encryption=none&host=play.google.com&type=ws#@meliproxyy
 vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.cdnwizardxray.com.vidboxco.ir:443?encryption=none&type=ws&security=tls&path=/?ed=2048&sni=test2.iranvatanam.com&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
-vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.sourceforge.net:2086?path=/&security=none&encryption=none&host=test2.iranvatanam.com&type=httpupgrade#@NETMelliAnti
-vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.sourceforge.net:2086?path=/&security=none&encryption=none&host=test2.iranvatanam.com&type=httpupgrade#[81682] - Telegram : @V2All
-vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@37.77.104.182:443?security=reality&encryption=none&pbk=fTr_LAmKQdYpAhijlApm1kMjS8_11Y9HMKconlHmZWE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=e8d2a1b4c39f8877#@V2VODKA_A🇷🇺
-vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@37.77.104.182:443?security=reality&encryption=none&pbk=fTr_LAmKQdYpAhijlApm1kMjS8_11Y9HMKconlHmZWE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=e8d2a1b4c39f8877#اگه میخوای قطع نشی جوین شو : @farsiproxy
