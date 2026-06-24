@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://@Net2ray@194.145.119.176:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪
 vless://@Net2ray@45.84.157.122:5555?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Netherlands 🇳🇱
 vless://@Net2ray@45.84.157.122:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪
 vless://@Net2ray@45.84.157.122:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪 نامحدود لوکیشن آلمان 🇩🇪 فعال تا زمانی که آیپیش فیلتر بشه ری‌اکشن فراموش نشه  🆔 t.me/Net2ray
@@ -253,3 +252,4 @@ vless://ab24fb72-09dc-4e84-956c-19e076f7b3fa@9sbisocj5c11.dxdx5.com:33982?path=/
 vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.cdnwizardxray.com.vidboxco.ir:443?encryption=none&type=ws&security=tls&path=/?ed=2048&sni=test2.iranvatanam.com&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.sourceforge.net:2086?path=/&security=none&encryption=none&host=test2.iranvatanam.com&type=httpupgrade#@NETMelliAnti
 vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.sourceforge.net:2086?path=/&security=none&encryption=none&host=test2.iranvatanam.com&type=httpupgrade#[81682] - Telegram : @V2All
+vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@37.77.104.182:443?security=reality&encryption=none&pbk=fTr_LAmKQdYpAhijlApm1kMjS8_11Y9HMKconlHmZWE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=e8d2a1b4c39f8877#@V2VODKA_A🇷🇺

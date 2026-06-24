@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#floor 555
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@brayirani •☕ | عضو شید قطع نشید.
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
@@ -253,3 +252,4 @@ vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.49:8443?security=reality&e
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.49:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#@V2dogs_n 🇫🇷
 vless://5314ab7e-c093-40f1-8798-fd4ac7eab69a@www.chatgpt.com:443?path=/ws?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.tUPfWAL1mQ-xZDnUHMthTFU1cqIX6PbUsBzSH0OJGEE&insecure=0&host=upload.myvipnet.com&fp=chrome&type=ws&allowInsecure=0&sni=upload.myvipnet.com#https://t.me/mtmvpn
 vless://533b9db9-da5a-41ac-ae9d-0c982ec8f880@client.jison.ir:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=sdt.jison.ir&type=ws&sni=fty.jison.ir#@ReleaseNet
+vless://533b9db9-da5a-41ac-ae9d-0c982ec8f880@client.jison.ir:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=sdt.jison.ir&type=ws&sni=fty.jison.ir#@appsooner کانال تلگرام 🕊️

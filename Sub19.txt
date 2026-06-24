@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c0548e90-3bad-4b5b-a327-63e52f50d550@ir.dashping2.ir:7102?security=reality&encryption=none&pbk=ma0HA8aGdLr9094twVoeOmIr_MrukDQXOWUMMHLx2Ww&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.varzesh3.com&sid=0e#telegram @mtmvpn
 vless://c06b2815-c117-4319-8cf2-725fbf864f7e@freeiran-opiran-2.shaygan.site:8880?path=/&security=none&encryption=none&type=ws#@KAFING_2
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Sha.artarona.ir&fp=chrome&type=ws&allowInsecure=0&sni=Sha.artarona.ir#TEL;Father_vpn
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lol6.artarona.ir&type=ws&allowInsecure=0&sni=lol6.artarona.ir#TEL;Father_vpn
@@ -253,3 +252,4 @@ vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@198.41.223.184:2096?path=/&security
 vless://d3eadb6d-d7d8-755c-f5ed-284600000000@www.hcaptcha.com:443?encryption=none&security=tls&sni=mute-lab-f07f.sgzdgfbxgfvb.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mute-lab-f07f.sgzdgfbxgfvb.workers.dev&path=/w570w#w570w-Germany
 vless://d3eadb6d-d7d8-755c-f5ed-284600000000@www.hcaptcha.com:443?encryption=none&security=tls&sni=mute-lab-f07f.sgzdgfbxgfvb.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mute-lab-f07f.sgzdgfbxgfvb.workers.dev&path=/w570w#w570w-Germany🇩🇪
 vless://d3eddb9e-33ef-4a6c-bfe3-663382612219@mal.malkopol.org:2087?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=GgAaQxYq9.MuChMuCk.oRg#@iguanaVPN
+vless://d459f9e9-cc30-4c1c-b131-75a5206702b5@nl.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.janusgate.org&sid=773353fbea287c00#@Ap_Ir6
