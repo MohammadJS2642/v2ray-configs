@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb4.oneokapp.com:443?encryption=none&fp=chrome&security=tls&serviceName=grpc-api&sni=gb4.oneokapp.com&type=grpc#🔵@chillguy_vpn
 vless://e475fc57-c1e1-4d87-53f2-f6336eaa9761@s1.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#🇮🇷IR-🚀@VPNine1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?alpn=h2&encryption=none&security=tls&sni=dat1.afterdomain.shop&type=grpc#💟19@oneclickvpnkeys
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?alpn=h2&encryption=none&security=tls&sni=dat1.afterdomain.shop&type=grpc#💟40@oneclickvpnkeys
@@ -253,3 +252,4 @@ vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.72.162:8443?path=/&security=
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.92.229:8443?encryption=none&fp=chrome&host=srv55.hamiibar.com&path=/&security=tls&sni=srv55.hamiibar.com&type=ws#💟39@oneclickvpnkeys
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&host=srv75.perfectbulk.info&fp=chrome&allowinsecure=0&type=ws&sni=srv75.perfectbulk.info#@configprxy
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&host=srv75.perfectbulk.info&fp=chrome&allowinsecure=0&type=ws&sni=srv75.perfectbulk.info#@freenettir
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&host=srv75.perfectbulk.info&fp=chrome&allowinsecure=0&type=ws&sni=srv75.perfectbulk.info#@hi_proxy_iran :👈کانال تلگرام

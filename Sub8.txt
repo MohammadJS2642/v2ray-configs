@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#✅  @vistav2ray  👈👈کانال ما ✅
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.219:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#@SylphNet | 2026-06-23 23:45
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.219:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#hope of freedom - @anotherme_night
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.70.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#@Daily_Configs
@@ -253,3 +252,4 @@ vless://13ad36e6-c091-43f2-8505-47d868dd544c@172.67.141.220:80/?type=ws&encrypti
 vless://13bdb27c-d773-4bb9-a15b-587eac2ba975@26000.accuratenetworkchecker.ir:443?encryption=mlkem768x25519plus.native.0rtt.BMUxibbej8vwea4oIcOWqFm5elDWiZ1-nnrsiWzvQGc&type=tcp&headerType=none#@Ap_Ir6
 vless://13e8b1f7-7536-4ce8-8e8c-9e11bde7af3a@188.213.198.238:4050?security=&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
 vless://13e8b1f7-7536-4ce8-8e8c-9e11bde7af3a@188.213.198.238:7080?security=&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
+vless://13e8b1f7-7536-4ce8-8e8c-9e11bde7af3a@188.213.198.238:8090?security=&encryption=none&headerType=none&type=tcp#telegram @mtmvpn

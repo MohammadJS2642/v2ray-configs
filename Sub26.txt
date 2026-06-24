@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?path=%2F&security=tls&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#%3E%3E%40ShadowsocksM%3A%3AUS
+vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACH
+vless://12929592-a7bd-41eb-ab4d-d804f76c4ff9@144.31.38.207:11342?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CFalkenstein-GetAFreeNode
 vless://12929592-a7bd-41eb-ab4d-d804f76c4ff9@96.47.230.5:42705?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=search.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CSeattle-GetAFreeNode
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.parvin.dpdns.org&encryption=none#%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF%20%D8%B3%D8%B1%DB%8C%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B4%D8%AE%D8%B5%DB%8C%20:%20https://telegraph.rayan.dpdns.org/persian
 vless://2196f28b-8217-4631-a28e-1d34112aa947@cis.visa.com:443?security=tls&sni=RAyaN107-gXrV00-2.raYan-107.WORKERs.dEv&fp=chrome&type=ws&path=/?ed%3D2560&host=RAyaN107-gXrV00-2.raYan-107.WORKERs.dEv&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20http://telegraph.rayan-config.workers.dev/translate
@@ -202,7 +206,6 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.181:8443/?type=tcp&encryp
 vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&allowInsecure=1&fp=firefox&security=reality&pbk=Y15uAAl8fpWhma1FIWyZujgRKdwxYaaF4zIyWyu9vSo&sid=5cc0#[80844
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:45012?encryption=none&host=&path=%2F&security=none&type=httpupgrade#@chillguy_vpn
 trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#%40V2ray_Alpha%F0%9F%A5%B2%206♾نامحدود
-trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=ios&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/VIPV2rayNGNP
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=fra154.clientfirewall.click#More%20%3A%20%40Qara_atayi%20%7C%7C%20sni-spoof
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#%F0%9F%87%BA%F0%9F%87%B8
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#%F0%9F%87%A6%F0%9F%87%BA
@@ -250,6 +253,3 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AE%F0%9F%87%B8_IS_%E5%86%B0%E5%B2%9B
 trojan://BxceQaOe@95.40.68.150:2702?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
-trojan://BxceQaOe@43.199.44.33:22657?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://mitivpn@188.114.97.6:443?sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#%F0%9F%87%A7%F0%9F%87%B7BR%E5%B7%B4%E8%A5%BF
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?sni=ch.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%ADCH%E7%91%9E%E5%A3%AB
