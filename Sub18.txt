@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a6346e46-f69d-4f8e-995b-6a24ae64b053@anten.ir:2086?path=/&security=none&encryption=none&host=hap.kalaleh24.ir&type=ws#@NetZone_ir
 vless://a63daf4e-e245-4497-af49-9976c2ef51b7@188.114.97.6:443?path=/uploader.php&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=information.gamecenteriran.com&fp=chrome&type=ws&allowInsecure=0&sni=information.gamecenteriran.com#@prrofile_purple  ♥️👈 تلگرام
 vless://a6599ec4-6543-40c5-be54-ad90fc9c10ab@91.107.166.66:44728?security=reality&encryption=none&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=dbb6ea0b#kurdconfig
 vless://a6599ec4-6543-40c5-be54-ad90fc9c10ab@91.107.166.66:44728?security=reality&encryption=none&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=dbb6ea0b#🇩🇪@FreakConfig
@@ -253,3 +252,4 @@ vless://bc23e569-a9d3-4079-cd35-4c60ee060c3e@47.250.195.25:19108?security=none&e
 vless://bc23e569-a9d3-4079-cd35-4c60ee060c3e@47.250.195.25:19108?security=none&encryption=none&headerType=none&type=tcp#🇲🇾@irconfiig
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://bccf8088-a6bb-42d5-9f3f-f646dcdcc62f@javad.iranpuls.ir:8044?security=reality&encryption=mlkem768x25519plus.native.0rtt._-g736h_tiLWb_ViyOjcSJhWhA5qby7NZgnUmc3wfTA&pbk=bgnKEd0Y79hmiRgAiJCBSK56BqNYnWhT6w8EAmDjRXs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Yahoo.com&sid=0ff34b4a964a5389#@v2raybaaz ³

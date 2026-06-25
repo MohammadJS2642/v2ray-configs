@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9e1c2f7c-8a21-4ef3-b015-3e8e1d7a0588@ez-e989d9.ezaccess104f94a.workers.dev:8443?path=/&security=tls&encryption=none&insecure=0&host=ez-e989d9.ezaccess104f94a.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-e989d9.ezaccess104f94a.workers.dev@freenettir ⁶
 vless://9e86f6fa-a1f0-43b9-80ab-4b2ec4c3b91a@test.iraniannimdown.ir:8443?security=tls&encryption=none&insecure=1&host=test.iraniannimdown.ir&fp=chrome&type=ws&allowInsecure=1&sni=test.iraniannimdown.ir#@filembad
 vless://9ea7dd86-f3c3-48c7-87ff-aff9df618d74@varzesh3.com:80?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#@Leecher56
 vless://9ea7dd86-f3c3-48c7-87ff-aff9df618d74@varzesh3.com:80?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#telegram @mtmvpn
@@ -253,3 +252,4 @@ vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?security=reality&e
 vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#@prrofile_purple  ♥️👈 تلگرام
 vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#[🇪🇪]@NetliVPN
 vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#[🇪🇸]@NetliVPN
+vless://a6346e46-f69d-4f8e-995b-6a24ae64b053@anten.ir:2086?path=/&security=none&encryption=none&host=hap.kalaleh24.ir&type=ws#@NetZone_ir
