@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?security=none&encryption=none&headerType=http&type=tcp#@Leecher56
 vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?security=none&encryption=none&headerType=http&type=tcp#@bored_vpn
 vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?security=none&encryption=none&headerType=http&type=tcp#@mehrosaboran
 vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?security=none&encryption=none&headerType=http&type=tcp#تلگرام : mtmvpn
@@ -253,3 +252,4 @@ vless://30689d42-d2f2-4495-a49b-dd0fdba10fb8@liad.maf-tahas.ir:443?path=/&securi
 vless://30693e15-1014-443b-88dd-1232b55a06b6@104.16.6.70:443?path=/&security=tls&encryption=none&host=mos.rfiksma.top&fp=chrome&type=ws&sni=sub.rfiksma.top#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://30693e15-1014-443b-88dd-1232b55a06b6@104.16.6.70:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=mos.rfiksma.top&path=/&sni=sub.rfiksma.top&fp=chrome#@bored_vpn
 vless://30980fc4-8789-42df-80d1-0c8e5cd26881@127.0.0.1:40443?path=/vpnhu&security=tls&encryption=none&insecure=1&host=cdn.veilvpn.fans&fp=chrome&type=httpupgrade&allowInsecure=1&sni=cdn.veilvpn.fans#@Maznet-Spoof15
+vless://3098d602-5103-4bc3-b3bd-7dda94c26af0@onnevpn.dibaux.ir:80?encryption=none&host=onnevpn.dibaux.ir&path=/stream&security=none&type=ws#onnevpn-@onnevpn_bot-500.00GB📊  اینم لینک سابش❤👇  https://onnevpn.diba
