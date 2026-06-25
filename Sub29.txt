@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://telegram-id-privatevpns@15.237.241.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@18.203.97.93:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-privatevpns@35.156.107.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@35.157.64.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@52.57.203.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.58.3.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.176.72.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.182.11.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
@@ -253,3 +248,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQGhhY2tuZXktbGF0ZXN0LXN0cmlrZS5mcmVlc29ja3Mud29yazo0NDM/#%E5%BE%B7%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQGhhY2tuZXktbGF0ZXN0LXN0cmlrZS5mcmVlc29ja3Mud29yazo0NDM/#%E5%BE%B7%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQGhhY2tuZXktbGF0ZXN0LXN0cmlrZS5mcmVlc29ja3Mud29yazo0NDM/#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMjg2ZWsyLmN5YmVydmVuYS5jb206NTAwOTk/#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjc6ODA4MD8=#%E8%8D%B7%E8%98%AD%E4%B8%A8yoyapai.com%5Cr
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haT0BjaGVuZ2JhaTAyLmFzY3d0MTc5LmNvbToxMzIyMz8=#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dkA1NC4yNTAuMTY1LjE2MDoyMzc3Pw==#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
+ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST1AMTAzLjEzMC4xNDcuNDA6MTEyMj8=#%E5%9C%9F%E8%80%B3%E5%85%B6%E4%B8%A8yoyapai.com%5Cr
