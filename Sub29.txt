@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
 trojan://mitivpn@45.130.125.220:443?path=index.html=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#@Leecher56
 trojan://mitivpn@45.130.125.220:443?path=index.html=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#@V2ConfigPro
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=fra154.clientfirewall.click#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
@@ -252,4 +253,3 @@ trojan://1973d939-d6fc-3ead-9a46-fcd771c71dd0@zhuanfabj1.yooo.me:52671?security=
 trojan://1973d939-d6fc-3ead-9a46-fcd771c71dd0@zhuanfabj1.yooo.me:36289?security=tls&sni=dbkjbbdas77.susuyun.xyz#%F0%9F%87%BA%F0%9F%87%B8US-172.237.146.46-0187
 trojan://1973d939-d6fc-3ead-9a46-fcd771c71dd0@zhuanfabj1.yooo.me:44174?security=tls&sni=yingduhdhc1.susuyun.xyz#%F0%9F%87%BA%F0%9F%87%B8US-172.237.146.46-0188
 trojan://8d105878309ac3ef@c68b799.gb.gladns.com:3386?security=tls&sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.144.61-0189
-trojan://1973d939-d6fc-3ead-9a46-fcd771c71dd0@zhuanfabj1.yooo.me:32699?security=tls&sni=tsedcdcc1.susuyun.xyz#%F0%9F%87%BA%F0%9F%87%B8US-172.237.146.46-0190

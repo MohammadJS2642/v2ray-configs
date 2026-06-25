@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://2t5hATPZBk@188.114.97.6:443?path=/?ed=2048&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dd.aananas.ir.#چنل عضو شو @v2ra_config
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp007.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#🇯🇵JP-🚀@VPNine1
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@jp008.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#🇯🇵JP-🚀@VPNine1
@@ -252,4 +253,3 @@ trojan://MiTiVPN@151.101.203.203:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-
 trojan://MiTiVPN@151.101.204.204:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#🇳🇱NL-🚀@VPNine1
 trojan://MiTiVPN@151.101.206.206:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#🇳🇱NL-🚀@VPNine1
 trojan://MiTiVPN@151.101.208.208:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#🇮🇳IN-🚀@VPNine1
-trojan://MiTiVPN@151.101.209.209:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#🇮🇳IN-🚀@VPNine1

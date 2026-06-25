@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.49:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20171ms
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.59:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20177ms
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.7:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20173ms
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.81:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20173ms
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.83:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20173ms
@@ -251,5 +253,3 @@ vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.68:8443?security=reality&
 vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@85.192.49.4:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fll.gazladder.work&sid=b415b8d7a6106ace#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇫🇮%20FI%20176ms
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=none&encryption=none&headerType=none&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇸🇨%20SC%202ms
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇫🇮%20FI%20170ms
-vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇨🇭%20CH%20163ms

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://17186ef5-7a33-4d80-bece-9feb3743532d@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=none&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#🇨🇦@FreakConfig
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#CxrolVPN Free (4)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/ebmJ4UcdPxKGcPdT?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (6)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#CxrolVPN Free (1)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
@@ -251,5 +253,3 @@ vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@138.124.9.147:443?security=reality&
 vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@144.31.7.142:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fll.gazladder.work&sid=b415b8d7a6106ace#@Leecher56
 vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@144.31.7.142:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fll.gazladder.work&sid=b415b8d7a6106ace#@bored_vpn
 vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@144.31.7.142:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fll.gazladder.work&sid=b415b8d7a6106ace#@confiig_hub
-vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@217.168.247.40:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ytt.gazladder.work&sid=f5781bd8af7dbaf6#⭐️@ANA_SERVICE⭐️ثابت ip⭐️
-vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@64.188.91.92:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fast.gazladder.work&sid=b415b8d7a6106ace#⭐️@ANA_SERVICE⭐️ثابت ip⭐️
