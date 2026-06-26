@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://030a2cea-daea-42ca-9b9d-a950d33fb2d9@manager.xyzxz.qzz.io:443?encryption=none&security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=grpc&authority=manager.xyzxz.qzz.io&serviceName=/47474/mehdi&mode=gun#[82008] - Telegram : @V2All
-vless://03633612-cb32-46cc-8f93-7103d1511ade@www.speedtest.net:2095?path=/?ed=2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#🩵+@Azarakhsh_Proxy+🩷
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=&encryption=none&type=ws#Proxy_Se7en
-vless://037ec3f3-d983-4f05-9ae2-03f0c1d7977c@143.246.136.234:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#چنل عضو شو @v2ra_config
 vless://039a1658-e86e-475f-a3a4-67cc249acada@45.134.217.196:443?security=reality&encryption=none&pbk=rYwYudDb69CwjAJNw5KTFqJnRwwADgDMDpjv9KESjEY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gr1.panel11.ru&sid=f5c14a97040a38bf#@v2rayNplus |🇩🇪
 vless://039a1658-e86e-475f-a3a4-67cc249acada@46.8.98.55:443?security=reality&encryption=none&pbk=MFuAxjdSnjCk_8Vi_-KGyWryFfSmm902nVhACDSIzBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us1.panel11.ru&sid=d9d688fc488ae13b#Proxy_Se7en
 vless://03f929bb-7a94-4400-a882-d846d18b614e@185.141.107.42:777?encryption=none&security=none&type=tcp&headerType=none&host=@BlueberryNetWork#@BlueberryNetWork
@@ -253,3 +249,7 @@ vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?
 vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.33.vhubtest.ru:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=/sequre/grpc&allowInsecure=0&sni=213.21.222.33.vhubtest.ru#@MTMVPN
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@104.18.31.168:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@ip.hamrahto.com:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
+vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
+vless://17186ef5-7a33-4d80-bece-9feb3743532d@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#🇫🇷@FreakConfig
+vless://17186ef5-7a33-4d80-bece-9feb3743532d@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=none&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#🇨🇦@FreakConfig
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#CxrolVPN Free (4)
