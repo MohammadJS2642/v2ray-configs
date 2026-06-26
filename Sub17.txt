@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://X_RAY_VPN1@31.56.206.13:2035?encryption=none&type=tcp#@vpng3 [18]
 vless://a045dd2b-db2e-4179-acd8-35067fd8ba0d@zeus-panel-tln7ap.kingworkerr.workers.dev:2096?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#@ReleaseNet
 vless://a045dd2b-db2e-4179-acd8-35067fd8ba0d@zeus-panel-tln7ap.kingworkerr.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#@ReleaseNet
 vless://a045dd2b-db2e-4179-acd8-35067fd8ba0d@zeus-panel-tln7ap.kingworkerr.workers.dev:8080?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#@ReleaseNet
@@ -252,4 +253,3 @@ vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@138.124.4.132:443?security=reality&
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#@hex_proxy ³
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#🇳🇱@FreakConfig
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@sw-1.coinbridge.nl:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d&type=grpc&authority=&serviceName=data-sync&mode=gun#hope of freedom - @anotherme_night
-vless://b11e7062-4508-4188-9d66-e48c66e6a4f9@old2.v2xpin.de:8443?mode=auto&path=/random&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&insecure=0&host=base1.korvian.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=base1.korvian.ir#@v2raybaaz ²
