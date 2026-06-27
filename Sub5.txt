@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://212345e6-8b21-4222-96a8-0cd38114a964@api-bleweb.araskhebati.ir:1133?mode=auto&path=%2F%3Fed&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=play.google.com&type=xhttp#🆔capoit%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🆔capoit%20🔒%20VL-TCP-%20❔%20XX%20101ms
 vless://daf13e97-3503-47ef-8318-d6e64c820223@141.193.213.10:2087?path=%2F&security=tls&encryption=none&insecure=0&host=nova-coral-gate-cb56.nova-b3a2de.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-coral-gate-cb56.nova-b3a2de.workers.dev#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fproxyip&security=tls&encryption=none&host=nbhhh.mrcool.kdns.fr&allowinsecure=0&type=ws&sni=nbhhh.mrcool.kdns.fr#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%202ms
@@ -252,4 +253,3 @@ vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&e
 vless://SoonTeam@108.162.195.19:8080?mode=auto&path=%2F%40SoonTeam&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=new.new.new.ab841.com&type=xhttp#🆔v2ray1_ng%20🔓%20VL-XHTTP-N/A%20🇺🇸%20US%202ms
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=%2F&security=tls&encryption=none&host=newip.global.ssl.fastly.neT.&type=ws&sni=default.ssl.fastly.net#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇺🇸%20US%2090ms
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.25:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇮🇹%20IT%20100ms
-vless://9770fce0-0b88-590f-992d-7dac8625d360@winq35461s-19523160106-direct.irgame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=winq35461s-19523160106-direct.irgame.co#🆔v2ray1_ng%20🔒%20VL-TCP-N/A%20🇮🇹%20IT%20112ms
