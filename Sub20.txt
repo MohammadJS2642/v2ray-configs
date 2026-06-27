@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?encryption=none&type=ws&security=tls&path=/&host=fancii.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#@meliproxyy
-vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?encryption=none&type=ws&security=tls&path=/&host=fancii.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#🇺🇸 @rayhub_ir 0627-8
-vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=/&security=tls&encryption=none&host=fancii.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#✅  @vistav2ray  👈👈کانال ما ✅
-vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@meliproxyy
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#MiX--@V2rayAlpha--20
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#[82785] - Telegram : @V2All
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=1&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@Soul737
@@ -253,3 +249,7 @@ vless://f353b55f-4624-4031-94ee-457eed8889de@global.cloud-play.ir:80?mode=packet
 vless://f353b55f-4624-4031-94ee-457eed8889de@global.cloud-play.ir:80?mode=packet-up&path=/&security=none&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@FarazV2ray
 vless://f353b55f-4624-4031-94ee-457eed8889de@global.cloud-play.ir:80?mode=packet-up&path=/&security=none&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@filembad
 vless://f353b55f-4624-4031-94ee-457eed8889de@local.cloud-play.ir:80?mode=packet-up&path=/&security=none&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=connectingissues.pl&type=xhttp#@FarazV2ray
+vless://f353b55f-4624-4031-94ee-457eed8889de@local.cloud-play.ir:80?mode=packet-up&path=/&security=none&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=connectingissues.pl&type=xhttp#@filembad
+vless://f353b55f-4624-4031-94ee-457eed8889de@local.cloud-play.ir:80?mode=packet-up&path=/&security=none&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@FarazV2ray
+vless://f353b55f-4624-4031-94ee-457eed8889de@local.cloud-play.ir:80?mode=packet-up&path=/&security=none&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@filembad
+vless://f353b55f-4624-4031-94ee-457eed8889de@mci.cloud-play.ir:80?mode=packet-up&path=/&security=&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#🔵@chillguy_vpn
