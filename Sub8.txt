@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:2048?path=/&security=none&encryption=none&host=ads.x5.ru&type=ws#اگه میخوای قطع نشی جوین شو : @farsiproxy
 vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:2048?path=/&security=none&encryption=none&host=ads.x5.ru&type=ws#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn 🪩
 vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4c02bbbfa833b3b6#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn 🪩
 vless://1524d56d-4cb5-41e3-8490-15a2611a816e@57.131.18.123:13355?encryption=none&security=none&type=tcp&headerType=none#🇮🇹IT_497_@Surfboardv2ray
@@ -253,3 +252,4 @@ vless://2c0e0bfd-bd2d-40ea-a524-a9f9aec36ea6@fastly.videobazi.com:443?mode=auto&
 vless://2c0e0bfd-bd2d-40ea-a524-a9f9aec36ea6@ip2.iranphlox.ir:2086?encryption=none&type=xhttp&path=/&host=C.cafearen.ir&mode=auto#@meliproxyy
 vless://2c0e0bfd-bd2d-40ea-a524-a9f9aec36ea6@ip2.iranphlox.ir:2086?encryption=none&type=xhttp&path=/&host=E.cafearen.ir&mode=auto#@meliproxyy
 vless://2c0e0bfd-bd2d-40ea-a524-a9f9aec36ea6@ip2.iranphlox.ir:2086?mode=auto&path=/&security=none&encryption=none&host=C.cafearen.ir&type=xhttp#کانال تلگرام : MTMVPN
+vless://2c0e0bfd-bd2d-40ea-a524-a9f9aec36ea6@ip2.iranphlox.ir:2086?mode=auto&path=/&security=none&encryption=none&host=E.cafearen.ir&type=xhttp#@erfanandroid
