@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇷🇺%20RU%20144ms
 vless://SoonTeam@108.162.195.19:8080?mode=auto&path=%2F%40SoonTeam&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=new.new.new.ab841.com&type=xhttp#🆔v2ray1_ng%20🔓%20VL-XHTTP-N/A%20🇺🇸%20US%202ms
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=%2F&security=tls&encryption=none&host=newip.global.ssl.fastly.neT.&type=ws&sni=default.ssl.fastly.net#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇺🇸%20US%2090ms
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.25:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇮🇹%20IT%20100ms
@@ -253,3 +252,4 @@ vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:2360?security=reality&
 vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=/BgQiVh1cnj0wy8V&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ca7ddf#MiX--@V2rayAlpha--29
 vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=/BgQiVh1cnj0wy8V&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ca7ddf#[82756] - Telegram : @V2All
 vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=/BgQiVh1cnj0wy8V&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ca7ddf#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
+vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:2886?security=reality&encryption=none&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&headerType=none&fp=chrome&spx=/H30flwmjqp1iFuZ&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=40e5ca#@FarazV2ray
