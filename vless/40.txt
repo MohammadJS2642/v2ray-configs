@@ -1,3 +1,4 @@
+vless://d6695105-8e40-4a45-a87e-d3cf561c9fa4@91.98.3.186:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#@confiig_hub
 vless://d6695105-8e40-4a45-a87e-d3cf561c9fa4@91.98.3.186:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#kurdconfig
 vless://d6695105-8e40-4a45-a87e-d3cf561c9fa4@91.98.3.186:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#🇩🇪@FreakConfig
 vless://d67fae6d-65a9-4c28-adca-130ba9a91bc7@70.34.217.248:443?security=none&encryption=none&headerType=none&type=tcp#@iguanaVPN 1
@@ -97,4 +98,3 @@ vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@194.87.24.181:443?mode=gun&security
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@31.77.56.79:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#@V2VODKA_A🇵🇱
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@87.58.201.231:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#@V2VODKA_A🇳🇱
 vless://dd632900-378f-4e2b-ad89-84ea66478e94@185.147.27.105:80?path=/&security=none&encryption=none&type=ws#@ReleaseNet
-vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#IR-@V2rayAlpha-12
