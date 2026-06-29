@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#🆔lrnbymaa%20🔒%20VL-TCP-%20❔%20XX%20173ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🆔lrnbymaa%20🔓%20VL-GRPC-N/A%20❔%20XX%20160ms
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.16.75.212:443?path=%2Fapi%2Fv1&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=splash.ariyuz.org#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://5e0212f0-297f-4f68-a256-013466bab0d2@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=t3.tzteam.online&fp=firefox&type=ws&allowInsecure=0&sni=t3.tzteam.online#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%201ms
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv2.ir5ive.ir&type=ws#🆔spotify_porteghali%20🔓%20VL-WS-N/A%20❔%20XX%20down
 vless://5e0212f0-297f-4f68-a256-013466bab0d2@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=t5.tzteam.online&fp=firefox&type=ws&allowInsecure=0&sni=t5.tzteam.online#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%202ms
@@ -253,3 +250,6 @@ vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@82.202.137.6:9887?mode=gun&security
 vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@85.208.85.235:9877?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🆔v2ray1_ng%20🔒%20VL-GRPC-%20❔%20XX%20down
 vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@46.253.132.55:9892?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🆔v2ray1_ng%20🔒%20VL-GRPC-%20❔%20XX%20down
 vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@94.26.249.65:9830?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🆔v2ray1_ng%20🔒%20VL-GRPC-%20❔%20XX%20186ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20❔%20XX%20163ms
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.249:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20179ms
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=%2Fca-cl&security=tls&encryption=none&host=unnes.ac.id.yxls.eu.cc&type=ws&sni=unnes.ac.id.yxls.eu.cc#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%204ms
