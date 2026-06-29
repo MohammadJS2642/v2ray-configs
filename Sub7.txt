@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#@Soul737
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Proxy_Se7en
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#2. @NewsDarya
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#@Ap_Ir6
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#@FarazV2ray
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#@MoOon_proxy
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#@Net2ray Germany2 🇩🇪
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#@Soul737
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#@V2ray_confiig
@@ -247,9 +253,3 @@ vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?security=none&enc
 vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?security=none&encryption=none&headerType=http&type=tcp#تلگرام : mtmvpn
 vless://1b428bb8-5f14-470d-8d2b-67808901da6d@85.234.65.77:8088?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@V2dogs_n 🇫🇷
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#TEL;Father_vpn
-vless://1babf628-b13f-4fe2-8064-985f617425d6@heap.metsima.com:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=RVR.steamzy.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=RVR.steamzy.ir#@NETMelliAnti
-vless://1babf628-b13f-4fe2-8064-985f617425d6@lc.metsima.com:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=1Qi.steamzy.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=1Qi.steamzy.ir#@NETMelliAnti
-vless://1babf628-b13f-4fe2-8064-985f617425d6@lc.metsima.com:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=hYE.steamzy.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=hYE.steamzy.ir#@NETMelliAnti
-vless://1be21069-cf51-471d-a51c-c1585d26fc56@5.75.207.247:41083?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#@icv2ray
-vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443?path=/&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#@Soul737
-vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443?path=/&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#@V2dogs_n
