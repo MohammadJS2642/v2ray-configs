@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.glitchout.ir:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://2e834c8c-2b4d-4cc5-9725-23ed738b4333@AzarakhshProxy.fast.hosting-ip.com:80?path=/?ed=2048&security=none&encryption=none&host=lookivpn3.ir&type=ws#🩵+@Azarakhsh_Proxy+🩷
 vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?security=reality&encryption=none&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&headerType=none&fp=chrome&type=tcp&sni=api.ok.ru&sid=cf2d#@meliproxyy
@@ -251,5 +253,3 @@ vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=/&securi
 vless://4166019f-0448-4eda-b29a-f824ff017083@blog.arioonlineshop.ir:13465?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=t05.tzteam.online&fp=chrome&type=ws&allowInsecure=0&sni=t05.tzteam.online#@fastkanfig 1
 vless://41dcf135-49a8-45ee-85ac-581731e0fa2c@185.226.93.160:1102?encryption=none&fp=chrome&pbk=pn91tsuZ1PlyIi2l80Ei28jXgvPrnuVsBseihnlpVxg&security=reality&sid=584a18e749209589&sni=yahoo.com&spx=/VJO40r0Tu05fVkG&type=tcp#TRY-FREE_1TR-1000.00GB📊
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#@tanhanet
-vless://41f46aa9-da29-45f6-b33e-50ed736c8646@local.cloud-play.ir:80?mode=auto&path=/&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=simeonelaparo.de&type=xhttp#Proxy_Se7en
