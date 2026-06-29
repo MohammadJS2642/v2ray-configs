@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@www.speedtest.net:2053?security=tls&type=ws&headerType=&path=&host=noone.bingnet.online&sni=noone.bingnet.online&fp=#🇩🇪SV1
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@www.speedtest.net:2053?security=tls&type=ws&headerType=&path=&host=uiz2001.bingnet.online&sni=uiz2001.bingnet.online&fp=&allowInsecure=1#🇩🇪 SV8
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@www.speedtest.net:2086?security=none&type=httpupgrade&headerType=&path=/?ed=2086&host=a3ssa.vaslbsh.com#🇩🇪 VIP 7
 vless://f6c9ef00-feb2-456e-ac54-11fd5a996cc3@fanlandv1.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=chrome&type=grpc&sni=yahoo.com&sid=ace2abf9f3eb99c6#🇫🇮@FreakConfig
@@ -253,3 +252,4 @@ vless://7dfaabb0-4924-40cb-ee92-a58fcf463214@web.biatochannelv271g.shop:2083?mod
 vless://29ec784e-e17f-4527-d2be-4a40d74dc346@s356.nba203.sbs:22907?security=none&encryption=none&host=ilovepdf.com&headerType=http&type=tcp#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل رایتل سرعت گاد ✅با خط های دیگ تست کنید کامنت کنید🤛ری اکشن ندید خاموش میکنم🫠♥️ JOIN @YtTe3la
 vless://277f3779-aba6-4df8-f746-b9dc91bce8d0@legenderyserversirn.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LegenderY_Servers&sni=wel.mrphh.me#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل سرعت گاد ✅ری اکشن ندید خاموش میکنم🫠♥️ JOIN @YtTe3la
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
+vless://00e94078-bb1e-49aa-8567-e1b3b2843150@172.67.195.229:443?allowInsecure=1&encryption=none&fp=chrome&host=rapid-hat-441d.platovpn.workers.dev&path=%2F&security=tls&sni=rapid-hat-441d.platovpn.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
