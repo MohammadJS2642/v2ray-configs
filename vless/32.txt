@@ -1,3 +1,5 @@
+vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@KAFING_2
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@85.208.85.235:9877?encryption=none&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#@Daily_Configs
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:2083?path=/randompath123&security=none&encryption=none&host=www.google.com&type=ws#@V2VODKA_A 🇮🇹 1
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?security=reality&encryption=none&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&headerType=none&fp=chrome&spx=/0JgLkyzlE7BAmS6&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=d1d99597038144#@V2VODKA_A 🇮🇹 2
 vless://9866995e-7225-4919-8de8-19a3f941c4d4@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@custom_config?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#🩵+@Azarakhsh_Proxy+🩷
@@ -96,5 +98,3 @@ vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?security=reality&
 vless://@MAconnectt@reseau.proxy.rlwy.net:10328?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=thcv3ZEg6P7Nv3APjZYTDyDhJA-JSC9YSa0-f81_wyk&fp=chrome&spx=/7IwXW9etgL98UFV&type=xhttp&sni=is1-ssl.mzstatic.com&sid=b8#@MAconnectt🇳🇱
 vless://@MAconnectt@zephyr.proxy.rlwy.net:17101?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&pbk=AziheoDZsI7XszygYCS1AiWoOqcNE-gmPPETKKInzWU&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=b1b396#@MAconnectt🇳🇱
 vless://@Net2ray@109.122.251.182:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪
-vless://@Net2ray@109.95.70.20:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪
-vless://@Net2ray@171.22.26.160:6666?encryption=none&security=none&type=tcp&headerType=none#@Net2ray Turkey

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (3)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
@@ -252,4 +253,3 @@ vless://50ab6b59-4596-4b28-9440-fde9f5540514@18.153.81.46:2053?security=reality&
 vless://50ab6b59-4596-4b28-9440-fde9f5540514@3.70.132.250:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&headerType=none&fp=chrome&spx=/mx1XVP8c5hIWgXr&type=tcp&sni=www.intel.com&sid=69#@TEHRANARGO
 vless://50ab6b59-4596-4b28-9440-fde9f5540514@63.177.240.253:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&headerType=none&fp=chrome&spx=/DhIHsYCnY67wRWL&type=tcp&sni=www.intel.com&sid=cb80bdafa6ca3e0e#@icv2ray
 vless://50ce1a9f-8903-4597-ad18-366afe5588c2@x1.liiliil.ir:8443?mode=auto&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&insecure=0&host=x1.liiliil.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=x1.liiliil.ir#@EXPRESSVPN_420 1TB 🌱🫂
-vless://512ba3a5-257b-4a74-b1b4-c86d852f77cc@ch.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch.viralforge.ru&sid=a1b2c3d4b5#@V2VODKA_A🇨🇭
