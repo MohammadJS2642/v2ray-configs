@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9690bf98-a672-476d-9804-10367d63025c@87.107.83.12:84?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦 @GozargahVPN
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🔥 @free_conf_iran 🔥 6
 vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=winq35461s-19523160106-direct.irgame.co#Proxy_Se7en
@@ -253,3 +252,4 @@ vless://a3a8c354-a85c-477b-90f3-dbe08cadf31c@216.167.28.246:22335?security=reali
 vless://a3a8c354-a85c-477b-90f3-dbe08cadf31c@216.167.28.246:22335?sid=a2346cd0&headerType=none&encryption=none&fp=chrome&security=reality&pbk=zPM3iLhD0ppwxYWzwiXFhQd1PwXCjFN9u28DbXdy604&sni=www.yahoo.com&flow=xtls-rprx-vision&type=tcp#@meliproxyy
 vless://a3a8c354-a85c-477b-90f3-dbe08cadf31c@216.167.28.246:22335?sid=a2346cd0&headerType=none&encryption=none&fp=chrome&security=reality&pbk=zPM3iLhD0ppwxYWzwiXFhQd1PwXCjFN9u28DbXdy604&sni=www.yahoo.com&flow=xtls-rprx-vision&type=tcp#🔵@chillguy_vpn
 vless://a3ba189d-d6d6-4f46-a575-6647d1f7cb36@45.74.159.138:2053?encryption=none&type=tcp&security=reality&sni=yahoo.com&insecure=1&allowInsecure=1&pbk=mt8WJF8MDM9oHts_TRFLU9skAYb0KAwwwr8B2UjwqzY&sid=9adbd70b13ab0f7a#@vpng3 [27]
+vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80?path=/vless&security=none&encryption=none&host=education.panelvps.eu.org&type=ws#@SylphNet | 2026-06-26 11:06

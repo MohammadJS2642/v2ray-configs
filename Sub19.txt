@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?security=none&encryption=none&headerType=http&type=tcp#🕊️Tel: @Proxy_Vpney (5)
 vless://a7c5a9f2-d833-49f7-9fcd-a3a2fbf11fb7@46.224.2.35:443?security=reality&encryption=none&pbk=uLFFVUmk5iRtO95QrmDQ9bwpcYjlOXEW75K-ExOV-3U&headerType=none&fp=chrome&spx=/SXPm2UcB6aHrgLi&type=tcp&sni=www.digikala.com&sid=42e5#🆔️ @VolexProxy 「Unlimited♾️」
 vless://a7f24c6b-4d57-4d68-b283-4d9afbd23397@89.34.230.45:18808?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁹²
 vless://a855ec8d-d966-47f9-8e6c-61e84a5103fb@72.56.89.74:33554?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁹⁹
@@ -253,3 +252,4 @@ vless://c06b2815-c117-4319-8cf2-725fbf864f7e@freeiran-opiran-2.shaygan.site:8880
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Sha.artarona.ir&fp=chrome&type=ws&allowInsecure=0&sni=Sha.artarona.ir#TEL;Father_vpn
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lol6.artarona.ir&type=ws&allowInsecure=0&sni=lol6.artarona.ir#TEL;Father_vpn
 vless://c15d8d1a-a68f-4436-8f68-6fbc7f4e3027@transparency.cloud.appcore.org:34754?security=reality&encryption=none&pbk=MNw8WI6R7SDlWC71MClNgpxNGUa-nYN4nGHn9pG62Ss&headerType=none&fp=chrome&spx=/C3QPpUphD4vVHPh&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=b02cf07a#@V2VODKA_A
+vless://c1de7c16-9c66-482c-82e5-8aeaeb5d53b3@ip2.neoservers.ir:8443?security=tls&alpn=h3,h2&encryption=none&insecure=0&host=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.&fp=chrome&type=ws&allowInsecure=0&sni=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.#@KAFING_2

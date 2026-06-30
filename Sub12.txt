@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://527561c6-bed1-44c5-8404-f322fbf7ced2@fsxhh.fastshop1.com:443?encryption=none&type=xhttp&security=tls&path=/lizzard&host=lizzard3.global.ssl.fastly.net&mode=packet-up&sni=speedtest.net&fp=chrome&insecure=1&allowInsecure=1#12 𝗝𝗼𝗶𝗻 ➠ @MoOon_proxy
 vless://527561c6-bed1-44c5-8404-f322fbf7ced2@fsxhh.fastshop1.com:443?encryption=none&type=xhttp&security=tls&path=/lizzard&host=lizzardali.global.ssl.fastly.net&mode=packet-up&sni=speedtest.net&fp=chrome&insecure=1&allowInsecure=1#13 𝗝𝗼𝗶𝗻 ➠ @MoOon_proxy
 vless://527561c6-bed1-44c5-8404-f322fbf7ced2@gr.eorqen.ir:8086?encryption=none&type=tcp&headerType=http&host=skyroom.online#17 𝗝𝗼𝗶𝗻 ➠ @MoOon_proxy
 vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=liz11.jooje.lat&mode=auto&sni=liz11.jooje.lat&fp=chrome&insecure=0&allowInsecure=0#15 𝗝𝗼𝗶𝗻 ➠ @MoOon_proxy
@@ -253,3 +252,4 @@ vless://65029dca-4e00-49fb-abd3-e79f73e838fb@127.0.0.1:28618?path=/&security=&en
 vless://65029dca-4e00-49fb-abd3-e79f73e838fb@alman.lorqina.ir:2082?path=/ed=250&security=&encryption=none&host=alman.lorqina.ir&type=ws#🇩🇪DE-🚀@VPNine1
 vless://65029dca-4e00-49fb-abd3-e79f73e838fb@alman.lorqina.ir:2082?path=/ed=250&security=&encryption=none&host=alman.lorqina.ir&type=ws#🔵@chillguy_vpn
 vless://65029dca-4e00-49fb-abd3-e79f73e838fb@alman.lorqina.ir:2082?path=/ed=250&security=none&encryption=none&host=alman.lorqina.ir&type=ws#@v2rayNplus |🇩🇪
+vless://65029dca-4e00-49fb-abd3-e79f73e838fb@alman.lorqina.ir:2086?security=reality&encryption=none&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&headerType=none&fp=chrome&spx=/ag6lE5RWnESSdZx&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4fe5b735#𝗝𝗼𝗶𝗻 ➠ @Daily_Configs ☄️

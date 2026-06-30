@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c1de7c16-9c66-482c-82e5-8aeaeb5d53b3@ip2.neoservers.ir:8443?security=tls&alpn=h3,h2&encryption=none&insecure=0&host=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.&fp=chrome&type=ws&allowInsecure=0&sni=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.#@KAFING_2
 vless://c1f37260-7d28-4370-9e67-33d9bb17f5f6@199.91.220.99:36449?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁰⁴
 vless://c1f37260-7d28-4370-9e67-33d9bb17f5f6@199.91.220.99:36449?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://c1f37260-7d28-4370-9e67-33d9bb17f5f6@199.91.220.99:36449?security=none&encryption=none&headerType=none&type=tcp#dy_gt
@@ -253,3 +252,4 @@ vless://d7e17043-cd89-40a6-8624-4adeaa55b62c@www.speedtest.net:443?path=/eyJqdW5
 vless://d7f588f4-d14b-40df-823f-ac2be36e1393@sourceforge.net:2083?path=/eyJqdW5rIjoiNTFSdm11bUR4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.meloneee.workers.dev&fp=chrome&type=ws&sni=V2ngFasT.meloneeE.WOrkErS.dev#🇩🇪 @V2ngFast
 vless://d80e27b6-1dee-466a-8b18-8f64bfd66a60@104.24.17.48:2052?path=/&security=none&encryption=none&host=vxpor.positivsis.website&type=ws#amirhoseinvalian
 vless://d829cf8d-0a32-4e60-bcc3-a03fb4658ea4@www.baipiao.eu.org:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=shy-wind-a26f.182-104.workers.dev&type=ws#@Shh_Proxy-New⁵
+vless://d85ea913-7dfa-44b0-bd66-33414e897991@172.67.73.14:443?path=/35.230.79.26=443#Join@v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
