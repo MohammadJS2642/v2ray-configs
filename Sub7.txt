@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=/proxyip=ProxyIP.CMLiussss.net&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#@free_conf_iran 👈 کانفیگ رایگان
-vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:2886?security=reality&encryption=none&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&headerType=none&fp=chrome&spx=/H30flwmjqp1iFuZ&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=40e5ca#@Soul737
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#@v2raybaaz ³
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#@v2raybaaz ⁴
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#CA 🇨🇦 | @v2raybaaz
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#FNL🇫🇮 | @v2raybaaz
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#FR🇫🇷 | @v2raybaaz
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#PL 🇵🇱 | @v2raybaaz
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#SWD 🇸🇪 | @v2raybaaz
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#TRY 🇹🇷 | @v2raybaaz
 vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#UK 🇬🇧 | @v2raybaaz
 vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#USA 🇺🇸 | @v2raybaaz
 vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#Uk2 🇬🇧 | @v2raybaaz
@@ -253,3 +243,13 @@ vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?
 vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.33.vhubtest.ru:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=/sequre/grpc&allowInsecure=0&sni=213.21.222.33.vhubtest.ru#@MTMVPN
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@104.18.31.168:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@ip.hamrahto.com:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
+vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#CxrolVPN Free (4)
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/ebmJ4UcdPxKGcPdT?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (6)
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#CxrolVPN Free (1)
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/16K876L0W1BeJ0u0?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (5)
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/DBD001v7ZAlmIpnP?ed=2560#CxrolVPN Free (3)
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#@one_shop_official
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.245:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#TEL;Father_vpn
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.252:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#TEL;Father_vpn
