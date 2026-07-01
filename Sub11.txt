@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://46882b9b-ef05-4655-a87d-47ce74d00939@51.255.147.254:2083?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.com&fp=chrome&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&sid=1e&spx=/epF3v3eYXaDZCVM&type=tcp&headerType=none#Tel: @Daily_Configs
 vless://46882b9b-ef05-4655-a87d-47ce74d00939@54.36.113.255:2053?security=reality&encryption=none&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&headerType=&fp=chrome&spx=/AUdeDn7mVyivsRa&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=c5432bb8e5c0#🇩🇪 @rayhub_ir 0701-3
 vless://4692804d-07e7-4bdf-8ea5-49d6401b7227@5.75.207.247:44004?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&security=reality&sid=77b0689f&sni=www.intel.com&type=tcp#💙9@NetFlowTools
 vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@OV2.liiliil.ir:40301?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Telegram : @V2ynpv
@@ -252,4 +253,3 @@ vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio2.game2lizard.com:2087?encryptio
 vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio2.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=liz11.jafarparty.lat&mode=auto&sni=liz11.jafarparty.lat&fp=chrome&insecure=0&allowInsecure=0#11 𝗝𝗼𝗶𝗻 ➠ @MoOon_proxy
 vless://527561c6-bed1-44c5-8404-f322fbf7ced2@uk.lizardshop.org:2053?encryption=none&type=grpc&security=reality&serviceName=xyz&mode=gun&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&sid=6ba85179e30d4fc2#@meliproxyy
 vless://527561c6-bed1-44c5-8404-f322fbf7ced2@uk.lizardshop.org:2053?mode=gun&security=reality&encryption=none&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&fp=chrome&type=grpc&serviceName=xyz&sni=play.google.com&sid=6ba85179e30d4fc2#@V2ray_confiig
-vless://527561c6-bed1-44c5-8404-f322fbf7ced2@uk.lizardshop.org:2053?mode=gun&security=reality&encryption=none&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&fp=chrome&type=grpc&serviceName=xyz&sni=play.google.com&sid=6ba85179e30d4fc2#@v2rayNplus |🇬🇧
