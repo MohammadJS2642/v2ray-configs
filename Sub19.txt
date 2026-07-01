@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#💙70@NetFlowTools
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#💙70@oneclickvpnkeys
 vless://afcb9101-feb7-4062-ab3f-27b5852f1ef3@185.226.93.216:5678?security=none&encryption=none&headerType=none&type=tcp#[84418] - Telegram : @V2All
 vless://afcb9101-feb7-4062-ab3f-27b5852f1ef3@185.226.93.216:5678?security=none&encryption=none&headerType=none&type=tcp#🇹🇷@FreakConfig
@@ -252,4 +253,3 @@ vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?security=reality&
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#TEL;Father_vpn
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://cb25df71-caec-4405-9264-b1883735898d@Snapp.opik.net:2050?security=none&encryption=none&headerType=none&type=tcp#@configprxy
-vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Proxy_Se7en
