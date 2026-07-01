@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://175c6db9-4a69-4abc-8736-c3f72748b7a0@104.25.189.214:8880?encryption=none&security=none&type=httpupgrade&host=a.postshup.ir&path=/#hope of freedom - @anotherme_night
 vless://175c6db9-4a69-4abc-8736-c3f72748b7a0@104.25.189.214:8880?path=/&security=&encryption=none&host=a.postshup.ir&type=httpupgrade#@icv2ray
 vless://175c6db9-4a69-4abc-8736-c3f72748b7a0@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=&encryption=none&host=a.postshup.ir&type=httpupgrade#@bored_vpn
 vless://175c6db9-4a69-4abc-8736-c3f72748b7a0@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=&encryption=none&host=a.postshup.ir&type=httpupgrade#@icv2ray
@@ -253,3 +252,4 @@ vless://25e0282e-7bb8-4aeb-be15-b5b610f2235a@www.speedtest.net:443?path=/eyJqdW5
 vless://25ecd682-7fb9-4bc4-bdbf-c7b97aceb990@game.walking-with-death.site:2053?security=reality&encryption=none&pbk=qM-k-WxqBUQWzHS4qBN1Wngc-c_jvaNhPzDiw87JpT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=c6a7dfed3c99d035#Tel-@ProxyMtAlpha🤪 3
 vless://25ecd682-7fb9-4bc4-bdbf-c7b97aceb990@opt.walking-with-death.site:2052?security=reality&encryption=none&pbk=qM-k-WxqBUQWzHS4qBN1Wngc-c_jvaNhPzDiw87JpT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=c6a7dfed3c99d035#Tel-@ProxyMtAlpha🤪 5
 vless://25ecd682-7fb9-4bc4-bdbf-c7b97aceb990@web.walking-with-death.site:8443?security=reality&encryption=none&pbk=qM-k-WxqBUQWzHS4qBN1Wngc-c_jvaNhPzDiw87JpT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=c6a7dfed3c99d035#Tel-@ProxyMtAlpha🤪 2
+vless://25ecd682-7fb9-4bc4-bdbf-c7b97aceb990@wp.walking-with-death.site:2087?security=reality&encryption=none&pbk=qM-k-WxqBUQWzHS4qBN1Wngc-c_jvaNhPzDiw87JpT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=c6a7dfed3c99d035#Tel-@ProxyMtAlpha🤪 4
