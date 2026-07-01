@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@chatgpt.com:80?path=/&security=&encryption=none&host=dl-pack.motionbetter.ir&type=ws#@MIMITDL
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@www.speedtest.net:80?path=/&security=&encryption=none&host=dl-pack.motionbetter.ir&type=ws#@MIMITDL
-vless://ef22e0d1-e901-4a10-b043-65e818f1298f@46.8.69.229:21474?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁹⁸
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@electro.gtboost.uk:443?&security=tls&alpn=h2&sni=NeonDagger-F582.webapi.name&type=grpc&serviceName=&mode=gun#@v2rayconfigamir 2735
 vless://ef5e8ad2-9f17-4337-b4b3-9a91ea96f115@45.95.0.219:46292?encryption=none&security=none&type=tcp#🦖1@NetFlowTools
 vless://ef5e8ad2-9f17-4337-b4b3-9a91ea96f115@45.95.0.219:46292?security=&encryption=none&headerType=&type=tcp#@Soul737
@@ -253,3 +250,6 @@ vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33276?type=grp
 vless://afd2e233-654e-407f-b3ce-651caa253521@online.4zkaban.xyz:80?path=%2FAzkaban_Online&security=none&encryption=none&host=Azkaban-Online-02.azkaban-09.buzz&type=ws#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با  همه چی سرعت گاد ✅ری اکشن ندید خاموش میکنم🫠♥️ JOIN @v2rayn_server
 vless://4ff5d96d-0460-4b10-abd6-a6df5d384531@online.4zkaban.xyz:8880?path=%2FAzkaban_Online&security=none&encryption=none&host=Azkaban-Online-01.azkaban-09.buzz&type=ws#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل سرعت گاد ✅ری اکشن ندید خاموش میکنم🫠♥️ JOIN @v2rayn_server
 vless://38ac07ff-b427-4696-9c5c-989be9020cce@VPNCUSTOMIZE.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=g2.iranislamic.top#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل رایتل سرعت گاد ✅ری اکشن ندید خاموش میکنم🫠♥️ JOIN @v2rayn_server
+vless://e7cfb53d-c75c-42b7-c548-1dde32da3a06@hm2legenderyservers.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LegenderY_Servers&sni=kl.viplegendery.ga#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با همراه سرعت گاد ✅ری اکشن ندید خاموش میکنم🫠♥️ JOIN @v2rayn_server
+vless://b3732663-3570-4d8d-810e-e21d992af825@Goto.antimelinet.click:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Go.antimelinet.click#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل سرعت گاد ✅ری اکشن ندید خاموش میکنم🫠♥️ JOIN @v2rayn_server
+vless://875ec245-7366-48dc-8756-e8889fec8816@de.kaia.pw:8080?path=%2F&security=none&encryption=none&type=ws#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل سرعت گاد ✅با خط های دیگ تست کنید کامنت بدید🤛ری اکشن ندید خاموش میکنم🫠♥️ JOIN @v2rayn_server

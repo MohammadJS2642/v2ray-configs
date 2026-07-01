@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bbbde6b4-eb72-4018-b702-1c782c528927@37.139.24.45:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=etppnyfi.j84lb8cxseup4s2nb3if.workers.dev&path=/&security=tls&sni=etppnyfi.j84lb8cxseup4s2nb3if.workers.dev&type=ws#⛳33@oneclickvpnkeys
-vless://bbbde6b4-eb72-4018-b702-1c782c528927@37.139.24.45:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=etppnyfi.j84lb8cxseup4s2nb3if.workers.dev&path=/&security=tls&sni=etppnyfi.j84lb8cxseup4s2nb3if.workers.dev&type=ws#🇳🇱NL-🚀@VPNine1
-vless://bc0602d4-86e3-4d58-80d8-afc6c67926a2@87.242.102.193:8443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a20d3ed244c76426#Telegram : @V2ynpv
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@us.janusgate.org:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=fc6549a0febd6c9f&spx=/&flow=xtls-rprx-vision&type=tcp&headerType=none#@GozargahAzad|🇺🇸
@@ -253,3 +250,6 @@ vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Proxy_Se7en
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@Soul737
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@TEHRANARGO
+vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@V2dogs_n
+vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#کانال تلگرام : MTMVPN
+vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=1&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@Soul737
