@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://73fc635f-e51c-4cf8-b659-6b99482618f9@support.fastcmd.top:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=pass.pccmd.ir&fp=chrome&type=ws&allowInsecure=0&sni=pass.pccmd.ir#telegram @mtmvpn
 vless://74705348-bb9c-47c6-9e91-057c6407bb20@104.16.72.41:8880?path=/pyip&security=&encryption=none&host=small-glitter-aa35.76-21d.workers.dev&type=ws#@meliproxyy
 vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&type=xhttp&mode=auto&host=meow.tanvexor.ir&path=/api/?ref=supervoid&security=tls&fp=chrome&sni=meow.tanvexor.ir&alpn=h2,http/1.1#@EVAY_VPN 2
 vless://7535a03c-f38c-431c-9ca8-98ee653dcc49@mail.erwinhoda.shop:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=mail.erwinhoda.shop&fp=chrome&type=ws&allowInsecure=0&sni=mail.erwinhoda.shop#5324 | @WetConfig~FREE
@@ -252,4 +253,3 @@ vless://82a668b4-0b07-43b1-9457-e4e55e0eba64@www.speedtest.net:2095?path=/&secur
 vless://82a668b4-0b07-43b1-9457-e4e55e0eba64@www.speedtest.net:2095?path=/&security=none&encryption=none&host=gb.carefreemob2.com.&type=httpupgrade#@configprxy
 vless://82a668b4-0b07-43b1-9457-e4e55e0eba64@www.speedtest.net:2095?path=/&security=none&encryption=none&host=gb.carefreemob2.com.&type=httpupgrade#@meliproxyy
 vless://82a668b4-0b07-43b1-9457-e4e55e0eba64@www.speedtest.net:2095?path=/&security=none&encryption=none&host=gb.carefreemob2.com.&type=httpupgrade#Tel-@Alpha_V2rayip😫 1
-vless://82a668b4-0b07-43b1-9457-e4e55e0eba64@www.speedtest.net:2095?path=/&security=none&encryption=none&host=gb.carefreemob2.com.&type=httpupgrade#[84872] - Telegram : @V2All
