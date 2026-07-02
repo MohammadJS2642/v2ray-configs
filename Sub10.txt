@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?encryption=none&type=ws&path=/#@vpng3 [33]
-vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?encryption=none&fp=chrome&security=tls&serviceName=grpc-api&sni=gbos2.osvp.online&type=grpc#⛳54@oneclickvpnkeys
-vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc-api&allowInsecure=0&sni=gbos2.osvp.online#@hex_proxy ⁶
-vless://3682a59c-b75a-4383-95ae-2977e4df805c@45.80.111.1:2083?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=Sa.sorixset.ir&mode=auto&path=/@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-&security=tls&sni=Sa.sorixset.ir&type=xhttp&x_padding_bytes=100-1000#V2RAYNG_IP-ALLNET6-1000.00GB📊
-vless://3682a59c-b75a-4383-95ae-2977e4df805c@45.80.111.1:2083?mode=auto&path=/@Proxy_Se7en-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=xhttp&allowInsecure=0&sni=Sa.sorixset.ir#Proxy_Se7en
-vless://3682a59c-b75a-4383-95ae-2977e4df805c@45.80.111.1:2083?mode=auto&path=/@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=Sa.sorixset.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=Sa.sorixset.ir#Tel-@ProxyMtAlpha🍊 5
 vless://36a41d68-7ee1-4eac-80de-76848f5879da@s1.meoshop.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=server.meoshop.ir&fp=chrome&type=xhttp&sni=server.meoshop.ir#@appsooner کانال تلگرام 🕊️
 vless://36a41d68-7ee1-4eac-80de-76848f5879da@s1.meoshop.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=server.meoshop.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=server.meoshop.ir#@prrofile_purple  ♥️👈 تلگرام
 vless://36ddcba8-5d7b-4243-8316-6adb4bfc6b88@134.122.61.31:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ez-c8f0f1.ezaccess1990eee.workers.dev#Proxy_Se7en
@@ -253,3 +247,9 @@ vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&pat
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@brayirani •☕ | عضو شید قطع نشید.
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@ai_duet تنهانت
+vless://4085e7cf-989e-4f92-a9c6-891b4b6e8daa@104.20.6.134:8880?type=httpupgrade&encryption=none&path=/join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&host=armenia.chatgpt.com.siasia.ir&security=none#@proSSH
+vless://40b5d855-87d4-41a1-8fd4-e3b5761d58fc@209.250.255.14:8443?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇳🇱@FreakConfig
+vless://40b5d855-87d4-41a1-8fd4-e3b5761d58fc@209.250.255.14:8443?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇳🇱@V2rayng_Fast
+vless://40b5d855-87d4-41a1-8fd4-e3b5761d58fc@209.250.255.14:8443?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇳🇱@irconfiig
+vless://40b5d855-87d4-41a1-8fd4-e3b5761d58fc@209.250.255.14:8443?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇳🇱@proxy_kafee
+vless://40b5d855-87d4-41a1-8fd4-e3b5761d58fc@209.250.255.14:8443?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇳🇱NL-🚀@V2Ray_Hub1200
