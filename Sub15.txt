@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gbw40.moyvpns.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc-api&allowInsecure=0&sni=gbw40.moyvpns.com#🇬🇧@FreakConfig
+vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gbw40.moyvpns.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc-api&allowInsecure=0&sni=gbw40.moyvpns.com#🇬🇧@V2rayng_Fast
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gbw40.moyvpns.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc-api&allowInsecure=0&sni=gbw40.moyvpns.com#🇬🇧@irconfiig
 vless://8135535d-88b4-4526-a358-9028e846ed94@192.248.190.75:443?type=tcp&fp=chrome&headerType=http&encryption=none&sni=www.yahoo.com&sid=ac71da7abfba&spx=/JFqOuDm3Q7qoDBE&security=reality&pbk=uQ5YmMH6hwHQ0I8sYLf6gR6kHQiupepTnw9u5hMVd1k#@Best_internet_iran
 vless://81684c3f-2b47-4ba1-a327-870b0aab8f1c@real.logoseti.ir:46259?security=reality&encryption=mlkem768x25519plus.native.0rtt.jgeYdhgpctxZmBFaJyg2IjnvAuvSqymhs8XisXWmKgw&pbk=NWWP3DO2BT4eBpoZ0isFEySZzZ6pjqH_9n5Lw07AxVQ&headerType=none&fp=chrome&spx=/zzPINUtb7JKHSnb&type=tcp&sni=tgju.org&sid=fd#@vmess_ir
@@ -251,5 +253,3 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.248:443?security=realit
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.248:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#https://t.me/v2rayNplus |🍇
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#@Daily_Configs
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.249:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@hi_proxy_iran :👈کانال تلگرام
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.249:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@meliproxyy
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.249:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#All-@V2rayAlpha--22
