@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://eb9c6180-ed5f-4a18-8645-3a487f8088ed@141.193.213.10:2087?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-portal-27ef.nova-b77bd6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-portal-27ef.nova-b77bd6.workers.dev#@icv2ray
-vless://ebb957fc-5a5a-4a50-b550-c05d24f5ff36@ukk.w-ert.org:443?security=reality&encryption=none&pbk=PSv0l093Vrd_8lTzm7ArT9tG_umWrpACzaGpyoxkhX4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=2d1dc0afe378f5fc#@configprxy
-vless://ebb981c8-086f-4469-a3d2-e50f4135ed06@britain.mymarzban.com:9110?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=jPN1rT1d60wJZL-f6YkJr6bit3ZBGabU8qT89CzXewo&sid=f27c6afae47825a0&flow=xtls-rprx-vision#@vpng3 [18]
-vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@212.69.86.220:9443?security=reality&encryption=none&pbk=2MnLp2jBmP-bPYRHf3VY3wyGMwIYIAizXCB7UxgYVGc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=estonianode.dostupnet.ru&sid=7c16c340cde3ed39#@prrofile_purple  ♥️👈 تلگرام
-vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722#@v2rayconfigamir 9542
-vless://ec8c34f4-3576-4138-b847-61d177367e09@45.145.43.46:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&host=&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru-2.videoproeditor.com&sid=6d6f13013d3e1d0c#@vmesskhodam
 vless://ec8c34f4-3576-4138-b847-61d177367e09@45.145.43.46:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&host=&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru-2.videoproeditor.com&sid=6d6f13013d3e1d0c#[85808] - Telegram : @V2All
 vless://ec8c34f4-3576-4138-b847-61d177367e09@45.145.43.46:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru-2.videoproeditor.com&sid=6d6f13013d3e1d0c#@meliproxyy
 vless://ec8c34f4-3576-4138-b847-61d177367e09@45.145.43.46:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru-2.videoproeditor.com&sid=6d6f13013d3e1d0c#@v2rayNplus |🇩🇪
@@ -253,3 +247,9 @@ vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?path=/?TELEGRAM
 vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?path=/t-me-V2RayyNGvpn&security=none&encryption=none&host=t.codmgiftcp.com&type=ws#🇲🇽 Mexic 🇲🇽
 vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?path=/t-me-V2RayyNGvpn&security=none&encryption=none&host=t.codmgiftcp.com&type=ws#🇲🇽 Mexic 🇲🇽 🔐بزنید تو هیدیفای
 vless://f40ea80a-7848-4d49-b2ff-19585e4db8de@188.164.248.185:2096?path=/&security=tls&encryption=none&insecure=0&host=sw.captainsparo.ir&type=ws&allowInsecure=0&sni=sw.captainsparo.ir#@Hunnter_vpn|اختصاصی کانال
+vless://f40ea80a-7848-4d49-b2ff-19585e4db8de@91.193.58.128:2096?path=/&security=tls&encryption=none&insecure=0&host=sw.captainsparo.ir&type=ws&allowInsecure=0&sni=sw.captainsparo.ir#@Hunnter_vpn|اختصاصی کانال
+vless://f40ef9e3-ce9d-438f-a421-2b3f3361c86a@hollowcon6.onrender.com:443?encryption=none&security=tls&sni=hollowcon6.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon6.onrender.com&path=/ws/f40ef9e3-ce9d-438f-a421-2b3f3361c86a#@hollowcon
+vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=alaedin9.8lack.ir#@NetZone_ir
+vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#TEL;Father_vpn
+vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=1Z6i1nhm.85858569.Xyz#@KAFING_2
