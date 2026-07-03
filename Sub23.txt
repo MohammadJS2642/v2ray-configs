@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ec8c34f4-3576-4138-b847-61d177367e09@45.145.43.46:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&host=&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru-2.videoproeditor.com&sid=6d6f13013d3e1d0c#@vmesskhodam
 vless://ec8c34f4-3576-4138-b847-61d177367e09@45.145.43.46:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&host=&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru-2.videoproeditor.com&sid=6d6f13013d3e1d0c#[85808] - Telegram : @V2All
 vless://ec8c34f4-3576-4138-b847-61d177367e09@45.145.43.46:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru-2.videoproeditor.com&sid=6d6f13013d3e1d0c#@meliproxyy
 vless://ec8c34f4-3576-4138-b847-61d177367e09@45.145.43.46:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru-2.videoproeditor.com&sid=6d6f13013d3e1d0c#@v2rayNplus |🇩🇪
@@ -252,4 +253,3 @@ vless://f40ef9e3-ce9d-438f-a421-2b3f3361c86a@hollowcon6.onrender.com:443?encrypt
 vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=alaedin9.8lack.ir#@NetZone_ir
 vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
 vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#TEL;Father_vpn
-vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=1Z6i1nhm.85858569.Xyz#@KAFING_2

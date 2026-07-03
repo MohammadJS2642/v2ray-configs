@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@d-a.lorqina.ir:2086?security=reality&encryption=none&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&headerType=none&fp=chrome&spx=/zH8bCLheKNPSSKg&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=f237dd185008d68b#🇩🇪@FreakConfig
 vless://3fa92976-551b-4805-b59e-e4f09db85e71@p-l.lorqina.ir:28978?security=reality&encryption=none&pbk=3uy61O2m5gnick-92Ce7OE-28ED3EVa1I4UVdW4T_1M&headerType=none&fp=chrome&spx=/2Lgir0FRWswyH4H&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=655d#kurdconfig
 vless://3fa92976-551b-4805-b59e-e4f09db85e71@p-l.lorqina.ir:28978?security=reality&encryption=none&pbk=3uy61O2m5gnick-92Ce7OE-28ED3EVa1I4UVdW4T_1M&headerType=none&fp=chrome&spx=/2Lgir0FRWswyH4H&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=655d#🇵🇱@FreakConfig
 vless://3fa92976-551b-4805-b59e-e4f09db85e71@p-l.lorqina.ir:28978?security=reality&encryption=none&pbk=3uy61O2m5gnick-92Ce7OE-28ED3EVa1I4UVdW4T_1M&headerType=none&fp=chrome&spx=/2Lgir0FRWswyH4H&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=655d#🇵🇱@irconfiig
@@ -252,4 +253,3 @@ vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&se
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&host=amoosamiii.net&type=ws&sni=amoosamiii.net#@Ap_Ir6
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=amoosamiii.net#Proxy_Se7en
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#%@FREE_VPN02
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#%FREE_VPN02 🌊
