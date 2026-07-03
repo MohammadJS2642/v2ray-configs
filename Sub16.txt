@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@FarazV2ray
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@Soul737
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@V2dogs_n
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@V2rayng_Fast
@@ -253,3 +252,4 @@ vless://917fe3da-69ed-4e59-b185-431ea872b033@3.72.41.95:61857?mode=stream-up&pat
 vless://91a91ad7-c7e4-4e04-9fc0-9b09258b6b32@87.120.106.108:443?encryption=none&pbk=KqHciQyC2W9Eq_ePB6VEIyCbnPJHUsxWPrbMlocS6mo&fp=chrome&security=reality&sid=8c19389a3280cd&spx=/D4HumbnInqQmWHR&type=tcp&headerType=http&sni=www.yahoo.com#best_internet_iran
 vless://91ec0ca2-6847-4165-ac44-db1968251dad@85.198.12.224:43317?encryption=none&security=none&type=ws&host=myket.ir&path=/#Tel: @Daily_Configs
 vless://91ec0ca2-6847-4165-ac44-db1968251dad@85.198.12.224:43317?path=/&security=none&encryption=none&host=myket.ir&type=ws#@NetFlowTools
+vless://91ec0ca2-6847-4165-ac44-db1968251dad@85.198.12.224:43317?path=/&security=none&encryption=none&host=myket.ir&type=ws#@one_shop_official
