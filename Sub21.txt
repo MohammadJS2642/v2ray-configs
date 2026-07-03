@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b788e98c-ce84-4edc-b094-cb39b0c3560d@172.67.147.147:2087?path=/eyJqdW5rIjoiR0dOV0RFdWdUU3k1cmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-52028e.shirshir.workers.dev&fp=chrome&type=ws&sni=ez-52028E.ShIrShir.WoRkers.dEV#🇩🇪 @V2ngFast
-vless://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=/salsaserver&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#@meliproxyy
-vless://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=/salsaserver&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#All-@V2rayAlpha--4
 vless://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=/salsaserver&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#Channel id: @ShadowProxy66🇮🇷
 vless://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=/salsaserver&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#kurdconfig
 vless://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=/salsaserver&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#🇩🇪 @FreakConfig
@@ -253,3 +250,6 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.106:443?path=/?ed&securit
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.219:443?path=/?ed&security=tls&encryption=none&type=ws&sni=ve.ylkszy.eu.org#@Hope_Net-join-us-on-Telegram
 vless://c83aeb55-0f8d-4476-afee-fb63e9ea7404@62.109.29.49:443?type=tcp&security=reality&encryption=none&sni=jobinvest.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&headerType=none#@v2rayconfigamir 3271
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@hopev2ray💚
+vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
+vless://c87950b3-f132-450a-bec6-e9e91fc9d8bc@193.23.219.140:56453?security=&encryption=none&headerType=&type=tcp#Germany 🇩🇪
+vless://c87950b3-f132-450a-bec6-e9e91fc9d8bc@193.23.219.140:56453?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁹⁵
