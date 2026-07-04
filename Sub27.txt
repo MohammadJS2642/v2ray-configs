@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://BxceQaOe@13.230.228.151:27826?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://d6788cf74e6844c45538204efd24b00f@18.162.58.236:5701?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://d6788cf74e6844c45538204efd24b00f@18.162.58.236:55973?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://d6788cf74e6844c45538204efd24b00f@16.163.50.86:48738?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://d6788cf74e6844c45538204efd24b00f@16.163.43.143:29642?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://BxceQaOe@43.199.77.197:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://d6788cf74e6844c45538204efd24b00f@16.162.58.236:49277?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
@@ -253,3 +249,7 @@ trojan://MITIVPN@45.131.4.115:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=
 trojan://MITIVPN@69.84.182.44:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=us--a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us--a.App-Cloud.ir#🇺🇸@FreakConfig
 trojan://MITIVPN@69.84.182.44:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=us--a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us--a.App-Cloud.ir#🇺🇸@V2rayng_Fast
 trojan://MITIVPN@69.84.182.44:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=us--a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us--a.App-Cloud.ir#🇺🇸@irconfiig
+trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@fastkanfig 4
+trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@prrofile_purple  ♥️👈 تلگرام
+trojan://MITIVPN@94.140.0.40:443?alpn=http/1.1&fp=chrome&host=Usa.App-Cloud.ir&path=/MiTiVPN=Usa&sni=Usa.App-Cloud.ir&type=ws#🍓54@oneclickvpnkeys
