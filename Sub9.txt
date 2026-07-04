@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://199436d3-2fa2-4e34-a1de-844419de5a4f@xn-ip.dbsll.ir:2083?encryption=none&security=tls&sni=xn-de.shakhle.ir.&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=xn-de.shakhle.ir.&path=/#🔵@chillguy_vpn
+vless://199436d3-2fa2-4e34-a1de-844419de5a4f@xn-ip.dbsll.ir:2083?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xn-de.shakhle.ir.&fp=chrome&type=ws&allowInsecure=0&sni=xn-de.shakhle.ir.#🔵@chillguy_vpn
+vless://199436d3-2fa2-4e34-a1de-844419de5a4f@xn-ip.dbsll.ir:2083?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xn-de.shakhle.ir.&fp=chrome&type=ws&allowInsecure=0&sni=xn-de.shakhle.ir.#Channel : @Daily_Configs
+vless://199436d3-2fa2-4e34-a1de-844419de5a4f@xn-ip.dbsll.ir:2083?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=xn-de.shakhle.ir.&fp=chrome&type=ws&sni=xn-de.shakhle.ir.#🔵@chillguy_vpn
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=&encryption=none&host=check-host.net&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
 vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@104.18.134.56:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=cp.kermanshahi.org#Proxy_Se7en
@@ -249,7 +253,3 @@ vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@api.pl.pngv.top:4999?security=none&
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@fr-po.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇷 چنل تلگرام : @EXPRESSVPN_420
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@gr-direct.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 چنل تلگرام : @EXPRESSVPN_420
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@gr-direct2.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪2 - چنل تلگرام : @EXPRESSVPN_420
-vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@old.v2xpin.de:443?encryption=none&security=tls&sni=api-fr1.ipng.site&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=api-fr.ipng.site&path=/random&mode=auto#Channel : @Daily_Configs
-vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@old.v2xpin.de:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=api-fr.ipng.site&fp=chrome&type=xhttp&sni=api-fr1.ipng.site#@V2ray_confiig
-vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@old.v2xpin.de:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-fr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-fr1.ipng.site#[86612] - Telegram : @V2All
-vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@old.v2xpin.de:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-fr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-fr1.ipng.site#kurdconfig

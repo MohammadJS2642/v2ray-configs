@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸@V2rayng_Fast
+trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸@irconfiig
+trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=/MiTiVPN=De&host=miticonfig.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🕯️ - 13
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@Leecher56
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@bored_vpn
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@fastkanfig 1
@@ -250,6 +253,3 @@ trojan://MiTiVPN@88.216.67.230:443?type=ws&security=tls&path=/MiTiVPN=NL&host=Ne
 trojan://MiTiVPN@89.116.180.49:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&host=f6r.ir&fp=chrome&type=ws&sni=f6r.ir#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://MiTiVPN@89.116.180.49:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#@prrofile_purple  ♥️👈 تلگرام
 trojan://MiTiVPN@91.193.58.201:443?alpn=http/1.1&fp=chrome&host=Fl.App-Cloud.ir&path=/MiTiVPN=fL&sni=fl.App-Cloud.ir&type=ws#🍓52@oneclickvpnkeys
-trojan://MiTiVPN@91.193.58.201:443?host=Fl.App-Cloud.ir&path=/MiTiVPN=fL&sni=Fl.App-Cloud.ir&type=ws#🪼14@oneclickvpnkeys
-trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#✅  @vistav2ray  👈👈کانال ما ✅
-trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&host=PioHosting.ir&fp=chrome&type=ws&sni=PioHosting.ir#✅  @vistav2ray  👈👈کانال ما ✅
