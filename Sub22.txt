@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c8059a96-50a6-46c9-8318-8829501d8136@108.162.192.67:8443?path=&security=tls&encryption=none&insecure=0&host=zeus-panel-51pprl.zeus-ppywa6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-51pprl.zeus-ppywa6.workers.dev#@vmesskhodam
-vless://c817e394-7688-4970-f864-2c92b93821aa@82.40.62.46:80?path=/download.php&security=&encryption=none&host=play.google.com&type=ws#اختصاص
 vless://c817e394-7688-4970-f864-2c92b93821aa@82.40.62.46:80?path=/download.php&security=&encryption=none&host=play.google.com&type=ws#اختصاصی چنل Raiv2mmr-0oyqmxma
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.102:443?security=tls&sni=ve.ylkszy.eu.org&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.198:443?security=tls&sni=ve.ylkszy.eu.org&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
@@ -253,3 +251,5 @@ vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@66.245.196.212:443?security=reality
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@fra.edgeptr.org:443?mode=auto&path=/api/v1/data&security=reality&encryption=none&pbk=NgeK43tvGe6YZNEdr4HL-CdimEA59KNFtu1nCNh8LFE&fp=chrome&spx=/assets/img?v=2&type=xhttp&sni=ajax.aspnetcdn.com&sid=fedcba9876543210#🇩🇪 Frankfurt
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@lon.edgeptr.org:443?mode=auto&path=/api/v1/data&security=reality&encryption=none&pbk=NgeK43tvGe6YZNEdr4HL-CdimEA59KNFtu1nCNh8LFE&fp=chrome&spx=/assets/img?v=2&type=xhttp&sni=ajax.aspnetcdn.com&sid=b00bface11223344#🇬🇧 London
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@nbg.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=0a1b2c3d4e5f6071#🇩🇪 Nuremberg
+vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=fedcba9876543210#🇧🇬 Sofia
+vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@sto.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=0a1b2c3d4e5f6071#🇸🇪 Stockholm

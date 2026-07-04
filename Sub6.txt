@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://501c1f83-a390-4b93-99db-7f57d0111573@nr.cnkstore.ru:8443?security=reality&encryption=none&pbk=v9tl1F7ZGdPeudN3tsHw02vvOpLOvhGBUEjgeCtsvQk&headerType=none&fp=firefox&type=tcp&sni=iv.kommersant.ru&sid=fe74a5e0a6#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20down
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.224:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20208ms
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20108ms
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.66:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20202ms
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.140:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20206ms
@@ -253,3 +251,5 @@ vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.51:8443?encryption=none&
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#@hex_proxy ¹
 vless://05bf717c-c51f-498f-8655-cd61e5d4d8d3@45.80.111.1:2083?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=Sa.sorixset.ir&mode=auto&path=/@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-&security=tls&sni=Sa.sorixset.ir&type=xhttp&x_padding_bytes=100-1000#V2RAYNG_IP-ALLNET4-800.00GB📊
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=none&encryption=none&type=ws#🇳🇱NL-🚀@VPNine1
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=/&security=none&encryption=none&type=ws#@iguanaVPN4
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=/&security=none&encryption=none&type=ws#@iguanaVPN7

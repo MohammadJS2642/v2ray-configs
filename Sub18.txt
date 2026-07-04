@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@plkrep.tgflow.me:443?encryption=none&type=tcp&security=reality&headerType=none&sni=plkrep.tgflow.me&fp=chrome&insecure=1&allowInsecure=1&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&sid=fe8950f135674cfc&flow=xtls-rprx-vision#@meliproxyy
-vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@plkrep.tgflow.me:443?security=reality&encryption=none&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plkrep.tgflow.me&sid=fe8950f135674cfc#@V2ray_Alpha🚂 2
 vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@plkrep.tgflow.me:443?security=reality&encryption=none&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plkrep.tgflow.me&sid=fe8950f135674cfc#@meliproxyy
 vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@plkrep.tgflow.me:443?security=reality&encryption=none&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plkrep.tgflow.me&sid=fe8950f135674cfc#☑➜چنلمون: Express_freevpn@
 vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@plkrep.tgflow.me:443?security=reality&encryption=none&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plkrep.tgflow.me&sid=fe8950f135674cfc#🇵🇱 🎮 @proxy_kafee
@@ -253,3 +251,5 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.125:443?path=/LiL?ed=256
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.125:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@bored_vpn
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.125:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#kurdconfig
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.125:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#کانال تلگرام :  @MTMVPN
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.125:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🇨🇦@FreakConfig
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.125:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🇨🇦@V2rayng_Fast
