@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c817e394-7688-4970-f864-2c92b93821aa@82.40.62.46:80?path=/download.php&security=&encryption=none&host=play.google.com&type=ws#اختصاصی چنل Raiv2mmr-0oyqmxma
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.102:443?security=tls&sni=ve.ylkszy.eu.org&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.198:443?security=tls&sni=ve.ylkszy.eu.org&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.106:443?path=/?ed&security=tls&encryption=none&type=ws&sni=ve.ylkszy.eu.org#@Hope_Net-join-us-on-Telegram
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.219:443?path=/?ed&security=tls&encryption=none&type=ws&sni=ve.ylkszy.eu.org#@Hope_Net-join-us-on-Telegram
@@ -253,3 +251,5 @@ vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@lon.edgeptr.org:443?mode=auto&path=
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@nbg.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=0a1b2c3d4e5f6071#🇩🇪 Nuremberg
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=fedcba9876543210#🇧🇬 Sofia
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@sto.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=0a1b2c3d4e5f6071#🇸🇪 Stockholm
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#🔥 @free_conf_iran 🔥 3
+vless://de92dc6a-4eed-4888-9077-1fc006ad339d@sy2.syragame.com:443?type=xhttp&host=sy.syragame.com&path=/&mode=auto&security=tls&sni=sy.syragame.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@CxrolVPN
