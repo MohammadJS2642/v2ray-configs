@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://aac3348a-5adb-45b8-875a-305102c3bfa7@Hes.purplrose.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=meh.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=meh.purplrose.ir#@ai_duet
 vless://abb5cbf3-bf08-4814-afaf-4147a5a5ddb1@telewebion.ir.marandcity.com:443?security=reality&alpn=http/1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#@v2raybaaz
 vless://abb5cbf3-bf08-4814-afaf-4147a5a5ddb1@torob.ir.marandcity.com:443?security=reality&alpn=http/1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=www.yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=e915#@v2raybaaz
 vless://abd33b58-df1c-44eb-8eae-9e443d73d621@sub.1.polnejat.ir:25718?security=none&encryption=none&headerType=none&type=tcp#@vmess_ir
@@ -252,4 +253,3 @@ vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.3
 vless://bcdc633c-b4af-4dba-bb63-5a2347e7c2bc@138.252.100.85:32351?path=/&security=&encryption=none&type=ws#@icv2ray
 vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=/&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
-vless://bdeb0104-0e0e-4dc7-83ad-2bb0dbbb3e44@162.159.48.164:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=ez-5f64a8.ezaccess13b44f5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-5f64a8.ezaccess13b44f5.workers.dev#🚀@V2Ray_Hub1200

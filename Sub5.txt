@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@nl1.orpheous.ru:443?flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=725247f5bf7fe3fe&sni=nl1.orpheous.ru#🆔ar14n24b%20🔒%20VL--%20❔%20XX%20155ms
 vless://3dbec774-ef69-463f-9bec-dfc899e41cb9@45.43.75.124:443?fp=chrome&path=%2F&pbk=C0lyFVn8diL1wNztFDpFtTMjohRbNu-1x6yee6VGdnw&security=reality&sni=www.google.com&type=http#🆔ar14n24b%20🔒%20VL-HTTP-%20❔%20XX%2082ms
 vless://8742a92e-6826-4746-b7c3-d42d83e5d83c@45.141.119.16:443?flow=xtls-rprx-vision&fp=firefox&pbk=1Txlqu4hCFzUPBSO6anONR0ql930aitMuh4ZcsJcxm4&security=reality&sid=f7ef1b05&sni=ch-zrh-1.blook.network#🆔ar14n24b%20🔒%20VL--%20❔%20XX%2099ms
 vless://8b04b31b-6435-472e-a598-90705c575afc@au-n1.gsupport.support:443?flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&security=reality&sid=8718c58d3d51db59&sni=au3.greenzone12.com#🆔ar14n24b%20🔒%20VL--%20❔%20XX%20233ms
@@ -252,4 +253,3 @@ vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.140:8443?security=realit
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20441ms
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.83:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20111ms
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=%2Fpoiuyws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%203ms
-vless://e18cdfef-c81f-4199-8b2d-afcaf9f21cd0@141.193.213.10:443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-river-portal-b162.alireza57290.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-river-portal-b162.alireza57290.workers.dev#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%203ms
