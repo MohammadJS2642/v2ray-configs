@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@ipw.ygdfw.com:443?encryption=none&type=xhttp&security=tls&path=%2Fmeti&host=livE-134T8wvT.beuIZ.cOm&mode=stream-one&sni=livE-134T8wvT.beuIZ.cOm&fp=chrome&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-XHTTP-N/A%20🇸🇨%20SC%2020ms
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&type=tcp&security=tls&headerType=none&sni=186.190.211.188&insecure=1&allowInsecure=1#🆔spotify_porteghali%20🔒%20VL-TCP-N/A%20🇬🇧%20GB%20255ms
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&security=tls&path=%2FLiL%3Fed%3D2560&sni=kingcloud.biack.ir&alpn=h3&fp=firefox&insecure=1&allowInsecure=1#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20🇸🇪%20SE%209ms
 vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=firefox&insecure=1&allowInsecure=1&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&sid=af1fac6e&spx=%2F#🆔spotify_porteghali%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
@@ -253,3 +252,4 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.125:443?path=%2FLiL%3Fed
 vless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?security=reality&encryption=none&pbk=Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=205f8d#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇳🇱%20NL%20143ms
 vless://3aff2f4c-cbe7-b6f1-d1b2-86ad0a8d78c2@ansooyefilter-channel.up.railway.app:443?path=%2Fws%2F3aff2f4c-cbe7-b6f1-d1b2-86ad0a8d78c2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ansooyefilter-channel.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter-channel.up.railway.app#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇺🇸%20US%20128ms
 vless://3b715892-8610-4fdc-9086-647b36af5443@fastly.videobazi.com:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=dutschh.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#🆔v2ray1_ng%20🔒%20VL-XHTTP-N/A%20🇺🇸%20US%2057ms
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇺🇸%20US%209ms
