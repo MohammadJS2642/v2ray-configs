@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://199436d3-2fa2-4e34-a1de-844419de5a4f@ns-fi.onlinernet.ir:20018?encryption=none&type=tcp&headerType=http&host=status.play.google.com#🇩🇪DE-🚀@VPNine1
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@xn-ip.dbsll.ir:2083?encryption=none&security=tls&sni=xn-de.shakhle.ir.&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=xn-de.shakhle.ir.&path=/#🔵@chillguy_vpn
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@xn-ip.dbsll.ir:2083?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xn-de.shakhle.ir.&fp=chrome&type=ws&allowInsecure=0&sni=xn-de.shakhle.ir.#🔵@chillguy_vpn
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@xn-ip.dbsll.ir:2083?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xn-de.shakhle.ir.&fp=chrome&type=ws&allowInsecure=0&sni=xn-de.shakhle.ir.#Channel : @Daily_Configs
@@ -252,4 +253,3 @@ vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@85.192.49.4:443?security=reality&en
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@api.pl.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇵🇱 چنل تلگرام : @EXPRESSVPN_420
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@fr-po.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇷 چنل تلگرام : @EXPRESSVPN_420
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@gr-direct.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 چنل تلگرام : @EXPRESSVPN_420
-vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@gr-direct2.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪2 - چنل تلگرام : @EXPRESSVPN_420
