@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://MITIVPN@45.8.211.217:443?path=/MiTiVPN=DE&security=tls&alpn=http/1.1&insecure=0&host=D--e.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=D--e.App-Cloud.ir#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در
 trojan://MITIVPN@45.8.211.217:443?path=/MiTiVPN=DE&sni=D--e.App-Cloud.ir&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&security=tls&fp=chrome&host=D--e.App-Cloud.ir#@NewsDarya
 trojan://MITIVPN@45.8.211.217:443?type=ws&security=tls&path=/MiTiVPN=DE&host=D--e.App-Cloud.ir&sni=D--e.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
 trojan://MITIVPN@69.84.182.44:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=us--a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us--a.App-Cloud.ir#🇺🇸@FreakConfig
@@ -253,3 +252,4 @@ trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&i
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#@erfanandroid
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#@prrofile_purple  ♥️👈 تلگرام
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#Proxy_Se7en
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Soul737---Soul737---Soul737---Soul737---Soul737---Soul737---Soul737&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#@Soul737
