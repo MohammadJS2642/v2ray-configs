@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?encryption=none&type=grpc&security=reality&sni=c.primarymaster.online&fp=firefox&insecure=1&allowInsecure=1&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5#🔵@chillguy_vpn
-vless://356ccb34-22cc-4446-a137-072bc60d65ca@45.196.224.103:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=storage.yandex.net&type=tcp#%F0%9F%92%9919@NetFlowTools
 vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.70:2096?encryption=none&type=ws&security=tls&path=%2Fproxyip&host=sp.linuxdododo.ccwu.cc&sni=sp.linuxdododo.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0#🔵@chillguy_vpn
 vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.2:2096?path=%2Fproxyip&security=tls&encryption=none&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&sni=sp.linuxdododo.ccwu.cc#🔵@chillguy_vpn
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.53:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#%F0%9F%92%9917@NetFlowTools
@@ -253,3 +251,5 @@ trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.ignitelimit.com&ws=
 trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.creationlong.org&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?allowInsecure=1&sni=yazhou10.dynu.net#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF-%3E%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://humanity@104.16.250.22:443?type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A52
+trojan://humanity@202.37.33.80:443?type=ws&sni=www.creationlong.org&path=/assignment#%E6%9C%AA%E7%9F%A53

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@104.16.250.22:443?type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A52
-trojan://humanity@202.37.33.80:443?type=ws&sni=www.creationlong.org&path=/assignment#%E6%9C%AA%E7%9F%A53
 trojan://humanity@199.181.197.111:443?type=ws&sni=www.calmloud.com&path=/assignment#%E6%9C%AA%E7%9F%A54
 trojan://humanity@104.25.112.190:443?type=ws&sni=www.gossipglove.com&path=/assignment#%E6%9C%AA%E7%9F%A55
 trojan://d6788cf74e6844c45538204efd24b00f@16.163.138.198:55973?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
@@ -253,3 +251,5 @@ trojan://MITIVPN@69.84.182.44:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&i
 trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@fastkanfig 4
 trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@prrofile_purple  ♥️👈 تلگرام
+trojan://MITIVPN@94.140.0.40:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&host=Usa.App-Cloud.ir&fp=chrome&type=ws&sni=Usa.App-Cloud.ir#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MITIVPN@94.140.0.40:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#@prrofile_purple  ♥️👈 تلگرام
