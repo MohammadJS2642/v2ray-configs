@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://12d8b109-394d-4d0c-a208-2b9a41f09f36@188.114.97.6:443?path=/my-wbv&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
 vless://12e10260-18fe-41b2-8374-a66a1db631f8@dl2.gooniforoshi.fun:443?encryption=none&security=tls&sni=dl2.gooniforoshi.fun&insecure=0&allowInsecure=0&type=ws&host=dl2.gooniforoshi.fun&path=/download.php#Telegram : @Daily_Configs
 vless://12e10260-18fe-41b2-8374-a66a1db631f8@dl3.gooniforoshi.fun:443?encryption=none&security=tls&sni=dl3.gooniforoshi.fun&insecure=0&allowInsecure=0&type=ws&host=dl3.gooniforoshi.fun&path=/download.php#Telegram : @Daily_Configs
 vless://12e10260-18fe-41b2-8374-a66a1db631f8@dl4.gooniforoshi.fun:443?encryption=none&security=tls&sni=dl4.gooniforoshi.fun&insecure=0&allowInsecure=0&type=ws&host=dl4.gooniforoshi.fun&path=/download.php#Telegram : @Daily_Configs
@@ -252,4 +253,3 @@ vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=/&security=tl
 vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=/&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#@V2raySup0🛍️
 vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=/&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#@erfanandroid
 vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=/&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#V2raySaman
-vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=/&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩

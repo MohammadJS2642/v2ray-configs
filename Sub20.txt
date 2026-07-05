@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a83c8dd4-7406-4563-85d4-cd8a36187bc9@nodejs.org:443?path=/eyJqdW5rIjoiU1UxQW1kMm13Ukc4bCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ez-f121e7.shabakoon.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-F121e7.SHabaKOON.WORKErs.dEV#🚀@V2Ray_Hub1200
 vless://a83c8dd4-7406-4563-85d4-cd8a36187bc9@nodejs.org:443?path=/eyJqdW5rIjoiU1UxQW1kMm13Ukc4bCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-f121e7.shabakoon.workers.dev&fp=chrome&type=ws&sni=ez-F121e7.SHabaKOON.WORKErs.dEV#🇩🇪 @V2ngFast
 vless://a855ec8d-d966-47f9-8e6c-61e84a5103fb@72.56.89.74:33554?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁹⁹
 vless://a89159ad-c590-451c-99cb-42b5ecf938c2@arvancloud.ir:80?path=/&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#@NetZone_ir
@@ -252,4 +253,3 @@ vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@ipw.ygdfw.com:443?mode=stream-one&p
 vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@ipw.ygdfw.com:443?mode=stream-one&path=/meti&security=tls&encryption=none&extra={"uplinkHTTPMethod":"PUT","xPaddingBytes":"100-1000"}&insecure=0&host=lIVe-1OdGy1GQ.bEuIZ.COM&fp=chrome&type=xhttp&allowInsecure=0&sni=lIVe-1OdGy1GQ.bEuIZ.COM#@mehrosaboran
 vless://bbba9d85-8580-4502-a025-e70cebfdd1fe@70.34.198.195:53753?type=tcp&encryption=none&security=none#🇸🇪SE-🚀@VPNine1
 vless://bbe20750-1718-414c-8ac6-041899cb0216@185.226.93.174:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Channel : @Daily_Configs
-vless://bc0602d4-86e3-4d58-80d8-afc6c67926a2@87.242.102.193:8443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a20d3ed244c76426#Telegram : @V2ynpv
