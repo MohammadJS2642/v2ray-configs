@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?sni=vpn5.rnmcnm.com#%E6%9C%AA%E7%9F%A5
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.18.153.10:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/au-do&host=space.byu.id.yxls.eu.cc#%E6%9C%AA%E7%9F%A58
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://humanity@www.ignitelimit.com:443?#%E6%9C%AA%E7%9F%A511
@@ -251,5 +253,3 @@ trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/MiTiVPN=De&hos
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/MiTiVPN=De&host=germany.App-Cloud.ir&sni=germany.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/MiTiVPN=USA&host=us-a.App-Cloud.ir&sni=us-a.App-Cloud.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@w570w
 trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=Usa.App-Cloud.ir&sni=Usa.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
-trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=united.App-Cloud.ir&sni=united.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
-trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=us--a.App-Cloud.ir&sni=us--a.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
