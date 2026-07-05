@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#@confiig_hub
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#@prrofile_purple  ♥️👈 تلگرام
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#B2
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#telegram @mtmvpn
@@ -252,4 +253,3 @@ vless://b28e9d34-515e-4048-acc2-c3098a3c1f50@104.17.193.61:80?encryption=none&ty
 vless://b28e9d34-515e-4048-acc2-c3098a3c1f50@SPEEDtest.Net:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=farangis.global.ssl.fastly.neT.&type=xhttp#@configprxy
 vless://b28e9d34-515e-4048-acc2-c3098a3c1f50@falkoraz.sav-savteam.iR:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=880eeeef4927eed5#@V2ray_Alpha⛈️ 5
 vless://b28e9d34-515e-4048-acc2-c3098a3c1f50@falkoraz.sav-savteam.iR:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=880eeeef4927eed5#@configprxy
-vless://b28e9d34-515e-4048-acc2-c3098a3c1f50@falkoraz.sav-savteam.iR:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=880eeeef4927eed5#@meliproxyy
