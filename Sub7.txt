@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://12057eb0-5b11-47ed-b34b-0c8646b99864@104.24.38.200:8080?path=/?ed=2056&security=none&encryption=none&host=xcc.dl5movis.ir&type=httpupgrade#چنل عضو شو @v2ra_config
 vless://12057eb0-5b11-47ed-b34b-0c8646b99864@cf.parsdev.eu:2052?path=/?ed=2056&security=none&encryption=none&host=xc.dl5movis.ir&type=httpupgrade#چنل عضو شو @v2ra_config
 vless://1205caca-020f-4b79-a002-e344cc81fb2c@plt.starferi.ir:8460?security=none&encryption=none&headerType=none&type=tcp#حجم ۲۵۰ گیگ
 vless://1270a549-5814-4078-a396-a237242f9ed8@104.253.74.87:80?path=/downloadpp.php&security=&encryption=none&host=skyroom.online&type=ws#@Ap_Ir6
@@ -253,3 +252,4 @@ vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?mode=stream
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
 vless://1d3ef31d-9cb7-4bb5-b8c6-24666fb99bf1@mc.votirm.fun:80?path=/V2ray.motorcycles?ed=80&security=none&encryption=none&host=V2rayNG_mer.elmahstyle.ir&type=ws#@v2rayconfigamir 6973
 vless://1da1e4d3-7f27-46ca-9caf-62fb3bb6023e@[::ffff:193.24.209.106]:6200?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=BQBq7L4x126etZmPU9nCQgCQ4fz5CS0xav5BFC7ZqUI&sid=4cb6214bbc&spx=/UfX2NDONfRAq8kr&type=tcp&headerType=none#@Daily_Configs
+vless://1da1e4d3-7f27-46ca-9caf-62fb3bb6023e@[::ffff:c118:d16a]:6200?security=reality&encryption=none&pbk=BQBq7L4x126etZmPU9nCQgCQ4fz5CS0xav5BFC7ZqUI&headerType=none&fp=chrome&spx=/UfX2NDONfRAq8kr&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4cb6214bbc#@#V2raySaman

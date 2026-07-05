@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1da1e4d3-7f27-46ca-9caf-62fb3bb6023e@[::ffff:c118:d16a]:6200?security=reality&encryption=none&pbk=BQBq7L4x126etZmPU9nCQgCQ4fz5CS0xav5BFC7ZqUI&headerType=none&fp=chrome&spx=/UfX2NDONfRAq8kr&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4cb6214bbc#@#V2raySaman
 vless://1da1e4d3-7f27-46ca-9caf-62fb3bb6023e@[::ffff:c118:d16a]:6200?security=reality&encryption=none&pbk=BQBq7L4x126etZmPU9nCQgCQ4fz5CS0xav5BFC7ZqUI&headerType=none&fp=chrome&spx=/UfX2NDONfRAq8kr&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4cb6214bbc#@FarazV2ray
 vless://1da1e4d3-7f27-46ca-9caf-62fb3bb6023e@[::ffff:c118:d16a]:6200?security=reality&encryption=none&pbk=BQBq7L4x126etZmPU9nCQgCQ4fz5CS0xav5BFC7ZqUI&headerType=none&fp=chrome&spx=/UfX2NDONfRAq8kr&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4cb6214bbc#@erfanandroid
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80/?encryption=none&host=play.google.com&type=tcp&headerType=http#🇩🇪 آلمان | https://t.me/FREECONFIGSPLUS ✨
@@ -253,3 +252,4 @@ vless://3682a59c-b75a-4383-95ae-2977e4df805c@45.80.111.1:2083?encryption=none&ex
 vless://3682a59c-b75a-4383-95ae-2977e4df805c@45.80.111.1:2083?mode=auto&path=/@Proxy_Se7en-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=xhttp&allowInsecure=0&sni=Sa.sorixset.ir#Proxy_Se7en
 vless://36a41d68-7ee1-4eac-80de-76848f5879da@s1.meoshop.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=server.meoshop.ir&fp=chrome&type=xhttp&sni=server.meoshop.ir#@appsooner کانال تلگرام 🕊️
 vless://36ad93bb-2c9c-3e3a-90bb-8e533619fd29@rvg-production-88b2.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-88b2.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-88b2.up.railway.app&path=/ws/36ad93bb-2c9c-3e3a-90bb-8e533619fd29#@Daily_Configs
+vless://36ad93bb-2c9c-3e3a-90bb-8e533619fd29@rvg-production-88b2.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-88b2.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-88b2.up.railway.app&path=/ws/36ad93bb-2c9c-3e3a-90bb-8e533619fd29#Telegram:@vpnfreev2rayconfig
