@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0d9cc99b-d11a-43b8-8613-dc8ef04a326b@44.223.17.190:2053?encryption=none&security=reality&sni=www.inel.com&fp=chrome&pbk=-dvaet5vTdRvWpkf_1wY2HcWuHDMHK_A_19tUq3QQRQ&sid=a8434c33&spx=/f6jRSVG0fvHWE7y&type=tcp&headerType=none#@hi_proxy_iran :👈کانال تلگرام
 vless://0d9cc99b-d11a-43b8-8613-dc8ef04a326b@44.223.17.190:2053?encryption=none&security=reality&sni=www.inel.com&fp=chrome&pbk=-dvaet5vTdRvWpkf_1wY2HcWuHDMHK_A_19tUq3QQRQ&sid=a8434c33&spx=/f6jRSVG0fvHWE7y&type=tcp&headerType=none#Channel : @Daily_Configs
 vless://0d9cc99b-d11a-43b8-8613-dc8ef04a326b@44.223.17.190:2053?security=reality&encryption=none&pbk=-dvaet5vTdRvWpkf_1wY2HcWuHDMHK_A_19tUq3QQRQ&headerType=none&fp=chrome&spx=/f6jRSVG0fvHWE7y&type=tcp&sni=www.inel.com&sid=a8434c33#🇺🇸@V2rayng_Fast
 vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:2886?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&security=reality&sid=3ab69b219da944&sni=www.oracle.com&spx=/E0ta5WUGEDo3wVj&type=tcp#ProxyMtpVPN-122
@@ -253,3 +252,4 @@ vless://181d203a-e738-4aa4-a2d8-d82765f1c0c5@31.77.146.252.cdn-one.org:443?encry
 vless://181d203a-e738-4aa4-a2d8-d82765f1c0c5@31.77.146.252:443?security=reality&sni=31-77-146-252.cdn-one.org&fp=chrome&pbk=OSiNJZQmDVJdoemKMEV5j60iRIQmZwPJUaXBgqUlDD4&sid=8b981a7e399c3920#@v2rayconfigamir 7620
 vless://18b70dca-cd38-4875-bf9b-c3b6839cf752@us-nyc-01.fsulink.com:64665?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EShA9_KP4Ah0-q34QZ8BelbU7gg_jLSU51CODaI3S24&security=reality&sid=f7008c7426&sni=aws.amazon.com&type=tcp#♦️90@NetFlowTools
 vless://18b70dca-cd38-4875-bf9b-c3b6839cf752@us-nyc-01.fsulink.com:64665?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EShA9_KP4Ah0-q34QZ8BelbU7gg_jLSU51CODaI3S24&security=reality&sid=f7008c7426&sni=aws.amazon.com&type=tcp#♦️90@oneclickvpnkeys
+vless://18b70dca-cd38-4875-bf9b-c3b6839cf752@us-nyc-02.fsulink.com:34355?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tHb4kAmJ4Vlcrlpmz3_pRQItLsy1cHuE0DwxEWDmZQg&security=reality&sid=46627f094d&sni=aws.amazon.com&type=tcp#♦️89@NetFlowTools
