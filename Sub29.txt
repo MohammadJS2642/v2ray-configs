@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://MITIVPN@hyperon.site:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&host=Ussa-Si-ieo.App-Cloud.ir&sni=ksidi-isid-d.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@W570W
+trojan://MITIVPN@nexigen.pro:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=GE&host=De-e-d.App-Cloud.ir&sni=deioej-ieid.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@W570W
+trojan://MITIVPN@nexigen.pro:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&host=Ussa-Si-ieo.App-Cloud.ir&sni=ksidi-isid-d.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@W570W
+trojan://MITIVPN@petrolicious.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=De&host=D-e.MaQror.ir&sni=G-Dee.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
+trojan://MITIVPN@petrolicious.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Us&host=U-s.MaQror.ir&sni=U-S-A.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
+trojan://MITIVPN@www.speedtest.net :443?type=ws&security=tls&path=/MiTiVPN=DE&host=D--e.App-Cloud.ir&sni=D--e.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
+trojan://MITIVPN@www.speedtest.net :443?type=ws&security=tls&path=/MiTiVPN=USA&host=uss-a.App-Cloud.ir&sni=uss-a.App-Cloud.ir&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
+trojan://MITIVPN@www.speedtest.net:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=germany.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=germany.App-Cloud.ir#@Soul737
 trojan://MITIVPN@www.speedtest.net:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=germany.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=germany.App-Cloud.ir#@erfanandroid
 trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=de&host=de-Ge.MaQror.ir&sni=De-Ge-N.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@W570W
 trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=usa&host=us-sss-us.MaQror.ir&sni=u---as.MaQror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@W570W
@@ -245,11 +253,3 @@ trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@qruzvpn تلگرام
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Proxy_Se7en
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#@prrofile_purple  ♥️👈 تلگرام
-trojan://Mitivpn@151.101.110.219:443?path=/stable&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Soul737
-trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/de=mitivpn#✅  @vistav2ray  👈👈کانال ما ✅
-trojan://Mitivpn@151.101.242.172:80?path=/ed=mitivpn&security=none&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws#@Soul737
-trojan://Mitivpn@151.101.56.6:443?path=/&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
-trojan://Mitivpn@151.101.56.6:443?path=/&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@qruzvpn تلگرام
-trojan://Mitivpn@151.101.56.6:443?path=/boost&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Soul737
-trojan://Mitivpn@151.101.56.6:443?path=/boost&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@prrofile_purple  ♥️👈 تلگرام
-trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Soul737
