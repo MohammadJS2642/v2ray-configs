@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://MITIVPN@140.248.185.252:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=usa&host=mitivpn--------mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🦉@FreeConfigForYou
-trojan://MITIVPN@140.248.185.252:443?type=ws&security=tls&path=/---@v2ray_configs_pools=USA&host=mitivpn----a.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#v2ray_configs_pools🇺🇲 4
 trojan://MITIVPN@146.75.121.194:443?path=/ed=mitivpn&security=tls&alpn=h2&insecure=1&host=mitivpn--3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=fastly.com#@prrofile_purple  ♥️👈 تلگرام
 trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#@fastkanfig . تلگرام عضو باش
 trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸@FreakConfig
@@ -253,3 +251,5 @@ trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http
 trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#@mehrosaboran
 trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#@prrofile_purple  ♥️👈 تلگرام
 trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#Channel : @Daily_Configs
+trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#Channel : MTMVPN
+trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#telegram @mtmvpn
