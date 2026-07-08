@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f9a53aa5-774e-4556-b2b7-d8b57b423b97@162.159.21.178:8880?encryption=none&host=yellow-breeze-989b.348-9b8.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#💡19@v2ray_configs_pools
+vless://f9ae5aed-9f23-4d9b-b4b2-e82a24c2d74a@45.195.111.111:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none#hope of freedom - @anotherme_night
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#تلگرام : V2ynpv @
 vless://f9be2f87-4c38-6132-afa9-64999d6c5f78@x4g-production-8ccf.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-8ccf.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-8ccf.up.railway.app&path=/ws/f9be2f87-4c38-6132-afa9-64999d6c5f78#Telegram:@vpnfreev2rayconfig
 vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=none&encryption=none&headerType=none&type=tcp#@tanhanet🔷️
@@ -251,5 +253,3 @@ vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@173.245.58.77:8443?mode=auto&path=%
 vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@162.159.62.247:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%3E%3E%40flyv2ray%3A%3AXX
 vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@198.41.209.213:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%3E%3E%40flyv2ray%3A%3AXX
 vless://SoonTeam@sexi.carderrr.com:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#%3E%3E%40v2rayng_fast%3A%3AMY
-vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
