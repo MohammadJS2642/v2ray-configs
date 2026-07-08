@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://50ce1a9f-8903-4597-ad18-366afe5588c2@x1.liiliil.ir:8443?mode=auto&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&insecure=0&host=x1.liiliil.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=x1.liiliil.ir#@EXPRESSVPN_420 1TB 🌱🫂
 vless://50eca7ae-37c4-4713-8c52-e50a8f303d71@31.192.244.125:30491?path=/&security=&encryption=none&type=ws#@bored_vpn
 vless://50eca7ae-37c4-4713-8c52-e50a8f303d71@31.192.244.125:30491?path=/&security=none&encryption=none&type=ws#کانال تلگرام :  @MTMVPN
 vless://512ba3a5-257b-4a74-b1b4-c86d852f77cc@ch.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch.viralforge.ru&sid=a1b2c3d4b5#@V2VODKA_A🇨🇭
@@ -253,3 +252,4 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=/proxyip&secu
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#@FarazV2ray
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#@Soul737
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#@V2raySup0🛍️
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#@hex_proxy ⁴
