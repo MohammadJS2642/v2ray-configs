@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@185.83.127.82:443?mode=gun&security=reality&encryption=none&pbk=h9aR_LyBrt2_zfbJYMZAGqfjk4zumCVuwOXzrFJEK1A&fp=chrome&type=grpc&serviceName=grpc-play-7f3a92&sni=play.google.com&sid=5b3aa0bdbe8d6a0e#[89980] - Telegram : @V2All
-vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@185.83.127.82:443?mode=gun&security=reality&encryption=none&pbk=h9aR_LyBrt2_zfbJYMZAGqfjk4zumCVuwOXzrFJEK1A&fp=chrome&type=grpc&serviceName=grpc-play-7f3a92&sni=play.google.com&sid=5b3aa0bdbe8d6a0e#🇦🇿@FreakConfig
-vless://a3ba189d-d6d6-4f46-a575-6647d1f7cb36@45.74.159.138:2053?encryption=none&type=tcp&security=reality&sni=yahoo.com&insecure=1&allowInsecure=1&pbk=mt8WJF8MDM9oHts_TRFLU9skAYb0KAwwwr8B2UjwqzY&sid=9adbd70b13ab0f7a#@vpng3 [27]
-vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80?path=/vless&security=none&encryption=none&host=education.panelvps.eu.org&type=ws#@SylphNet | 2026-06-26 11:06
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@ashburn.yellowsky.ir:8080?encryption=none&type=tcp&headerType=http&host=play.google.com#@vpng3 [22]
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@om.mastermarly.ir:8080?encryption=none&type=tcp&headerType=http&host=play.google.com#@vpng3 [16]
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=CAdaba.amki.IR.#@vpng3 [23]
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=hosbia.amki.IR.#@vpng3 [28]
@@ -253,3 +248,8 @@ vless://af42f8db-09a9-4eb5-9047-e97b5a072627@199.232.78.120:443?path=/?ed=2048&s
 vless://af42f8db-09a9-4eb5-9047-e97b5a072627@199.232.78.143:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=npnl-2-one.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸@FreakConfig
 vless://af563223-7402-4ecd-bbf9-10f7410753fa@104.21.58.104:443?path=/&security=tls&encryption=none&insecure=1&host=ld.242311.xyz&type=ws&allowInsecure=1&sni=ld.242311.xyz#🚀 t.me/iProxyChannel 18
 vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?mode=gun&security=reality&encryption=none&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&fp=chrome&type=grpc&serviceName=GrpcFuckRKN&sni=www.microsoft.com&sid=deadbeef#@v2rayngzendegimamad🕊️
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#@Soul737
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Proxy_Se7en
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#@Soul737
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Proxy_Se7en
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Proxy_Se7en

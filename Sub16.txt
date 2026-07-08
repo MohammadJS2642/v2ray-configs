@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.167:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.174:8880?mode=gun&security=&encryption=none&type=grpc#@Soul737
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#@Soul737
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?security=&encryption=none&type=grpc#https://t.me/AarazV2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?encryption=none&security=none&type=grpc#🇮🇹IT_2271_@Surfboardv2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=&encryption=none&type=grpc#@Soul737
@@ -253,3 +248,8 @@ vless://96317ce0-04b6-3636-2a28-5c5e3bf0af2f@ansooyefilter-channel-1.up.railway.
 vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#TEL;Father_vpn
 vless://966db920-cb72-446c-9dd6-45ba53372275@lt.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lt.edge-9d7c.com&sid=9d84de9d9f7b85e9#@erfanandroid
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦 @GozargahVPN
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🔥 @free_conf_iran 🔥 6
+vless://96f5436d-6496-4473-b4ca-ae37f170387c@xn--sont23oo-mk75gi8a.netbazshop.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2ray_confiig
+vless://977bac99-33d4-408a-91f5-0ce737793a00@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
+vless://977bac99-33d4-408a-91f5-0ce737793a50@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
+vless://977bac99-33d4-408a-91f5-0ce737793a54@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
