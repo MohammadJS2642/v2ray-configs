@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://512790ac-e687-41f4-b655-e948181d4eb8@134.122.55.72:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Y3ZOCiewH7hdmI_0g648mSF1fEIHsotbeUN7bStCqGg&security=reality&sid=a8a0aaad375dd0b0&sni=ai.android&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20151ms
+vless://578c8541-16a0-40b7-bf72-9508d547f856@185.174.136.206:443?security=reality&encryption=none&pbk=ogy4TV_uLgf-ZybRRQ5SyH-81oqIqxZv4lhbc3E-kgE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=261a62ba#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20137ms
 vless://578c8541-16a0-40b7-bf72-9508d547f856@31.76.38.23:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QDfwP9C0c60Kz5Do_M2UAsAek1cuRTaZxg3Eu3XdTVg&security=reality&sid=de6efcc2&sni=www.nvidia.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20147ms
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?path=%2Fsg-amz&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%201ms
 vless://6caab115-c88f-4e8b-bdab-d66865b681c8@172.67.196.16:8080?path=%2F&security=none&encryption=none&host=zeus-panel-6bt45h.ftgwyie7w8321.workers.dev&type=ws&sni=zeus-panel-6bt45h.ftgwyie7w8321.workers.dev#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
@@ -251,5 +253,3 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20❔%20XX%20down
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.73.137:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://81298fa7-563d-491d-b7d9-48c93ca22756@201.51.12.164:8445?security=reality&encryption=none&pbk=EPrMDeBde65nLBoriu-4H_4-0D4Y1pLqH9m6aSys6D8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20191ms
-vless://81298fa7-563d-491d-b7d9-48c93ca22756@185.253.116.18:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20170ms
-vless://36644091-0cec-47fe-9955-97c3f424baf7@54.37.2.131:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20202ms
