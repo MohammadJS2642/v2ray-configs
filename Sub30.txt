@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://XG59623478@clean-elf.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3ASG
 trojan://XG59623478@flexible-pony.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
 trojan://XG59623478@classic-duckling.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://MiTiVPN@104.21.55.230:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSS-w&security=tls&alpn=http%2F1.1&insecure=1&host=bw--ivs-b--vvs.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.App-Cloud.ir#%3E%3E%40prrofile_purple%3A%3AUS
@@ -252,4 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHSnRKS1lsQUF1dmE@178.162.164.142:31558#@v2ra
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZUMySHpJTkhiNFNVWThT@20.223.136.202:443#Proxy_Se7en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#@v2FreeHub 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJcVBLNW5mZ2dncjNQZmE4@40.112.71.34:443#@V2ray_confiig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJcVBLNW5mZ2dncjNQZmE4@40.112.71.34:443#@ghand_sheken

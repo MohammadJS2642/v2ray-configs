@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@104.18.152.73:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#🚀@VPNine1
 trojan://humanity@104.18.152.77:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Filtershekan_channel |3
 trojan://humanity@104.18.152.77:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2ray_Alpha🍻 5
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#کانال تلگرام عضو باشین
@@ -252,4 +253,3 @@ trojan://XG59623478@allowing-ram.rooster465.autos:443?allowInsecure=1#%3E%3E%40v
 trojan://XG59623478@complete-chipmunk.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
 trojan://XG59623478@dashing-bedbug.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
 trojan://XG59623478@close-wasp.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3ASG
-trojan://XG59623478@clean-elf.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3ASG
