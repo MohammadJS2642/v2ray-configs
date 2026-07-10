@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.76-0162
+trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.56-0507
+trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-194.99.79.214-6331
+trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.208-0195
+trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-38.60.168.129-0204
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.128-0205
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.149-0207
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%F0%9F%87%B8%F0%9F%87%A6SA-149.104.104.58-0655
 trojan://XG59623478@intense-basilisk.rooster465.autos:443?security=tls&sni=intense-basilisk.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.112.177-2384
 trojan://HW85960347@happy-monkfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.199.163.138-3508
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&sni=grape-ataturk-tr.yyuyy.com#%F0%9F%87%B9%F0%9F%87%B7TR-78.135.73.38-2386
@@ -16,10 +24,11 @@ trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls#%F0
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?allowInsecure=1&fp=chrome&security=tls&sni=38.54.64.247&type=tcp#🍀%20@FreeAutoConfig
 trojan://MiTiVPN@162.159.38.200:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DfLL&security=tls&alpn=http%2F1.1&host=f--ls-Fl.App-Cloud.ir&fp=chrome&type=ws&sni=fl-o--7-flla.App-Cloud.ir#@mtproto_proserver
 trojan://PI36027154@upright-hamster.rooster465.autos:443?allowInsecure=1#%F0%9F%8E%8D48@v2ray_configs_pools
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDA3MTE3ZmI4LmN5YmVydmVuYS5jb206NTAwOTk/#%E8%87%BA%E7%81%A3%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQGhhY2tuZXktbGF0ZXN0LXN0cmlrZS5mcmVlc29ja3Mud29yazo0NDM/#%E5%BE%B7%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQGhhY2tuZXktbGF0ZXN0LXN0cmlrZS5mcmVlc29ja3Mud29yazo0NDM/#%E5%BE%B7%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
@@ -244,12 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#@ghand_sheken
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#چنل عضو شو @v2ra_config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#@ghand_sheken
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#Proxy_Se7en
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#🇳🇱 Join+Telegram:@ghostvpn141 🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#@Soul737
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#@appsooner کانال تلگرام 🕊️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#@vpng3 [5]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#Proxy_Se7en
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#Tel-@ProxyMtAlpha🫘 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
