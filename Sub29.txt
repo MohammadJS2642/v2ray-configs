@@ -3,26 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fra250.clientfirewall.click#https://t.me/v2rayNplus |🇩🇪
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#TEL;Father_vpn
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2rayngzendegimamad🕊️
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
-trojan://t.me/PhoenixNTWK@94.101.187.234:443?alpn=h2&fp=chrome&security=tls&sni=irs1.momoeint1.ir&type=tcp#PhoenixNetwork-1-50.00GB📊
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru#🇮🇪 Join+Telegram:@Farah_VPN 🇮🇪
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome#💡35@oneclickvpnkeys
-trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#@V2raySup0🚀
-trojan://telegram-id-directvpn@13.37.210.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1
-trojan://telegram-id-directvpn@13.39.153.213:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1
-trojan://telegram-id-privatevpns@13.37.122.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.210.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.210.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1
-trojan://telegram-id-privatevpns@13.39.153.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.39.153.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1
-trojan://telegram-id-privatevpns@15.237.66.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@18.203.97.93:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-privatevpns@3.121.203.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.121.203.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE-🚀@VPNine1
 trojan://telegram-id-privatevpns@3.69.137.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.77.190.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.136.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
@@ -41,17 +21,16 @@ trojan://v2TkL6FH3h@104.16.72.50:443?security=tls&alpn=&fp=chrome&sni=sm.farxmod
 trojan://v2TkL6FH3h@104.16.72.50:443?security=tls&alpn=&fp=chrome&sni=sm.farxmode.ir&type=ws&path=/da&host=sm.farxmode.ir#🇩🇪@Generalconfiig
 trojan://v2TkL6FH3h@104.16.72.50:443?type=ws&security=tls&path=/da&host=sm.farxmode.ir&sni=sm.farxmode.ir&fp=chrome&insecure=1&allowInsecure=1#@meliproxyy
 trojan://v2TkL6FH3h@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sm.farxmode.ir&sni=sm.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
+trojan://xhQCSjQiXn@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:61235?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&headerType=http&path=/JKVPN&host=yahoo.com&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&spx=/#@GozargahAzad|🇨🇭
 trojan://zBfIAxaXtz@104.16.72.50:443?path=/db&security=tls&insecure=0&host=sn.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sn.farxmode.ir#🇩🇪Telegram . @V2raySaman
 trojan://zBfIAxaXtz@104.16.72.50:443?security=tls&alpn=&fp=chrome&sni=sn.farxmode.ir&type=ws&path=/db&host=sn.farxmode.ir#🇩🇪
 trojan://zBfIAxaXtz@104.16.72.50:443?security=tls&alpn=&fp=chrome&sni=sn.farxmode.ir&type=ws&path=/db&host=sn.farxmode.ir#🇩🇪@Generalconfiig
 trojan://zBfIAxaXtz@104.16.72.50:443?type=ws&security=tls&path=/db&host=sn.farxmode.ir&sni=sn.farxmode.ir&fp=chrome&insecure=1&allowInsecure=1#@meliproxyy
-trojan://zBfIAxaXtz@151.101.34.144:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=packet-up&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@GozargahAzad|🇺🇸
-trojan://zBfIAxaXtz@151.101.34.144:443?mode=packet-up&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@filembad
 trojan://zBfIAxaXtz@151.101.34.144:443?type=xhttp&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=edgezvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
 trojan://zBfIAxaXtz@151.101.34.144:443?type=xhttp&security=tls&path=/db&host=edgezvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 trojan://zBfIAxaXtz@45.130.125.2:443?path=/db&security=tls&insecure=0&host=sn.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sn.farxmode.ir#@v2raySup0🚀
-trojan://zBfIAxaXtz@45.130.125.2:443?path=/db&security=tls&insecure=0&host=sn.farxmode.ir&type=ws&allowInsecure=0&sni=sn.farxmode.ir#@hex_proxy ⁷
 trojan://zBfIAxaXtz@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sn.farxmode.ir&sni=sn.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN ²
+trojan://zK=0KfL3IG+sNNZL-J7d0Nonu4wFBx8MOy@172.235.229.227:443?security=tls&headerType=none&type=tcp#🇮🇹 Join+Telegram:@Farah_VPN 🇮🇹
 trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azgy001.xibai6.top:20790#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BDtrojan://182228812d1e0f23@60.249.3.229:3389#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BEtrojan://36fe28a331638747@60.249.3.226:3389#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BEtrojan://origin@content-provider12.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
 trojan://origin@content-provider26.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BDtrojan://Sp3eDVp@content-provider5.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BDtrojan://Sp3eDVp@content-provider24.cdn-delivery.akamaicd.com:443#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0trojan://origin@51.77.71.134:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
 trojan://fab16fff-d149-417c-bdef-4bfcf2333bbe@hkt.iamnotagoodman.com:443#%F0%9F%87%AD%F0%9F%87%B0_HK_%E9%A6%99%E6%B8%AFssr://MTE2LjE2Mi4xMjAuNDk6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTM0NzA1Ny03YWY1LTQ1NjItYjkxMi1mMWMyMTdjNGMxNjBAaG50LmNuZG5zLnNob3A6Mjc3NjE=#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6ssr://MTE2LjE2Mi4xMjAuNTA6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
@@ -253,3 +232,24 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQGhhY2tuZXktbGF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMjg2ZWsyLmN5YmVydmVuYS5jb206NTAwOTk/#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%A8yoyapai.com%5Cr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dkA1NC4yNTAuMTY1LjE2MDoyMzc3Pw==#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
 ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST1AMTAzLjEzMC4xNDcuNDA6MTEyMj8=#%E5%9C%9F%E8%80%B3%E5%85%B6%E4%B8%A8yoyapai.com%5Cr
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haT0BjaGVuZ2JhaTAyLmFzY3d0MTc5LmNvbToxMzIyMz8=#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haT0BjaGVuZ2JhaTAyLmFzY3d0MTc5LmNvbToxMzIyMz8=#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNUAyMTIuMTkyLjEzLjkxOjMwMTI5Pw==#%F0%9F%87%B7%F0%9F%87%BA%20RU%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%A8yoyapai.com%5Cr
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haT0BjaGVuZ2JhaTAyLmFzY3d0MTc5LmNvbToxMzIyMz8=#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjM1OjQ0Mz8=#%F0%9F%87%B3%F0%9F%87%B1_NL%E8%8D%B7%E8%98%AD%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNythdDJTbnk3ek9EeUhTMU9TNlFSZXBMOC01bWFOVUZG@130.94.0.150:21376#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6%201.4MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%20436.1KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A62
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11%2047.7KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%40v2raybaaz%20%C2%B3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#V2rayng_Fast
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
+ss://01aacd3b-fdda-4e3f-894b-bc380f184fe1@FN2-UNlimiTed.pavilof.ir:1020?security=reality&encryption=none&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&host=snapp.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3fa2fdb7dce16b8b#@filembad
+ss://0ae9e91e-bf8c-44e4-b9c2-a7e3a6c3a335@1.tls.fastly.veraspeed.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸US-🚀@VPNine1
+ss://54ef0355-d89a-4eab-bc72-8efe86d18716@dl3.gooniforoshi.fun:443?path=/download.php&security=tls&encryption=none&host=dl3.gooniforoshi.fun&type=ws&sni=dl3.gooniforoshi.fun#@filembad
+ss://7faaee24-0624-9677-9dbb-afd598f09665@69.46.46.66:443?path=/ws/7faaee24-0624-9677-9dbb-afd598f09665&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-27bb.up.railway.app&fp=chrome&type=ws&sni=x4g-production-27bb.up.railway.app#@filembad
+ss://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@filembad
+ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc&sni=sca30.mysilipdir.com#@filembad
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633?note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
