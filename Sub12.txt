@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?telegram🇨🇳+@wangcai2=#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/#@GrizzlyVPN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=1&allowInsecure=1&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@APPXA#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram @v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@v2rayngzendegimamad🕊️
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?path=/&security=&encryption=none&host=vms.lifetime61.workers.dev&type=ws#🚀 t.me/iProxyChannel 16
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Telegram : @V2ynpv
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&security=&encryption=none&host=vms.lifetime37.workers.dev&type=ws#🌐 t.me/iProxyChannel
@@ -247,9 +253,3 @@ vless://706bfcd1-eb10-4777-8ca7-8f0b38ed96c1@43.133.213.77:443?encryption=none&f
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@euro.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
-vless://718ff826-3d64-441c-b1ec-54a1d7394931@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
-vless://71f1a3f9-11c9-482e-b64f-a8442b8fdef4@toma.hellotom.ir:12114?security=none&encryption=none&headerType=none&type=tcp#@NETMelliAnti
-vless://723345e4-9c1b-4d92-a349-7c3742f9b61a@141.11.167.220:28737?mode=stream-one&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=nl8.bioritalin.ir&type=xhttp#❤️‍🔥 کانال تلگرام HiByeVPNN@
-vless://723345e4-9c1b-4d92-a349-7c3742f9b61a@141.11.167.220:28737?mode=stream-one&path=/&security=none&encryption=none&host=nl8.bioritalin.ir&type=xhttp#چنل عضو شو @v2ra_config
-vless://72362320-3c4c-42cf-b76c-82f7b1832c47@64.188.79.53:48161?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cm3MNPIRmySoBcEgeH6QEuVyoPbBQyjRhs8UF_swl1E&security=reality&sid=41388e02247a3902&sni=github.com&spx=/vLsiCccMXAczIgJ&type=tcp#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://729a43e6-6926-4c27-92f6-b70a67471afc@hub.oneoknews.com:443?encryption=none&fp=&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&security=reality&serviceName=api.v1.StreamService&sid=064c2d37308aeeb6&sni=hub.oneoknews.com&type=grpc#🎍8@oneclickvpnkeys
