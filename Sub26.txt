@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://MITIVPN@visa.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s&host=my-usa-ol.MaQRor.Ir&sni=UsAa-bUs.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@W570W
+trojan://MITIVPN@www.speedtest.net:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=de&security=tls&alpn=http/1.1&insecure=1&host=de-Ge.MaQror.ir&fp=chrome&type=ws&allowInsecure=1&sni=De-Ge-N.MaQror.ir#telegram @mtmvpn
 trojan://MITIVPN@www.speedtest.net:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=germany.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=germany.App-Cloud.ir#@Soul737
 trojan://Masir_Sefid@37.156.46.29:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#❤️‍🔥 ک
 trojan://Masir_Sefid@37.156.46.29:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#❤️‍🔥 کانال تلگرام HiByeVPNN@
@@ -251,5 +253,3 @@ trojan://humanity@104.18.13.149:443?type=ws&security=tls&path=/assignment&host=w
 trojan://humanity@104.18.152.187:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Soul737
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Proxy_Se7en
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Rahin_vpn1 🌟
-trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2raySup0🚀
-trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@icv2ray
