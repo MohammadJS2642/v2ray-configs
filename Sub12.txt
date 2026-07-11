@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://77378ca1-5b62-72bd-911c-58ad48bbadeb@x4g-production-fa85.up.railway.app:443?path=/ws/77378ca1-5b62-72bd-911c-58ad48bbadeb&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-fa85.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-fa85.up.railway.app#🇺🇸@V2rayng_Fast
 vless://773e8749-558a-4459-8efb-5a58b06636ee@zeus-panel-9mo308.kingworkerqwqqw.workers.dev:8080?path=/&security=none&encryption=none&host=zeus-panel-9mo308.kingworkerqwqqw.workers.dev&type=ws&sni=zeus-panel-9mo308.kingworkerqwqqw.workers.dev#@Shh_Proxy-New¹
 vless://77a99d74-549d-154c-eea7-536f18117c94@x4g-production-1c57.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-1c57.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-1c57.up.railway.app&path=/ws/77a99d74-549d-154c-eea7-536f18117c94#Tel: @Daily_Configs
 vless://77d59f0a-285a-45be-9c18-6f5dfff562f1@zeus-panel-txdli6.wqrewr43r32f.workers.dev:2053?path=/&security=tls&encryption=none&host=zeus-panel-txdli6.wqrewr43r32f.workers.dev&fp=chrome&type=ws&sni=zeus-panel-txdli6.wqrewr43r32f.workers.dev#@appsooner کانال تلگرام 🕊️
@@ -252,4 +253,3 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?host=download.pu
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?host=download.pusytroller.gq&encryption=none&path=/&security=none&type=ws#🦉@FreeConfigForYou
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?path=/&security=&encryption=none&host=cnmfangbinxingnmsl.cnmfangbinxing-h.workers.dev&type=ws#@icv2ray
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?path=/fp=chrome&security=&encryption=none&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&type=ws&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#🚀 t.me/iProxyChannel 8
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?path=/fp&security=none&encryption=none&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&type=ws&sni=fuckingfangbinxing.cnmfangbinxing-n.workers.dev#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇺🇸

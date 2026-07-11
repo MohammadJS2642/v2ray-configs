@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://52322144-50c7-9d9f-6ba9-fdb600000005@104.24.212.83:443?encryption=none&type=ws&security=tls&path=%2Fsync&host=broad-wind-e1ca.salmanmahigir9508.workers.dev&sni=broad-wind-e1ca.salmanmahigir9508.workers.dev&fp=chrome&insecure=0&allowInsecure=0#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.211.140:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://7ba17ba6-8d1d-4968-882b-f5a3b43eb51d@icy-morning-df86.alisooltaniiii2024ali.workers.dev:443?encryption=none&fp=chrome&host=icy-morning-df86.alisooltaniiii2024ali.workers.dev&path=%2F&security=tls&sni=icy-morning-df86.alisooltaniiii2024ali.workers.dev&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2012ms
 vless://29a88f7d-0940-4389-9745-ae6bb6e01e38@45.38.41.10:27041?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
@@ -252,4 +253,3 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80?path=/&security=n
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@prrofile_purple  ♥️👈 تلگرام
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
-vless://00722148-3d6c-403d-854e-581b105ceffd@104.16.44.99:443?path=/api/v3/ws/events&security=tls&encryption=none&insecure=0&host=0iXGgvWA3b.geekylinux.com&fp=chrome&type=ws&allowInsecure=0&sni=0iXGgvWA3b.geekylinux.com#@bored_vpn

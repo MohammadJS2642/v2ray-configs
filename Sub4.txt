@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@72.56.18.179:443?type=tcp&encryption=none&sni=www.ya.ru&fp=firefox&security=reality&pbk=8xufuXmVTmxmM9SKIN1P6x3CFstZdl1mfSxr_LfOkDQ&sid=2af15d98#🆔freeconfigsplus%20🔒%20VL-TCP-%20🇳🇱%20NL%20down
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80?encryption=none&host=play.google.com&type=tcp&headerType=http#🆔freeconfigsplus%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20210ms
 vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=%2F16838%2Fc89d26b724fe%2F&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🆔freeconfigsplus%20🔒%20VL-WS-N/A%20🇸🇬%20SG%20155ms
@@ -252,4 +253,3 @@ vless://475823b6-71f6-4a63-a7de-0ecf0958f8db@104.21.52.100:8443?encryption=none&
 vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@xn--b6gac.eu.org:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2F&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20107ms
 vless://5157b1bd-afad-4d74-b4f6-9df43b9942ba@zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev:2053?encryption=none&fp=chrome&host=zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev&path=%2F&security=tls&sni=zeus-panel-l9ww2h.kingworker313peekconfig.workers.dev&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2013ms
 vless://52322144-50c7-9d9f-6ba9-fdb600000003@104.24.212.81:443?encryption=none&type=ws&security=tls&path=%2Fsync&host=broad-wind-e1ca.salmanmahigir9508.workers.dev&sni=broad-wind-e1ca.salmanmahigir9508.workers.dev&fp=chrome&insecure=0&allowInsecure=0#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%204ms
-vless://52322144-50c7-9d9f-6ba9-fdb600000005@104.24.212.83:443?encryption=none&type=ws&security=tls&path=%2Fsync&host=broad-wind-e1ca.salmanmahigir9508.workers.dev&sni=broad-wind-e1ca.salmanmahigir9508.workers.dev&fp=chrome&insecure=0&allowInsecure=0#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
