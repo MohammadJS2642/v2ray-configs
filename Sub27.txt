@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Proxy_Se7en
+trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Echo_Center
 trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Soul737
 trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#چنل عضو شو @v2ra_config
 trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@icv2ray
@@ -251,5 +253,3 @@ trojan://u2sVknrSIFjDojeqAUjgYkCnh9szHcMQ@103.106.228.187:54603/?type=tcp&securi
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Proxy_Se7en
 trojan://v2TkL6FH3h@104.16.72.50:443?path=/da&security=tls&insecure=0&host=sm.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sm.farxmode.ir#🇩🇪Telegram. @V2raySaman
 trojan://v2TkL6FH3h@104.16.72.50:443?security=tls&alpn=&fp=chrome&sni=sm.farxmode.ir&type=ws&path=/da&host=sm.farxmode.ir#🇩🇪
-trojan://v2TkL6FH3h@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sm.farxmode.ir&sni=sm.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
-trojan://wXHhqoeF2OCjBkxci1FyVzjQonQcb26MdTKYRAUkqUU=@jazzghost.com:8080?security=reality&pbk=ybs5sQZHIolo0ZM-kVEluKUyPV9G2V_qKRASEeAVNjU&headerType=none&fp=chrome&spx=/1d70600ef3e58c8&type=tcp&sni=bale.ai&sid=0b85d9#🇩🇪DE-🚀@VPNine1
