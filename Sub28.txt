@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fra250.clientfirewall.click#https://t.me/v2rayNplus |🇩🇪
-trojan://opentunnel.net-andonezi30day@38.9.140.91:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#@v2rayconfigamir 4008
-trojan://opentunnel.net-engliah30day1@38.48.123.89:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#@v2rayconfigamir 1879
 trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#@v2rayconfigamir 8236
 trojan://opentunnel.net-hongkong30day3@185.48.251.29:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#@v2rayconfigamir 1464
 trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#@v2rayconfigamir 1546
@@ -253,3 +250,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4xNC4yNDkuMjM5OjQ0Mw==#%F0%9F%87%BA%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTZAMTAzLjE0OS4xODIuNzk6ODM4OA==#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%20406.7KB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A62%20589.6KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9%20145.3KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%40v2raybaaz%20%C2%B3

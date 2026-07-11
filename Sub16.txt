@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=CAdaba.amki.IR.#@vpng3 [23]
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=hosbia.amki.IR.#@vpng3 [28]
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?encryption=none&type=xhttp&security=tls&path=?ed=2560&host=polobash.appleseraj.ir&mode=auto&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&sni=polobash.appleseraj.ir&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@vpng3 [20]
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto&path=?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=frankloyal.appleseraj.ir&fp=chrome&type=xhttp&sni=frankloyal.appleseraj.ir#@appsooner کانال تلگرام 🕊️
 vless://a4609f6a-5a02-44b1-9d35-303608665ee4@91.98.101.62:55555?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&sid=880eeeef4927eed5&type=tcp&headerType=none#@one_shop_official
 vless://a4609f6a-5a02-44b1-9d35-303608665ee4@ip3.sav-savteam.ir:2096?encryption=none&security=tls&sni=SiOpj.mobiletanaz.coM&insecure=0&allowInsecure=0&type=ws&host=SiOpj.mobiletanaz.coM&path=/#@one_shop_official
@@ -253,3 +250,6 @@ vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.2:443?path=/&security=tls
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.2:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#🇫🇮Telegram . @V2raySaman
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.2:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#🇫🇮Telegram. @V2raySaman
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.50:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#@FarazV2ray
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.50:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#@icv2ray
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.207:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=main-2.ariyuz.org#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇺🇸
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree

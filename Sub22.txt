@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&headerType=&type=tcp#Proxy_Se7en
-vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&headerType=none&type=tcp#@Soul737
-vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&headerType=none&type=tcp#Proxy_Se7en
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&type=tcp#@Soul737
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&type=tcp#Proxy_Se7en
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&host=Soul737---Soul737---Soul737---Soul737---Soul737---Soul737---Soul737&headerType=none&type=tcp#@Soul737
@@ -253,3 +250,6 @@ vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?sni
 vless://57677cef-dc8e-45d5-abd0-26e7c54f26cc@zeus-panel-jz0rp4.peekconf1q.workers.dev:8080?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://5b9fa73b-b549-480b-add9-c45e650d236f@www.shopify.com:443?security=tls&type=ws&path=%2F&host=gddy.hhlfy.de5.net&packetEncoding=xudp&sni=gddy.hhlfy.de5.net&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://5da16620-0386-4da3-a252-12a6380ed1a6@server3.pegibol940.workers.dev:443?encryption=none&host=server3.pegibol940.workers.dev&path=%2FeyJqdW5rIjoiUHRlMEpuSzRFY1EyeUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%253D&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://5c05c433-cc31-53df-ac83-e7f8e6bc71a3@api.amirv2yats.qzz.io:443?allowInsecure=1&encryption=none&host=api.amirv2yats.qzz.io&path=%2Fws%2Famir&security=tls&sni=api.amirv2yats.qzz.io&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://60631b26-691b-40dc-9255-436a9b612754@46.101.172.168:2087?path=%2F&security=tls&encryption=none&insecure=0&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev#%3E%3E%40configV2rayNG%3A%3ADE
+vless://65d3f9b3-d289-4a8e-9c87-90bba156de30@173.245.59.35:443?encryption=none&host=ld.235231.xyz&path=%2F&security=tls&sni=ld.235231.xyz&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
