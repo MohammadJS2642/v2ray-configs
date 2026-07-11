@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://af1425ac-e944-3923-bc53-e088274bbc49@x4g-production-e82f.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-e82f.up.railway.app&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=x4g-production-e82f.up.railway.app&path=/xhttp-siz10/stream-up/af1425ac-e944-3923-bc53-e088274bbc49&mode=stream-up#Channel : @Daily_Configs
 vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?encryption=none&security=none&type=tcp#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁰⁰
 vless://af563223-7402-4ecd-bbf9-10f7410753fa@104.21.58.104:443?path=/&security=tls&encryption=none&insecure=1&host=ld.242311.xyz&type=ws&allowInsecure=1&sni=ld.242311.xyz#🚀 t.me/iProxyChannel 18
@@ -253,3 +252,4 @@ vless://c1f37260-7d28-4370-9e67-33d9bb17f5f6@199.91.220.99:36449?security=none&e
 vless://c24b01cb-233c-44c4-b39c-5571a4c55264@57.131.19.38:58846?encryption=none&type=grpc&security=reality&mode=gun&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=gHW23nivQCUmHOWQ2xTlQq-k3fZyoYvz3fI0Z2r9O0k&sid=124f76e2b3cbef&spx=/naranv2ray#kurdconfig
 vless://c24b01cb-233c-44c4-b39c-5571a4c55264@57.131.19.38:58846?mode=gun&security=reality&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=gHW23nivQCUmHOWQ2xTlQq-k3fZyoYvz3fI0Z2r9O0k&fp=chrome&spx=/naranv2ray&type=grpc&sni=play.google.com&sid=124f76e2b3cbef#@hi_proxy_iran :👈کانال تلگرام
 vless://c24b01cb-233c-44c4-b39c-5571a4c55264@57.131.19.38:58846?mode=gun&security=reality&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=gHW23nivQCUmHOWQ2xTlQq-k3fZyoYvz3fI0Z2r9O0k&fp=chrome&spx=/naranv2ray&type=grpc&sni=play.google.com&sid=124f76e2b3cbef#@v2rayNplus |🇮🇹
+vless://c24b01cb-233c-44c4-b39c-5571a4c55264@57.131.19.38:58846?mode=gun&security=reality&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=gHW23nivQCUmHOWQ2xTlQq-k3fZyoYvz3fI0Z2r9O0k&fp=chrome&spx=/naranv2ray&type=grpc&sni=play.google.com&sid=124f76e2b3cbef#@v2ray_configs_pools
