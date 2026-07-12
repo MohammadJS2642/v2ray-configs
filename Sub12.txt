@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://77a99d74-549d-154c-eea7-536f18117c94@x4g-production-1c57.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-1c57.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-1c57.up.railway.app&path=/ws/77a99d74-549d-154c-eea7-536f18117c94#Tel: @Daily_Configs
 vless://77d59f0a-285a-45be-9c18-6f5dfff562f1@zeus-panel-txdli6.wqrewr43r32f.workers.dev:2053?path=/&security=tls&encryption=none&host=zeus-panel-txdli6.wqrewr43r32f.workers.dev&fp=chrome&type=ws&sni=zeus-panel-txdli6.wqrewr43r32f.workers.dev#@appsooner کانال تلگرام 🕊️
 vless://78174433-c53f-dcbf-1222-02fab7e5b0de@x4g-production-1506.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-1506.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-1506.up.railway.app&path=/ws/78174433-c53f-dcbf-1222-02fab7e5b0de#Channel : @Daily_Configs
 vless://786ecb61-4e50-4d68-8c06-5997bfd47be5@104.27.63.217:443?security=tls&type=ws&host=nova-river-bridge-3fab.srafy0132.workers.dev&fp=chrome&sni=nova-river-bridge-3fab.srafy0132.workers.dev&path=/login/proxyip=185.143.233.65:443&encryption=none#@Ap_Ir6
@@ -252,4 +253,3 @@ vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#@FarazV2ray
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/TvPAJHXEXlFdLMqF?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (8)
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Mlx6nGDhEkXEcBi5?ed=2560#Join Tel: @CxrolVPN (11)
-vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/8L8ji1ltYihf2SMX?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (9)
