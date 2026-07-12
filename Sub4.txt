@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🆔freeconfigsplus%20🔒%20VL-TCP-%20🇮🇹%20IT%20down
 vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080?type=tcp&encryption=none#🆔freeconfigsplus%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://90065690-1ddd-4cc3-ab8b-b7866b69ad97@141.101.120.129:443?insecure=0&allowInsecure=0&security=tls&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=none&mode=auto&sni=mnb.dearhossein-taktaz.ir&alpn=h2%2Chttp%2F1.1&path=%2F&type=xhttp&fp=chrome&host=mnb.dearhossein-taktaz.ir#🆔soskeynet%20🔒%20VL-XHTTP-N/A%20🇺🇸%20US%202ms
 vless://94fb0e5b-eb40-4c06-a465-5dd7a9d2f6d2@3x-ui-upgrade-production-9831.up.railway.app:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=3x-ui-upgrade-production-9831.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=3x-ui-upgrade-production-9831.up.railway.app#🆔soskeynet%20🔒%20VL-XHTTP-N/A%20🇺🇸%20US%2040ms
@@ -252,4 +253,3 @@ vless://52322144-50c7-9d9f-6ba9-fdb600000005@104.24.212.83:443?encryption=none&t
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.211.140:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://7ba17ba6-8d1d-4968-882b-f5a3b43eb51d@icy-morning-df86.alisooltaniiii2024ali.workers.dev:443?encryption=none&fp=chrome&host=icy-morning-df86.alisooltaniiii2024ali.workers.dev&path=%2F&security=tls&sni=icy-morning-df86.alisooltaniiii2024ali.workers.dev&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2012ms
 vless://29a88f7d-0940-4389-9745-ae6bb6e01e38@45.38.41.10:27041?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
-vless://30e7787d-d925-48ed-9317-d5be7cb95b24@arman.best-cloud.ir:2095?encryption=none&fp=chrome&pbk=QDoaksrGOdU85VRCF4sHysJGbRi9k6HM6qZbbSSJkFg&security=reality&sid=5f&sni=play.google.com&spx=%2Frlx9UHWceXs0h3p&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20157ms
