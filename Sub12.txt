@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=&encryption=none&headerType=none&type=tcp#@Soul737
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=&encryption=none&headerType=none&type=tcp#Proxy_Se7en
 vless://74139fb5-fd3f-4133-a34a-b1d85da7a89f@186.246.31.136:443?security=reality&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ea1058117be12087#@FarazV2ray
 vless://74705348-bb9c-47c6-9e91-057c6407bb20@104.16.72.41:8880?path=/pyip&security=&encryption=none&host=small-glitter-aa35.76-21d.workers.dev&type=ws#🇰🇷
@@ -253,3 +252,4 @@ vless://8329974c-dc5a-4c62-b064-468ece75dd7b@bot.sobhanpor.ir:443?security=tls&e
 vless://8329974c-dc5a-4c62-b064-468ece75dd7b@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#@hex_proxy ³
 vless://8329974c-dc5a-4c62-b064-468ece75dd7b@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#@v2ray_configs_pools
 vless://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@ggge04.auragg.org:443?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&serviceName=media.session.poll&sni=ggge04.auragg.org&type=grpc#🪯49@oneclickvpnkeys
+vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@157.173.27.45:443?security=reality&encryption=none&pbk=KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=970098f31b96a3e8#@bored_vpn

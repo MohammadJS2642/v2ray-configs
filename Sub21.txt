@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.141.3:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://ed6fb549-d962-4e32-bb16-544c58b7b31f@7ul9o6broc.the-hot-and-dry-desert-of-my-body.top:5118?security=none&encryption=none&headerType=http&type=tcp#Telegram+:+@netazad1🔥✨
 vless://ed713345-61f4-4eca-8708-b3a1e9bfbb40@38.180.104.152:21077?path=/&security=none&encryption=none&host=www.google.com&type=ws#🇹🇷 @GozargahVPN
 vless://ee2bb7c0-683f-6450-012a-c3f7a818aad8@69.46.46.122:443?mode=packet-up&path=/xhttp-siz10/packet-up/ee2bb7c0-683f-6450-012a-c3f7a818aad8&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nane-hh7-cr7h.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nane-hh7-cr7h.up.railway.app#Tel-@Alpha_V2rayip🥯 2
@@ -253,3 +252,4 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.34:443?path=/&security=tl
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.34:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@Shh_Proxy-New²
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.65:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.65:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Proxy_Se7en
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.65:443?path=/fp&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Proxy_Se7en

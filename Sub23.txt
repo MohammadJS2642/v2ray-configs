@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&headerType=&type=tcp#Proxy_Se7en
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&headerType=none&type=tcp#@Soul737
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&headerType=none&type=tcp#Proxy_Se7en
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&type=tcp#Proxy_Se7en
@@ -253,3 +252,4 @@ vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.21.74.63:443?encryption=none&fp
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.27.7.125:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://7124626c-9341-48a6-b89f-2ec1e96fba33@188.114.97.6:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=autumn-mud-426b.jdydyxhhdjsfhf.workers.dev&path=%2FeyJqdW5rIjoiZnRRTXp4V2lQSElhRWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=autUMN-MuD-426B.JDYdyxhHdJSfhf.workers.Dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6f876b28-1b3e-4088-85c0-d299e56bfccd@172.64.88.168:8880?encryption=none&host=throbbing-haze-fbde.388-6c4.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://75995e72-6885-1e0a-a55e-498f2f897a54@telegramemen-timazadi-8585.up.railway.app:443?path=%2Fws%2F75995e72-6885-1e0a-a55e-498f2f897a54&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=telegramemen-timazadi-8585.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=telegramemen-timazadi-8585.up.railway.app#%3E%3E%40configV2rayNG%3A%3ANL
