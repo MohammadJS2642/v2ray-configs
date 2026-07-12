@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://b68b3c3d-2623-4d94-2633-0d8aec412b0e@x4g-update1000-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-update1000-production.up.railway.app&path=/ws/b68b3c3d-2623-4d94-2633-0d8aec412b0e&sni=x4g-update1000-production.up.railway.app&fp=chrome&alpn=http/1.1#X4G-Telegram:@vpnfreev2rayconfig
 vless://b6959c4b-2d05-4ce7-8a0a-f2be58c5bad5@falkoraz.sav-savteam.iR:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=880eeeef4927eed5#@appsooner کانال تلگرام 🕊️
 vless://b6a37943-95a9-47da-9310-8263fe1f9ec5@45.133.209.184:4588?security=reality&encryption=none&pbk=49LjRovubjQuO8F6gMKlHZ7eTCbhpx-61rUszaTJYWk&headerType=none&fp=chrome&spx=/PZl99HygcgKBkv8&type=tcp&sni=aparat.com&sid=fa2401aad82386b5#@erfanandroid
 vless://b6a37943-95a9-47da-9310-8263fe1f9ec5@fr1-azad.0xoddity.ir:5666?security=reality&encryption=none&pbk=0qp2ibLJZMNQfIQYAbYmZzhyeeKRgVjm2AGxgbNDWhg&headerType=none&fp=chrome&spx=/7VzgxkxEJjZqSfh&type=tcp&sni=ca.rogers.yahoo.com&sid=2539f132f20e7271#@erfanandroid
@@ -252,4 +253,3 @@ vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.83:443?encryption=none&flo
 vless://cbafcab9-9c80-40bb-802e-041d53523a27@89.125.78.88:443?security=reality&encryption=none&pbk=I3ogCvnMWrELiNBqWV0g3DOvqmXalX2ePsrXcTkokRs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=ba48fa8e7a0f3202#@icv2ray
 vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@1.schwan.ir:443?pbk=u6rvzgZSCPPCzV5ew2nVz72EuurCYHObmNZBcfPB4SM&security=reality&spx=/&type=tcp&encryption=none&sni=play.google.com&fp=chrome&headerType=none&sid=46427d9cc9a289b1#🇺🇸108823 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@1.schwan.ir:443?security=reality&encryption=none&pbk=u6rvzgZSCPPCzV5ew2nVz72EuurCYHObmNZBcfPB4SM&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=46427d9cc9a289b1#@appsooner کانال تلگرام 🕊️
-vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@1.schwan.ir:443?security=reality&encryption=none&pbk=u6rvzgZSCPPCzV5ew2nVz72EuurCYHObmNZBcfPB4SM&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=46427d9cc9a289b1#🔵@chillguy_vpn
