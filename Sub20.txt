@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://dc0dba1b-c8a3-4ca8-8180-296d363b1b2c@news.microsoft.com:443?encryption=none&security=tls&sni=de1.gamelistak.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=de1.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"xPaddingBytes":"100-1000"}#@MrNexTV2RAY
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇸🇬
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇸🇬V2raySaman
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@hopev2ray💜
@@ -253,3 +252,4 @@ vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@69.46.46.94:443?path=/ws/e878eed7-c
 vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@69.46.46.94:443?path=/ws/e878eed7-c3f7-cd5c-bb10-468bad9b936c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-ffd1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ffd1.up.railway.app#@Leecher56
 vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@69.46.46.94:443?path=/ws/e878eed7-c3f7-cd5c-bb10-468bad9b936c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-ffd1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ffd1.up.railway.app#@bored_vpn
 vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@69.46.46.94:443?path=/ws/e878eed7-c3f7-cd5c-bb10-468bad9b936c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-ffd1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ffd1.up.railway.app#@hi_proxy_iran :👈کانال تلگرام
+vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@69.46.46.94:443?path=/ws/e878eed7-c3f7-cd5c-bb10-468bad9b936c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-ffd1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ffd1.up.railway.app#@meliproxyy

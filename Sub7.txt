@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0e762f0c-97b9-fc07-2994-ae4f41fcd2da@soskeynets-production-8ac2.up.railway.app:443?path=/ws/0e762f0c-97b9-fc07-2994-ae4f41fcd2da&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=netmelll-production-8ac2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=netmelll-production-8ac2.up.railway.app#@configprxy
 vless://0e762f0c-97b9-fc07-2994-ae4f41fcd2da@soskeynets-production-8ac2.up.railway.app:443?path=/ws/0e762f0c-97b9-fc07-2994-ae4f41fcd2da&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=netmelll-production-8ac2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=netmelll-production-8ac2.up.railway.app#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
 vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2052?path=/&security=none&encryption=none&host=cdn.safev2ray.site&type=httpupgrade#kurdconfig
 vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2052?path=/&security=none&encryption=none&host=cdn.safev2ray.site&type=httpupgrade#🇨🇦@FreakConfig
@@ -253,3 +252,4 @@ vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&secu
 vless://1d483092-65d3-464c-8baa-cb1ca5236282@upload.ansooyefilter.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/fb6a55c0fc4ed6d&type=tcp&sni=search.led.samsung.com&sid=8ed95b#kurdconfig
 vless://1d483092-65d3-464c-8baa-cb1ca5236282@upload.ansooyefilter.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/fb6a55c0fc4ed6d&type=tcp&sni=search.led.samsung.com&sid=8ed95b#🇩🇪@FreakConfig
 vless://1d483092-65d3-464c-8baa-cb1ca5236282@upload.ansooyefilter.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/fb6a55c0fc4ed6d&type=tcp&sni=search.led.samsung.com&sid=8ed95b#🇩🇪@V2rayng_Fast
+vless://1d483092-65d3-464c-8baa-cb1ca5236282@upload.ansooyefilter.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/fb6a55c0fc4ed6d&type=tcp&sni=search.led.samsung.com&sid=8ed95b#🇩🇪@irconfiig
