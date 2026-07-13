@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 6452
 vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 8247
 vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 9476
 vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 9601
@@ -253,3 +252,4 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?encryption=none&ty
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&type=ws&sni=shegeftihaaa.net#@appsooner کانال تلگرام 🕊️
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&type=ws&sni=shegeftihaaa.net#🇨🇦109649 | ⚡️Telegram = t.me/SOSkeyNET
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&type=ws&sni=shegeftihaaa.net#🇩🇪
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@EXPRESSVPN_420
