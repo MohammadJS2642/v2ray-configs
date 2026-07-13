@@ -1,8 +1,3 @@
-trojan://humanity@104.20.42.250:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=ios#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR
-trojan://humanity@104.20.6.134:443?host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@141.193.213.11:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%3E%3E%40freeland8%3A%3AFR
 trojan://humanity@141.193.213.21:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40FreakConfig%3A%3AFR
@@ -98,3 +93,7 @@ trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@129.146.255.158:443?security=tls#%
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?allowInsecure=1&fp=chrome&security=tls&sni=38.54.64.247&type=tcp#🍀%20@FreeAutoConfig
 trojan://PI36027154@upright-hamster.rooster465.autos:443?allowInsecure=1#%F0%9F%8E%8D48@v2ray_configs_pools
 trojan://XG59623478@singular-lark.rooster465.autos:443#%F0%9F%90%9E89@v2ray_configs_pools
+trojan://humanity@104.18.13.149:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&insecure=0&allowInsecure=0#@mtproto_proserver
+trojan://humanity@45.130.125.0:443?host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%F0%9F%9F%A281@v2ray_configs_pools
+trojan://humanity@165.215.250.14:443?allowInsecure=1&fp=chrome&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%F0%9F%9F%A287@v2ray_configs_pools
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&sni=grape-ataturk-tr.yyuyy.com#%F0%9F%9F%A285@v2ray_configs_pools
