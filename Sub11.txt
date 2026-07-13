@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5da0ef6a-eb08-4a7c-a982-b68d3a04b0a8@run.gigicalla.ir:2082?encryption=none&security=none&type=tcp#🎡66@v2ray_configs_pools
 vless://5da16620-0386-4da3-a252-12a6380ed1a6@server3.pegibol940.workers.dev:443?encryption=none&host=server3.pegibol940.workers.dev&path=/eyJqdW5rIjoiUHRlMEpuSzRFY1EyeUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=&security=tls&sni=server3.pegibol940.workers.dev&type=ws#🎡52@oneclickvpnkeys
 vless://5dec493b-22c2-4def-976e-9c5d4c954ebd@157.180.72.116:55849?encryption=none&security=none&type=tcp&headerType=http#hope of freedom - @anotherme_night
 vless://5e10ed29-42b9-4057-aa2e-41696823acea@95.217.16.41:4431?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮@FreakConfig
@@ -253,3 +252,4 @@ vless://718ff826-3d64-441c-b1ec-54a1d7394931@euro.connectingissues.ir:80?mode=au
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
+vless://71f03365-49f2-4199-bf55-8b239ddb2e0f@104.26.7.102:8443?path=/&security=tls&encryption=none&host=ez-87978b.ezaccess101a6f2.workers.dev&fp=chrome&type=ws&sni=ez-87978b.ezaccess101a6f2.workers.dev#🇨🇦109631 | ⚡️Telegram = t.me/SOSkeyNET
