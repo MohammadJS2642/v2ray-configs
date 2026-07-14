@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d1c28c23-79c7-449d-a7b4-e1960dc20484@165.245.220.234:8443?security=reality&encryption=none&pbk=0_K5eYgpXJdqr7Rl_GTMJbUZfGln7e4EKD8dQN6IOxo&headerType=none&fp=chrome&spx=/7bFlkKLiNMXwLeY&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=638672df31#V2ray_Alpha🍰 4
-vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Proxy_Se7en
-vless://d28af976-478f-4e90-b8e1-cc29a2b91907@free4.playon.ir:443?path=/fd-FB7d2TS2jNhJcGAgQsswuCL&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=free4.playon.ir&fp=chrome&type=ws&allowInsecure=0&sni=free4.playon.ir#@erfanandroid
-vless://d29811ad-cdb2-47f4-9af1-d2023c2c726c@ytm83.sannest.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Leecher56
-vless://d29811ad-cdb2-47f4-9af1-d2023c2c726c@ytm83.sannest.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@bored_vpn
-vless://d29811ad-cdb2-47f4-9af1-d2023c2c726c@ytm83.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
-vless://d29811ad-cdb2-47f4-9af1-d2023c2c726c@ytm83.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#telegram @mtmvpn 9
 vless://d2aafa35-acd0-49c8-b149-6d01cc989fe5@vless-addr.takehost.nl-01.security-sbrf.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=nvidia.com&type=tcp#🪯17@oneclickvpnkeys
 vless://d2aafa35-acd0-49c8-b149-6d01cc989fe5@vless-addr.takehost.nl-01.security-sbrf.ru:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#@tootffarangi🍓-19
 vless://d2aafa35-acd0-49c8-b149-6d01cc989fe5@vless-addr.takehost.nl-01.security-sbrf.ru:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#Channel : @Daily_Configs
@@ -253,3 +246,10 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.15.123:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.15.123:22223?encryption=none&security=none&type=tcp#[93607] - Telegram : @V2All
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.204.235:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22222?encryption=none&security=none&type=tcp#🎡31@oneclickvpnkeys
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22222?security=none&encryption=none&headerType=none&type=tcp#[93588] - Telegram : @V2All
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?encryption=none&security=none&type=tcp&headerType=none#Channel: @Daily_Configs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz [🌶]
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?security=none&encryption=none&headerType=none&type=tcp#filembad-342
