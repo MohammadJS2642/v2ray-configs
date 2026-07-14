@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#⚡Telegram =@CUSTOMVPNSERVER
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=vh.mojaz-persian-music.ir#🔥 @free_conf_iran 🔥 11
+vless://3d8f310d-a600-b473-1beb-8b308caea637@ansooye.up.railway.app:443?encryption=none&security=tls&sni=ansooye.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=ansooye.up.railway.app&path=/ws/3d8f310d-a600-b473-1beb-8b308caea637#🇺🇸-آنسوی-فیلتر-@ansooyefilter-∞
 vless://3de325a7-205a-4d7e-aaa9-5ae915aa0c4e@104.19.180.169:443?path=/PANEL_ZEUS&security=tls&encryption=none&insecure=0&host=zeus-panel-g7l5ki.nova-353036.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-g7l5ki.nova-353036.workers.dev#🇨🇦110173 | ⚡️Telegram = t.me/SOSkeyNET
 vless://3de325a7-205a-4d7e-aaa9-5ae915aa0c4e@104.27.203.169:80?path=/PANEL_ZEUS&security=none&encryption=none&host=zeus-panel-g7l5ki.nova-353036.workers.dev&fp=chrome&type=ws&sni=zeus-panel-g7l5ki.nova-353036.workers.dev#🇨🇦110172 | ⚡️Telegram = t.me/SOSkeyNET
 vless://3de325a7-205a-4d7e-aaa9-5ae915aa0c4e@172.67.173.109:443?path=/PANEL_ZEUS&security=tls&encryption=none&insecure=0&host=zeus-panel-g7l5ki.nova-353036.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-g7l5ki.nova-353036.workers.dev#🇨🇦110171 | ⚡️Telegram = t.me/SOSkeyNET
@@ -250,6 +253,3 @@ vless://4e831a3e-1fff-4c90-9e3d-03f193190a21@104.17.160.101:2053?path=/?u=c90df4
 vless://4e831a3e-1fff-4c90-9e3d-03f193190a21@104.17.170.53:2083?path=/?u=c90df40730&security=tls&encryption=none&insecure=0&host=node-6007924689-7d1fa6.hajmeti40-842e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=node-6007924689-7d1fa6.hajmeti40-842e.workers.dev#🚀@VPNine1
 vless://4ef1ccb8-05e0-49c7-aec8-6f634b569ef9@4sipg.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@configprxy
 vless://4ef1ccb8-05e0-49c7-aec8-6f634b569ef9@4sipg.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
-vless://4ef1ccb8-05e0-49c7-aec8-6f634b569ef9@4sipg.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Channel: @Daily_Configs
-vless://4ef1ccb8-05e0-49c7-aec8-6f634b569ef9@4sipg.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All⁸ | @https://t.me/AarazV2ray
-vless://4ef1ccb8-05e0-49c7-aec8-6f634b569ef9@4sipg.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
