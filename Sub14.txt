@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a4f4a373-d6c2-c5eb-0e1c-d2b01ff2529b@x4g-production-f44e.up.railway.app:443?path=/ws/a4f4a373-d6c2-c5eb-0e1c-d2b01ff2529b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-f44e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-f44e.up.railway.app#🇺🇸@FreakConfig
-vless://a50f130c-5962-4500-8f17-e897f4dc1061@dl4.gooniforoshi.fun:443?path=/download.php&security=tls&encryption=none&insecure=0&host=dl4.gooniforoshi.fun&type=ws&allowInsecure=0&sni=dl4.gooniforoshi.fun#@prrofile_purple  ♥️👈 تلگرام
 vless://a57c04f8-3c73-7f22-58dc-d4f7e26b70cf@x4g-update-production.up.railway.app:443?encryption=none&security=tls&sni=x4g-update-production.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-update-production.up.railway.app&path=/ws/a57c04f8-3c73-7f22-58dc-d4f7e26b70cf#X4G-game
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.130:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@V2raySup0🚀
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.130:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Proxy_Se7en
@@ -253,3 +251,5 @@ vless://b2b904aa-6521-47d6-8114-08691e5b74c0@afj1d.sannest.ir:443?security=none&
 vless://b2d8093b-f8e7-4a59-a582-96e3224728df@www.dgmcd.cn:443?encryption=none&type=ws&security=tls&path=/29099/api1&host=aron.irandoc.info&sni=sni.irandoc.info&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://b2e7573a-4211-4376-8934-a572363c4c3a@168.119.52.80:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.17.121.110:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#@v2raySup0🚀🤍
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?encryption=none&security=tls&sni=terazhediii.info&insecure=0&allowInsecure=0&type=ws&host=terazhediii.info&path=/hdgrbws#Telegram:@vpnfreev2rayconfig
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?encryption=none&security=tls&sni=terazhediii.info&insecure=0&allowInsecure=0&type=ws&host=terazhediii.info&path=/hdgrbws#hope of freedom - @anotherme_night

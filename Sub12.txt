@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?security=&encryption=none&type=grpc#Proxy_Se7en
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Proxy_Se7en
@@ -253,3 +251,5 @@ vless://9aba207a-0958-d7f1-7e18-e86a6798297b@ansooyefilter-channel-production-79
 vless://9acd4968-83d8-4a5e-b3b5-b67d31c15232@dahat.sarkhoni.shop:8080?encryption=none&fp=chrome&pbk=CN-tZKjBi97lUawhqv_x_c7R8jLoCunBGCwgIaNFQ3w&security=reality&sid=f30c13567ae4&sni=shop-eu-en.amd.com&spx=/ZKlhY7SYmtak545&type=tcp#@Ap_Ir6
 vless://9adb5a9e-ef33-406f-0562-34656d0a3ea2@s2.zynavo.ir:2087?pcs=02dbd988f959ab1da732a2ededea00a5907badd9ec17f77e2ab72658ddcb8454&alpn=h3,h2,http/1.1&fp=chrome&type=xhttp&sni=cdn.zynavo.ir&mode=auto&path=/BetForward&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=cdn.zynavo.ir&allowInsecure=1#@prrofile_purple  ♥️👈 تلگرام
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@172.67.196.100:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&path=/telegram-@Selinc?ed=2048&fp=chrome#@Hope_Net-join-us-on-Telegram
+vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@172.67.196.100:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&path=/telegram-@Selinc?ed=2048&fp=chrome#[93951] - Telegram : @V2All
+vless://9b02c0ee-3a79-4914-90a5-a0a05d805337@check04.allenshop2024.ir:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#@iguanaVPN2
