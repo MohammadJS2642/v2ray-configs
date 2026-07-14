@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#@icv2ray
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.193.253:443?path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&type=ws&sni=octopusss5.info#@configprxy
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.193.253:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#@meliproxyy
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.193.253:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#@tootffarangi🍓-12
@@ -253,3 +250,6 @@ vless://d29811ad-cdb2-47f4-9af1-d2023c2c726c@ytm83.sannest.ir:443?security=&encr
 vless://d29811ad-cdb2-47f4-9af1-d2023c2c726c@ytm83.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://d29811ad-cdb2-47f4-9af1-d2023c2c726c@ytm83.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#telegram @mtmvpn 9
 vless://d2aafa35-acd0-49c8-b149-6d01cc989fe5@vless-addr.takehost.nl-01.security-sbrf.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=nvidia.com&type=tcp#🪯17@oneclickvpnkeys
+vless://d2aafa35-acd0-49c8-b149-6d01cc989fe5@vless-addr.takehost.nl-01.security-sbrf.ru:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#@tootffarangi🍓-19
+vless://d2aafa35-acd0-49c8-b149-6d01cc989fe5@vless-addr.takehost.nl-01.security-sbrf.ru:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#Channel : @Daily_Configs
+vless://d339e256-e45a-d85e-c59c-8adfb6751f13@x4g-production-b80c.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-b80c.up.railway.app&path=/ws/d339e256-e45a-d85e-c59c-8adfb6751f13&sni=x4g-production-b80c.up.railway.app&fp=chrome&alpn=http/1.1#best_internet_iran
