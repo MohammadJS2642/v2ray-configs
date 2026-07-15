@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#✅ t.me/bigAVPN ایران آزاد 👑
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea#TELEGRAM-Proxy_Se7en?ed=2048&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=imblo.fastcitylab-byte.info#Proxy_Se7en
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea#TELEGRAM-Proxy_Se7en?ed=2048&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=imblo.fastcitylab-byte.info#Proxy_Se7en
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=imblo.fastcitylab-byte.info#Proxy_Se7en
@@ -252,4 +253,3 @@ vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?encryption=none
 vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?security=none&alpn=http/1.1&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp#@hi_proxy_iran :👈کانال تلگرام
 vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?security=none&alpn=http/1.1&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp#@meliproxyy
 vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
-vless://915f2602-2b32-42d9-a4d6-9dd79fab61ea@zeus-panel-6px42t.kingworker1111peekconfig.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-6px42t.kingworker1111peekconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-6px42t.kingworker1111peekconfig.workers.dev#روزانه کلی کانفیگ رایگان PeekConfig-443
