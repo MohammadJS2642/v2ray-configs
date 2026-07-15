@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#IR-@V2rayAlpha-12
 vless://ddb4b81b-3c9d-43b9-b854-372cfb5f2bd3@freeiran.lookanet.app:443?mode=auto&path=/php-index&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd-hardcore.esportplusnews.top#@KAFING_2
 vless://ddbb9c83-43bb-4fb5-8e43-dd5ccec6403a@transparency.cloud.appcore.org:34754?security=reality&encryption=none&pbk=MNw8WI6R7SDlWC71MClNgpxNGUa-nYN4nGHn9pG62Ss&headerType=none&fp=chrome&spx=/Qz02rIOuKuJqbkt&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=81#@V2VODKA_A
 vless://ddce2413-3146-4e03-a780-e7f2b62c5c05@104.17.72.206:8443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-efkuhg.zeus-uic7q7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-efkuhg.zeus-uic7q7.workers.dev#@Filtershekan_channel |🇮🇹
@@ -252,4 +253,3 @@ vless://eb6f13cb-da91-4f6f-adf3-aad51788812f@tr.linuxbase.ir:1152?security=reali
 vless://eb6f13cb-da91-4f6f-adf3-aad51788812f@tr.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#Channel id: @ShadowProxy66 🇹🇷
 vless://ebb981c8-086f-4469-a3d2-e50f4135ed06@britain.mymarzban.com:9110?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=jPN1rT1d60wJZL-f6YkJr6bit3ZBGabU8qT89CzXewo&sid=f27c6afae47825a0&flow=xtls-rprx-vision#@vpng3 [18]
 vless://ebe44c2c-96ed-4a36-8456-2e9ee60c859c@104.16.80.73:2083?path=/wss14139?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mnv1.gozargahping.top&fp=chrome&type=ws&allowInsecure=0&sni=mnv1.gozargahping.top#‌
-vless://ebf58d5b-5fe2-074e-bab8-0ab5bbc7701c@x4g-production-5f19.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-5f19.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-5f19.up.railway.app&path=/ws/ebf58d5b-5fe2-074e-bab8-0ab5bbc7701c#hope of freedom - @anotherme_night
