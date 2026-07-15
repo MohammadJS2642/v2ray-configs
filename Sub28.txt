@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://auto@162.159.153.92:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🇨🇦111549 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://auto@162.159.153.92:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🚀@VPNine1
-trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
-trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
-trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇭🇰 香港
-trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#TEL;Father_vpn
-trojan://baaaccb-baac-acab-acdb-cabcaaabbcbc@127.0.0.1:8080?security=tls&type=tcp#@v2ray_configs_pools-join-us-on-Telegram
-trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🩵+@Azarakhsh_Proxy+🩷
-trojan://cbbaaac-cbaa-baca-acdb-cbcaccabaabb@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-trojan://cbbaaac-cbaa-baca-acdb-cbcaccabaabb@127.0.0.1:8080?security=tls&type=tcp#🏠111561 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://cc7b3f9c-4b31-c966-fc21-f9e207d88cef@test-production-afb6.up.railway.app:443?path=/ws/cc7b3f9c-4b31-c966-fc21-f9e207d88cef&security=tls&alpn=http/1.1&insecure=0&host=test-production-afb6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=test-production-afb6.up.railway.app#kurdconfig
-trojan://cc7b3f9c-4b31-c966-fc21-f9e207d88cef@test-production-afb6.up.railway.app:443?path=/ws/cc7b3f9c-4b31-c966-fc21-f9e207d88cef&security=tls&alpn=http/1.1&insecure=0&host=test-production-afb6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=test-production-afb6.up.railway.app#🇺🇸@FreakConfig
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇭🇰 香港
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
-trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
 trojan://dfdse334053vuohm@104.16.72.2:443?path=/&security=tls&insecure=0&host=alternative.mhjstudio.ir&type=ws&allowInsecure=0&sni=alternative.mhjstudio.ir#🇹🇷
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@hex_proxy ⁴
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@hex_proxy ⁶
@@ -253,3 +238,18 @@ trojan://telegram-id-privatevpns@18.135.201.47:22222?security=tls&headerType=non
 trojan://tg-dns68@162.159.152.169:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@v2ray_configs_pools-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.204:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.204:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦111618 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://tg-dns68@162.159.152.204:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🚀@VPNine1
+trojan://tg-dns68@162.159.152.39:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.152.39:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#@filembad
+trojan://tg-dns68@162.159.152.39:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🇨🇦111545 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://tg-dns68@162.159.152.39:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🚀@VPNine1
+trojan://tg-dns68@162.159.153.110:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.110:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🇨🇦111636 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://tg-dns68@162.159.153.110:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🚀@VPNine1
+trojan://tg-dns68@162.159.153.31:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@v2ray_configs_pools-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.75:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.75:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🚀@VPNine1
+trojan://tg-dns68@162.159.153.9:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.9:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦111544 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://tg-dns68@162.159.153.9:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🚀@VPNine1
+trojan://u2sVknrSIFjDojeqAUjgYkCnh9szHcMQ@103.106.228.187:54603/?type=tcp&security=tls&sni=103.106.228.187&allowInsecure=1#日本
