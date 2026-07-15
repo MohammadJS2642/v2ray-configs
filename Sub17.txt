@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://amir@api.amirv2yats.qzz.io:443?path=/ws/amir&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=api.amirv2yats.qzz.io#Proxy_Se7en
+vless://b012726f-1451-4fe0-a136-1385dadbc369@85.133.205.93:30816?security=reality&encryption=mlkem768x25519plus.native.0rtt.f7DfGXge1nA4cyMeHPh0hBXRS6PYTJ8WBp3yDuCZcj4&pbk=qnktlRK5WdgJFuRj8T_mc7MI6fhjoqXL-B38Usz3viI&headerType=none&fp=chrome&spx=/6bc0e9b1af463c6&type=tcp&sni=google-analytics.com&sid=71c7dedae4f01fff#Channel : @Daily_Configs
 vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/&security=&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#Arshiavpn12
 vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#@V2raySup0🚀
 vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#Arshiavpn12
@@ -251,5 +253,3 @@ vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?mode=gun&securi
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@89.222.123.211:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#@bored_vpn
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@89.222.123.211:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#@confiig_hub
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@89.222.123.211:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#@mehrosaboran
-vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@89.222.123.211:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#@prrofile_purple  ♥️👈 تلگرام
-vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@89.222.123.211:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#kurdconfig
