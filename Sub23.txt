@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e7f6f783-6754-4228-a5d0-aeed84b9949a@172.66.214.247:8880?encryption=none&host=sweet-sun-c70f.317-ba5.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%F0%9F%8E%A122@v2ray_configs_pools
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@91.107.179.255:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=184a6838386d384e#🔵@chillguy_vpn
-vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@q4x-lab.se.auragg.org:443?encryption=none&fp=&pbk=TGJxKbPG8ds2NwK6uhgQURUfVJ01BcRh3Eaoy3dtdGA&security=reality&serviceName=auragrpc&sid=a3d8f1e9b2c7d4e6&sni=cloudflare.com&type=grpc#%F0%9F%8E%A185@v2ray_configs_pools
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%8E%A184@v2ray_configs_pools
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@cdn-61bd6d.fim.dnsstatic.net:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#%F0%9F%8E%A187@v2ray_configs_pools
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@77.221.159.165:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#%F0%9F%8E%A189@v2ray_configs_pools
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🔵@chillguy_vpn
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@77.221.159.165:40443?security=reality&encryption=none&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com#🔵@chillguy_vpn
-vless://dabe4e44-39e1-4464-9491-521993f207d8@de1.linkto.sbs:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=edge&security=tls&sni=de1.linkto.sbs&type=tcp#%F0%9F%AA%8147@v2ray_configs_pools
 vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@x9k-7m.se.auragg.org:8444?encryption=none&fp=&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&security=reality&serviceName=auragrpc&sid=d6b2e9f1a4c8d3f5&sni=cloudflare.com&type=grpc#%F0%9F%AA%8148@v2ray_configs_pools
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@134.209.195.46:56625?encryption=none&fp=&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&security=reality&sid=d22c6bf354720287&sni=icloud.com&type=grpc#%F0%9F%AA%8153@v2ray_configs_pools
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?encryption=none&fp=chrome&host=srv10.perfectbulk.info&path=%2F&security=tls&sni=srv10.perfectbulk.info&type=ws#%F0%9F%AA%8158@v2ray_configs_pools
@@ -253,3 +244,12 @@ trojan://CF68213490@gentle-honeybee.rooster465.autos:443?sni=gentle-honeybee.roo
 trojan://CF68213490@glowing-marmoset.rooster465.autos:443?sni=glowing-marmoset.rooster465.autos&type=tcp&fp=chrome#🇯🇵110895 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://CF68213490@glowing-marmoset.rooster465.autos:443?sni=glowing-marmoset.rooster465.autos&type=tcp&fp=chrome#🇯🇵JP-🚀@VPNine1
 trojan://CF68213490@in-oriole.rooster465.autos:443?sni=in-oriole.rooster465.autos&type=tcp&fp=chrome#@filembad
+trojan://CF68213490@in-oriole.rooster465.autos:443?sni=in-oriole.rooster465.autos&type=tcp&fp=chrome#🇯🇵110910 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://CF68213490@in-oriole.rooster465.autos:443?sni=in-oriole.rooster465.autos&type=tcp&fp=chrome#🇯🇵JP-🚀@VPNine1
+trojan://CF68213490@informed-stud.rooster465.autos:443?sni=informed-stud.rooster465.autos&type=tcp&fp=chrome#🇯🇵110884 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://CF68213490@informed-stud.rooster465.autos:443?sni=informed-stud.rooster465.autos&type=tcp&fp=chrome#🇯🇵JP-🚀@VPNine1
+trojan://CF68213490@innocent-rattler.rooster465.autos:443?sni=innocent-rattler.rooster465.autos&type=tcp&fp=chrome#🇯🇵110871 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://CF68213490@innocent-rattler.rooster465.autos:443?sni=innocent-rattler.rooster465.autos&type=tcp&fp=chrome#🇯🇵JP-🚀@VPNine1
+trojan://CF68213490@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&type=tcp&fp=chrome#🇸🇬110882 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://CF68213490@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&type=tcp&fp=chrome#🇸🇬SG-🚀@VPNine1
+trojan://CF68213490@learning-wren.rooster465.autos:443?sni=learning-wren.rooster465.autos&type=tcp&fp=chrome#🇸🇬110883 | ⚡️Telegram = t.me/SOSkeyNET
