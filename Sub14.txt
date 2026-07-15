@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a06b22e2-c1c4-4dc8-9337-75574b057975@zeus-panel-666kh0.zeus-yk6jrq.workers.dev:80?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-666kh0.zeus-yk6jrq.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-666kh0.zeus-yk6jrq.workers.dev#روزانه کلی کانفیگ رایگان PeekConfig-80
+vless://a071d58e-562b-472d-af6e-696200af1826@zeus-panel-ps2w8r.ww32324324.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-ps2w8r.ww32324324.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-ps2w8r.ww32324324.workers.dev#روزانه کلی کانفیگ رایگان PeekConfig-443
+vless://a071d58e-562b-472d-af6e-696200af1826@zeus-panel-ps2w8r.ww32324324.workers.dev:80?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-ps2w8r.ww32324324.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-ps2w8r.ww32324324.workers.dev#روزانه کلی کانفیگ رایگان PeekConfig-80
+vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@64.188.126.226:3468?security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&headerType=none&type=tcp&sni=telewebion.ir&sid=b6eae5ce#@VERTEXNET9🇦🇷
 vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@64.188.126.226:3468?security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&headerType=none&type=tcp&sni=telewebion.ir&sid=b6eae5ce#@filembad
 vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@64.188.126.226:3468?security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&headerType=none&type=tcp&sni=telewebion.ir&sid=b6eae5ce#Tel-@ProxyMtAlpha🫈 5
 vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@64.188.126.226:3468?security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&headerType=none&type=tcp&sni=telewebion.ir&sid=b6eae5ce#https://t.me/AarazV2ray
@@ -249,7 +253,3 @@ vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@95.164.55.194:443?security=reality&
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#@Soul737
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#@𝐓𝐮𝐧𝐧𝐞𝐥𝐜𝐫𝟕🇩🇪
 vless://ac293655-21f0-4e90-9ffa-acc7fd8fa1ed@78.141.197.238:443?security=none&encryption=none&headerType=http&type=tcp#V2ray_Alpha🏖️ 9
-vless://ac767c97-53a0-447d-93e0-0d974fa150a9@104.16.191.245:80?mode=packet-up&path=/panrl-namahdod-id-website-ss&security=&encryption=none&host=fr.cdn.1255-id.iramssnew2.ir&type=xhttp#@TEHRANARGO
-vless://ac767c97-53a0-447d-93e0-0d974fa150a9@162.159.34.226:80?mode=packet-up&path=/&security=&encryption=none&host=fi.we.1244.iramsnew3.ir&type=xhttp#@TEHRANARGO
-vless://ac767c97-53a0-447d-93e0-0d974fa150a9@8.34.146.189:80?mode=packet-up&path=/&security=&encryption=none&host=fi.we.1244.iramsnew3.ir&type=xhttp#@TEHRANARGO
-vless://ac767c97-53a0-447d-93e0-0d974fa150a9@fi1-website.iramsnew3.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 | TEHRANARGO
