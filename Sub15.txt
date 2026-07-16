@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=httpupgrade#🔥 @free_conf_iran 🔥 4
+vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=uk.dataxshop.ir&type=httpupgrade#@free_conf_iran 👈 کانفیگ رایگان
 vless://@free_conf_iran@188.114.97.6:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=fr.mamish.ir&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#🔥 @free_conf_iran 🔥 6
 vless://@free_conf_iran@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈  کانفیگ رایگان
 vless://@free_conf_iran@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈 کانفیگ بیشتر
@@ -251,5 +253,3 @@ vless://a94339fd-9c6f-41ec-9640-92b21c3dc123@162.159.38.119:443?path=/-----MxGri
 vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@62.60.248.105:2053?mode=gun&security=reality&encryption=none&pbk=kwKk436AjoyIrYSQzm3VoGLoFDLIIYRGLQ-RRVFUH20&fp=chrome&spx=/KPC757WiVsr9e7X&type=grpc&serviceName=grpc-bf898949e88a9c94&sni=www.amazon.com&sid=b9b08cbb#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://a9a9873f-dc4b-4f04-8eaf-c21e40832aeb@cctvhikvision.center:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=/api-v1#Channel: @Daily_Configs
 vless://a9a9873f-dc4b-4f04-8eaf-c21e40832aeb@hikvision-plus.com:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=/api-v1#Channel: @Daily_Configs
-vless://a9eb4e02-1310-4c43-b285-92fd2cc74ad0@net3.irajapan.store:8080?type=tcp&security=reality&pbk=hGBFJsHcY1aYZ5gGtesY__jxM3JTJznNJanwpLsqMnY&fp=chrome&sni=www.yahoo.com&sid=0fe1d9beae7453&spx=/&encryption=none#🚀@VPNine1
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?security=reality&encryption=none&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=shuviu.de&sid=affc28b1a8c32c#@FarazV2ray

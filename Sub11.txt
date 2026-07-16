@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://618f65ce-d0fb-42b5-b6cc-12cf890cf04e@zeus-panel-76wupk.peekconfiggggggg.workers.dev:80?path=/PANEL_ZEUS&security=none&encryption=none&insecure=0&host=zeus-panel-76wupk.peekconfiggggggg.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-76wupk.peekconfiggggggg.workers.dev#🇩🇪 | PeekConfig | ‎zeus-panel-76wupk.peekconfiggggggg.workers.dev | ‎80
+vless://61e688aa-3e6f-4b74-bf6e-22362a2edb26@fin3.flotaw.ir:8443?path=/api&security=tls&encryption=mlkem768x25519plus.native.0rtt.TUi7u5UXHqLaEQK2w69XWLPOiKYd5Ded1AwEPgAvphg&insecure=0&host=api.flotaw.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.flotaw.ir#TEL;Father_vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/#@GrizzlyVPN
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?security=&encryption=none&host=vms.lifetime50.workers.dev&type=ws#🔵@chillguy_vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net#
@@ -251,5 +253,3 @@ vless://77378ca1-5b62-72bd-911c-58ad48bbadeb@x4g-production-fa85.up.railway.app:
 vless://773e8749-558a-4459-8efb-5a58b06636ee@zeus-panel-9mo308.kingworkerqwqqw.workers.dev:8080?path=/&security=none&encryption=none&host=zeus-panel-9mo308.kingworkerqwqqw.workers.dev&type=ws&sni=zeus-panel-9mo308.kingworkerqwqqw.workers.dev#@Shh_Proxy-New¹
 vless://77d59f0a-285a-45be-9c18-6f5dfff562f1@zeus-panel-txdli6.wqrewr43r32f.workers.dev:2053?path=/&security=tls&encryption=none&host=zeus-panel-txdli6.wqrewr43r32f.workers.dev&fp=chrome&type=ws&sni=zeus-panel-txdli6.wqrewr43r32f.workers.dev#@appsooner کانال تلگرام 🕊️
 vless://78294bc4-89a2-4a4e-c116-0cd177fd556d@43.174.246.46:443?encryption=none&type=ws&security=tls&path=/48831/api&host=a.irandoc.info&sni=sni.irandoc.info&fp=chrome&insecure=0&allowInsecure=0#@hi_proxy_iran :👈کانال تلگرام
-vless://78294bc4-89a2-4a4e-c116-0cd177fd556d@43.174.246.46:443?encryption=none&type=ws&security=tls&path=/48831/api&host=a.irandoc.info&sni=sni.irandoc.info&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
-vless://78294bc4-89a2-4a4e-c116-0cd177fd556d@43.174.246.46:443?path=/48831/api&security=tls&encryption=none&insecure=0&host=a.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#@bored_vpn
