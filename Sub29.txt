@@ -3,27 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://CF68213490@equipped-moth.rooster465.autos:443?allowInsecure=0&sni=equipped-moth.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://CF68213490@free-hare.rooster465.autos:443?sni=free-hare.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://CF68213490@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
-trojan://CF68213490@evolving-mollusk.rooster465.autos:443?sni=evolving-mollusk.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://CF68213490@fair-werewolf.rooster465.autos:443?sni=fair-werewolf.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://CF68213490@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://CF68213490@eternal-woodcock.rooster465.autos:443?sni=eternal-woodcock.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://CF68213490@funny-hawk.rooster465.autos:443?sni=funny-hawk.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://CF68213490@gentle-mastiff.rooster465.autos:443?sni=gentle-mastiff.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AKR
-trojan://CF68213490@eternal-horse.rooster465.autos:443?allowInsecure=0&sni=eternal-horse.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
-trojan://CF68213490@excited-squirrel.rooster465.autos:443?sni=excited-squirrel.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AKR
-trojan://CF68213490@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
-trojan://CF68213490@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
-trojan://CF68213490@harmless-lab.rooster465.autos:443?allowInsecure=1&sni=harmless-lab.rooster465.autos#%3E%3E%40v2nodes%3A%3ADE
-trojan://CF68213490@immune-mullet.rooster465.autos:443?allowInsecure=0&sni=immune-mullet.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://CF68213490@in-oriole.rooster465.autos:443?sni=in-oriole.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://CF68213490@informed-stud.rooster465.autos:443?sni=informed-stud.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://CF68213490@helping-shark.rooster465.autos:443?sni=helping-shark.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AKR
-trojan://CF68213490@growing-ram.rooster465.autos:443?allowInsecure=0&sni=growing-ram.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
-trojan://CF68213490@innocent-rattler.rooster465.autos:443?sni=innocent-rattler.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://CF68213490@immense-eagle.rooster465.autos:443?allowInsecure=0&sni=immense-eagle.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://CF68213490@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
 trojan://CF68213490@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
 trojan://CF68213490@live-drake.rooster465.autos:443?sni=live-drake.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
@@ -253,3 +232,24 @@ trojan://CF68213490@charming-puma.rooster465.autos:443?security=tls&sni=charming
 trojan://CF68213490@diverse-thrush.rooster465.autos:443?security=tls&sni=diverse-thrush.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.228.205-0081
 trojan://CF68213490@smooth-lark.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.46.29-0067
 trojan://CF68213490@devoted-zebra.rooster465.autos:443?security=tls&sni=devoted-zebra.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.248.218-0077
+trojan://CF68213490@aware-puma.rooster465.autos:443?security=tls&sni=aware-puma.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.146.77-0063
+trojan://CF68213490@climbing-frog.rooster465.autos:443?security=tls&sni=climbing-frog.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.81.139-0073
+trojan://CF68213490@tolerant-stag.rooster465.autos:443?security=tls&sni=tolerant-stag.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.209.247-0071
+trojan://CF68213490@smiling-fowl.rooster465.autos:443?security=tls&sni=smiling-fowl.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.80.163-0480
+trojan://CF68213490@growing-ram.rooster465.autos:443?security=tls&sni=growing-ram.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.64.246-0080
+trojan://CF68213490@awake-satyr.rooster465.autos:443?security=tls&sni=awake-satyr.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.94.34-0076
+trojan://CF68213490@excited-squirrel.rooster465.autos:443?security=tls&sni=excited-squirrel.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.190.61-0075
+trojan://CF68213490@eternal-horse.rooster465.autos:443?security=tls&sni=eternal-horse.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.235.223-0072
+trojan://CF68213490@enormous-whippet.rooster465.autos:443?security=tls&sni=enormous-whippet.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.139.180-0074
+trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.233-1968
+trojan://CF68213490@aware-lionfish.rooster465.autos:443?security=tls&sni=aware-lionfish.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.52.205-0058
+trojan://CF68213490@star-bluejay.rooster465.autos:443?security=tls&sni=star-bluejay.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.159.219-0060
+trojan://CF68213490@upward-yak.rooster465.autos:443?security=tls&sni=upward-yak.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.102.23-0064
+trojan://CF68213490@bright-cicada.rooster465.autos:443?security=tls&sni=bright-cicada.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.128.246.104-0515
+trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.56-0088
+trojan://CF68213490@moral-basilisk.rooster465.autos:443?security=tls&sni=moral-basilisk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.164.105-0506
+trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls&sni=active-hippo.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.179.167-0520
+trojan://CF68213490@star-hagfish.rooster465.autos:443?security=tls&sni=star-hagfish.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.239.172-0518
+trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.60.15-0509
+trojan://CF68213490@normal-macaque.rooster465.autos:443?security=tls&sni=normal-macaque.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.229.111-0390
+trojan://CF68213490@internal-krill.rooster465.autos:443?security=tls&sni=internal-krill.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.233.29-0510

@@ -3,27 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://CF68213490@aware-puma.rooster465.autos:443?security=tls&sni=aware-puma.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.146.77-0063
-trojan://CF68213490@climbing-frog.rooster465.autos:443?security=tls&sni=climbing-frog.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.81.139-0073
-trojan://CF68213490@tolerant-stag.rooster465.autos:443?security=tls&sni=tolerant-stag.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.209.247-0071
-trojan://CF68213490@smiling-fowl.rooster465.autos:443?security=tls&sni=smiling-fowl.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.80.163-0480
-trojan://CF68213490@growing-ram.rooster465.autos:443?security=tls&sni=growing-ram.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.64.246-0080
-trojan://CF68213490@awake-satyr.rooster465.autos:443?security=tls&sni=awake-satyr.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.94.34-0076
-trojan://CF68213490@excited-squirrel.rooster465.autos:443?security=tls&sni=excited-squirrel.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.190.61-0075
-trojan://CF68213490@eternal-horse.rooster465.autos:443?security=tls&sni=eternal-horse.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.235.223-0072
-trojan://CF68213490@enormous-whippet.rooster465.autos:443?security=tls&sni=enormous-whippet.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.139.180-0074
-trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.233-1968
-trojan://CF68213490@aware-lionfish.rooster465.autos:443?security=tls&sni=aware-lionfish.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.52.205-0058
-trojan://CF68213490@star-bluejay.rooster465.autos:443?security=tls&sni=star-bluejay.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.159.219-0060
-trojan://CF68213490@upward-yak.rooster465.autos:443?security=tls&sni=upward-yak.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.102.23-0064
-trojan://CF68213490@bright-cicada.rooster465.autos:443?security=tls&sni=bright-cicada.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.128.246.104-0515
-trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.56-0088
-trojan://CF68213490@moral-basilisk.rooster465.autos:443?security=tls&sni=moral-basilisk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.164.105-0506
-trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls&sni=active-hippo.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.179.167-0520
-trojan://CF68213490@star-hagfish.rooster465.autos:443?security=tls&sni=star-hagfish.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.239.172-0518
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.60.15-0509
-trojan://CF68213490@normal-macaque.rooster465.autos:443?security=tls&sni=normal-macaque.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.229.111-0390
-trojan://CF68213490@internal-krill.rooster465.autos:443?security=tls&sni=internal-krill.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.233.29-0510
 trojan://CF68213490@sharp-scorpion.rooster465.autos:443?security=tls&sni=sharp-scorpion.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.136.143.231-0096
 trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls&sni=brief-warthog.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.229.87-0389
 trojan://CF68213490@sacred-treefrog.rooster465.autos:443?security=tls&sni=sacred-treefrog.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-52.221.218.103-0493
@@ -54,24 +33,10 @@ trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular
 trojan://PI36027154@upright-hamster.rooster465.autos:443?allowInsecure=1#%F0%9F%8E%8D48@v2ray_configs_pools
 trojan://XG59623478@singular-lark.rooster465.autos:443#%F0%9F%90%9E89@v2ray_configs_pools
 trojan://CF68213490@free-hare.rooster465.autos:443?allowInsecure=0&sni=free-hare.rooster465.autos#@mtproto_proserver
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDA3MTE3ZmI4LmN5YmVydmVuYS5jb206NTAwOTk/#%E8%87%BA%E7%81%A3%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQGhhY2tuZXktbGF0ZXN0LXN0cmlrZS5mcmVlc29ja3Mud29yazo0NDM/#%E5%BE%B7%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQGhhY2tuZXktbGF0ZXN0LXN0cmlrZS5mcmVlc29ja3Mud29yazo0NDM/#%E5%BE%B7%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQGhhY2tuZXktbGF0ZXN0LXN0cmlrZS5mcmVlc29ja3Mud29yazo0NDM/#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMjg2ZWsyLmN5YmVydmVuYS5jb206NTAwOTk/#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dkA1NC4yNTAuMTY1LjE2MDoyMzc3Pw==#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
-ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST1AMTAzLjEzMC4xNDcuNDA6MTEyMj8=#%E5%9C%9F%E8%80%B3%E5%85%B6%E4%B8%A8yoyapai.com%5Cr
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haT0BjaGVuZ2JhaTAyLmFzY3d0MTc5LmNvbToxMzIyMz8=#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haT0BjaGVuZ2JhaTAyLmFzY3d0MTc5LmNvbToxMzIyMz8=#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
-ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNUAyMTIuMTkyLjEzLjkxOjMwMTI5Pw==#%F0%9F%87%B7%F0%9F%87%BA%20RU%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%A8yoyapai.com%5Cr
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haT0BjaGVuZ2JhaTAyLmFzY3d0MTc5LmNvbToxMzIyMz8=#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjM1OjQ0Mz8=#%F0%9F%87%B3%F0%9F%87%B1_NL%E8%8D%B7%E8%98%AD%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZzdJeWdWK25uTTE0c2VScUlYVDRsTjd3SitoS2NTTGRxZ0VRcGNPcTRnPQ@e2.cover20.ir:30874#%F0%9F%87%A8%F0%9F%87%A6%20CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dkA4OC4yMTAuMzYuMTA5OjIzNzc=#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTguMTkwLjE3Ni4xMTI6NDQz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6%20242.6KB%2Fs
@@ -253,3 +218,38 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#@icv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#@vpng3 [6]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#https://t.me/FREE_VPN02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#🟡t.me/iProxyChannel 9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#@KAFING_2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#@vpng3 [4]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#https://t.me/FREE_VPN02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#@icv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#https://t.me/FREE_VPN02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#@FarazV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#@appsooner کانال تلگرام 🕊️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#https://t.me/FREE_VPN02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@Ap_Ir6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@SylphNet | 2026-06-27 03:47
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@SylphNet | 2026-06-27 04:27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@icv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#🟡t.me/iProxyChannel 9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#@Soul737
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#@hex_proxy ²
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#@hex_proxy ³
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#TEL;Father_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#@icv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#@icv2ray
