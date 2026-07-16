@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://3d6e81e4-c6df-32ad-a808-e83d4fd1ca1a@azgy001.xibai6.top:20783?allowInsecure=1&sni=ssl.ssl12.xyz#@Hope_Net-join-us-on-Telegram
-trojan://3d6e81e4-c6df-32ad-a808-e83d4fd1ca1a@azgy001.xibai6.top:20783?allowInsecure=1&sni=ssl.ssl12.xyz#🌍111901 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://3d6e81e4-c6df-32ad-a808-e83d4fd1ca1a@azgy001.xibai6.top:20788?allowInsecure=1&sni=ssl.ssl12.xyz#@Hope_Net-join-us-on-Telegram
 trojan://3d6e81e4-c6df-32ad-a808-e83d4fd1ca1a@soskeynets.xibai6.top:20783?allowInsecure=1&sni=ssl.ssl12.xyz#🌍111901 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://4aFbwy5BHa@151.101.34.144:443?mode=auto&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=global.fastly.com#@Selinc
@@ -253,3 +251,5 @@ trojan://MiTiVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/--
 trojan://MiTiVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WIN-nl&security=tls&alpn=http/1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#🇱🇹 @FreakConfig
 trojan://MiTiVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WIN-nl&security=tls&alpn=http/1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#🇱🇹 @V2rayng_Fast
 trojan://MiTiVPN@89.116.250.135:443?security=tls&sni=Win-Nll--l.App-Cloud.Ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=Wihn-Nlkl--ol.App-Cloud.Ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WIN-nl#Netherlands - hope of freedom - @anotherme_night
+trojan://MiTiVPN@89.116.250.135:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SW-22&host=bw--ivb-b--vvbcs.MaQror.IR&sni=Swdb-ueu-oe.MaQror.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#اگه از کانفیگ راضی بودی تو چنلمون عضو شو❤️https://t.me/W570W🚀
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@Selinc
