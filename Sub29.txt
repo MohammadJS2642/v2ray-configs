@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@104.16.72.41:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://humanity@104.18.115.61:443?type=ws&security=tls&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&alpn=h2,http/1.1#%3E%3E%40ShadowsocksM%3A%3ANL
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%3E%3E%40v2line%3A%3ANL
-trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#%3E%3E%40configshub2%3A%3AFR
-trojan://humanity@104.18.7.147:443?allowInsecure=1&fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@104.19.229.21:443?path=%2Fassignment%3FL=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%3E%3E%40V2rayNG3%3A%3ANL
 trojan://humanity@172.64.147.227:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%3E%3E%40FreakConfig%3A%3ANL
 trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -189,11 +178,8 @@ trojan://PI36027154@upright-hamster.rooster465.autos:443?allowInsecure=1#%F0%9F%
 trojan://XG59623478@singular-lark.rooster465.autos:443#%F0%9F%90%9E89@v2ray_configs_pools
 trojan://humanity@165.215.250.14:443?allowInsecure=1&fp=chrome&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%F0%9F%9F%A287@v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6%20583.3KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5%20224.6KB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A62%20436.1KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%40v2raybaaz%20%C2%B3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6%20408.7KB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#V2rayng_Fast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#v2ray_dalghak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
@@ -253,3 +239,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZVF4QjdzTUdwdGZGY3QycWsyRVNMZUNOTExoUlJ3WHJ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZVF4QjdzTUdwdGZGY3QycWsyRVNMZUNOTExoUlJ3WHJrTlpYQ2RMRll2WXdQUUQ=@5.188.36.54:51348#🇹🇷112114 | ⚡️Telegram = t.me/SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5YmtxbWNobDN6cGpvaXNl@france.radanjami.org:33577#@appsooner کانال تلگرام 🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#https://t.me/FREE_VPN02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388?#@one_shop_official
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYXlTTVhIV1JPU3FZaFcyT1hpMmJI@212.113.106.76:61992#@Hope_Net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYXlTTVhIV1JPU3FZaFcyT1hpMmJI@212.113.106.76:61992#[🇦🇹]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYXlTTVhIV1JPU3FZaFcyT1hpMmJI@212.113.106.76:61992#🇦🇹112178 | ⚡️Telegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGOUV2YUs1MmZ3S2JROExm@40.112.71.34:443#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:806#@Hope_Net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:806#🇯🇵112047 | ⚡️Telegram = t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVFN5bVc0eXNIY2FxSDcw@20.164.116.218:443#@routel1 🦋
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZUMySHpJTkhiNFNVWThT@20.223.136.202:443#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#@Ap_Ir6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#@appsooner کانال تلگرام 🕊️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJcVBLNW5mZ2dncjNQZmE4@40.112.71.34:443#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#Proxy_Se7en
