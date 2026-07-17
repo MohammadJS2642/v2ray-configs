@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://NQ26071394@ace-liger.rooster465.autos:443?allowInsecure=0&sni=ace-liger.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://NQ26071394@gentle-platypus.rooster465.autos:443?allowInsecure=0&sni=gentle-platypus.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://NQ26071394@allowed-moose.rooster465.autos:443?allowInsecure=0&sni=allowed-moose.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://NQ26071394@amazing-troll.rooster465.autos:443?allowInsecure=0&sni=amazing-troll.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.128.25.36:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.237.3:1080#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#V2rayng_Fast
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#v2ray_dalghak

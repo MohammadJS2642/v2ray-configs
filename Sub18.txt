@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=/http#@Ap_Ir6
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=/http#@SparrK_VPN
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=/http#@meliproxyy
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=/http#Channel : @Daily_Configs
@@ -253,3 +252,4 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&e
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=/?&headerType=none&type=tcp#🔵t.me/iProxyChannel 13
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=fn.fifapes.monster&headerType=none&fp=chrome&type=tcp#@filembad
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=fn.fifapes.monster&headerType=none&fp=chrome&type=tcp#[96346] - Telegram : @V2All
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=fn.fifapes.monster&headerType=none&fp=chrome&type=tcp#🇫🇷113472 | ⚡️Telegram = t.me/SOSkeyNET
