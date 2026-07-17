@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://@free_conf_iran@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈 کانفیگ بیشتر
+vless://@free_conf_iran@51.83.22.65:1935?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#🔥 @free_conf_iran 🔥 1
+vless://@free_conf_iran@51.83.22.65:20021?security=reality&encryption=none&pbk=CsbATIwH_TIGR_U0eTjxv4aLhCTTuq-Roh2Bgu75QTY&headerType=none&fp=chrome&spx=/ppJiKOhhrr4BQMo&type=tcp&sni=play.google.com&sid=4b1771#🔥 @free_conf_iran 🔥 5
+vless://@free_conf_iran@51.83.22.65:52196?security=none&encryption=none&headerType=none&type=tcp#🔥 @free_conf_iran 🔥 7
+vless://@free_conf_iran@f.mamish.ir:2084?security=reality&encryption=none&pbk=vi6dWyt51BPg3qMoMewV1YKyHVHwWNHCpdAIF4tb3Vk&headerType=none&fp=chrome&spx=/3L4F3AlvnjLI1Yf&type=tcp&sni=use.fontawesome.com&sid=65d694#🔥 @free_conf_iran 🔥 3
 vless://@free_conf_iran@f.mamish.ir:7018?mode=gun&security=reality&encryption=none&pbk=VFLtoNzHBUkrPoY1-uXpx2_IvxrLcT3YAo656Nj4Cgk&fp=chrome&spx=/05kSkCYVRD8FxtJ&type=grpc&serviceName=2096vless&sni=use.fontawesome.com&sid=e0c129#🔥 @free_conf_iran 🔥 2
 vless://AlfredConfig@104.17.107.134:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://AlfredConfig@159.246.55.251:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
@@ -248,8 +253,3 @@ vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&s
 vless://ad91ee86-d4c1-4bc0-8906-c48d8c281bea@de1.najireata.org:2040?security=reality&encryption=none&pbk=d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9634e9421a05e65f#🔵@chillguy_vpn
 vless://ad91ee86-d4c1-4bc0-8906-c48d8c281bea@fr1.najireata.org:2040?security=reality&encryption=none&pbk=d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9634e9421a05e65f#🔵@chillguy_vpn
 vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇮🇷 - IR - @FreeOnlineVPN
-vless://adc04443-bbef-4434-b77c-3255d8be6ef3@ser.coolfrog-bot.ir:8080?path=/steam&security=none&encryption=none&host=ser.coolfrog-bot.ir&type=ws#@outline_ir
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.191:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#Proxy_Se7en
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.191:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#🔵t.me/iProxyChannel 16
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#@KAFING_2
-vless://ae18c4e2-4348-428d-8fed-1eb6096891c3@anten.ir:8880?path=/&security=none&encryption=none&host=iran.shopdn.ir&type=ws#@WetConfig
