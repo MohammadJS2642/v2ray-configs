@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://24d49ddd-67c1-4821-b5b9-f12107366978@104.19.250.20:443?encryption=none&security=tls&sni=bahari.kiamobilepart.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bahari.kiamobilepart.com&path=%2Fapi#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://385a0b96-4f72-4830-85e2-8403bbe48841@ser.coolfrog-bot.ir:8080?type=ws&encryption=none&path=%2Fsteam&host=ser.coolfrog-bot.ir&security=none#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%204ms
 vless://42455ebe-1c84-479a-9bac-6433c30f8d19@45.144.30.150:47821?security=reality&encryption=none&pbk=VzODTOgOR9TvwR_2gXIwlDyOpOT7g_O1qBd5J3r37GU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn5-98.yahoo.com#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://50414e45-4c5f-5a45-5553-3ff45107023a@0.0.0.0:1?encryption=none&security=none&type=ws&host=zeus-panel-w3clf2.zeus-lg0jv6.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F50414e45#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20down
@@ -253,3 +252,4 @@ vless://05b6ac90-7524-49c6-b6e5-9dd6d2ab3c2d@id01-tel-badangellll.shopiranii.ir:
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?encryption=none&path=/&security=none&type=ws#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://05e09c8a-a3a9-4bd5-acf9-2c3c87bab827@145.239.173.163:443?type=tcp&encryption=none&security=none#test france
 vless://0665cf1e-0df8-4981-a8de-a366e37c0866@104.18.15.19:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net#Arshiavpn12
+vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.101:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#Proxy_Se7en
