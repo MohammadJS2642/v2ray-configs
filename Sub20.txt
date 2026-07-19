@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e1924dca-9fcd-453c-af56-f09ad0818c9a@[2a01:7e01::2000:d6ff:fe83:fc32]:14019?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²¹³ ipv6
-vless://e2609ee9-08f6-45b2-8eed-8889a799945f@green.iranidrive.ir:2092?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=reality&fp=chrome&sni=www.yahoo.com&pbk=7UbUiwU9tjzhwCuEDqIXlF4zU8V7Gn-SkEcwcBqgNDU&sid=4e&spx=/DFm1fdkZikXIQ1r#green
-vless://e2609ee9-08f6-45b2-8eed-8889a799945f@green.iranidrive.ir:2092?security=reality&encryption=none&pbk=7UbUiwU9tjzhwCuEDqIXlF4zU8V7Gn-SkEcwcBqgNDU&host=zula.ir&headerType=http&fp=chrome&spx=/DFm1fdkZikXIQ1r&type=tcp&sni=www.yahoo.com&sid=4e#@Ap_Ir6
 vless://e2609ee9-08f6-45b2-8eed-8889a799945f@green.iranidrive.ir:2092?security=reality&encryption=none&pbk=7UbUiwU9tjzhwCuEDqIXlF4zU8V7Gn-SkEcwcBqgNDU&host=zula.ir&headerType=http&fp=chrome&spx=/DFm1fdkZikXIQ1r&type=tcp&sni=www.yahoo.com&sid=4e#@v2raybaaz ⁵
 vless://e2609ee9-08f6-45b2-8eed-8889a799945f@green.iranidrive.ir:2092?security=reality&encryption=none&pbk=7UbUiwU9tjzhwCuEDqIXlF4zU8V7Gn-SkEcwcBqgNDU&host=zula.ir&headerType=http&fp=chrome&spx=/DFm1fdkZikXIQ1r&type=tcp&sni=www.yahoo.com&sid=4e#@vpnbaz ⭐
 vless://e2773031-7418-424e-ae49-99b4b474aeba@167.233.59.162:443?security=reality&encryption=none&pbk=VwWuZIAZf4msfvsDZQjQHY6hZPK5r0O-s7yStyjOqhk&headerType=none&fp=chrome&spx=/U575ktM2xSCSQeZ&type=tcp&flow=xtls-rprx-vision&sni=drive.google.com&sid=fc87828b94144d#TEL;Father_vpn
@@ -253,3 +250,6 @@ vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?security=reality
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.quattro-tech.ru&sid=43dcff53849b81e6#@v2raybaaz ²
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.quattro-tech.ru&sid=43dcff53849b81e6#@v2raybaaz ³
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.quattro-tech.ru&sid=43dcff53849b81e6#@vpnbaz ☂️
+vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.quattro-tech.ru&sid=43dcff53849b81e6#V2ray_Alpha🥦 4
+vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?sid=43dcff53849b81e6&sni=se.quattro-tech.ru&headerType=none&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none&type=tcp&flow=xtls-rprx-vision#🦉@FreeConfigForYou
+vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.89:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
