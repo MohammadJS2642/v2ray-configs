@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14010?security=reality&encryption=none&pbk=PT1gw9B5majPBH2_qST-vymli9f6RlTmvGS2gPtdhF8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=1ebaa8ea57a71ffc#Proxy_Se7en
 vless://3e6a3182-5cb6-476f-bbf5-80c4199c5fef@107.181.155.175:8899?security=reality&encryption=none&pbk=wbcRJDNTU7tmBWYu_ik6nY_5nonaiMQjHY11OI5A_B8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=161f1eccd99956a2#@Maznet -SOS504
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.68:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#چنل عضو شو @v2ra_config
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#IR-@V2rayAlpha-6
@@ -252,4 +253,3 @@ vless://54f6511e-5ea2-46b8-8475-7adc729ece51@and-share.ir:443?path=/ZEUS_PANEL_B
 vless://54f6511e-5ea2-46b8-8475-7adc729ece51@soskeynets.azinsaraco.ir:80?path=/ZEUS_PANEL_BOT&security=none&encryption=none&host=zeus-panel-cxyca3.zeus-butoun.workers.dev&fp=chrome&type=ws&sni=zeus-panel-cxyca3.zeus-butoun#🇨🇦116423 | ⚡️Telegram = t.me/SOSkeyNET
 vless://54f6511e-5ea2-46b8-8475-7adc729ece51@webmail.azinsaraco.ir:80?path=/ZEUS_PANEL_BOT&security=none&encryption=none&host=zeus-panel-cxyca3.zeus-butoun.workers.dev&fp=chrome&type=ws&sni=zeus-panel-cxyca3.zeus-butoun#kurdconfig
 vless://54f6511e-5ea2-46b8-8475-7adc729ece51@webmail.azinsaraco.ir:80?path=/ZEUS_PANEL_BOT&security=none&encryption=none&host=zeus-panel-cxyca3.zeus-butoun.workers.dev&fp=chrome&type=ws&sni=zeus-panel-cxyca3.zeus-butoun#🇨🇦116423 | ⚡️Telegram = t.me/SOSkeyNET
-vless://54f6511e-5ea2-46b8-8475-7adc729ece51@webmail.azinsaraco.ir:80?path=/ZEUS_PANEL_BOT&security=none&encryption=none&host=zeus-panel-cxyca3.zeus-butoun.workers.dev&fp=chrome&type=ws&sni=zeus-panel-cxyca3.zeus-butoun#🇨🇦@FreakConfig
