@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.18.24.41:8443?path=/&security=tls&encryption=none&insecure=0&host=pn.lox30shop.ir&fp=chrome&type=ws&allowInsecure=0&sni=pn.lox30shop.ir#@FarazV2ray
 vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.18.24.41:8443?path=/&security=tls&encryption=none&insecure=0&host=pn.lox30shop.ir&fp=chrome&type=ws&allowInsecure=0&sni=pn.lox30shop.ir#kurdconfig
 vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.18.24.41:8443?path=/&security=tls&encryption=none&insecure=0&host=pn.lox30shop.ir&fp=chrome&type=ws&allowInsecure=0&sni=pn.lox30shop.ir#🇵🇱@FreakConfig
 vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.18.24.41:8443?path=/&security=tls&encryption=none&insecure=0&host=pn.lox30shop.ir&fp=chrome&type=ws&allowInsecure=0&sni=pn.lox30shop.ir#🇵🇱@V2rayng_Fast
@@ -252,4 +253,3 @@ vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?mode=gun&security=r
 vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?mode=gun&security=reality&encryption=none&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&type=grpc&serviceName=grpc&sni=speed.cloudflare.com#🌐t.me/iProxyChannel 10
 vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?mode=gun&security=reality&encryption=none&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&type=grpc&serviceName=grpc&sni=speed.cloudflare.com#🌐t.me/iProxyChannel 3
 vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?security=reality&encryption=none&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&type=grpc&serviceName=grpc&sni=speed.cloudflare.com#@vegaas_vpn
-vless://91391b3b-1b13-4e3a-b261-a615a6db6398@162.159.38.119:443?path=/-----MxGriD-----&security=tls&encryption=none&insecure=0&host=telegram.mxgrid.xyz&type=ws&allowInsecure=0&sni=telegram.mxgrid.xyz#@MxGriD-join(@MxGrid).

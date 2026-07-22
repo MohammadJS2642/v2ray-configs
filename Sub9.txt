@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@talianaccentclouding.iranlast.com:7009?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com#@Selinc
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 @GozargahVPN
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&host=@ProxyVPN11&headerType=none&type=tcp#TEL;Father_vpn
@@ -252,4 +253,3 @@ vless://59da5351-5151-417d-b2f7-6923848b717e@nl4.helper-internet.com:443?securit
 vless://59da5351-5151-417d-b2f7-6923848b717e@spain2.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=spain2.helper-internet.com&sid=ff776ff77be48b88#%FREE_VPN02
 vless://59dc27e9-6b31-738d-eb04-bd66dc037892@ansooyefilter.up.railway.app:443?path=/ws/59dc27e9-6b31-738d-eb04-bd66dc037892&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter.up.railway.app#Proxy_Se7en
 vless://59eefc04-b831-45cf-8d68-63ca23381171@104.26.0.195:8080?path=/ws-hTopcF3L&security=none&encryption=none&host=premium-us-az-01-hostinger.efgwf.online&type=ws#@filembad
-vless://59eefc04-b831-45cf-8d68-63ca23381171@104.26.0.195:8080?path=/ws-hTopcF3L&security=none&encryption=none&host=premium-us-az-01-hostinger.efgwf.online&type=ws#@tootffarangi🍓-3Irancell

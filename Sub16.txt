@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
 vless://b82d817a-431e-4c4b-93b7-a924256db74e@al1.vipsite2.top:8088?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=alman1.rendai.ir#🇩🇪@V2rayng_Fast
 vless://b8cd6ca4-57ad-b45c-db2f-c2c560e3cd3d@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/b8cd6ca4-57ad-b45c-db2f-c2c560e3cd3d#102
 vless://b92b74e6-68b3-ab8d-ee22-6d2ff694bb50@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/b92b74e6-68b3-ab8d-ee22-6d2ff694bb50#107
@@ -252,4 +253,3 @@ vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=/sg-melbi&se
 vless://cca3e5cc-a62b-4877-b2d2-446da5167265@chatgpt.com:2053?path=/&security=tls&encryption=none&insecure=0&host=ws.fredomiran.com&type=ws&allowInsecure=0&sni=fredomiran.com#Proxy_mtm
 vless://cca3e5cc-a62b-4877-b2d2-446da5167265@gr.fredomiran.com:443?security=reality&encryption=none&pbk=5vlie1Xxnp4ZhghxvPWZCPLiwxM9CNVuQN0lRz2Gigw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f9ffaeacfcf21dc1#Proxy_mtm
 vless://cca3e5cc-a62b-4877-b2d2-446da5167265@nl.fredomiran.com:443?security=reality&encryption=none&pbk=5vlie1Xxnp4ZhghxvPWZCPLiwxM9CNVuQN0lRz2Gigw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f9ffaeacfcf21dc1#@erfanandroid
-vless://cccbfdd9-b6fe-45c5-ac08-da49a001e81e@185.231.183.159:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#@Net2ray DE

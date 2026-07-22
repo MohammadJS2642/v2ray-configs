@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a3c465cd-bf1d-4e70-99a4-d5d494a7a038@162.159.38.119:443?encryption=none&host=telegram.mxgrid.xyz&path=/----MxGriD-----&security=tls&sni=telegram.mxgrid.xyz&type=ws#@MxGrid-join(@MxGriD)
 vless://a3f8f570-3e53-4252-a01f-f95156680e39@162.159.38.119:443?encryption=none&fp=chrome&host=telegram.mxgrid.xyz&path=/-----MxGriD-----&security=tls&sni=telegram.mxgrid.xyz&type=ws#@MxGriD-join(@MxGriD)
 vless://a3f8f570-3e53-4252-a01f-f95156680e39@162.159.38.119:443?path=/-----MxGriD-----&security=tls&encryption=none&insecure=0&host=telegram.mxgrid.xyz&fp=chrome&type=ws&allowInsecure=0&sni=telegram.mxgrid.xyz#🚀@VPNine1
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@ashburn.yellowsky.ir:8080?encryption=none&type=tcp&headerType=http&host=play.google.com#@vpng3 [22]
@@ -252,4 +253,3 @@ vless://b79948e1-a34a-480d-8eb7-260f809e1b6a@104.17.108.1:443?type=xhttp&securit
 vless://b79948e1-a34a-480d-8eb7-260f809e1b6a@45.130.125.162:443?type=xhttp&security=tls&path=/api/v2/feed&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=aa.farxmode.ir&mode=packet-up&extra={"headers":{"User-Agent":"Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36"},"xPaddingBytes":"100-1000"}&sni=aa.farxmode.ir&alpn=h2,http/1.1&fp=chrome#🇩🇪 Telegram @SRCVPN
 vless://b7c0b208-8f36-4433-ac80-1737a49209b1@asia6.novahomedesigntips.com:6677?path=/&security=&encryption=none&type=ws#channel : @freedomofinfor
 vless://b8069ac2-041f-432d-90d3-5af2139ec2da@de.sv.temas-bor.ir:22006?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=chrome&spx=/&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#@FarazV2ray
-vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
