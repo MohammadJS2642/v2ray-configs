@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://BxceQaOe@43.199.146.29:9149?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A110
 trojan://CF68213490@tolerant-rattler.rooster465.autos:443?type=tcp&sni=tolerant-rattler.rooster465.autos#US7%207.7MB%2Fs
 trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls&headerType=none&type=tcp#%E6%9C%AA%E7%9F%A545%2017.6MB%2Fs
 trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.51.248:49277?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
@@ -252,4 +253,3 @@ trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=&fp=chrom
 trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#[🇭🇰]@NetliVPN
 trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=119.246.1.143#[🇭🇰]@NetliVPN
 trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@tootffarangi🍓-4Irancell
-trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me/ripaojiedian#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰

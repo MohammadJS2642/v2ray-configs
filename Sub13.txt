@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.18.24.41:8443?path=/&security=tls&encryption=none&insecure=0&host=pn.lox30shop.ir&fp=chrome&type=ws&allowInsecure=0&sni=pn.lox30shop.ir#@FarazV2ray
 vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.18.24.41:8443?path=/&security=tls&encryption=none&insecure=0&host=pn.lox30shop.ir&fp=chrome&type=ws&allowInsecure=0&sni=pn.lox30shop.ir#kurdconfig
 vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.18.24.41:8443?path=/&security=tls&encryption=none&insecure=0&host=pn.lox30shop.ir&fp=chrome&type=ws&allowInsecure=0&sni=pn.lox30shop.ir#🇵🇱@FreakConfig
 vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.18.24.41:8443?path=/&security=tls&encryption=none&insecure=0&host=pn.lox30shop.ir&fp=chrome&type=ws&allowInsecure=0&sni=pn.lox30shop.ir#🇵🇱@V2rayng_Fast
@@ -252,4 +253,3 @@ vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?security=reality&
 vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?security=reality&encryption=none&pbk=8jwT95mGT7dW1VkMVt8vtwbWLgHN39tnhnt6PN1FTmU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=b08c5eb124a5877e#🇫🇮230Mb | U1 Digital Services
 vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#Brayirani
 vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@130.17.2.28:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://953cf07c-a05e-4e38-9b80-d2edb46b128f@zone.tr1.netlume.ir:59699?security=reality&encryption=none&pbk=7JOaNN3Z-PlrHTnW2PmdV-K3CwdFnzKjuSRFgd4E2xg&host=telewebion.ir&headerType=http&fp=chrome&type=tcp&sni=telewebion.ir&sid=f88fa86f62252dad#⚫ 47 • @spotfyhits ❤

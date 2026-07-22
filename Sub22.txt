@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f884dbf3-898b-43d2-a845-e69300542eab@qaabb.pastilbastani.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪All³ | @configprxy
 vless://f884dbf3-898b-43d2-a845-e69300542eab@qaabb.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://f884dbf3-898b-43d2-a845-e69300542eab@qaabb.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Channel id: @configprxy
 vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=none&encryption=none&headerType=none&type=tcp#@tanhanet🔷️
@@ -252,4 +253,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.50:8880?ed=2560&eh=Sec-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?path=%2F&security=&encryption=none&host=vms.lifetime04.workers.dev&type=ws#%3E%3E%40shadowproxy66%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.40:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=vms.lifetime55.workers.dev&type=ws#%3E%3E%40FreakConfig%3A%3AUS
 vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@log.bpminecraft.com:8880?encryption=none&host=misty-mouse-141d.177-f18.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACZ
