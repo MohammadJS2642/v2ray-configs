@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://XG59623478@3.249.67.252:443?type=tcp&security=tls&headerType=none&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0#Aggressive%207%20-%20%40JoonVPN%20%F0%9F%AB%A6`
+trojan://humanity@104.17.111.8:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40hi_proxy_iran
+trojan://JA96378052@primary-mallard.rooster465.autos:443?allowInsecure=1&sni=primary-mallard.rooster465.autos#🇺🇸[openproxylist.com
+trojan://HW85960347@dashing-possum.rooster465.autos:443?allowInsecure=0&sni=dashing-possum.rooster465.autos#🇺🇸[openproxylist.com
 trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://CF68213490@tolerant-rattler.rooster465.autos:443?sni=tolerant-rattler.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AUS
 trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -56,7 +60,7 @@ trojan://KV63147582@evolving-baboon.rooster465.autos:443?security=tls&insecure=0
 trojan://NQ26071394@ready-kangaroo.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ready-kangaroo.rooster465.autos#%F0%9F%8C%90t.me%2FiProxyChannel%2014
 trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%8C%90t.me%2FiProxyChannel%2017
 trojan://ef12f4f4-0ad3-4f39-8916-916d270d64d6@timazadi-production-aa7f.up.railway.app:443?security=tls&type=ws&host=timazadi-production-aa7f.up.railway.app&path=/ws/ef12f4f4-0ad3-4f39-8916-916d270d64d6&sni=timazadi-production-aa7f.up.railway.app&fp=chrome&alpn=http/1.1#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?allowInsecure=0&sni=149.104.104.58#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=0&sni=space.byu.id.yxls.eu.cc&ws=1&wspath=%2Fin-pdr#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20V2CROSS.COM
 trojan://b490740312aedb5f9f6b84c7aebd08c0@43.198.78.177:47867?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://BxceQaOe@43.198.11.229:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://BxceQaOe@43.198.17.21:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
@@ -70,6 +74,7 @@ trojan://b490740312aedb5f9f6b84c7aebd08c0@16.162.187.38:49277?allowInsecure=0&sn
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.167.84.124:49277?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@43.198.106.37:29085?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.51.248:38937?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC%E4%B8%A8yoyapai.com%5Cr
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=1&sni=space.byu.id.yxls.eu.cc#%E8%8D%B7%E5%85%B0%E4%B8%A8yoyapai.com%5Cr
 trojan://b490740312aedb5f9f6b84c7aebd08c0@35.77.80.32:40138?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC%E4%B8%A8yoyapai.com%5Cr
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.221.190.80:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E8%98%AD%E4%B8%A8yoyapai.com%5Cr
 trojan://8r%3C%5B9%27l6hAO%238ZQi@151.241.215.148:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%E6%84%8F%E5%A4%A7%E5%88%A9%E7%AF%80%E9%BB%9E%F0%9F%87%AE%F0%9F%87%B9IT%E4%B8%A8yoyapai.com%5Cr
@@ -92,6 +97,8 @@ trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:49277?allowInsecure=1&s
 trojan://b490740312aedb5f9f6b84c7aebd08c0@54.46.77.161:38937?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC%E4%B8%A8yoyapai.com%5Cr
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.58.27:40138?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC%E4%B8%A8yoyapai.com%5Cr
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:47867?allowInsecure=1&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF%E4%B8%A8yoyapai.com%5Cr
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=0&sni=space.byu.id.yxls.eu.cc&ws=1&wspath=%2Fin-pdr#%F0%9F%87%B3%F0%9F%87%B1%20NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=0&sni=space.byu.id.yxls.eu.cc&ws=1&wspath=%2Fin-pdr#%F0%9F%87%B0%F0%9F%87%B7%20KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@www.ignitelimit.com:443?type=ws&path=/assignment#%E6%9C%AA%E7%9F%A52
 trojan://NQ26071394@sharing-porpoise.rooster465.autos:443?sni=sharing-porpoise.rooster465.autos#US%207.5MB%2Fs
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.58.27:40138?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
@@ -246,10 +253,3 @@ trojan://--------------BanV2ray-----------@mmmmmmmmmmmmmmmm-11111111111111111111
 trojan://--------------BanV2ray-----------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:42351?mode=gun&security=reality&pbk=Ejz8wh4L9i-00CFgu_A9Ng4aW3WBcewIHeo85p95Cns&fp=chrome&type=grpc&sni=yahoo.com&sid=2f3671d4#🇨🇭@FreakConfig
 trojan://--------------BanV2ray-----------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:42351?security=reality&sni=yahoo.com&fp=chrome&pbk=Ejz8wh4L9i-00CFgu_A9Ng4aW3WBcewIHeo85p95Cns&sid=2f3671d4&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=#@meliproxyy
 trojan://--------------BanV2ray-----------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:42351?security=reality&sni=yahoo.com&fp=chrome&pbk=Ejz8wh4L9i-00CFgu_A9Ng4aW3WBcewIHeo85p95Cns&sid=2f3671d4&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=#ProxyMtpVPN-22
-trojan://--------------BanV2ray-----------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:43321?mode=gun&security=reality&pbk=Ejz8wh4L9i-00CFgu_A9Ng4aW3WBcewIHeo85p95Cns&fp=chrome&type=grpc&sni=yahoo.com&sid=c030#@tootffarangi🍓-8
-trojan://-------------BanV2ray--------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:47139?mode=gun&security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&fp=chrome&type=grpc&sni=yahoo.com&sid=6239#Join mtmvpn
-trojan://-------------BanV2ray--------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:47139?mode=gun&security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&fp=chrome&type=grpc&sni=yahoo.com&sid=6239#V2ray_Alpha🌏 6
-trojan://-------------BanV2ray--------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:47139?mode=gun&security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&fp=chrome&type=grpc&sni=yahoo.com&sid=6239#🇩🇪All⁹ | @TEHRANARGO
-trojan://-------------BanV2ray--------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:47139?mode=gun&security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&fp=chrome&type=grpc&sni=yahoo.com&sid=6239#🇩🇪All⁹ | @configprxy
-trojan://-------------BanV2ray--------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:47139?security=reality&sni=yahoo.com&fp=chrome&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&sid=6239&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=#@hi_proxy_iran :👈کانال تلگرام
-trojan://-------------BanV2ray--------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:47139?security=reality&sni=yahoo.com&fp=chrome&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&sid=6239&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=#@meliproxyy
