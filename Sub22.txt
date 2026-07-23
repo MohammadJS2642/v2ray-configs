@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#Proxy_Se7en
 vless://fda14d7a-133e-4e32-acfb-62188fc91e32@104.21.72.249:443?security=tls&sni=bpb.feLix-gISlAsOn.WORkERs.dEv&type=ws&host=bPb.FElIx-GISLaSON.WoRKeRs.dev&path=/A_6KHU8Vu_P6XfjH?ed=2048&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 vless://fda14d7a-133e-4e32-acfb-62188fc91e32@104.21.72.249:443?security=tls&sni=bpb.feLix-gISlAsOn.WORkERs.dEv&type=ws&host=bPb.FElIx-GISLaSON.WoRKeRs.dev&path=/A_6KHU8Vu_P6XfjH?ed=2048&fp=chrome&alpn=h2,http/1.1#[1829] - Telegram : @V2All
 vless://fda14d7a-133e-4e32-acfb-62188fc91e32@104.21.72.249:443?security=tls&sni=bpb.feLix-gISlAsOn.WORkERs.dEv&type=ws&host=bPb.FElIx-GISLaSON.WoRKeRs.dev&path=/A_6KHU8Vu_P6XfjH?ed=2048&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
@@ -252,4 +253,3 @@ vless://645ea5d2-7d0a-4d66-940d-eefc2b84f4e9@172.64.94.251:8880?encryption=none&
 vless://63f1ce15-1a88-4698-8a0e-59b85d75e607@free.server11peekconfig.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=free.server11peekconfig.workers.dev&path=%2FeyJqdW5rIjoiNDIxWGNPNW5CQXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D&security=tls&sni=FRee.SeRver11pEEkcONFIg.WorkeRS.DEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://65aed3c1-1999-46a1-a3f3-2e5eb119ec64@172.67.207.26:8880?encryption=none&host=weathered-hat-76a5.380-d00.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://65d3f9b3-d289-4a8e-9c87-90bba156de30@173.245.59.35:443?encryption=none&host=ld.235231.xyz&path=%2F&security=tls&sni=ld.235231.xyz&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6d73dc1e-1627-4b16-b471-53e63aa16c78@deepl.com:8880?encryption=none&host=sweet-truth-ccdb.134-7e9.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

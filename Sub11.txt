@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://784974f6-6289-4988-a51d-7d54f9e6915c@91.209.71.82:8443?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&fp=chrome&spx=/CVdQgonYXvEQSvP&type=xhttp&sni=www.yahoo.com&sid=ee0cddbe17fc#@meliproxyy
 vless://784974f6-6289-4988-a51d-7d54f9e6915c@91.209.71.82:8443?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&fp=chrome&spx=/CVdQgonYXvEQSvP&type=xhttp&sni=www.yahoo.com&sid=ee0cddbe17fc#V2ray_Alpha🌏 10
 vless://784974f6-6289-4988-a51d-7d54f9e6915c@91.209.71.82:8443?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&fp=chrome&spx=/CVdQgonYXvEQSvP&type=xhttp&sni=www.yahoo.com&sid=ee0cddbe17fc#V2ray_Alpha🌑 9
 vless://784974f6-6289-4988-a51d-7d54f9e6915c@91.209.71.82:8443?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&fp=chrome&spx=/CVdQgonYXvEQSvP&type=xhttp&sni=www.yahoo.com&sid=ee0cddbe17fc#V2ray_Alpha😈 6
@@ -252,4 +253,3 @@ vless://85bdef49-d564-4491-84dd-cf92d7fe3f9a@beta.fastsharp.xyz:8080?security=no
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/TvPAJHXEXlFdLMqF?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (8)
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Mlx6nGDhEkXEcBi5?ed=2560#Join Tel: @CxrolVPN (11)
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/8L8ji1ltYihf2SMX?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (9)
-vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/LnR5ZD5AxThxzVDc?ed=2560#Join Tel: @CxrolVPN (12)

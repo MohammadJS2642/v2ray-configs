@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443/?type=tcp&encryption=none&flow=&sni=deepl.com&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae#channel→@networld_vpn
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?encryption=none&fp=&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&security=reality&sid=a8ae&sni=deepl.com&type=tcp#♨️49@oneclickvpnkeys
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@104.18.152.233:443?mode=stream-one&path=/settings----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=chrome&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#TEL;Father_vpn
 vless://9fa6d846-5961-8e0e-ce27-77de00000000@fancy-wind-799d.cloudneryacc.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=0&host=fancy-wind-799d.cloudneryacc.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fancy-wind-799d.cloudneryacc.workers.dev#@𝐕𝟐𝐗𝐍𝐄𝐓
@@ -252,4 +253,3 @@ vless://af288d94-dd26-46cb-ad3d-5fe644e97e2f@31.76.119.201:4888?security=reality
 vless://af288d94-dd26-46cb-ad3d-5fe644e97e2f@31.76.119.201:4888?security=reality&encryption=none&pbk=qtTBa3X4L1h8yS5jbUPY4SFstmtQ0v1oOn0f3qqV3jc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=ce6dec37e4d0d3c6#🚀t.me/iProxyChannel 10
 vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083/?type=ws&encryption=none&flow=&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&fp=chrome#channel→@networld_vpn
 vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?encryption=none&fp=chrome&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws#♨️50@oneclickvpnkeys
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Proxy_Se7en

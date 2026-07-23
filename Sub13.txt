@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?security=&encryption=none&type=grpc#Proxy_Se7en
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Proxy_Se7en
@@ -252,4 +253,3 @@ vless://9e685fe3-e0f9-482d-939c-200a3f89b363@cf.narton.ir:8443?path=/?ed=2560fp=
 vless://9ec16323-954c-4b09-aec9-367e18844fa8@channel.t-me-sh4dow-vpn.workers.dev:443/?type=ws&encryption=none&flow=&host=channel.t-me-sh4dow-vpn.workers.dev&path=/eyJqdW5rIjoiWlNHcnk5RHUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=cHAnnel.T-mE-sH4DOW-Vpn.WOrkerS.dEv&alpn=http/1.1&fp=chrome#channel→@networld_vpn
 vless://9ec16323-954c-4b09-aec9-367e18844fa8@channel.t-me-sh4dow-vpn.workers.dev:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=channel.t-me-sh4dow-vpn.workers.dev&path=/eyJqdW5rIjoiWlNHcnk5RHUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=&security=tls&sni=cHAnnel.T-mE-sH4DOW-Vpn.WOrkerS.dEv&type=ws#♨️58@oneclickvpnkeys
 vless://9efc4b9c-c306-4e16-a774-d5e10fe85793@marzban-node-production-43c6.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-43c6.up.railway.app&sni=marzban-node-production-43c6.up.railway.app&fp=chrome&alpn=h2#Telegram : PeekConfig🚀
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443/?type=tcp&encryption=none&flow=&sni=deepl.com&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae#channel→@networld_vpn
