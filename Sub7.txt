@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://172f2b60-4305-4fe4-8b3e-60b3d5a954e9@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=kingstore.ir&path=Join:@oPeTa_v2ray-telegram:@oPeTa_v2ray-join-chanel:@oPeTa_v2ray-join:@opeta_v2ray-telegram:@opeta_v2ray/?ed=1024&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
-vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#CxrolVPN Free (4)
-vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/ebmJ4UcdPxKGcPdT?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (6)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#CxrolVPN Free (1)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/16K876L0W1BeJ0u0?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (5)
@@ -253,3 +250,6 @@ vless://30693e15-1014-443b-88dd-1232b55a06b6@104.16.6.70:443?path=/&security=tls
 vless://3081d715-3c99-4f46-a8aa-42113608a626@185.204.170.115:8443?mode=gun&security=reality&encryption=none&pbk=hvUy8B1D4ao8RXpu8iIkAVejL_Vu-5DhsisYjSWD40k&fp=chrome&spx=/&type=grpc&sni=play.google.com&sid=33#@NETMelliAnti
 vless://3081d715-3c99-4f46-a8aa-42113608a626@185.204.170.115:8443?mode=gun&security=reality&encryption=none&pbk=hvUy8B1D4ao8RXpu8iIkAVejL_Vu-5DhsisYjSWD40k&fp=chrome&spx=/&type=grpc&sni=play.google.com&sid=33#@vmesskhodam
 vless://31649657-6c78-4c2c-b25b-5cd574b082b5@178.130.46.71:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl02.tunnely.ru&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#نتورلد تو تلگرام جستجو کنید
+vless://31649657-6c78-4c2c-b25b-5cd574b082b5@83.228.210.39:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ch03.tunnely.ru&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#تو کانال نتورلد نباشید قطع میشن @networld_vpn
+vless://31649657-6c78-4c2c-b25b-5cd574b082b5@at08.tunnely.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=at08.tunnely.ru&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#channel→@networld_vpn
+vless://31649657-6c78-4c2c-b25b-5cd574b082b5@ch10.tunnely.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ch10.tunnely.ru&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#channel→@networld_vpn

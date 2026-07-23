@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@Ap_Ir6
-vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@FREE_VPN02
-vless://dc7b0174-8da2-e3a1-5ff1-f3460578ba32@ansooyefilter-channel-production-645b.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-channel-production-645b.up.railway.app&path=/ws/dc7b0174-8da2-e3a1-5ff1-f3460578ba32&sni=ansooyefilter-channel-production-645b.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸-آنسوی-فیلتر-@ansooyefilter-WS-0B/∞
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=&encryption=none&type=ws#🚀t.me/iProxyChannel 1
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@hopev2ray💜
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
@@ -253,3 +250,6 @@ vless://e8c61352-444f-4154-ba34-9d3141154a8d@162.159.253.41:8443?path=/uploader.
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@ai_duet
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@tanhanet
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&security=tls&sni=vod.ensf.top&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=vod.ensf.top&path=/api/v1/irc#@meliproxyy
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&security=tls&sni=vod.ensf.top&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=vod.ensf.top&path=/api/v1/irc#Channel : @Daily_Configs
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&security=tls&sni=vod.ensf.top&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=vod.ensf.top&path=/api/v1/irc#Telegram: @Daily_Configs
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&security=tls&sni=vod.ensf.top&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=vod.ensf.top&path=/api/v1/irc#🧸@Unblocked_ir

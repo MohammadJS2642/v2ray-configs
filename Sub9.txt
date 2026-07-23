@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://47d844a6-6876-4cc5-9f9d-dda91a1006cc@83.243.80.66:443?pbk=sFFHR-FYhIGtaSdfrOqJ77c-r8MV1BImFNRtdmMIG2k&type=tcp&headerType=none&security=reality&sid=f9b4b65dec7727fe&fp=chrome&encryption=none&sni=www.bing.com&flow=xtls-rprx-vision#@Alpha_v2rayIP
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@115.143.93.241:12000?security=tls&sni=xa.ylks.xyz&type=ws&path=/?proxyip#@v2ray_configs_pools-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.217:443?path=/blue&security=tls&encryption=none&type=ws&sni=xa.ylks.xyz#@v2ray_configs_pools-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@212.183.88.142:443?security=tls&sni=xa.ylks.xyz&type=ws&path=/?proxyip#@v2ray_configs_pools-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.138:443?security=tls&sni=xa.ylks.xyz&type=ws&path=/?proxyip#@v2ray_configs_pools-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.43:443?security=tls&sni=xa.ylks.xyz&type=ws&path=/blue#@v2ray_configs_pools-join-us-on-Telegram
@@ -253,3 +250,6 @@ vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@151.101.69.223:443?path=/&security=
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://60156344-dbc3-4614-8177-fd337539a473@wasmer-earth.jzy88.top:443?&security=tls&fp=chrome&sni=wasmer-earth.jzy88.top&type=ws&headerType=none&host=wasmer-earth.jzy88.top&path=/60156344#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?security=none&encryption=none&type=ws&host=y670.0h0.ccwu.cc&path=/gPvZ4oCcNDyuc3szX7xhuvpEm&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
+vless://612d16de-aebd-4738-829e-533dbfa9e936@new.akinamo.willbe.sinitk.outforyou.ir:20580?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=gqjS9wwxycF16Qf02GDt1UrvdrF_neQgj1Crduo_xB0&sid=d5c1b9&type=tcp&headerType=none#@M4DVPN
+vless://612d16de-aebd-4738-829e-533dbfa9e936@new.akinamo.willbe.sinitk.outforyou.ir:20580?security=reality&encryption=none&pbk=gqjS9wwxycF16Qf02GDt1UrvdrF_neQgj1Crduo_xB0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=d5c1b9#@Ap_Ir6
