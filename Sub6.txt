@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&encryption=none&pbk=nA87ol2_2BADZHfXhH00wy3fNe4R8TiGG_IQbzWbPnA&host=www.linkedin.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.linkedin.com&sid=56c96c1d14#TEL:Father_vpn
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@149.210.243.176:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=vpn47.cc.cd&path=/#t.me/ConfigFori  -  Config 88290
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Proxy_Se7en
@@ -253,3 +250,6 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@cf.levikogjgfdd.ir:443?path=/rdfgtw
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@cf.levikogjgfdd.ir:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇳🇱 @V2ray1_ng
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#Proxy_Se7en
 vless://14ba9603-1936-4d79-889a-f2b12d7508c2@cD4UL9u4hliL.fly.p7d.ir:80?mode=auto&path=/assets&security=none&encryption=none&host=xn--9kqz4c3d8f2a9b7e6h5m4n3p2q1r0s8t7u6v5w4x.global.ssl.fastly.net&type=xhttp#@KAFING_2
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Proxy_Se7en
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@hopev2ray🤎
+vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?security=reality&encryption=none&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=cd40c992fe4b10c2#@FarazV2ray

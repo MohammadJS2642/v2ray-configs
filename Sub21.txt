@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#Proxy_Se7en
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=srv10.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv10.perfectbulk.info#@ehsawn8
-vless://f40ea80a-7848-4d49-b2ff-19585e4db8de@188.164.248.185:2096?path=/&security=tls&encryption=none&insecure=0&host=sw.captainsparo.ir&type=ws&allowInsecure=0&sni=sw.captainsparo.ir#@Hunnter_vpn|اختصاصی کانال
 vless://f40ea80a-7848-4d49-b2ff-19585e4db8de@91.193.58.128:2096?path=/&security=tls&encryption=none&insecure=0&host=sw.captainsparo.ir&type=ws&allowInsecure=0&sni=sw.captainsparo.ir#@Hunnter_vpn|اختصاصی کانال
 vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
 vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#TEL;Father_vpn
@@ -253,3 +250,6 @@ vless://18a7834f-bf89-4c87-ad57-49927a56deed@104.21.88.129:8880?path=%2Fpyip%3Dp
 vless://18141f52-3898-490d-95f1-1608f412bf86@173.245.58.121:443?encryption=none&fp=chrome&host=node-1156018316-84eadd.silimem566.workers.dev&path=%2F&security=tls&sni=node-1156018316-84eadd.silimem566.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&host=super-mud-8b38.114-a90.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.vector2llqn.info:8443?encryption=none&path=%2F&security=tls&sni=ad-020.vector2llqn.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40shadowproxy66%3A%3ADE
+vless://20d0a81f-da70-44dc-b9bf-5a5ddab644db@172.66.200.130:8880?encryption=none&host=crimson-lab-6cab.402-311.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@139.64.235.123:443?encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=notls.lukongtou.eu.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
