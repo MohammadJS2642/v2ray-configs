@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://199436d3-2fa2-4e34-a1de-844419de5a4f@Pl-AllNet.OnlinerNet.Ir:20000?security=reality&encryption=none&pbk=VpCHC5IwaHLMdVkwK5iFplUBNflB-b4Qghyme-8HBl0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=6ba85179e30d4fc4#v2ray_configs_pool-98
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
 vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@104.18.134.56:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=cp.kermanshahi.org#Proxy_Se7en
 vless://1a0509ce-31e5-c439-40d8-c80500000000@104.17.148.22:443?path=/v2box&security=tls&encryption=none&insecure=0&host=a.testiam13.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.testiam13.workers.dev#Proxy_mtm
@@ -252,4 +253,3 @@ vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@V2rayA
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=/?ed&security=&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#channel : @freedomofinfor
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=/?ed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 vless://340e4de3-144b-49c4-ad72-b49b35713728@core.noneok.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=HAqqALwpxu_tx-IFcYaZWVshVKyKttGGrxoEfuP_Lgs&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=&sid=fde63d9c58210bf9#@GozargahAzad|🇩🇪
-vless://340e4de3-144b-49c4-ad72-b49b35713728@core.noneok.com:443?encryption=none&security=reality&sni=core.noneok.com&fp=chrome&pbk=HAqqALwpxu_tx-IFcYaZWVshVKyKttGGrxoEfuP_Lgs&sid=fde63d9c58210bf9&type=grpc&authority=&serviceName=api.v1.StreamService&mode=gun#@Daily_Configs : کانال تلگرام
