@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://TelegramJoin:TurboConfigs @31.56.179.199:443?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#-@VEGAAS_VPN🇱🇻
-vless://TelegramJoin:TurboConfigs@31.15.18.102:80?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#-@VEGAAS_VPN🇳🇱
-vless://Telegramjoin:TurboConfigs @31.56.146.144:80?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#@NewsDarya
-vless://Telegram🇨🇳 @WangCai2@50.62.88.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%FREE_VPN02
 vless://WANCLOUDFA-FREE@104.16.74.10:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#WANCLOUDFA
 vless://WANCLOUDFA-FREE@104.16.74.10:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#🔥🚀WanCloud🚀🔥
 vless://WANCLOUDFA-FREE@188.114.97.6:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#WANCLOUDFA
@@ -253,3 +249,7 @@ vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=
 vless://b3be45af-c907-4320-9532-614c8cef5953@adambarfi.up.railway.app:443?encryption=none&security=tls&sni=adambarfi.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=adambarfi.up.railway.app&path=/adambarfi2#AdamBarfi-httpupgrade
 vless://b3be45af-c907-4320-9532-614c8cef5953@adambarfi.up.railway.app:443?encryption=none&security=tls&sni=adambarfi.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=adambarfi.up.railway.app&path=/adambarfi1#AdamBarfi-ws
 vless://b3be45af-c907-4320-9532-614c8cef5953@adambarfi.up.railway.app:443?encryption=none&security=tls&sni=adambarfi.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=adambarfi.up.railway.app&path=/adambarfi3&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#AdamBarfi-xhttp
+vless://b4229f01-45e5-4da1-9471-b76227fa5dc8@178.105.176.9:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com#@Selinc
+vless://b531f305-9bea-4bc6-999b-c61ef94161d9@188.130.207.200:39243?security=reality&encryption=none&pbk=-kQkQ6yJYij4zBazKhYTqLNeyCSloVNv4T_Kj3PDrh8&headerType=none&fp=chrome&spx=/2f897dca79085fd&type=tcp&sni=www.yahoo.com&sid=6a8a02a98b743e#@erfanandroid
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#@hopev2ray🩷
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?encryption=none&host=bab-6.site&path=/vws/&security=tls&sni=bab-6.site&type=ws#♨️81@oneclickvpnkeys
