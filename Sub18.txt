@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@170.168.99.3:443?mode=auto&path=/&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#@M4Dvpn
-vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@170.168.99.3:443?mode=auto&path=/&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#@Unblocked_ir⁴
 vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@170.168.99.3:443?mode=auto&path=/&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#@VEGAAS_VPN
 vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@170.168.99.3:443?mode=auto&path=/&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#@meliproxyy
 vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@170.168.99.3:443?mode=auto&path=/&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#@outline_ir
@@ -253,3 +251,5 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.150.114:443?path=/&security=
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.13:443?encryption=none&type=ws&security=tls&path=/&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#@M4Dvpn
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.13:443?encryption=none&type=ws&security=tls&path=/&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.13:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦120137 | ⚡️Telegram = t.me/SOSkeyNET
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.13:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🚀t.me/iProxyChannel 6
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.15:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@FarazV2ray
