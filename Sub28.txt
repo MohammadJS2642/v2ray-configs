@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://JA96378052@careful-cow.rooster465.autos:443?allowInsecure=1&sni=careful-cow.rooster465.autos#%3E%3E%40v2nodes%3A%3AUS
+trojan://JA96378052@working-raccoon.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://KV63147582@62.112.222.46:443?fp=chrome&sni=legible-possum.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://KV63147582@89.39.70.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=game-firefly.rooster465.autos#%3E%3E%40outline_vpn%3A%3ANL
+trojan://KV63147582@game-firefly.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://KV63147582@hardy-seahorse.rooster465.autos:443?allowInsecure=1&sni=hardy-seahorse.rooster465.autos#%3E%3E%40v2nodes%3A%3AUS
+trojan://KV63147582@evolving-baboon.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://MITIVPN@104.16.72.50:443?path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3Dwinusa&security=tls&alpn=http%2F1.1&insecure=0&host=winusa-mitivpn-----mitivpn.app-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=win-mitivpn-----mitivpn.app-Cloud.ir#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://NQ26071394@44.243.31.46:443?fp=chrome&sni=sharing-porpoise.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -246,10 +253,3 @@ ss://YWVzLTI1Ni1nY206RU1JcnVGbDZuTjM3TERReENJd3N0RzA5aGFDQmt5anZaVmpXSU1PUTBKaz0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%40v2raybaaz%20%C2%B3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#V2rayng_Fast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#v2ray_dalghak
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
-ss://2022-blake3-aes-128-gcm:bM7oNtOWU6N4CgenbB+W7g==:O9cGIp9IzphCDLP6hmm5UQ==@plusgum.wiki:2095#🇮🇷IR-🚀@VPNine1
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633?note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WXlPM3BmaFd5dmVVK0xKbWZLbUxudz09Om0xSzZhM1VETGpCQXRHYjFVS1RyVnc9PQ@gr-2.tiptop-1.top:443?#@AzarAndoozVPNbot
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU1uWVN1Z3c2RHAvcjRISWhvUmtvUUk2ak0zU3dMOStpN0dOUkx4QldIbz06bEVFaG1hUHlKQ0ZKU2M3SWxGMTIwYyt0b1dVbFFOdGVnbXpTd1MvTC8vcz0@80.91.86.179:1070#کانال تلگرام ما ange1Vpn@
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ty9QSWFPUkdVSHN6RXRnazF0K2lYeTVjOXZ0WXBnOFNyVFg1M2xXc0tSaz06RVVqTlNXbDFOK0tNWWUvM0VGclMxaGxoRDhZZUtReWVmY3ZhRkoydDlqbz0@91.107.135.249:23859#Channel id: @ShadowProxy66 🇩🇪
