@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇳🇱 @FreakConfig
+trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Proxy_Se7en
+trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱@FreakConfig
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@M4Dvpn
 trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@meliproxyy
 trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#V2ray_Alpha🌐 6
 trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
@@ -248,8 +253,3 @@ trojan://XG59623478@18.195.11.206:443?fp=chrome&sni=enabling-asp.rooster465.auto
 trojan://ZZ2lZq0e0tYZBxYL0cAjqEcHYbu45dnUlX3RKXTgD5M%3D@91.107.135.249:11059?security=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
 trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#%3E%3E%40outline_vpn%3A%3AIE
 trojan://XG59623478@89.39.70.159:443?fp=chrome&sni=upward-hedgehog.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://XG59623478@enabling-asp.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
-trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://XG59623478@singular-lark.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?host=space.byu.id.yxls.eu.cc&path=%2Fin-pdr&sni=space.byu.id.yxls.eu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AHK
