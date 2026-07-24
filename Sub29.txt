@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://KV63147582@legible-possum.rooster465.autos:443?security=tls&sni=legible-possum.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.46-0502
 trojan://NQ26071394@kind-unicorn.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.177-0157
 trojan://IQ68037294@next-ringtail.rooster465.autos:443?security=tls&sni=next-ringtail.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-95.85.94.148-0536
 trojan://ON38567014@smiling-ray.rooster465.autos:443?security=tls&sni=smiling-ray.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.103-0526
@@ -252,4 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#Kia_Net::🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#irconfiig::🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#@FarazV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#Proxy_Se7en

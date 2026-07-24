@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
 vless://42a1c069-9dc9-4181-86b8-13bf28632851@lala.baguvix.ir:8080?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=http&type=tcp#Proxy_Se7en
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?&type=tcp&headerType=none&path=/#🇹🇼 Join+Telegram:@Farah_VPN 🇹🇼
@@ -252,4 +253,3 @@ vless://59dc27e9-6b31-738d-eb04-bd66dc037892@ansooyefilter.up.railway.app:443?pa
 vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@jush.sukario.ir:2087?encryption=none&security=tls&sni=6399q7bx.arvandrudroshan.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=6399q7bx.arvandrudroshan.org&path=/mashdi#@Daily_Configs :‌ کانال تلگرام
 vless://5a4ea216-9597-4df7-a119-02949a3b6b82@217.110.20.141:443/?type=ws&encryption=none&flow=&host=ger.wafer.fun&path=/Ts7kIzm7a8mYEOrQCXl1&security=tls&sni=ger.wafer.fun&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://5a4ea216-9597-4df7-a119-02949a3b6b82@217.110.20.141:443?encryption=none&fp=chrome&host=ger.wafer.fun&path=/Ts7kIzm7a8mYEOrQCXl1&security=tls&sni=ger.wafer.fun&type=ws#🇩🇪120827 | ⚡️Telegram = t.me/SOSkeyNET
-vless://5a4ea216-9597-4df7-a119-02949a3b6b82@217.110.20.141:443?encryption=none&fp=chrome&host=ger.wafer.fun&path=/Ts7kIzm7a8mYEOrQCXl1&security=tls&sni=ger.wafer.fun&type=ws#🇩🇪DE-🚀@VPNine1
