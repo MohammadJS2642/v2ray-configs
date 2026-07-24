@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@luemborgclouding.iranlast.com:7009?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com#@Selinc
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@talianaccentclouding.iranlast.com:7009?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com#@Selinc
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 @GozargahVPN
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&host=@ProxyVPN11&headerType=none&type=tcp#TEL;Father_vpn
 vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?path=/ws/3f5ebdae-4d8e-db0c-41fd-15029566f398&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift5.up.railway.app#119
@@ -253,3 +250,6 @@ vless://52a0bd7c-1667-4688-b81f-5a01b21e151f@srv-al-tk.rarop.ir:17031?path=/sear
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=uk.bvps.cloud&security=reality&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce#channel→@networld_vpn
 vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&host=alesis724.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تل
 vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&host=alesis724.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
+vless://52cca18a-74d5-4bac-bda8-80465ae5f3dc@holand2.tehran-game.ir:443?path=/&security=none&encryption=none&host=tehran-game.ir&type=ws#telegram --> mtmvpn
+vless://5368b830-5434-4ba1-a45d-b61eeecf4a59@212.87.198.123:443?mode=auto&path=/comeCheckThis&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=F15h9pglTbLeUVFgPxHBg3jlRr5481zkAEE7vKC0eTs&host=arda.uptalk.ir&fp=chrome&spx=/BssEd8vgqQi0fol&type=xhttp&sni=www.amd.com&sid=f3e5e8e333db#@NETMelliAnti
+vless://53db939c-e1d5-9d83-d14b-8e3cf179c2f0@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/53db939c-e1d5-9d83-d14b-8e3cf179c2f0#106
