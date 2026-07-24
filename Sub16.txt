@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=octopusss5.info#Proxy_Se7en
 vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=/movie&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#[2646] - Telegram : @V2All
 vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#@prrofile_purple  ♥️👈 تلگرام
 vless://c416332e-2bde-4806-ac02-8f021c6e8f68@cf.levikogjgfdd.ir:443?path=/&security=tls&encryption=none&insecure=0&host=bbc.zjxc.de5.net&type=ws&allowInsecure=0&sni=bbc.zjxc.de5.net#@FarazV2ray
@@ -253,3 +252,4 @@ vless://dca945d2-6d9b-434f-8754-3626a6a75e21@104.18.26.90:2087?security=tls&encr
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@172.64.152.23:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
+vless://dcb2544a-b257-4267-9200-4b522f0001e6@snapp.ir:80?path=/&security=none&encryption=none&host=worldt.wawariweb.ir&type=ws#چنل عضو شو @v2ra_config
