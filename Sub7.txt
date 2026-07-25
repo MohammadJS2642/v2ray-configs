@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#CxrolVPN Free (4)
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/ebmJ4UcdPxKGcPdT?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (6)
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#CxrolVPN Free (1)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/16K876L0W1BeJ0u0?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (5)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/DBD001v7ZAlmIpnP?ed=2560#CxrolVPN Free (3)
@@ -250,6 +253,3 @@ vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&
 vless://3176b184-8987-4e27-9e26-0dc5a1469636@104.16.72.101:8443?mode=auto&path=/@Proxy_Se7en-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#Proxy_Se7en
 vless://319c1270-87da-4fa4-ac4f-e2d5c0353fdc@206.189.49.128:37779?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²¹⁵
 vless://319c1270-87da-4fa4-ac4f-e2d5c0353fdc@206.189.49.128:37779?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
-vless://31d3bb30-fbb1-4e25-ac62-6dbca39fe439@104.17.108.1:443?encryption=none&type=xhttp&mode=packet-up&host=aa.farxmode.ir&path=/api/v2/feed?ed=2076?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=aa.farxmode.ir&alpn=h2,http/1.1#@Evay_vpn
-vless://31d3bb30-fbb1-4e25-ac62-6dbca39fe439@104.17.108.1:443?mode=packet-up&path=@Black_Raven_ir&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=aa.farxmode.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=aa.farxmode.ir#@Black_Raven_ir کانال تلگرام
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#%FREE_VPN02
