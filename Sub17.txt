@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d0e2ae3e-0be7-4dcf-9abb-dcc82aabc076@germany2.avrilon.us:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.IU93_zTVl-948HR94z9259IKoTU_qSM_0ttmIUamVh8&pbk=rA_ItMaIiG_OUjcaTLpxOoF-OHh4WJsNUfWh7QUn_xU&headerType=none&fp=chrome&spx=/0147b059b8565c5&type=tcp&flow=xtls-rprx-vision&sni=qapartners.sec.samsung.com&sid=0a3ff4a7#@icv2ray
 vless://d0e2ae3e-0be7-4dcf-9abb-dcc82aabc076@germany2.avrilon.us:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.IU93_zTVl-948HR94z9259IKoTU_qSM_0ttmIUamVh8&pbk=rA_ItMaIiG_OUjcaTLpxOoF-OHh4WJsNUfWh7QUn_xU&headerType=none&fp=chrome&spx=/0147b059b8565c5&type=tcp&flow=xtls-rprx-vision&sni=qapartners.sec.samsung.com&sid=0a3ff4a7#@meliproxyy
 vless://d0e2ae3e-0be7-4dcf-9abb-dcc82aabc076@germany2.avrilon.us:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.IU93_zTVl-948HR94z9259IKoTU_qSM_0ttmIUamVh8&pbk=rA_ItMaIiG_OUjcaTLpxOoF-OHh4WJsNUfWh7QUn_xU&headerType=none&fp=chrome&spx=/0147b059b8565c5&type=tcp&flow=xtls-rprx-vision&sni=qapartners.sec.samsung.com&sid=0a3ff4a7#Channel : @Daily_Configs
 vless://d0e2ae3e-0be7-4dcf-9abb-dcc82aabc076@germany2.avrilon.us:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.IU93_zTVl-948HR94z9259IKoTU_qSM_0ttmIUamVh8&pbk=rA_ItMaIiG_OUjcaTLpxOoF-OHh4WJsNUfWh7QUn_xU&headerType=none&fp=chrome&spx=/0147b059b8565c5&type=tcp&flow=xtls-rprx-vision&sni=qapartners.sec.samsung.com&sid=0a3ff4a7#🚀t.me/iProxyChannel 14
@@ -252,4 +253,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?encryption=none&t
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?encryption=none&type=tcp&headerType=none#configprxy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@V2rayng_Fast
