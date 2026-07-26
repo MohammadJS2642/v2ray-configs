@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5859e7c5-c61a-4d16-b56e-8fc6321ba59a@188.114.96.66:2082?type=ws&encryption=none&path=/@FreeOnlineVPN?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://594b601b-b807-4998-a44e-9466f92ee4fa@193.111.117.8:1443?security=reality&encryption=none&pbk=jtEyL2mfSJ5rlvpMfYgkY6HaleCFRif0DnOOOXNHhxg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=pls.snowfall.top&sid=0441f3e34348cb45#@hex_proxy ³
 vless://594e77cb-c0f6-4a39-838b-87a2424d3dbc@164.92.173.53:57018?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
 vless://594e77cb-c0f6-4a39-838b-87a2424d3dbc@164.92.173.53:57018?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://594e77cb-c0f6-4a39-838b-87a2424d3dbc@164.92.173.53:57018?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@V2rayng_Fast
@@ -251,5 +253,3 @@ vless://718ff826-3d64-441c-b1ec-54a1d7394931@local.connectingissues.ir:80?mode=a
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
 vless://71b36a4c-eab9-4648-b28a-fe7a857dfa73@node-7370766117-95d25d-production.up.railway.app:443?path=/ws/71b36a4c-eab9-4648-b28a-fe7a857dfa73?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=node-7370766117-95d25d-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=node-7370766117-95d25d-production.up.railway.app#🇺🇸US-🚀@VPNine1
 vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.248:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#Channel : @Daily_Configs
-vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.248:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#🚀t.me/iProxyChannel 4
-vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.51:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#🇮🇹 | t.me/iProxyChannel

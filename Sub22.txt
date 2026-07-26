@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#channel : @freedomofinfor
 vless://ff4873f3-ed68-7059-926c-6958fde22478@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/ff4873f3-ed68-7059-926c-6958fde22478#113
 vless://ff4873f3-ed68-7059-926c-6958fde22478@tmesubgift1.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift1.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift1.up.railway.app&path=/ws/ff4873f3-ed68-7059-926c-6958fde22478#114
 vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@SpeedTest.org:80?security=none&type=ws&headerType=&path=&host=wWw.SpEedTeSt.nEt.ZuLa.Ir.IkCoSaLeS.Ir.D662599.v24.dIgIkAlAcOmIrDiVaRiR.CoM.#@v2ray_configs_pools-join-us-on-Telegram
@@ -251,5 +253,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime54.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://5aafc2be-9348-4dec-b896-f4a91253bbca@support.zoom.us:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fid-tksi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AKZ
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?path=%2F&security=&encryption=none&host=vms.lifetime04.workers.dev&type=ws#%3E%3E%40shadowproxy66%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880?encryption=none&host=vms.lifetime07.workers.dev&path=%2F%3Fed&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
