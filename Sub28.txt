@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://IQ68037294@glowing-deer.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@giving-bird.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
 trojan://IQ68037294@happy-mutt.rooster465.autos:443?allowInsecure=0&sni=happy-mutt.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@humane-hawk.rooster465.autos:443?allowInsecure=0&sni=humane-hawk.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
@@ -253,3 +252,4 @@ trojan://NQ26071394@89.39.70.143:443?security=tls&sni=thorough-falcon.rooster465
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3926
 trojan://dd04c158-1bac-47cd-99c1-5c4f64796dd5@supersouth.xn--mesv7f5toqlp.club:12004?security=tls#%F0%9F%8F%81RELAY-104.21.76.158-0071
 trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@111.45.29.75:30003?security=tls&sni=tw.speedasia.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-111.45.29.75-0070
+trojan://dd04c158-1bac-47cd-99c1-5c4f64796dd5@supersouth.xn--mesv7f5toqlp.club:12002?security=tls#%F0%9F%8F%81RELAY-172.67.197.47-0069
