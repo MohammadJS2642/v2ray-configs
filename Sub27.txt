@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷@FreakConfig
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
-trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
-trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@Filtershekan_channel |1
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Filtershekan_channel |1
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Filtershekan_channel |2
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Filtershekan_channel ¹
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#kurdconfig
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦@FreakConfig
@@ -253,3 +247,9 @@ trojan://JT80563429@musical-shrew.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%
 trojan://JA96378052@evident-gnat.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AAU
 trojan://KV63147582@62.112.222.212:443?sni=more-trout.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://JT80563429@inspired-hound.rooster465.autos:443?allowInsecure=0&sni=inspired-hound.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
+trojan://JT80563429@fair-ram.rooster465.autos:443?allowInsecure=0&sni=fair-ram.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://JT80563429@healthy-louse.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+trojan://JT80563429@mutual-puma.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AKR
+trojan://JT80563429@touching-pigeon.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
+trojan://KV63147582@62.112.222.46:443?fp=chrome&sni=legible-possum.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://KV63147582@89.39.70.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=game-firefly.rooster465.autos#%3E%3E%40outline_vpn%3A%3ANL
