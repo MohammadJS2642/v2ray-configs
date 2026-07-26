@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@ehsawn8
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc&sni=sca30.mysilipdir.com#@M4Dvpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc&sni=sca30.mysilipdir.com#@hi_proxy_iran :👈کانال تلگرام
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc&sni=sca30.mysilipdir.com#@meliproxyy
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc&sni=sca30.mysilipdir.com#@M4Dvpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc&sni=sca30.mysilipdir.com#@meliproxyy
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc&sni=sca30.mysilipdir.com#🔵@chillguy_vpn
@@ -253,3 +246,10 @@ vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fr1.levikogjgfdd.ir:40443?security=
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@leviko986.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&host=Leviko_v2ray&headerType=none&fp=chrome&spx=/&type=tcp&sni=deepl.com&sid=a8ae#🇫🇮 direct
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@104.18.152.233:443?mode=stream-one&path=/settings----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=chrome&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#TEL;Father_vpn
 vless://9fa6d846-5961-8e0e-ce27-77de00000000@fancy-wind-799d.cloudneryacc.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=0&host=fancy-wind-799d.cloudneryacc.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fancy-wind-799d.cloudneryacc.workers.dev#@𝐕𝟐𝐗𝐍𝐄𝐓
+vless://9fb7bd98-9d35-c441-2394-41aa925804ad@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwwuk.mobilex55.com.&path=/?ed=2082#@Daily_Configs : کانال تلگرام
+vless://9fb7bd98-9d35-c441-2394-41aa925804ad@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwwuk.mobilex55.com.&path=/?ed=2082#@M4Dvpn
+vless://9fb7bd98-9d35-c441-2394-41aa925804ad@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwwuk.mobilex55.com.&path=/?ed=2082#@meliproxyy
+vless://9fb7bd98-9d35-c441-2394-41aa925804ad@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwww.luxmoboleshop.com.&path=/?ed=2082#@Daily_Configs : کانال تلگرام
+vless://9fb7bd98-9d35-c441-2394-41aa925804ad@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwww.luxmoboleshop.com.&path=/?ed=2082#@M4Dvpn
+vless://9fb7bd98-9d35-c441-2394-41aa925804ad@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwww.luxmoboleshop.com.&path=/?ed=2082#@meliproxyy
+vless://9fb7bd98-9d35-c441-2394-41aa925804ad@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwwwch.giftin1404.com.&path=/?ed=2082#@Daily_Configs : کانال تلگرام
