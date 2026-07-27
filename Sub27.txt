@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://IQ68037294@sensible-haddock.rooster465.autos:443?allowInsecure=0&sni=sensible-haddock.rooster465.autos#%3E%3E%40v2nodes%3A%3APL
 trojan://IQ68037294@pet-albacore.rooster465.autos:443?allowInsecure=1&sni=pet-albacore.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@still-mastodon.rooster465.autos:443?allowInsecure=1&sni=still-mastodon.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&sni=whole-perch.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
@@ -253,3 +252,4 @@ trojan://NQ26071394@89.39.70.143:443?security=tls&sni=thorough-falcon.rooster465
 trojan://HW85960347@185.14.47.195:443?security=tls&sni=eminent-lamb.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.195-0213
 trojan://AQ71834695@concise-lacewing.rooster465.autos:443?security=tls&sni=concise-lacewing.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-85.234.83.41-3134
 trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&sni=selected-bison.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.171-0226
+trojan://OD90375861@87.121.33.171:443?security=tls&sni=selected-bison.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.171-0229
