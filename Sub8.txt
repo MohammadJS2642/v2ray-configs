@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://23eb25bc-f233-4762-9759-01157944cc29@www.speedtest.net:2053?path=/&security=tls&encryption=none&insecure=1&host=none3.bingnet.online&type=ws&allowInsecure=1&sni=none3.bingnet.online#@icv2ray
-vless://2402a18b-77f3-4346-db46-4284cb037bb3@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.xelira.ir&fp=chrome&type=ws&sni=cdn.xelira.ir#@VpnCostumer+|+بیا+تو+وصل+باش+💙
-vless://2426d607-2c71-464f-83e2-9bfdf6e3aa68@84.201.20.244:443?encryption=none&fp=chrome&host=ger.chalghooz.com&path=/cloude&security=tls&sni=ger.chalghooz.com&type=ws#🇩🇪DE-🚀@VPNine1
 vless://2428711f-5117-46e9-a2cb-741797a60ed8@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#@B2vasl
 vless://24a263c8-3153-404d-a567-4089cba17c10@ansooyefilter-bot.qeshmdiyar.ir:8443?security=reality&encryption=none&pbk=k-wk6CQguQMtipx1iMfDyZhyUL4FSS4T4ISLC9YTeh4&headerType=none&fp=chrome&spx=/8a2dvjADssH7mCs&type=tcp&sni=www.nvidia.com&sid=fa#🔴@v2rayngsupbot
 vless://24b38f71-e410-4b29-ac82-5e095adaa122@95.142.46.112:23703?security=reality&encryption=none&pbk=e5FMiZwEwAWoTVUQYe9zoJ4TKsRPqHmOd1gbSbU5sFw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=224eb069dd8cd581#@Begoo_VPN ²³³
@@ -253,3 +250,6 @@ vless://35abc17e-82b8-4bb1-baa0-299dc2f8ea12@ipv4-address.iranvatanam.com:8443?p
 vless://36253370-4b9d-443f-bfa9-e0e167a09876@65.109.220.190:443?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=http&type=tcp#Proxy_Se7en
 vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?encryption=none&type=ws&path=/#@vpng3 [33]
 vless://365abb75-6187-41d0-9406-44510be7582f@69.46.46.37:443?path=/unicorn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=uni3.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=uni3.up.railway.app#𝗝𝗼𝗶𝗻 ➠ @Viturey 🇺🇸
+vless://36644091-0cec-47fe-9955-97c3f424baf7@all191.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#%FREE_VPN02 🛸
+vless://3682a59c-b75a-4383-95ae-2977e4df805c@45.80.111.1:2083?mode=auto&path=/@Proxy_Se7en-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=xhttp&allowInsecure=0&sni=Sa.sorixset.ir#Proxy_Se7en
+vless://36ddcba8-5d7b-4243-8316-6adb4bfc6b88@134.122.61.31:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ez-c8f0f1.ezaccess1990eee.workers.dev#Proxy_Se7en
