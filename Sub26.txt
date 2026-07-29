@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://elwc9zbzfkh1u84s@45.157.118.221:10002?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#@Daily_Configs
 trojan://elwc9zbzfkh1u84s@45.157.118.221:10002?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#@M4Dvpn
 trojan://elwc9zbzfkh1u84s@45.157.118.221:10002?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#@meliproxyy
 trojan://ewpvezqjycgfeebg@38.79.154.34:1818?security=reality&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&headerType=none&fp=chrome&spx=/353add2ce7a3241&type=tcp&sni=www.cloudflare.com&sid=cee1b559#کانال تلگرام ما⬅️ange1Vpn@
@@ -252,4 +253,3 @@ trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=%2Fassignment&
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40V2rayNG3%3A%3AFR
 trojan://humanity@104.16.72.41:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR
-trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR
