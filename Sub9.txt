@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://31d3bb30-fbb1-4e25-ac62-6dbca39fe439@104.17.108.1:443?mode=packet-up&path=@Black_Raven_ir&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=aa.farxmode.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=aa.farxmode.ir#@Capoit
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#%FREE_VPN02
 vless://31fc82da-1136-4a84-a596-7fbba8026c1d@another-cf.dnsyes.kawaii520.icu:443?path=/&security=tls&encryption=none&insecure=0&host=4gf45fdg45fd542g2in.kawaii520.icu&fp=chrome&type=ws&allowInsecure=0&sni=4gf45fdg45fd542g2in.kawaii520.icu#🇬🇧 @RouTel1
 vless://320f6cbe-d73e-477d-9ab5-aa6e3b28cfb7@64.49.15.87:443?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=74a6bf9721cd1c19#@Maznet -SOS503
 vless://320f6cbe-d73e-477d-9ab5-aa6e3b28cfb7@64.49.15.87:443?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=74a6bf9721cd1c19#@prrofile_purple  ♥️👈 تلگرام
@@ -251,5 +253,3 @@ vless://41302db9-4a39-444a-a4bd-4b4adecb0194@MOV-4.jorzel.ir:1963?mode=stream-on
 vless://4166019f-0448-4eda-b29a-f824ff017083@blog.arioonlineshop.ir:13465?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
 vless://41897fef-2225-4d08-b83b-a59a27895cb2@143.20.129.113:30166?security=reality&encryption=none&pbk=nh1aMHEJOA7E6TTogiQ7Bow7vgeps5ZZkpgxcztaZC8&headerType=none&fp=chrome&spx=/kS5bMgFigeI2k2r&type=tcp&sni=www.samsung.com&sid=5e6a#Channel : @Daily_Configs
 vless://419bfbd4-3097-4cef-a6b3-aebd78506ed7@94.156.122.197:443?security=reality&encryption=none&pbk=PjeRJM1RK0LzLMTyBE81vEYD5o-61q0D9RVNkLObugo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.themesh.site&sid=fecf00f90f921026#🔥 irconfiig
-vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
-vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t07.tzteam.online&path=/?ed=2048&security=tls&sni=t07.tzteam.online&fp=chrome#@Vpn_Mafia
