@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://hnwWP8L98hm7jMaE4Dfd7Q@138.199.228.1:19302?mode=stream-one&path=/path&security=reality&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&host=hostname&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=c6e19c434dc87df7#@FarazV2ray
-trojan://hnwWP8L98hm7jMaE4Dfd7Q@138.199.228.1:19302?mode=stream-one&path=/path&security=reality&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&host=hostname&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=c6e19c434dc87df7#⚡@TEHRANARGO ⚡
-trojan://hnwWP8L98hm7jMaE4Dfd7Q@138.199.228.1:19302?mode=stream-one&path=/path&security=reality&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&host=hostname&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=c6e19c434dc87df7#⚡@configprxy ⚡
-trojan://hnwWP8L98hm7jMaE4Dfd7Q@95.217.159.175:19302?mode=stream-one&path=/path&security=reality&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&host=hostname&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=c6e19c434dc87df7#@FarazV2ray
 trojan://hnwWP8L98hm7jMaE4Dfd7Q@95.217.159.175:19302?security=reality&sni=www.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=xhttp&host=hostname&path=/path&mode=stream-one&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}#@Daily_Configs
 trojan://hnwWP8L98hm7jMaE4Dfd7Q@95.217.159.175:19302?security=reality&sni=www.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=xhttp&host=hostname&path=/path&mode=stream-one&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}#@M4Dvpn
 trojan://hnwWP8L98hm7jMaE4Dfd7Q@95.217.159.175:19302?security=reality&sni=www.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=xhttp&host=hostname&path=/path&mode=stream-one&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}#@hi_proxy_iran :👈کانال تلگرام
@@ -253,3 +249,7 @@ trojan://JT80563429@mutual-puma.rooster465.autos:443?allowInsecure=1#%3E%3E%40on
 trojan://IQ68037294@whole-woodcock.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://KV63147582@62.112.222.212:443?sni=more-trout.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://JA96378052@91.199.84.185:443?allowInsecure=1&sni=WangCai.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://JT80563429@touching-pigeon.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
+trojan://IQ68037294@still-mastodon.rooster465.autos:443?allowInsecure=1&sni=still-mastodon.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+trojan://JT80563429@healthy-louse.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+trojan://JA96378052@evident-gnat.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AAU
