@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.178:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#چنل عضو شو @v2ra_config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.110:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@hopev2ray🤍
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Ai_DueT🌐
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#🔥 @free_conf_iran 🔥 4
 vless://93a7dcd7-9bba-4594-8de8-cc67726f877c@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=hamrah.dgclix.ir#@bird_angry (mci)
 vless://93b99881-df03-4597-9146-0c11e46387f7@166.0.188.128:56825?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=/?ed&fp=chrome#@v2ray_configs_pools-join-us-on-Telegram
@@ -250,6 +253,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.198:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.187:443?security=tls&sni=zdyi.kpcloud.eu.org&type=ws&path=/?proxyip#@v2ray_configs_pools-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.55:443?security=tls&sni=hki.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.55:443?security=tls&sni=hki.ylks.xyz&type=ws&path=/?proxyip#🇫🇷FR-🚀@VPNine1
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.55:443?security=tls&sni=hki.ylks.xyz&type=ws&path=/?proxyip#🇬🇧126140 | ⚡️Telegram = t.me/SOSkeyNET
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.216.117:443?path=/?proxyip&security=tls&encryption=none&type=ws&sni=zdyi.kpcloud.eu.org#@Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.216.117:443?path=/?proxyip&security=tls&encryption=none&type=ws&sni=zdyi.kpcloud.eu.org#🇩🇪126022 | ⚡️Telegram = t.me/SOSkeyNET
