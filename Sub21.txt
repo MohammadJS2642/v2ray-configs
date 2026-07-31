@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ddf7b660-3ef1-58d2-a8cf-7f16455850e3@104.17.147.22:2083?security=tls&sni=hk1.vless.site&type=grpc&serviceName=vless-grpc#🇨🇦128077 | ⚡️Telegram = t.me/SOSkeyNET
 vless://ddf7b660-3ef1-58d2-a8cf-7f16455850e3@104.17.147.22:2083?security=tls&sni=hk1.vless.site&type=grpc&serviceName=vless-grpc#🚀@VPNine1
 vless://de17a7f2-3071-467e-9e19-c6f9f6891475@dashboard.lucypro.ir:550?path=/&security=none&encryption=none&host=play.google.com&type=ws#vip🇩🇪
 vless://de17a7f2-3071-467e-9e19-c6f9f6891475@xn--dash-4o53c.xn--ir-nz82a.netbazshop.ir:2095?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
@@ -253,3 +252,4 @@ vless://e80398bb-aecb-4686-a75c-dfe4cd8ce242@178.17.53.177:34151?fp=chrome&type=
 vless://e80398bb-aecb-4686-a75c-dfe4cd8ce242@178.17.53.177:34151?security=reality&encryption=none&pbk=nlEvGwt7WTuobjUSOK9ITQ8LF5VIC-SrWPMTH9FqTk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=5e039404#Channel id: @ShadowProxy66 🇫🇮
 vless://e80398bb-aecb-4686-a75c-dfe4cd8ce242@178.17.53.177:34151?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&encryption=none&pbk=nlEvGwt7WTuobjUSOK9ITQ8LF5VIC-SrWPMTH9FqTk4&fp=chrome&sid=5e039404#@Napsternetvirani 🩷
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@tanhanet قطع شد باز میذاریم
+vless://e8c61352-444f-4154-ba34-9d3141154a8d@162.159.253.41:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@ai_duet عضو باشید

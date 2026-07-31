@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fr1.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&host=telegram-Leviko-v2ray&headerType=none&fp=qq&spx=%2F&type=tcp&sni=deepl.com&sid=a8ae#🆔configx2ray%20🔒%20VL-TCP-%20❔%20XX%20241ms
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@185.68.184.237:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#🆔configx2ray%20🔒%20VL-GRPC-%20❔%20XX%20142ms
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#🆔configx2ray%20🔒%20VL-TCP-%20❔%20XX%20425ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@VpnCostumer+|+بیا+تو+وصل+باش+💙
@@ -253,3 +252,4 @@ vless://10221e99-bb18-4d22-87ea-daa48470d098@www.speedtest.net:8880?path=/?ed=20
 vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#TEL;Father_vpn
 vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#canfingV2rayNG-98
 vless://1066d253-ee38-47d8-a599-a431c7f658ee@fast1.mrsf.ir:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=1&host=netUuuu.gLobAl.sSl.Fastly.nEt.&fp=chrome&type=xhttp&allowInsecure=1&sni=digikala.com.#@KAFING_2
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#🔵@chillguy_vpn

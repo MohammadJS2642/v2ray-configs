@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.glitchout.ir:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://2e622f08-444a-46d0-8dac-6f9709f4d172@check-host.net:8880?path=/&security=none&encryption=none&host=sni.abilim.info&type=httpupgrade#@Selinc
 vless://2e834c8c-2b4d-4cc5-9725-23ed738b4333@AzarakhshProxy.fast.hosting-ip.com:80?path=/?ed=2048&security=none&encryption=none&host=lookivpn3.ir&type=ws#🩵+@Azarakhsh_Proxy+🩷
@@ -253,3 +252,4 @@ vless://41a52590-0ab0-4def-acba-68103da2fbfa@45.74.159.124:443?path=/&security=n
 vless://41a52590-0ab0-4def-acba-68103da2fbfa@45.74.159.124:443?path=/&security=none&encryption=none&host=45.74.159.124&type=ws#@v2raybaaz¹
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t07.tzteam.online&path=/?ed=2048&security=tls&sni=t07.tzteam.online&fp=chrome#@Vpn_Mafia
+vless://41c18739-4595-4b14-8efe-a639a8e8f429@www.parsvds.ir:80?path=/Telegram-configMs?ed=2048&security=none&encryption=none&host=5.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#🇨🇦127959 | ⚡️Telegram = t.me/SOSkeyNET

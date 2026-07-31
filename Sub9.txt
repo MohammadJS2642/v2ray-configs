@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#🔵@chillguy_vpn
 vless://10ccd98d-91ed-49bf-a6a6-1ee3392ea7cc@185.146.173.58:8080?Telegram=@V2RayTz,@V2RayTz&path=/servernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#@v2ray_configs_pools-join-us-on-Telegram
 vless://10ccd98d-91ed-49bf-a6a6-1ee3392ea7cc@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#@v2ray_configs_pools-join-us-on-Telegram
 vless://1113b881-179c-411c-b29b-53dae8faaf0a@log.bpminecraft.com:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=raspy-sun-3de0.338.workers.dev&type=ws#@hex_proxy ¹
@@ -253,3 +252,4 @@ vless://20bbd4b8-47ca-d6c3-8473-12f5d93fd45a@104.18.190.112:443?mode=packet-up&p
 vless://20e295db-a6af-4006-bfd6-91453f169968@188.114.97.6:443?path=/eyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&encryption=none&insecure=0&host=057.electrocellco-cf-057.workers.dev&type=ws&allowInsecure=0&sni=057.ElecTRocElLco-Cf-057.wOrKeRs.dEv#@hex_proxy ³
 vless://20f293d5-b0a5-4f15-bcb7-b79da2b17c81@135.181.32.60:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Channel : @Daily_Configs
 vless://20f293d5-b0a5-4f15-bcb7-b79da2b17c81@oi60v.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All¹⁰ | @BigSmoke_Config
+vless://21128198-08ce-46e3-b2c0-c075c8ae1d7b@45.89.223.56:19101?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@NETMelliAnti

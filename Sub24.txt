@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.138:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️486🌐🆕️
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.138:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#♾️𝗝𝗼𝗶𝗻➠🆔️@VEGAAS_VPN🆓️🛜🔷️486🌐🆕️
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.142:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.14:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
@@ -253,3 +252,4 @@ vless://099244b9-2168-4dbd-870e-cbbe9d6eb573@188.164.248.96:8443?encryption=none
 vless://099244b9-2168-4dbd-870e-cbbe9d6eb573@198.41.223.20:2087?encryption=none&fp=chrome&host=whitecreeper.pages.dev&path=%2Fproxyip%3DProxyIP.SG.CMLiussss.Net&security=tls&sni=whitecreeper.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://09e38b01-3bc2-42ac-bb71-68f8b72b8f19@104.26.6.23:2096?encryption=none&fp=chrome&host=ez-938486.tahakhoshghadam8989.workers.dev&path=%2F&security=tls&sni=ez-938486.tahakhoshghadam8989.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?encryption=none&security=tls&serviceName=grpc&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://12cb0a24-0438-4980-8617-9c93205895fa@216.24.57.6:8443?encryption=none&fp=chrome&host=kakoolnews.dontstealkakoolnews.workers.dev&path=%2F&security=tls&sni=kakoolnews.dontstealkakoolnews.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
