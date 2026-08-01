@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e6de7a8d-9180-40af-9287-ea26e0c4ea35@batman1.kovira2.ir:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@Maznet - SOS519
+vless://e6de7a8d-9180-40af-9287-ea26e0c4ea35@batman2.kovira2.ir:8443?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=chatgpt.com&type=xhttp#@Maznet - SOS518
+vless://e6de7a8d-9180-40af-9287-ea26e0c4ea35@batman3.kovira2.ir:13424?path=/&security=none&encryption=none&host=chatgpt.com&type=ws#@Maznet - SOS517
 vless://e72d828e-2d8c-471e-9d4e-2dde00000000@www.speedtest.net:443?path=/&security=tls&encryption=none&insecure=0&host=netlivpn9361.hsjshsh2827.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=netlivpn9361.hsjshsh2827.workers.dev#Proxy_mtm Channel 46
 vless://e7548057-5acb-4681-90c2-2e8b9fbf16e6@ezaccess1-luffy-ezaccess1-4f1e.up.railway.app:443?encryption=none&security=tls&type=ws&host=ezaccess1-luffy-ezaccess1-4f1e.up.railway.app&path=/ws/vless/e7548057-5acb-4681-90c2-2e8b9fbf16e6?ed=2048&sni=ezaccess1-luffy-ezaccess1-4f1e.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸US-🚀@VPNine1
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&alpn=h3,h2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#@configprxy
@@ -250,6 +253,3 @@ vless://ed9a0afe-1f54-40af-8821-0995cef0225a@api6.maps-yandex.net:10970?encrypti
 vless://edae0c5c-6979-44ba-b82b-1575cb5804d6@r.telewebion.ir.varzesh3.com.de:443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#@Proxy_mtm 15
 vless://edae0c5c-6979-44ba-b82b-1575cb5804d6@r.telewebion.ir.varzesh3.com.de:443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#kurdconfig
 vless://edae0c5c-6979-44ba-b82b-1575cb5804d6@r.telewebion.ir.varzesh3.com.de:443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#✅  @vistav2ray  👈👈کانال ما ✅
-vless://edae0c5c-6979-44ba-b82b-1575cb5804d6@r.telewebion.ir.varzesh3.com.de:443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩
-vless://edae0c5c-6979-44ba-b82b-1575cb5804d6@r.telewebion.ir.varzesh3.com.de:443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#🇫🇮@FreakConfig
-vless://edae0c5c-6979-44ba-b82b-1575cb5804d6@r.telewebion.ir.varzesh3.com.de:443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#🇫🇮@V2rayng_Fast
