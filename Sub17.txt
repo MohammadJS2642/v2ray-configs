@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#TEL;Father_vpn
 vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@107.189.22.49:2083?security=reality&encryption=none&pbk=QT-_de0DVvcCL-9go2gdkwibkyJaRb_81sYQ3vD_aSs&headerType=none&fp=chrome&spx=/qeOlpIYGXskLADh&type=tcp&sni=www.sony.com&sid=698a42#@configprxy
 vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@107.189.22.49:2083?security=reality&encryption=none&pbk=QT-_de0DVvcCL-9go2gdkwibkyJaRb_81sYQ3vD_aSs&headerType=none&fp=chrome&spx=/qeOlpIYGXskLADh&type=tcp&sni=www.sony.com&sid=698a42#kurdconfig
 vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@107.189.22.49:2083?security=reality&encryption=none&pbk=QT-_de0DVvcCL-9go2gdkwibkyJaRb_81sYQ3vD_aSs&headerType=none&fp=chrome&spx=/qeOlpIYGXskLADh&type=tcp&sni=www.sony.com&sid=698a42#🇳🇱@FreakConfig
@@ -253,3 +252,4 @@ vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?encryption=none&security=none&type=httpupgrade&host=bio.mehrsazi.ir&path=/#کانال تلگرام : Free_VPN_CH@
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?encryption=none&security=none&type=httpupgrade&host=bio.mehrsazi.ir&path=/?ed=2080#کانال تلگرام : Free_VPN_CH@
 vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#@KAFING_2
+vless://a341c649-ff95-49d5-8d2b-6d5cebf09dfb@five.nothingnewtodo.online:36096?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@KAFING_2

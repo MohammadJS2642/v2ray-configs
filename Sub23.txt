@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@Ap_Ir6
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@IRan_V2ray1 | VIP18
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@Selinc
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@fastkanfig 654
@@ -253,3 +252,4 @@ vless://fb9516c2-35af-22c7-d539-7be58e9d1862@rokervpn-production-46c3.up.railway
 vless://fb978279-0a28-4045-8258-e9ab97deaf2b@104.19.33.83:443?sni=ourfast.ccwu.cc&type=ws&host=ourfast.ccwu.cc&path=/security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://fb978279-0a28-4045-8258-e9ab97deaf2b@188.164.248.117:2087?sni=3da0360c.myblog-2hd.pages.dev&type=ws&host=3da0360c.myblog-2hd.pages.dev&path=/security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://fbe1ea5d-2276-4016-a7bd-ca5a43724f1e@flsc29.qelzino.ir:586?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=t30LBvbeKUh5TNHWd5NJ_WAAi5E1hdy5Q8p7QwknRxs&sid=9a9380068dcdda21&flow=xtls-rprx-vision#@meliproxyy
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@195.123.208.92:13443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&type=tcp#👁️‍🗨️74@oneclickvpnkeys
