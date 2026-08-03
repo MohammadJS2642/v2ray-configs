@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5dc1b4ed-c897-468d-921d-266b062db2cb@195.20.115.195:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=jwyfUdsuDBGtjuTfWOepIQ80EDSCXCp8Xe3bzXFlsjI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=hu.cache-4d8a.com&sid=9d84de9d9f7b85e9#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20105ms
+vless://617bc80e-7028-4dd5-b6b2-949c035688af@142.93.160.136:39723?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://7617fc5b-a84f-40ee-8e8c-c82b70a7a545@134.209.17.43:27511?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://7617fc5b-a84f-40ee-8e8c-c82b70a7a545@46.101.110.13:27511?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://840336f4-2c42-4f97-9f0f-97f13642bc5a@get2s.skystreamgame.com:8443?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=get2s.skystreamgame.com&sid=4326#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20267ms
@@ -251,5 +253,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.76.36:22222?security=tls&sni
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.203.175.41:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@Hope_Net-join-us-on-Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.203.175.41:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇮🇪132417 | ⚡️Telegram = t.me/SOSkeyNET
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.242.220:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@v2ray_configs_pools-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.71.99.97:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@Hope_Net-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.71.99.97:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[12360] - Telegram : @V2All
