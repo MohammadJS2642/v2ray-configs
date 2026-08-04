@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bf374adf-61b9-4d5a-9814-37be02bcb8a6@167.233.47.127:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#V2ray_Alpha🚇 2
-vless://bf374adf-61b9-4d5a-9814-37be02bcb8a6@167.233.47.127:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#V2ray_Alpha🚇 6
 vless://bf645ffe-a3cc-4480-8e4c-9bcd1af41052@170.101.109.37:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rTnh7Y8RsSA5HSvFf-pWT49x8va6U6XHMRgNiMuwB0A&security=reality&sid=ab88d256&sni=www.cloudflare.com&type=tcp#🧬50@SHAHSERVER1
 vless://bf645ffe-a3cc-4480-8e4c-9bcd1af41052@170.101.109.37:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rTnh7Y8RsSA5HSvFf-pWT49x8va6U6XHMRgNiMuwB0A&security=reality&sid=ab88d256&sni=www.cloudflare.com&type=tcp#🧬50@oneclickvpnkeys
 vless://bf82a225-edb7-4b16-b7b3-96421fc85a79@www.canva.com:8880?path=/?ed=2048;security=none;encryption=none;host=confignginxV2rayng.vpncustomize.Website;type=ws#@Hope_Net-join-us-on-Telegram
@@ -253,3 +251,5 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=/GOrbEh#TELEG
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=/GOrbEh#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@MARAMBASHI 🇳🇱
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=/GOrbEh#TELEGRAM-MTMVPN--MTMVPN--MTMVPN?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@FarazV2ray
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@FarazV2ray
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@IRAN_V2RAY1
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#MTMVPN 38
