@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.33.118:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@icv2ray
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.33.118:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@meliproxyy
 vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.33.118:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#configprxy
 vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.33.118:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#Unblocked_ir
 vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.33.118:443?path=BIA_TELEGRAM?&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#Unblocked_ir
@@ -253,3 +251,5 @@ vless://29ca503d-e6b8-4509-b666-48133f450857@orange.seeck.cn:443?path=/fdip&secu
 vless://29ca503d-e6b8-4509-b666-48133f450857@orange.seeck.cn:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#Unblocked_ir
 vless://29ca503d-e6b8-4509-b666-48133f450857@soskeynets.hk:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#🇨🇦132436 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@151.243.182.21:25737?encryption=none&path=/xray&type=ws&security=none#[12346] - Telegram : @V2All
+vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=31.76.11.46.cdn-one.org&path=/52872/BNzG4FvIAr#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?encryption=none&fp=chrome&host=31.76.11.46.cdn-one.org&path=/52872/BNzG4FvIAr&security=tls&type=ws#🧬78@oneclickvpnkeys
