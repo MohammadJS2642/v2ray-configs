@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@tootffarangi🍓-3
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#configprxy
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@128.140.114.57:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 15
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 19
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 20
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#⚡︎ 🇩🇪 𓏺 v2ray 𓏺 TCP 16
@@ -253,3 +250,6 @@ vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@one-for-all.levikogjgfdd.ir:8443?pa
 vless://90235096-9296-3d36-c77c-715577598fd5@104.24.165.148:2087?encryption=none&security=tls&sni=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&path=/glasspanel/0038ba35_0_1bdabe931208/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.33ms
 vless://90235096-9296-3d36-c77c-715577598fd5@154.17.22.207:443?encryption=none&security=tls&sni=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&path=/glasspanel/0038ba35_0_1bdabe931208/#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️New York🅿️ping:409.61ms
 vless://90235096-9296-3d36-c77c-715577598fd5@31.220.31.67:443?encryption=none&security=tls&sni=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&path=/glasspanel/0038ba35_0_1bdabe931208/#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Phoenix🅿️ping:150.24ms
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.40.208:8443?encryption=none&security=tls&sni=ad-010.vector2llqn.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ad-010.vector2llqn.info&path=/#🇨🇦CA_1271_@Surfboardv2ray
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.40.208:8443?encryption=none&security=tls&sni=ad-010.vector2llqn.info&fp=chrome&type=ws&host=ad-010.vector2llqn.info&path=/&packetEncoding=xudp#• 🇺🇸 | 𝗨𝗻𝗶𝘁𝗲𝗱 𝗦𝘁𝗮𝘁𝗲𝘀 - @HesarWeb
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.40.208:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-010.vector2llqn.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-010.vector2llqn.info#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️-@prrofile_purple
