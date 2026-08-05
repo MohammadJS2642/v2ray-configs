@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@45.130.125.66:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chrome.yas-nowin.ir#@Alfred_Config
+vless://d9df4cf5-34fb-42ad-8e68-a55430b0c07d@gapfilm.broute.online:2053?security=reality&encryption=none&pbk=HGyZr62T6oj_xCWzGZDXRq5BCSFofKnaTSvsB4LKQSI&headerType=none&fp=chrome&spx=/afa708266fb772f&type=tcp&sni=image.led.samsung.com&sid=2af875f9611e#@icv2ray
+vless://d9e292f3-3c9e-4fea-9961-a0a8ae201eac@pro-jp.emrata.top:443/?type=tcp&encryption=none&flow=&sni=pro-jp.emrata.top&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#🇯🇵日本
+vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss&security=reality&sid=b9f8d3f8&sni=www.cloudflare.com&type=tcp#🛰️70@oneclickvpnkeys
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.106.250:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#@v2ray_configs_pools-join-us-on-Telegram
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.100.182:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#@v2ray_configs_pools-join-us-on-Telegram
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.133.188:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram
@@ -249,7 +253,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22222?security=none&en
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22222?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22222?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@V2rayng_Fast
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22223?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22223?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22223?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@V2rayng_Fast
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22224?security=&encryption=none&headerType=&type=tcp#filembad-436
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22224?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
