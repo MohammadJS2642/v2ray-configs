@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/all&security=tls&alpn=h2&encryption=none&insecure=0&host=feywi.goldleaflab-psr.sbs&fp=chrome&type=ws&allowInsecure=0&sni=feywi.goldleaflab-psr.sbs#@mehrosaboran
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/all&security=tls&alpn=h2&encryption=none&insecure=0&host=feywi.goldleaflab-psr.sbs&fp=chrome&type=ws&allowInsecure=0&sni=feywi.goldleaflab-psr.sbs#@vmesskhodam
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/carbon&security=tls&alpn=h2&encryption=none&host=utmwb.freshlionnode-fla.sbs&fp=chrome&type=ws&sni=utmwb.freshlionnode-fla.sbs#@configprxy
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/carbon&security=tls&encryption=none&insecure=0&host=loctc.goldcitynode-tobi.sbs&fp=chrome&type=ws&allowInsecure=0&sni=loctc.goldcitynode-tobi.sbs#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -252,4 +253,3 @@ vless://544460bb-eca3-41de-b11f-39a24014d110@66.33.22.221:47071?security=reality
 vless://544460bb-eca3-41de-b11f-39a24014d110@66.33.22.221:54221?security=reality&encryption=none&pbk=isaU7B36NtlW137jg7HrQ7qNU954w53JdTnbf9qW4QI&headerType=none&fp=chrome&spx=/03143b94839b52d&type=tcp&sni=www.yahoo.com&sid=b9b98d6b7d#🟥𝗝𝗼𝗶𝗻 ➠ @𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜🌐🟥
 vless://5445e6d0-69b2-4bc5-bc01-28667bbf2278@adfsvcx.moritechs.ir:2086?mode=auto&path=/shop&security=none&encryption=mlkem768x25519plus.native.0rtt.SQCau-x0Qbc6bUpELUFrElTsjvpXiT1-pKmvzuxCrAI&host=wfwvdfs.moritechs.ir&type=xhttp#kurdconfig
 vless://5445e6d0-69b2-4bc5-bc01-28667bbf2278@adfsvcx.moritechs.ir:2086?mode=auto&path=/shop&security=none&encryption=mlkem768x25519plus.native.0rtt.SQCau-x0Qbc6bUpELUFrElTsjvpXiT1-pKmvzuxCrAI&host=wfwvdfs.moritechs.ir&type=xhttp#🇨🇦@V2rayng_Fast
-vless://5445e6d0-69b2-4bc5-bc01-28667bbf2278@cxzczx.moritechs.ir:2086?mode=auto&path=/shop&security=none&encryption=mlkem768x25519plus.native.0rtt.SQCau-x0Qbc6bUpELUFrElTsjvpXiT1-pKmvzuxCrAI&host=wfwvdfs.moritechs.ir&type=xhttp#🇨🇦@FreakConfig

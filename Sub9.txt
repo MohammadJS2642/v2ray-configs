@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
 vless://009971be-4e68-421a-94b5-32e806eef2ef@104.17.108.65:8080?mode=auto&path=/sav533?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=FAlkoraz.Sav-Savteam.iR.&type=xhttp#🇨🇦@FreakConfig
 vless://009971be-4e68-421a-94b5-32e806eef2ef@104.17.108.65:8080?mode=auto&path=/sav533?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=FAlkoraz.Sav-Savteam.iR.&type=xhttp#🇨🇦@V2rayng_Fast
 vless://00a84cc6-073c-454b-9487-f0b7238e715f@31.56.178.216:443?headerType=none&sni=huggingface.co&type=tcp&encryption=none&fp=chrome&sid=cedac586f85bb33e&security=reality&flow=xtls-rprx-vision&pbk=pT_PrAFYHWWJgyX4E4srGf-LKN_CzIsO26btnNmWDTo#🦉@FreeConfigForYou
@@ -252,4 +253,3 @@ vless://140b8981-d737-77df-7fba-6a6c060909df@tmesubgift.up.railway.app:443?encry
 vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&fp=chrome&type=xhttp&sni=vh.mojaz-persian-music.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://14426333-11de-4573-8783-6b4cc43f537a@cdnirtr16.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1053?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#کانال تلگرام : Free_VPN_CH@
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#TEL:Father_vpn
-vless://14818654-7689-453a-9a1f-4c72f89782d5@77.239.103.29:2040?encryption=none&security=reality&sni=tradingview.com&fp=chrome&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
