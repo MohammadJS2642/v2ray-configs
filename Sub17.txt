@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://753dd705-f4ae-4f76-9b78-0362a3039035@159.195.12.98:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+vless://7552bb29-f54e-4b4d-ac51-998611cf7462@hkaws01.gaaaa014.top:58722/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bilibili.com&fp=chrome&security=reality&pbk=Qe6Xgz5a5wSOeCw7FfT_DQM9f-YSmTDI3Ix8hJJ3mEg&sid=4f41a36a#🇭🇰香港
 vless://7552bb29-f54e-4b4d-ac51-998611cf7462@ly.gaaaa015.top:55790/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bilibili.com&fp=chrome&security=reality&pbk=eRb1RgkRLOxldDs-Yk01LITbCNr6qsy5dsW_svm2PDk&sid=a0650ba2#🇯🇵日本
 vless://7552bb29-f54e-4b4d-ac51-998611cf7462@ly.gaaaa015.top:55810/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bilibili.com&fp=chrome&security=reality&pbk=HRJZb6we2VTWa3ueJKR8RBQjYzSwtlYZs-5DOuTjyBk&sid=bc8f2d6c#🇯🇵日本
 vless://7552bb29-f54e-4b4d-ac51-998611cf7462@ly.gaaaa015.top:55820/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bilibili.com&fp=chrome&security=reality&pbk=P99AZTuu2iMX7IcuYa_FPwJJnzKzf5lJkTxEx3TSp1Q&sid=e62dd33f#🇸🇬新加坡
@@ -251,5 +253,3 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encrypt
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@soskeynets.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#💫60@oneclickvpnkeys
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@CUSTOMVPNSERVER
-vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
-vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@KAFING_2
