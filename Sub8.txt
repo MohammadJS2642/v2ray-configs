@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://50414e45-4c5f-5a45-5553-87784dde8e7a@198.41.199.224:443?path=%2Fstream%2FPANEL_ZEUS%2F87784dde8e7a&security=tls&encryption=none&insecure=0&host=z-e-u-s-jipumr.nova-69a264.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=z-e-u-s-jipumr.nova-69a264.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%207ms
+vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&path=%2F%3Fed%3D2048&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.15.buydeskapp.com.&security=none#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20326ms
 vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?type=ws&path=%2F%3Fed%3D2048&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.17.buydeskapp.com.&security=none#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20277ms
 vless://5af3a353-c53f-4800-98dc-d44609ad11f2@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20180ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%206ms
@@ -251,5 +253,3 @@ vless://0149f8a4-c31a-4bcf-98b6-cf98a5f11d76@91.192.160.7:9999?encryption=none&s
 vless://01566881-bc1c-4376-9531-d540963c287b@f1.springpaatogh8.store:2053?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=chess.sorza.ir&path=/?ed=2560/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet#کانال تلگرام : Free_VPN_CH@
 vless://0188427e-e55b-49f3-bd4a-1b2e34a87032@fr.fastraytel9880.ir:2087?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=Te0ColQDcNHarIngKbt7eBIr1rrZLW3h7UEINhbhHxk&fp=chrome&spx=/0RBRZ8UsYE9C9FV&type=xhttp&sni=www.yahoo.com&sid=5967#MTMVPN 14
 vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.119:43630?security=none&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
-vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@sv3.tsteam99.top:60003?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#@KAFING_2
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#Brayirani
