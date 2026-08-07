@@ -1,3 +1,4 @@
+vless://dc325c1a-2776-45c5-99a8-88840b1e97e7@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@FarazV2ray
 vless://dc4adc81-d35c-4cb7-8a53-39d3458bef9a@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2ray_phoenix
 vless://dc4adc81-d35c-4cb7-8a53-39d3458bef9a@82.40.62.103:1234?security=none&spx=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6
 vless://dc523768-3653-4b68-b8a2-5fb68ed1ab3b@altaria.proxy.rlwy.net:32346?mode=auto&path=/assets&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"5-70"}&pbk=K8AAQha1yKz8quYqYGZCtIUmVAvrLeS3_SefrcgDelk&fp=chrome&spx=/4c85180ddfdad8e&type=xhttp&sni=www.samsung.com&sid=bfbe9d5dcee4#@icv2ray
@@ -97,4 +98,3 @@ vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=B
 vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?path=/&security=none&encryption=none&host=proud-cloud-5c50.113-8dc.workers.dev&type=ws#@v2raybaaz
 vless://e41f1455-24f5-4d28-9588-a2cba790171c@91.107.157.137:40124?security=&encryption=none&headerType=none&type=tcp#@mtmvpn 7
 vless://e41f1455-24f5-4d28-9588-a2cba790171c@91.107.157.137:40124?security=&encryption=none&headerType=none&type=tcp#🇨🇵@v2rayNG_Matsuri
-vless://e41f1455-24f5-4d28-9588-a2cba790171c@91.107.157.137:40124?security=none&encryption=none&headerType=none&type=tcp#🇨🇵@v2rayNG_Matsuri
