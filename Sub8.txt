@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.191.59:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%207ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.242.95:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%204ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.29.242:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.3.162:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.24.57.169:443?security=tls&sni=xinx.ylks.xyz&type=ws&path=%2F%3Fproxyip#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://502f1a41-96df-4d6c-8a3b-26781e795893@172.67.2.238:8880?security=none&type=ws&host=sinadfa.dugjup.workers.dev&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20down
@@ -253,3 +250,6 @@ vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=%2Fall&security=tls&alpn=h2&encryption=none&insecure=0&host=dcbgd.minipixelport-qad.sbs&fp=chrome&type=ws&allowInsecure=0&sni=dcbgd.minipixelport-qad.sbs#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%2010ms
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#🆔v2ray1_ng%20🔒%20VL-XHTTP-N/A%20❔%20XX%20down
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%207ms
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20121ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#🆔v2ray1_ng%20🔒%20VL-XHTTP-N/A%20❔%20XX%20down
