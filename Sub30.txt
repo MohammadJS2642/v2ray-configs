@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&security=&encryption=none&type=ws#‎🛰️ @configprxy
+vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&security=none&encryption=none&type=ws#@FarazV2ray
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&security=none&encryption=none&type=ws#@Unblocked_ir
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&security=none&encryption=none&type=ws#@configprxy
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&security=none&encryption=none&type=ws#@erfanandroid
@@ -251,5 +253,3 @@ vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.27:2096/?type=ws&encrypti
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.140:2096/?type=ws&encryption=none&flow=&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&fp=firefox#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.157:2096/?type=ws&encryption=none&flow=&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&fp=firefox#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://725c66a2-2bce-4a24-ba52-b4e2e7047076@104.16.8.66:8880?encryption=none&host=rapid-base-6c9e.45-d79.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://75e19908-ecd0-4c71-99d2-4f343a52a4d9@www.baipiao.eu.org:8880?encryption=none&host=delicate-hall-3f93.239-23c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
