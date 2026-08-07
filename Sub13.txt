@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
 vless://42a95d56-cf09-4358-b968-8b26ab4d7987@cd3.postshup.ir:443?path=/CMlsadnCISdss&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=ptr.cyberbear.io&fp=chrome&type=ws&allowInsecure=0&sni=ptr.cyberbear.io
@@ -252,4 +253,3 @@ vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/ca
 vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&encryption=none&insecure=0&host=oxoel.starleafnet-addd.sbs&fp=chrome&type=ws&allowInsecure=0&sni=oxoel.starleafnet-addd.sbs#☑➜چنلمون: Express_freevpn@
 vless://4a97bed5-aa7a-468b-a240-eda4fd1d00e4@104.194.149.223:900?security=reality&encryption=none&pbk=MjZsTZtPlO-2sdyHhOw__wH1vSWiBSOQWivd3GwcOX4&headerType=&fp=chrome&spx=/hTC0L7wVqH7yfIW&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=0bbeb8df494601#@icv2ray
 vless://4ab4d988-dd67-6b70-90d3-3930132f8490@rokervpn-production-bbae.up.railway.app:443?encryption=none&security=tls&type=ws&host=rokervpn-production-bbae.up.railway.app&path=/ws/4ab4d988-dd67-6b70-90d3-3930132f8490&sni=rokervpn-production-bbae.up.railway.app&fp=chrome&alpn=http/1.1#X4G-کانال تلگرامی: rokervpn
-vless://4af481af-0bc3-3511-4c07-c4d6bdbeda11@x4g-production-3704.up.railway.app:443?encryption=none&type=xhttp&security=tls&path=/xhttp-siz10/4af481af-0bc3-3511-4c07-c4d6bdbeda11&host=x4g-production-3704.up.railway.app&mode=auto&sni=x4g-production-3704.up.railway.app&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@EVAY_VPN 10
