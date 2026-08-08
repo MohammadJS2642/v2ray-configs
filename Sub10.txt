@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://085350bf-3af2-a06b-3006-9d7ea314475e@69.46.46.1:443?path=/ws/085350bf-3af2-a06b-3006-9d7ea314475e&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-2066.up.railway.app&fp=chrome&type=ws&sni=rvg-production-2066.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://086a1b7f-47a3-442d-9c40-cddf2cd53324@marzban-node-production-3abb.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-3abb.up.railway.app&sni=marzban-node-production-3abb.up.railway.app&fp=chrome&alpn=h2#🚀 Telegram: PeekConfig
 vless://0870314f-9920-4223-aaf4-7211857d78ac@185.146.173.59:2095?path=/ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.らわなさ.tech.&type=ws#@v2ray_configs_pools-join-us-on-Telegram
@@ -253,3 +251,5 @@ vless://16227db7-1914-4a97-bb6b-7bf98e6b525b@185.143.232.201:443?path=/&security
 vless://162539ad-3df4-429f-8e71-ecdb7023b786@82.47.22.240:443?security=reality&encryption=none&pbk=lGFpiPyaH0J4o6NWsXv48Y3aQF0IsZP-QF506VsNQVQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee-hs-1.minzt.su#@prrofile_purple  ♥️👈 تلگرام
 vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?encryption=none&fp=chrome&host=sync.watchwave.link&path=/api/v1/rooms/63368e3dbb/sync&security=tls&sni=cdn.tracker.yandex.net&type=ws#🧅6@oneclickvpnkeys
 vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?path=/api/v1/rooms/63368e3dbb/sync&security=tls&encryption=none&insecure=0&host=sync.watchwave.link&fp=chrome&type=ws&allowInsecure=0&sni=cdn.tracker.yandex.net#@FarazV2ray
+vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?path=/api/v1/rooms/63368e3dbb/sync&security=tls&encryption=none&insecure=0&host=sync.watchwave.link&fp=chrome&type=ws&allowInsecure=0&sni=cdn.tracker.yandex.net#🧅6@ConfigV2RayNG
+vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?path=/api/v1/rooms/63368e3dbb/sync&security=tls&encryption=none&insecure=0&host=sync.watchwave.link&fp=chrome&type=ws&allowInsecure=0&sni=cdn.tracker.yandex.net#🧅@TEHRANARGO
