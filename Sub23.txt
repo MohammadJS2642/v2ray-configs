@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a256f249-7d63-4754-a83c-aaef9d96e57f@www.dgmcd.cn:443?path=/54863/google&security=tls&encryption=none&insecure=0&host=st1sni.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=st1sni.irandoc.info#🇸🇬138059 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=/?ed=2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?encryption=none&security=none&type=httpupgrade&host=Xtls.mehrsazi.ir&path=/#کانال تلگرام : Free_VPN_CH@
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?encryption=none&security=none&type=httpupgrade&host=bio.mehrsazi.ir&path=/#کانال تلگرام : Free_VPN_CH@
@@ -252,4 +253,3 @@ vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&en
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@Iran_v2ray1
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@V2rayng_Fast
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@outline_ir
-vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@vmess_ir
