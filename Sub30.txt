@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#IR-@V2rayAlpha-15
 vless://fee1da7e-a258-4456-8e5e-8ecf6518ed12@104.21.19.76:2096?path=/eyJqdW5rIjoiemxGMEFDU1VDRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ez-82c7e7.abobaba.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-82c7e7.aBoBaBA.WorkeRS.dEv#@meliproxyy
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#IR-@V2rayAlpha-13
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@CUSTOMVPNSERVER
@@ -252,4 +253,3 @@ vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443?path=%2Fassets%2F
 vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@log.bpminecraft.com:8880?encryption=none&host=misty-mouse-141d.177-f18.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AXX
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?path=%2F&security=&encryption=none&host=vms.lifetime04.workers.dev&type=ws#%3E%3E%40shadowproxy66%3A%3AUS
-vless://63f1ef69-92fd-427a-b3e4-98ffddf81ac6@www.speedtest.net:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=young-rice-749e.heliy78750.workers.dev&path=%2FnPKoVRUdyuRZ6jpY%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbSxwcm94eWlwLmNtbGl1c3Nzcy5uZXQsbmltYS5uc2NsLmlyLHR1cmsucmFkaWNhbGl6YXRpb24uaXI%3D&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
