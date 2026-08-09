@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://@free_conf_iran@104.16.75.127:2095?path=/ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=ws#🔥 @free_conf_iran 🔥 8
+vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈 کانفیگ جدید
 vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=httpupgrade#🔥 @free_conf_iran 🔥 4
 vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=uk.dataxshop.ir&type=httpupgrade#@free_conf_iran 👈 کانفیگ رایگان
 vless://@free_conf_iran@188.114.97.6:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=fr.mamish.ir&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#🔥 @free_conf_iran 🔥 6
@@ -251,5 +253,3 @@ vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/ca
 vless://a29e0815-8d5e-4743-afeb-1d3c5d128c34@snapp.ir:8080?path=/&security=none&encryption=none&host=api.shomalnojm.ir&type=ws#@v2rayng3
 vless://a2a1f0c1-55e9-4b9a-9b58-4b254e93679b@marzban-node-production-b2df.up.railway.app:443?path=/vless&security=tls&alpn=h2&encryption=none&insecure=0&host=marzban-node-production-b2df.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=marzban-node-production-b2df.up.railway.app#kurdconfig
 vless://a2a1f0c1-55e9-4b9a-9b58-4b254e93679b@marzban-node-production-b2df.up.railway.app:443?path=/vless&security=tls&alpn=h2&encryption=none&insecure=0&host=marzban-node-production-b2df.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=marzban-node-production-b2df.up.railway.app#🇺🇸@FreakConfig
-vless://a2a1f0c1-55e9-4b9a-9b58-4b254e93679b@marzban-node-production-b2df.up.railway.app:443?path=/vless&security=tls&alpn=h2&encryption=none&insecure=0&host=marzban-node-production-b2df.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=marzban-node-production-b2df.up.railway.app#🇺🇸@V2rayng_Fast
-vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?&type=tcp&headerType=none&path=/#🇹🇼 Join+Telegram:@Farah_VPN 🇹🇼
