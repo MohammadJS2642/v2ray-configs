@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:2096?path=/stream/PANEL_ZEUS/7f7051730076&security=tls&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#ZEUS | 🌐 | TelegramPeekConfig
-vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:443?path=/stream/PANEL_ZEUS/7f7051730076&security=tls&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#ZEUS | 🌐 | TelegramPeekConfig
 vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:8080?path=/stream/PANEL_ZEUS/7f7051730076&security=&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#ZEUS | 🌐 | TelegramPeekConfig
 vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:80?path=/stream/PANEL_ZEUS/7f7051730076&security=&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#ZEUS | 🌐 | TelegramPeekConfig
 vless://50414e45-4c5f-5a45-5553-caf4bf160c4d@0.0.0.0:1?encryption=none&security=none&type=ws&host=z-e-u-s-panel-myaw2u.z-e-u-s-3gpcu2.workers.dev&path=/stream/PANEL_ZEUS/caf4bf160c4d#🌍138931 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +251,5 @@ vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?mode=gun&securit
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.12.161:443?security=tls&encryption=none&insecure=0&host=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&type=ws&allowInsecure=0&sni=powered-by-surena.configfarsi6982dd6e0355e.workers.dev#🚀t.me/iProxyChannel
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?encryption=none&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/?ed#کانال تلگرام : Free_VPN_CH@
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@217.60.193.4:443?encryption=none&fp=chrome&security=tls&sni=ddc-akn.astralweb.tech&type=tcp#✨18@oneclickvpnkeys
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@31.56.185.20:443?encryption=none&fp=chrome&security=tls&sni=nl2-akn.astralweb.tech&type=tcp#✨31@oneclickvpnkeys
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@84.32.101.222:443?encryption=none&fp=chrome&security=tls&sni=ddc-chr.astralweb.tech&type=tcp#🐻9@oneclickvpnkeys
