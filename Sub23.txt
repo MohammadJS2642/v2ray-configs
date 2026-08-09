@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@198.41.223.159:8443/?type=ws&encryption=none&flow=&host=free-7f1.pages.dev&path=/&security=tls&sni=free-7f1.pages.dev&fp=chrome#channel_@networld_vpn
-vless://a256bcb1-e3fd-4148-b206-26ccc93a7f9e@82.202.138.144:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.sellflow.org#ARGO_VPNN_13
 vless://a256f249-7d63-4754-a83c-aaef9d96e57f@cms.umtheme.com:443?encryption=none&security=tls&sni=st1sni.irandoc.info&fp=chrome&allowinsecure=0&type=ws&host=st1sni.irandoc.info&path=/54863/google#🇩🇪All⁸ | @BigSmoke_Config
 vless://a256f249-7d63-4754-a83c-aaef9d96e57f@www.dgmcd.cn:443?encryption=none&type=ws&security=tls&path=/54863/google&host=st1sni.irandoc.info&sni=st1sni.irandoc.info&fp=chrome&insecure=0&allowInsecure=0#configprxy
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=/?ed=2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
@@ -253,3 +251,5 @@ vless://b1d2a517-3ff2-4eb7-a9cd-2a42a2eb1c29@vl1.salar4040.ir:4040?security=real
 vless://b2424c2b-196c-4924-af15-747d27ef44a1@213.156.152.42:8089?security=reality&encryption=none&pbk=dx7cY0aeosAvz0hzRR9DrAtAiKAuMH44KRBSufYYMmk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=992a171518f6f60e#@Maznet - SOS515
 vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@176.109.85.140:9444?security=reality&encryption=none&pbk=bqLr1d3mbuP10WAYxWj8OEdSuZlVvrywrKq2U6ACw2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=12b9ecabbf3a3b88#@filembad
 vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@176.109.85.140:9444?security=reality&encryption=none&pbk=bqLr1d3mbuP10WAYxWj8OEdSuZlVvrywrKq2U6ACw2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=12b9ecabbf3a3b88#🇷🇺138556 | ⚡️Telegram = t.me/SOSkeyNET
+vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2053?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#kurdconfig
+vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2053?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#🇨🇦@FreakConfig

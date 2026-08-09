@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://01d45b24-10c5-4d0b-83c2-8230c0290c38@s07.goharley.site:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn.selectel.ru&insecure=1&allowInsecure=1&pbk=lgYkxGzAAIIJJ6OmrtDyqJfcEKdWCqA7lmsxyVDgGWc&flow=xtls-rprx-vision#🔮
-vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@sv3.tsteam99.top:60003?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#@KAFING_2
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#Brayirani
 vless://02082a02-50f6-4bae-ac34-5c8ab413c427@cdn.akbarvpn.dpdns.org:48756?security=reality&encryption=none&pbk=5gZ1L8V29DcZ3iGutNil8NzxuKzln_Se7cODgQqcTGY&headerType=none&fp=chrome&spx=/d399b7090c2849d&type=tcp&sni=google.com&sid=41c8#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️496🌐🆕️
 vless://026149af-ee7c-2044-944e-34d522fd6f7e@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/026149af-ee7c-2044-944e-34d522fd6f7e#109
@@ -253,3 +251,5 @@ vless://1149be91-5a4f-47de-995f-66f8d7d64498@blogsss.khirs.com:2096?security=tls
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@blogsss.khirs.com:2096?security=tls&type=ws&headerType=&path=&host=De09.SiMaNsAnAt.Ir.&sni=De09.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#🌍138637 | ⚡️Telegram = t.me/SOSkeyNET
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@soskeynets.khirs.com:2096?security=tls&type=ws&headerType=&path=&host=De09.SiMaNsAnAt.Ir.&sni=De09.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#🌍138637 | ⚡️Telegram = t.me/SOSkeyNET
 vless://116f860d-c67a-4443-b478-18e11d193592@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#MTMVPN 10
+vless://116f860d-c67a-4443-b478-18e11d193592@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮@V2rayng_Fast
+vless://116f860d-c67a-4443-b478-18e11d193592@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮⚡️@v2ryNG01
