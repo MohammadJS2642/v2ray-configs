@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://32332cd3-0058-4022-9d57-d4f874123c62@ch.vmax-panel.ir:13795?security=reality&encryption=mlkem768x25519plus.native.0rtt.aYoVoav2JPSFSqwjoIDZX9Q1DAED6L4NA44rGFiQSh0&pbk=wHYi4dU3zI7p2M_hq01582NNqytEMhJcJ1RT72iVaQE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=61da10f0dd36586c#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20269ms
 vless://32332cd3-0058-4022-9d57-d4f874123c62@ger.vmax-panel.ir:56787?security=reality&encryption=mlkem768x25519plus.native.0rtt.aYoVoav2JPSFSqwjoIDZX9Q1DAED6L4NA44rGFiQSh0&pbk=wHYi4dU3zI7p2M_hq01582NNqytEMhJcJ1RT72iVaQE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=61da10f0dd36586c#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20275ms
 vless://32332cd3-0058-4022-9d57-d4f874123c62@it.vmax-panel.ir:31520?security=reality&encryption=mlkem768x25519plus.native.0rtt.aYoVoav2JPSFSqwjoIDZX9Q1DAED6L4NA44rGFiQSh0&pbk=wHYi4dU3zI7p2M_hq01582NNqytEMhJcJ1RT72iVaQE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=61da10f0dd36586c#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2094ms
 vless://32332cd3-0058-4022-9d57-d4f874123c62@tro.jorgotr.ir:32841?security=reality&encryption=mlkem768x25519plus.native.0rtt.ZYih0-3-mgkisTmboeHnPUp8qvAY9b7XdXscvjb_XVw&pbk=RqMq2oEP7SdAkPUfk167Qq9tY-RTfMHgKsgjnjc73gs&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=64905a022bea30a6#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
@@ -252,4 +253,3 @@ vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&en
 vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.106:2096?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#kurdconfig
 vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.106:2096?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#🇨🇦@FreakConfig
 vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.106:2096?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#🇨🇦@V2rayng_Fast
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
