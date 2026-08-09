@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#@prrofile_purple  ♥️👈 تلگرام
+vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.106:2096?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#kurdconfig
 vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.106:2096?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#🇨🇦@FreakConfig
 vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.106:2096?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#🇨🇦@V2rayng_Fast
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
@@ -251,5 +253,3 @@ vless://108ac7b1-44e8-4725-b41c-3faae148a6ef@9mhqjrbf.helpower.ir:443?encryption
 vless://10be524f-e1dc-4d1c-a256-17df1399a739@104.17.121.253:2096?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=donya-e-eqtesad.com.fararu.com.alef.ir.hamshahrionline.ir.khabaronline.ir.asriran.com.alalamtv.net&allowInsecure=0&sni=loVELY-bATtLeNn9IH0SniS.WInDlER.Co.Uk#@v2rayng3
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@ffwrhtttmt-tnfdf4df-ff683b-production.up.railway.app:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=ffwrhtttmt-tnfdf4df-ff683b-production.up.railway.app&fp=chrome&type=ws&sni=ffwrhtttmt-tnfdf4df-ff683b-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@mnjgkf-rfefef-21d0e4-production.up.railway.app:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=mnjgkf-rfefef-21d0e4-production.up.railway.app&fp=chrome&type=ws&sni=mnjgkf-rfefef-21d0e4-production.up.railway.app#All Operators @MaSTeRSeRVeR1
-vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🪐 Zohal Server 🆓️
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@14.102.229.221:2096?security=tls&sni=De01.SiMaNsAnAt.Ir.&type=ws&host=De01.SiMaNsAnAt.Ir.#@Hope_Net-join-us-on-Telegram

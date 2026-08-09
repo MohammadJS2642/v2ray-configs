@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bcb43480-c628-56fe-0092-f2d685aa5297@x4g-production-61c5.up.railway.app:443?path=/ws/bcb43480-c628-56fe-0092-f2d685aa5297&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-61c5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-61c5.up.railway.app#🇺🇸US-🚀@VPNine1
+vless://bcc39590-45d5-4e21-95d9-184c188dea3e@158.160.186.6:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c31f9a0e7d4b52#@v2rayng3
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.129:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
@@ -251,5 +253,3 @@ vless://c4b80f6b-0931-4ae4-96fe-6dc844c5c466@64.188.79.222:4443?encryption=none&
 vless://c4b80f6b-0931-4ae4-96fe-6dc844c5c466@64.188.79.222:4443?security=reality&encryption=none&pbk=yIxxpfF8FygAHQvVXCiI5O1o3DrAPlW70JlTrFAv3D8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5af0b7d9#@bored_vpn
 vless://c4ca80f8-6df0-4f6a-89cb-fbc8c5affc7f@zula.ir:80?type=ws&path=/@NIM_VPN_ir,@NIM_VPN_ir&host=asdwds.kolacghi.ir&security=none#@Hope_Net-join-us-on-Telegram
 vless://c52064f6-67f3-43cd-ada7-29d3cc1623cd@k5.adamak.top:11035?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#کانال تلگرام : Free_VPN_CH@
-vless://c5298409-cef7-44b7-b365-62dc1dcffd6a@nozomi.proxy.rlwy.net:24703?mode=auto&path=/assets&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"5-70"}&pbk=d-Ra_1uPf5oLwePV1GutozqIrbAD4-B8dFfI1btDzAk&fp=chrome&spx=/6340b6109ae9e48&type=xhttp&sni=www.samsung.com&sid=6c3332368d670cd6#Channel : @Daily_Configs
-vless://c532eb8f-0ee6-4b9b-b258-3cc22dfd7130@165.245.255.43:43376?encryption=none&security=reality&sni=www.m.amazon.com&fp=chrome&pbk=wao7fuBMCR6po9PtLR1eRQjH7McA17SHoh95JudXaUI&sid=0937ffd874d1&spx=/9aeb9f49f7ea9c3&type=tcp&headerType=none#@Ap_Ir6

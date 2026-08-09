@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://9551588e-25c4-49ed-b6fe-783b0452e98c@31.56.196.145:2019?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🚀t.me/iProxyChannel
+vless://9551588e-25c4-49ed-b6fe-783b0452e98c@31.56.196.145:2019?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://957797d5-1710-4e4a-bf41-9f5b641503e3@159.69.192.171:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#⚡️ 𝗡𝗲𝗧𝗠𝗲𝗹𝗶 ⚡️ | @prrofile_purple
 vless://957797d5-1710-4e4a-bf41-9f5b641503e3@46.225.220.111:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#⚡️ 𝗡𝗲𝗧𝗠𝗲𝗹𝗶 ⚡️ | @prrofile_purple
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@179.61.227.182:2083?mode=gun&security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#@meliproxyy
@@ -251,5 +253,3 @@ vless://XpnTeam-12@188.114.97.6:443?mode=auto&path=/&security=tls&alpn=h2,http/1
 vless://XpnTeam-13@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-13@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-14@www.speedtest.net:443?encryption=none&type=xhttp&security=tls&path=/&host=sazeg.bEwiNja.ir.&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=sazeg.bEwiNja.ir.&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@bored_vpn
-vless://XpnTeam-14@www.speedtest.net:443?encryption=none&type=xhttp&security=tls&path=/&host=sazeg.bEwiNja.ir.&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=sazeg.bEwiNja.ir.&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@mehrosaboran
-vless://XpnTeam-15@140.248.186.45:443?encryption=none&type=ws&security=tls&path=/&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@bored_vpn
