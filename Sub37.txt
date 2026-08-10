@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@ln4.xiaoliyu.cyou:443/?mport=22000-27000&insecure=1#印度
-hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@sg3.xiaoliyu.cyou:4466/?insecure=1&sni=sg3.xiaoliyu.cyou#新加坡
-hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@us4.xiaoliyu.cyou:443/?mport=22000-27000&insecure=1#美国
-hy2://gf1:gfhysteria2024@185.111.109.40:443/?insecure=1&sni=www.dell.com#丹麦
 hy2://gf1:gfhysteria2024@185.111.109.40:443/?insecure=1&sni=www.dell.com#捷克
 hy2://gf1:gfhysteria2024@185.156.44.99:443/?insecure=1&sni=www.amazon.com#罗马尼亚
 hy2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#俄罗斯
