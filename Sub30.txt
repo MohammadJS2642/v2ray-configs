@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?encryption=none&type=ws&path=/&host=chatgpt.com#@Maznet - SOS521
+vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:443?encryption=none&type=tcp&headerType=http&path=/&host=google.com#@Maznet - SOS523
 vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:8443?encryption=none&type=xhttp&path=/&host=chatgpt.com&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@Maznet - SOS522
 vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@132.243.222.209:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=de3.rexten.cc&type=tcp#🪢5@oneclickvpnkeys
 vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@132.243.222.209:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de3.rexten.cc#@MDvpnSEC
@@ -251,5 +253,3 @@ vless://ff9307e6-f04a-4905-8cd4-7e690bd63eb8@104.17.119.248:8080?path=/eyJqdW5rI
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&type=ws&path=/&packetEncoding=xudp#• 🇸🇪 | 𝗦𝘄𝗲𝗱𝗲𝗻 - @HesarWeb
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&security=&encryption=none&type=ws#@FarazV2ray
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&security=&encryption=none&type=ws#‎🛰️ @TEHRANARGO
-vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&security=&encryption=none&type=ws#‎🛰️ @configprxy
-vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&security=none&encryption=none&type=ws#@FarazV2ray
