@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6df75f42-4447-4ade-a53e-350f4eb69858@n8.loyalemu.sbs:8443?path=/ws8&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=n8.loyalemu.sbs&fp=chrome&type=ws&allowInsecure=0&sni=n8.loyalemu.sbs#@vmess_ir
+vless://6df75f42-4447-4ade-a53e-350f4eb69858@n8.loyalemu.sbs:8443?path=/ws8&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=n8.loyalemu.sbs&fp=chrome&type=ws&allowInsecure=0&sni=n8.loyalemu.sbs@freenettir ⁵
+vless://6e256a9a-957b-496a-841c-b7e9fe8deb33@104.17.108.1:443?encryption=none&type=xhttp&mode=packet-up&host=aa.farxmode.ir&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=aa.farxmode.ir&alpn=h2,http/1.1#@EVAY_VPN
+vless://6e459027-aa75-a3c2-31ca-fd324f1b0351@de2.natnetspeed.com:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-apple.com&sid=6ea3daaac3d6bede#@vmesskhodam
 vless://6e459027-aa75-a3c2-31ca-fd324f1b0351@de5.natnetspeed.com:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-apple.com&sid=6ea3daaac3d6bede#@vmesskhodam
 vless://6e459027-aa75-a3c2-31ca-fd324f1b0351@fi77.natnetspeed.com:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-apple.com&sid=6ea3daaac3d6bede#@vmesskhodam
 vless://6e459027-aa75-a3c2-31ca-fd324f1b0351@fi77.natnetspeed.com:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-apple.com&sid=6ea3daaac3d6bede#🇫🇮140128 | ⚡️Telegram = t.me/SOSkeyNET
@@ -249,7 +253,3 @@ vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?security=reali
 vless://816e0975-e2c2-4462-8a80-49f06686e9f0@xnzn-gpa36i.paydar.site:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://816e0975-e2c2-4462-8a80-49f06686e9f0@xnzn-gpa36i.paydar.site:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2rayng_Fast
 vless://816e0975-e2c2-4462-8a80-49f06686e9f0@xnzn-gpa36i.paydar.site:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@irconfiig
-vless://816e0975-e2c2-4462-8a80-49f06686e9f0@xnzn-gpa36i.paydar.site:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@v2ryNG01  سرور1
-vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
-vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
-vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.16.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/3BzRkDnEVV1LI56p?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (4)
