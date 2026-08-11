@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0c5853e1-a606-4aa2-bbfa-86a7b58d43b1@fr2-azad.0xoddity.ir:5666?security=reality&encryption=none&pbk=0qp2ibLJZMNQfIQYAbYmZzhyeeKRgVjm2AGxgbNDWhg&headerType=none&fp=chrome&spx=/c35feea118504ea&type=tcp&sni=s.yimg.com&sid=2539f132f20e7271#@appsooner کانال تلگرام 🕊️
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=grpc&allowInsecure=0#𝗝𝗼𝗶𝗻 ➠ @sil3nt_network
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?security=tls&encryption=none&insecure=0&type=grpc&serviceName=grpc&allowInsecure=0#@MDvpnSec 🌀
 vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encryption=none&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN&host=Locke.check-speedtest-internet-dns-ping-ip.ir&security=tls&fp=chrome&alpn=http/1.1&sni=Locke.check-speedtest-internet-dns-ping-ip.ir&ech=AID+DQB8AAAgACDa3kymGZ++wd6/VngnXySNEStqWkMpKkoMMKOHQK3MIQAkAAEA#🔐@LOCKEY_VPN
 vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encryption=none&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&security=tls&fp=chrome&alpn=http/1.1&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&ech=AID+DQB8AAAgACDa3kymGZ++wd6/VngnXySNEStqWkMpKkoMMKOHQK3MIQAkAAEA#🔐@LOCKEY_VPN
@@ -251,5 +253,3 @@ vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@104.21.41.131:8443?path=/&security=
 vless://1aeca774-ed68-41f3-8e15-952cb4f78c67@netherlands.vpnserverhub.com:443?security=reality&encryption=none&pbk=y8-hfUvs9-MScp_tjMFi5LKuULGmnodHbI5Q_sTk_A0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#@Ap_Ir6
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2rayng
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6

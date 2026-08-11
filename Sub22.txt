@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#☑➜چنلمون: Express_freevpn@
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#@Unblocked_ir ¹
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#@v2raybaaz ²
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#@vpnbaz 🍋‍🟩
@@ -251,5 +253,3 @@ vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?path=/&security=t
 vless://b6591693-d398-4179-a3b8-182cdc5e55d8@62.238.49.122:52874?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
 vless://b6591693-d398-4179-a3b8-182cdc5e55d8@62.238.49.122:52874?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#vpnsal
 vless://b6591693-d398-4179-a3b8-182cdc5e55d8@62.238.49.122:52874?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@VEGAAS_VPN
-vless://b66830b2-de34-42d9-ac7e-def7bcd1485f@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in6&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Switzerland-ch-client
-vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?security=reality&encryption=none&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=000443436f#@v2ray_phoenix
