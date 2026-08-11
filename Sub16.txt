@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://51c1e31e-3c8a-4dc2-b76e-ca64077302b1@xn--zn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@v2ryNG01 جدید
 vless://5202d00b-4d95-49da-8da3-466d07842edb@89.208.106.218:8443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=RqrMeYgZHipaCyfygSF9TM6eKmpCJ2FCqcoB3vvFJD0&sid=441a01bb10389a31&spx=/4580d5855419f7e&type=xhttp&path=/subgift&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@subgift-120
 vless://52745f29-d8da-4cb7-9f95-401b946524e7@89.222.123.214:16923?encryption=none&security=reality&sni=disk.yandex.ru&fp=chrome&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#@Ap_Ir6
 vless://52bc7468-0c2f-4e9d-bdfa-e266242ab44b@138.124.72.220:443?encryption=none&type=tcp&security=reality&headerType=none&fp=chrome&insecure=1&allowInsecure=1&pbk=fu-_qH499aSXYcsyiJIUf9o28LYahPCIFyRHrLWuCDI&sid=0a077a46#@meliproxyy
@@ -252,4 +253,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@v2rayngzendegimamad🕊️
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.176.26.50:8880?path=/?ed&security=&encryption=none&host=vms.lifetime06.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/#کانال تلگرام : Free_VPN_CH@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#کانال تلگرام : Free_VPN_CH@
