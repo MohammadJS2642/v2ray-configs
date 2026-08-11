@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://735f7616-a5cc-45ce-9bdc-b741054cb13e@api.tenneltheducks.ir:2096?encryption=none&security=tls&sni=FiN-XhTt.SeZaR.OrG&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=FiN-XhTt.SeZaR.OrG&path=/ports/1106&mode=auto#@Daily_Configs : کانال
 vless://735f7616-a5cc-45ce-9bdc-b741054cb13e@api.tenneltheducks.ir:2096?mode=auto&path=/ports/1106&security=tls&alpn=h2,http/1.1&encryption=none&host=FiN-XhTt.SeZaR.OrG&fp=chrome&type=xhttp&sni=FiN-XhTt.SeZaR.OrG#@v2ray_phoenix
 vless://735f7616-a5cc-45ce-9bdc-b741054cb13e@cd-site.benomiz.ir:2096?encryption=none&security=tls&sni=FrCh-XhTt.SeZaR.OrG&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=FrCh-XhTt.SeZaR.OrG&path=/ports/1106&mode=auto#@Daily_Configs : کانال
 vless://735f7616-a5cc-45ce-9bdc-b741054cb13e@cd-site.benomiz.ir:2096?mode=auto&path=/ports/1106&security=tls&alpn=h2,http/1.1&encryption=none&host=FrCh-XhTt.SeZaR.OrG&fp=chrome&type=xhttp&sni=FrCh-XhTt.SeZaR.OrG#@v2ray_phoenix
@@ -252,4 +253,3 @@ vless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?mode=gun&security
 vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=chrome&spx=/@HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#@appsooner کانال تلگرام 🕊️
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=musiclovers85?ed=512#@Ap_Ir6
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=musiclovers85?ed=512#@Daily_Configs
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=musiclovers85?ed=512#@meliproxyy
