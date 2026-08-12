@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://df207a99-2eab-4383-9082-33cf9a54c7b9@194.146.68.140:500?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=qjKV_OK9_tXqPPN6DGGQP8cjY5XrncnvZ9wuhj6n3yw&fp=chrome&spx=/RAOsbjQcy7J3YEY&type=xhttp&sni=www.nvidia.com&sid=7e40cb5f922609e8#🇮🇷139758 | ⚡️Telegram = t.me/SOSkeyNET
+vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#🇩🇪139864 | ⚡️Telegram = t.me/SOSkeyNET
 vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#🇩🇪139865 | ⚡️Telegram = t.me/SOSkeyNET
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#TEL;Father_vpn
@@ -251,5 +253,3 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.18.1.1:2053?path=/&security=tls
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.66.44.97:2053?path=/&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#[🇨🇦]t.me/ConfigV2RayNG
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?encryption=none&type=ws&host=po.fastbrokencompony.com&path=/?ed=2053&security=tls&fp=chrome&sni=po.fastbrokencompony.com&alpn=h3,h2,http/1.1#🇩🇪@V2RAYNG_IP
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2053&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#@V2ray_Alpha☠️ 7
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2053&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#Channel : @Daily_Configs
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2053&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#vpnsal
