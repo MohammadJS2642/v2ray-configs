@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?encryption=none&fp=&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&security=reality&sid=a8ae&sni=deepl.com&type=tcp#🔖29@oneclickvpnkeys
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&headerType=none&type=tcp&sni=deepl.com&sid=a8ae#@i10VPN💥
+vless://9f135709-60a1-4a9b-b31c-78d326d8752a@104.18.152.233:443?mode=stream-one&path=/settings----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=chrome&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#TEL;Father_vpn
+vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?security=tls&alpn=http/1.1&encryption=mlkem768x25519plus.native.0rtt.xiVmE3k1gSJhST4Uf6szW_l5NSQA32CYkZZH-9r0fDY&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=files.toriva.click#@v2rayng3
 vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb#英国
 vless://9f7dbec4-35b7-4edd-84d2-47c780308cf2@xn--zn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2ray_Alpha🧞 5
 vless://9f7dbec4-35b7-4edd-84d2-47c780308cf2@xn--zn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@mtmvpn 5
@@ -249,7 +253,3 @@ vless://a5710b23-aab9-4271-91d1-bc8033c09fdb@soskeynets.horlutr.ir:2087?security
 vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@taoccqyacf7e.dop66.com:5039/?type=tcp&encryption=none&flow=&sni=www.yahoo.com&fp=chrome&security=reality&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&sid=2e8424a2696cb606&packetEncoding=xudp#🇮🇹Mexico
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#🇳🇱TM (@AZARBAYJAB1)
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#🇳🇱TM (@AZARBAYJAB1)
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@89.124.124.221:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=19.07.yunus.guru&pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&sid=c6d439fd92614ab0#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://a5eb4618-c4b5-458b-aafb-e74558d9592d@uae-user-naran.chamehdan.ir:8080?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
-vless://a6c5f4c7-073f-416b-b5e3-4a86ec2d9f22@139.59.191.88:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JeaMU58AmMJ2JqJ-QGotRFua9DYxxveqw7I_XMWCu34&security=reality&sid=2da3ecc3ad9a323b&sni=www.stanford.edu&type=tcp#🇬🇧139842 | ⚡️Telegram = t.me/SOSkeyNET
-vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#Telegram: @Configfori

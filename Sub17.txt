@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#@KAFING_2
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#⚡Telegram =@CUSTOMVPNSERVER
+vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@194.104.10.68:443?security=reality&encryption=none&pbk=z3U2vV7PRNvOraeAs6RnjM8aQbkOFdyp82ogXdS40mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ned.leontunel.ru&sid=f64c0c7635cbddf5#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #14
+vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443?security=reality&encryption=none&pbk=5RK9ivB7UF_89vkywwpZjW3jAJqsEGskRSS7c0OUOXM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ang.leontunel.ru&sid=2f4761809cf9fbfb#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️504🌐🆕️
 vless://68d3fcbe-f025-1f40-82d6-9455c5e5f6b5@212.233.78.243:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=secget.ru&sid=f8a8ee8381529673#@prrofile_purple  ♥️👈 تلگرام
 vless://68d3fcbe-f025-1f40-82d6-9455c5e5f6b5@secget.ru:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=secget.ru&sid=f8a8ee8381529673#@prrofile_purple  ♥️👈 تلگرام
 vless://68d3fcbe-f025-2710-82d6-9455c5e5f6b5@secget.ru:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=secget.ru&sid=f8a8ee8381529673#@prrofile_purple  ♥️👈 تلگرام
@@ -249,7 +253,3 @@ vless://7c3e7eb3-289a-4664-b783-e459713aed4f@cdn.devmixa.ir:443?security=tls&alp
 vless://7c3e7eb3-289a-4664-b783-e459713aed4f@sourceforge.net:8880?encryption=none&security=none&type=httpupgrade&host=FFfcvFtcFar.9.postshup.ir&path=/?ed=2082#🇨🇦140714 | ⚡️Telegram = t.me/SOSkeyNET
 vless://7c3e7eb3-289a-4664-b783-e459713aed4f@sourceforge.net:8880?encryption=none&security=none&type=httpupgrade&host=FFfcvFtcFar.9.postshup.ir&path=/?ed=2082#🇩🇪All² | @BigSmoke_Config
 vless://7c3e7eb3-289a-4664-b783-e459713aed4f@sourceforge.net:8880?encryption=none&security=none&type=httpupgrade&host=FFfcvFtcFar.9.postshup.ir&path=/?ed=2082#🇩🇪All¹² | @BigSmoke_Config
-vless://7c3e7eb3-289a-4664-b783-e459713aed4f@sourceforge.net:8880?encryption=none&security=none&type=httpupgrade&host=FFfcvFtcFar.9.postshup.ir&path=/?ed=2082#🇩🇪All⁷ | @BigSmoke_Config
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?encryption=none&security=reality&sni=dl.google.com&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&type=grpc&mode=gun&authority=&serviceName=TunService#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?security=reality&encryption=none&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#@icv2ray
-vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#@Net2ray Germany 🇩🇪
