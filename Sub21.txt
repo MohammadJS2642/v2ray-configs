@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegram:@Free_VPN_CH@62.182.192.35:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@62.182.192.49:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@62.182.193.76:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@72.167.243.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram@212.34.140.205:443?encryption=none&security=tls&sni=tn1rr.qzz.io&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
@@ -251,5 +253,3 @@ vless://add55803-014a-401d-b0f7-96955412f3ad@193.39.9.240:500?encryption=none&se
 vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.66.140.62:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=delicate-base-12ed.287-133.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs#vpnsal
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:443?mode=auto&path=/&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#kurdconfig
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:443?mode=auto&path=/&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#🇷🇺@FreakConfig
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:443?mode=auto&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#@MARAMBASHI 🇫🇷
