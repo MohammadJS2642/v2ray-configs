@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c124a209-d949-4951-8234-e2d918b3e6c0@213.176.17.215:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=helsink.vypnet.su&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://c863c8f0-cda1-429c-be76-cbefc8a418a1@93.123.13.7:15755?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2ray_configs_pool%3A%3AFI
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@helsink.vypnet.su:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=helsink.vypnet.su&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3ADE
@@ -253,3 +252,4 @@ trojan://humanity@198.41.223.96:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%8
 trojan://humanity@104.19.229.21:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13
 trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14
 trojan://humanity@104.18.152.210:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD15
+trojan://humanity@104.16.174.12:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD16
