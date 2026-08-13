@@ -1,3 +1,5 @@
+vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@Alfred_Config
+vless://AlfredConfig@45.130.125.66:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://Channel-ITV2RAY@iTV2RAY.ddns.net:969?path=/iTV2RAY&security=reality&encryption=none&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4&host=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&fp=chrome&spx=/iTV2RAY&type=http&sni=www.speedtest.net&sid=d05b9020#@iTV2RAY+/+All+oprator+/+iOS
 vless://Channel-iTV2RAY@iTV2RAY.ddns.net:696?mode=gun&security=reality&encryption=none&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c&fp=chrome&spx=/iTV2RAY&type=grpc&serviceName=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&sni=www.speedtest.net&sid=04158025#@iTV2RAY+/+All+oprator+/+Android
 vless://Channel-iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(   @iTV2RAY   )&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI
@@ -38,7 +40,6 @@ vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=n
 vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانفیگ رایگان نت ملی . @fastkanfig
 vless://Telegram : free_conf_iran@135.125.136.238:46989?security=none&encryption=none&headerType=none&type=tcp#Telegram : free_conf_iran 🇩🇪
 vless://Telegram-@Cooonfig-@Cooonfig@65.109.183.102:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@VEGAAS_VPN🇫🇮
-vless://Telegram-@Cooonfig@Cooonfig@91.107.240.230:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#ProxyMtpVPN-320
 vless://Telegram-Parsashonam@178.105.179.72:443?security=reality&encryption=none&pbk=k2hbpFLj1gfVXbx0Hae2bvMIZIaBwJcVG71XiEDkSD0&headerType=none&fp=chrome&spx=/l7fQJYMI6OVOIfN&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=21cee1c9ab#@Parsashonam-🇩🇪
 vless://Telegram-vpnjey@162.159.38.119:8080?encryption=none&type=xhttp&mode=auto&host=se.jeyy.eu.cc&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&extra={"xPaddingBytes":"100-1000","mode":"auto"}&security=none#Telegram@vpnjey 🇸🇪🇸🇪
 vless://Telegram:@Free_VPN_CH@109.176.239.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
@@ -89,12 +90,11 @@ vless://XpnTeam-13@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-14@www.speedtest.net:443?encryption=none&type=xhttp&security=tls&path=/&host=sazeg.bEwiNja.ir.&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=sazeg.bEwiNja.ir.&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@bored_vpn
 vless://XpnTeam-15@140.248.186.45:443?encryption=none&type=ws&security=tls&path=/&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@bored_vpn
 vless://XpnTeam-16@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#@bored_vpn
-vless://XpnTeam-16@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#@mehrosaboran
 vless://XpnTeam-17@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-17@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-18@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#@bored_vpn
 vless://XpnTeam-18@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#@mehrosaboran
 vless://XpnTeam-19@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-19@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-20@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.# @bored_vpn
 vless://XpnTeam-20@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.# @mehrosaboran
+vless://XpnTeam-21@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
