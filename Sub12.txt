@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@fna.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#@Daily_Configs
-vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@fr2.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#@Daily_Configs
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@nlt.montago-shop.ir:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#@Daily_Configs
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@pgc.mobileemdad.top:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d&type=tcp&headerType=none#@Daily_Configs
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@pk-google.mobileemdad.top:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d&type=tcp&headerType=none#@Daily_Configs
@@ -253,3 +251,5 @@ vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#kurdconfig
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@130.78.216.194:443?security=reality&encryption=none&pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=calm-panther.cdn.cachefleet.com#@v2ray_phoenix
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@130.78.216.196:443?security=reality&encryption=none&pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=calm-panther.cdn.cachefleet.com#@MDvpnSec
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@130.78.216.196:443?security=reality&encryption=none&pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=calm-panther.cdn.cachefleet.com#@V2ray_Alpha🐆 6
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@130.78.216.196:443?security=reality&encryption=none&pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=calm-panther.cdn.cachefleet.com#@V2rayng_Fast
