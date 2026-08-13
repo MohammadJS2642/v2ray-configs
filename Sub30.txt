@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.187.6:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3ADE
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.187.6:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3ADE
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.97.6:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -253,3 +251,5 @@ trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&a
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#@Unblocked_ir🕊
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0#@meliproxyy
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&sni=ru.federal-usa.com&alpn=h3, h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#@meliproxyy
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&sni=ru.federal-usa.com&alpn=h3, h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#vpnsal
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&sni=ru.federal-usa.com&alpn=h3, h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#🇩🇪All³ | @BigSmoke_Config
