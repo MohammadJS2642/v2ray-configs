@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-17@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-18@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#@bored_vpn
 vless://XpnTeam-18@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#@mehrosaboran
 vless://XpnTeam-19@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
@@ -252,4 +253,3 @@ vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?encryption=none&ty
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?encryption=none&type=grpc&security=reality&serviceName=TunService&mode=gun&sni=www.epson.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8#vpnsal
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.kaspersky.com#kurdconfig
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.kaspersky.com#🇺🇸@FreakConfig
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:993?encryption=none&type=tcp&security=reality&headerType=none&sni=dl.kaspersky.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&flow=xtls-rprx-vision#vpnsal
