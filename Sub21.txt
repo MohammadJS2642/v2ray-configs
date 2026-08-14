@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-32@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-33@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-33@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-34@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-34@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
@@ -251,5 +253,3 @@ vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/Join---
 vless://b094c2b5-d341-192b-164d-bed33db75f40@x4g-production-efbb.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-efbb.up.railway.app&path=/ws/b094c2b5-d341-192b-164d-bed33db75f40&sni=x4g-production-efbb.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸139785 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b0b406f8-1f30-484c-9fcf-2fdffc715473@172.65.90.52:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=&encryption=none&host=round-thunder-8e62.265-833.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://b11841e3-2acc-45ff-afe0-a9ed9a823aaa@151.242.160.15:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7vBIjExxrcwTpbknJXdAfpTjddGw8AGww0izaZUU528&security=reality&sid=313328a7aa886b12&sni=edge-de2.mystatic-cdn.ru&type=tcp#🛗28@oneclickvpnkeys
-vless://b11841e3-2acc-45ff-afe0-a9ed9a823aaa@31.77.170.103:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sid=660c1badc77a422b&flow=xtls-rprx-vision&encryption=none&headerType=none&type=tcp&security=reality&sni=edge-nl.mystatic-cdn.ru&pbk=TC8D2edifNXaro0S31ZiC9izi8tAmXJyxdOHptwNUTw#@GozargahAzad|🇳🇱
-vless://b11841e3-2acc-45ff-afe0-a9ed9a823aaa@31.77.170.103:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TC8D2edifNXaro0S31ZiC9izi8tAmXJyxdOHptwNUTw&security=reality&sid=660c1badc77a422b&sni=edge-nl.mystatic-cdn.ru&type=tcp#🛗44@oneclickvpnkeys
