@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@5.8.35.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zealous-glyph.cdn.cachefleet.com&fp=chrome&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
 vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@5.8.35.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zealous-glyph.cdn.cachefleet.com&fp=chrome&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&type=tcp&headerType=none#Tel : @Daily_Configs
 vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@5.8.35.72:443?security=reality&encryption=none&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zealous-glyph.cdn.cachefleet.com#@mehrosaboran
 vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@5.8.35.72:443?security=reality&encryption=none&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zealous-glyph.cdn.cachefleet.com#TEHRANARGO@
@@ -253,3 +252,4 @@ vless://0967ffed-a71d-424c-9917-cd2bd2b5b3d9@91.107.245.32:3419?security=none&en
 vless://4b9cca81-6003-4cf4-bf7d-624c803c8b86@104.18.12.126:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@foxnim&sni=1dvdv.foxnim.info#%40shadowlinkserverr
 vless://4fc23c2e-052b-48a4-9a53-f9d1f4fe5e28@i25.myfreessl.top:443?security=tls&encryption=none&headerType=none&type=tcp#%40shadowlinkserverr
 vless://ab868c6c-c22a-419b-e24e-a52c98d4115b@acv-79.privetpack.site:8080?path=%2F&security=none&encryption=none&type=ws#%40shadowlinkserverrvmess://eyJhZGQiOiIxLmFyc2FsYW52My5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjMwMzUyZTAwLTRhM2UtNDRkYS1mYzkyLWRhMTAyZjAxMmY3OSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5NSIsInBzIjoiQHZfcF9sdiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==vmess://eyJhZGQiOiJzc3YtMS5mLXN1Yi54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6ImViNWY1YjkxLTg2NjItNDhhMS1lZmZkLTdjZGRkYzA0YTY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTA3OTIiLCJwcyI6IkB2X3BfbHYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://80c53045-4447-45b9-e1fc-b3027191ecf2@amo.amirnew.fun:8080/?type=ws&security=none&path=%2F#%40shadowlinkserverr
