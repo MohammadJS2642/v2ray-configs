@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.8:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fr.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
 vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&type=tcp#⚛️4@oneclickvpnkeys
@@ -253,3 +252,4 @@ vless://9fd821e5-c26b-4e6f-a7c7-72dccee7a45b@65.109.191.184:55764?security=&encr
 vless://9fd821e5-c26b-4e6f-a7c7-72dccee7a45b@65.109.191.184:55764?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇫🇮FI-🚀@VPNine1
 vless://9ffcb940-cbf9-43ef-a077-20e26b2bde8c@ger.motorbazan.com:2087?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@confing_v2rayy کانفینگ بیشتر در چنل 👈
 vless://@V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=butimcreepimweirdo.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=butimcreepimweirdo.dpdns.org#@𝐕𝟐𝐗𝐍𝐄𝐓
+vless://@V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=migmigyoulost.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=migmigyoulost.dpdns.org#@𝐕𝟐𝐗𝐍𝐄𝐓
