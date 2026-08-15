@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@45.147.251.25:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#@meliproxyy
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@45.147.251.25:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#@vmesskhodam
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@45.147.251.25:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#🚀t.me/iProxyChannel
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-west.cendora.ru&fp=chrome&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22&type=tcp&headerType=none#[23211] - Telegram : @V2All
@@ -252,4 +253,3 @@ vless://50414e45-4c5f-5a45-5553-442afaf15942@104.21.85.253:443?path=/stream/PANE
 vless://50414e45-4c5f-5a45-5553-442afaf15942@104.21.95.96:443?path=/stream/PANEL_ZEUS/442afaf15942&security=tls&encryption=none&insecure=0&host=z-e-u-s-um9pdt.shoameny.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=z-e-u-s-um9pdt.shoameny.workers.dev#@MDvpnSEC
 vless://50414e45-4c5f-5a45-5553-5d36fccf19c3@172.64.93.246:443?path=/stream/PANEL_ZEUS/5d36fccf19c3/loc-0&security=tls&encryption=none&insecure=0&host=zeus-panel-24zdq8.bikhabi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-24zdq8.bikhabi.workers.dev#🚀t.me/iProxyChannel
 vless://50414e45-4c5f-5a45-5553-7f29cf678cc7@fbzy8ge4uzls.3tzux7euu3gs.workers.dev:443?path=/stream/PANEL_ZEUS/7f29cf678cc7&security=tls&encryption=none&insecure=0&host=fbzy8ge4uzls.3tzux7euu3gs.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fbzy8ge4uzls.3tzux7euu3gs.workers.dev#ZEUS | 🌐 | Rokervpn
-vless://50414e45-4c5f-5a45-5553-7f29cf678cc7@fbzy8ge4uzls.3tzux7euu3gs.workers.dev:80?path=/stream/PANEL_ZEUS/7f29cf678cc7&security=&encryption=none&host=fbzy8ge4uzls.3tzux7euu3gs.workers.dev&fp=chrome&type=ws&sni=fbzy8ge4uzls.3tzux7euu3gs.workers.dev#ZEUS | 🌐 | Rokervpn
