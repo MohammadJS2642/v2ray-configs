@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.126:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=n1.cloudgaming.one&sid=6d6f13013d3e1d0c#@hex_proxy ²
 vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.126:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=n1.cloudgaming.one&sid=6d6f13013d3e1d0c#@meliproxyy
 vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.126:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=n1.cloudgaming.one&sid=6d6f13013d3e1d0c#@v2ray_phoenix
 vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.126:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=n1.cloudgaming.one&sid=6d6f13013d3e1d0c#🚀t.me/iProxyChannel
@@ -253,3 +252,4 @@ vless://@𝐕𝟐𝐗𝐍𝐄𝐓@fastly.com:80?mode=auto&path=/&security=none&e
 vless://AlfredConfig@104.17.107.134:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://AlfredConfig@159.246.55.251:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://AlfredConfig@164.38.155.135:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
+vless://AlfredConfig@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
