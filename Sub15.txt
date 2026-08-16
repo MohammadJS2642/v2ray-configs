@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4d120fbe-9c31-3f93-3367-65f1f556cf1a@69.46.46.20:443?path=/ws/4d120fbe-9c31-3f93-3367-65f1f556cf1a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-b0e3.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-b0e3.up.railway.app#kurdconfig
 vless://4d120fbe-9c31-3f93-3367-65f1f556cf1a@69.46.46.20:443?path=/ws/4d120fbe-9c31-3f93-3367-65f1f556cf1a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-b0e3.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-b0e3.up.railway.app#vpnsal
 vless://4d259f79-e02b-4aa3-ebde-92c177df2d87@3.120.187.17:36632?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://4d55dc30-c198-4f95-b3cf-8e65c5787cdc@digia.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digia.riziro.ir&mode=auto&path=/&pbk=Ve-mF0aFGxV4deOSEA8jDe3FdjxLddF7n4IchNKvcDc&security=reality&sid=ddaafd&sni=search.semiconductor.samsung.com&spx=/IUjV6zFUgjtAU76&type=xhttp&x_padding_bytes=100-1000#🇳🇱hollowcon-t1@hollowcon
@@ -253,3 +252,4 @@ vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?mode=gun&security
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@89.47.55.3:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.google.com#@appsooner کانال تلگرام 🕊️
 vless://5e81fec9-0000-4397-9a88-23771e096e30@helpower.helpower.ir:2053?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&host=play.google.com&fp=chrome&spx=/WN5tjkHCuU9cxSs&type=xhttp&sni=play.google.com&sid=8609#🟥𝗝𝗼𝗶𝗻 ➠ @𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜🌐🟥
 vless://5e81fec9-0000-4397-9a88-23771e096e30@helpoweri.helpower.ir:2053?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&host=play.google.com&fp=chrome&spx=/WN5tjkHCuU9cxSs&type=xhttp&sni=play.google.com&sid=8609#🟥𝗝𝗼𝗶𝗻 ➠ @𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜🌐🟥
+vless://5e8add97-7e48-458a-a000-32d0d6fa253e@49.12.223.56:77?security=reality&encryption=none&pbk=YIS21Us01vvEWciseLt5XTs1XxHw8qb7VTieHiU62Tk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7624e21b69ee5f0f#@v2rayng3
