@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://551955b3-46e9-5129-95c9-e7474c15ed6b@130.12.242.157:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nl24.fast-connect-service.site#@icv2ray
 vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#Swiss(@proSSH)
 vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://55aa1535-f121-4cab-9f6f-ef95fff90196@testtt.botdegeris.ir:58752?security=none&encryption=none&headerType=none&type=tcp#🇩🇪144231 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +252,4 @@ vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&host=/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#ConfigV2RayNG 🫂
 vless://6626b467-abfe-4d34-b44e-3af835efa0a8@178.104.205.246:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=mp3recs.amazon.com&fp=chrome&pbk=hwob0sMQ7qWMJWtV2qvRRcFWALwtEZ-Hya8SWvdA4k4&sid=010e8e&spx=/HesarWeb#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
 vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@172.65.90.52:8880?path=/pyip&security=&encryption=none&host=winter-mode-7f4e.89-136.workers.dev&type=ws#🚀t.me/iProxyChannel
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@hopev2ray❤️
