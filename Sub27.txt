@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?fp=chrome&flow=xtls-rprx-vision&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0&encryption=none&security=reality&sni=download.nvidia.com&type=tcp&headerType=none#@v2rayng3
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@us3.levikogjgfdd.ir:8443?mode=gun&security=reality&encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&fp=chrome&type=grpc&serviceName=TunService&sni=dl.google.com#@Selinc
-vless://e6de7a8d-9180-40af-9287-ea26e0c4ea35@batman1.kovira2.ir:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@Maznet - SOS519
-vless://e6de7a8d-9180-40af-9287-ea26e0c4ea35@batman2.kovira2.ir:8443?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=chatgpt.com&type=xhttp#@Maznet - SOS518
 vless://e6de7a8d-9180-40af-9287-ea26e0c4ea35@batman3.kovira2.ir:13424?path=/&security=none&encryption=none&host=chatgpt.com&type=ws#@Maznet - SOS517
 vless://e795891a-d0c9-41f3-83e9-ae7a9114f433@test.pythonsaz.ir:37194?security=reality&encryption=none&pbk=OjzpITb1Jsv8U0-wjDFEUGuZLuc1Bda_aWTxAmmhjCA&headerType=none&fp=chrome&spx=/2712a747bfba922&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6c0751656c#@Selinc
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.18.1.1:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🇩🇪
@@ -253,3 +249,7 @@ vless://eff4b847-75bf-4c89-b469-814a2cab2d9b@am255.amin5646.ir:2082?type=xhttp&e
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@94.156.112.71:443?security=reality&encryption=none&pbk=tcGias3ywS5uxXzg5Bv-TNtxclCganaj3iFSjjHgMSQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germany2.stardevs.top&sid=f37fb7531c60780d#@v2rayng3
 vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=#中国
 vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@167.233.47.127:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2rayng3
+vless://f0dc4d4f-c956-0004-bc3a-021424b8e879@192.142.12.175:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jsonstudio.site&sid=1c3e8241a8743df9#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://f0dc4d4f-c956-0004-bc3a-021424b8e879@192.142.12.198:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jsonstudio.site&sid=1c3e8241a8743df9#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://f0ddf1eb-832a-4eb1-80bf-994a6abc5577@5.75.205.74:7190?security=reality&encryption=none&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=7398e0c72f7d5c0e#@vmesskhodam
+vless://f0ddf1eb-832a-4eb1-80bf-994a6abc5577@5.75.205.74:7190?security=reality&encryption=none&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=7398e0c72f7d5c0e#✅ t.me/bigAVPN ایران آزاد 👑
