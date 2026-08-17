@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://62b72631-985d-4768-8b5a-7cc06753e0f0@america.koexp.ru:9443?mode=packet-up&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=chrome&type=xhttp&sni=america.koexp.ru&sid=361c68748712c743#🇺🇸 ConfigV2RayNG
-vless://62b8f60b-1883-4094-b3c2-7c5214cf191a@iTV2RAY.ddns.net:999?path=/iTV2RAY&security=reality&encryption=none&pbk=TbEfreFBXTwf3jMZFm1Zv3s2gPazYFBgf1T_GK3UcAM&host=@iTV2RAY&fp=chrome&spx=/&type=http&sni=www.speedtest.net&sid=1b1bd767#@iTV2RAY+/+All+oprator+/+iOS
 vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@v2rayng3
 vless://634394fa-957c-4e1b-ba31-ec2bc417c356@138.124.90.40:35872?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=PnvtzlkQxMBo2VR7EB4BxqE3EgL6c_92Z8MYijqN2hI&sid=ee740b4fd675&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇦🇹139726 | ⚡️Telegram = t.me/SOSkeyNET
 vless://63a16ebb-8687-42ac-972a-5914cafad1d5@94.131.16.12:443?security=reality&encryption=none&pbk=Re4bwcu3tj9zJQlIQDm_kJ1MPvGH5WxUGroE2ZvxeDI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=abc431#@v2rayng3
@@ -253,3 +251,5 @@ vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.79.138.127:2053?encryption=none
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.79.138.127:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&pbk=DUJWZCU-CjH9TglyqNQjydr7sp1ujsn2gHcXGWmgRj8&sid=e0331b94eb540116&type=tcp&headerType=none#@meliproxyy
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.79.138.127:2053?security=reality&encryption=none&pbk=DUJWZCU-CjH9TglyqNQjydr7sp1ujsn2gHcXGWmgRj8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=e0331b94eb540116#@tootffarangi🍓-8
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.79.138.127:2053?security=reality&encryption=none&pbk=DUJWZCU-CjH9TglyqNQjydr7sp1ujsn2gHcXGWmgRj8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=e0331b94eb540116#🦁41@ConfigV2RayNG
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.ru&allowInsecure=1&fp=chrome&security=reality&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&packetEncoding=xudp#拉脱维亚
+vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@gr155.allenshop9924.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=chrome&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#@prrofile_purple  ♥️👈 تلگرام

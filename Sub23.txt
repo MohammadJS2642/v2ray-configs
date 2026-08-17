@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?security=none&type=ws&host=play.google.com&path=/api/v2/xtrnwqjbkr?ed=2560&encryption=none#@v2rayng3
-vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fin1.panel11.ru&fp=chrome&security=reality&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb#T.me/Vpn_Mafia 🇫🇮
 vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.208.184:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#📡@tanhanet
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://aefcf667-37b4-4983-b18d-ab4ba50bd8c2@91.98.168.59:8880?path=/?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#@NETMelliAnti
@@ -253,3 +251,5 @@ vless://bee374de-0715-4ac1-b17f-0f301e7293a3@199.232.191.146:80?mode=auto&path=/
 vless://bee374de-0715-4ac1-b17f-0f301e7293a3@199.232.191.146:80?mode=auto&path=/&security=none&encryption=none&host=de-ultran.global.ssl.fastly.net&type=xhttp#🇩🇪144817 | ⚡️Telegram = t.me/SOSkeyNET
 vless://bee374de-0715-4ac1-b17f-0f301e7293a3@199.232.191.146:80?mode=auto&path=/&security=none&encryption=none&host=de-ultran.global.ssl.fastly.net&type=xhttp#🇩🇪@FreakConfig
 vless://bef7acd0-8b81-431d-bcce-a76c3da658ae@sb1.artinnet.shop:443?encryption=none&fp=&pbk=xyMx8lBZ6dn2EO6G3Alt_7bQueu_eZgQ4kZEbMFXL3E&security=reality&sid=ce&sni=w.wiki&type=tcp#🦁85@oneclickvpnkeys
+vless://bef7acd0-8b81-431d-bcce-a76c3da658ae@sb1.artinnet.shop:443?security=reality&encryption=none&pbk=xyMx8lBZ6dn2EO6G3Alt_7bQueu_eZgQ4kZEbMFXL3E&headerType=none&fp=chrome&spx=/XzJUSkVgcj0tycU&type=tcp&sni=w.wiki&sid=ce#Channel : @Daily_Configs
+vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@104.17.121.110:8880?encryption=none&type=httpupgrade&path=/?ed=2560&host=cdn1-fgbv.plytob.ir#🇹🇷 𝗧𝘂𝗿𝗸𝗲𝘆 CDN
