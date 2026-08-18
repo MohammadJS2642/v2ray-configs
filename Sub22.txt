@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
 vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?encryption=none&security=tls&sni=new01.asaltabie.monster&fp=chrome&type=ws&host=new01.asaltabie.monster&path=/#@Daily_Configs
 vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?encryption=none&security=tls&sni=new01.asaltabie.monster&fp=chrome&type=ws&host=new01.asaltabie.monster&path=/#@meliproxyy
 vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?path=/&security=tls&encryption=none&insecure=0&host=new01.asaltabie.monster&fp=chrome&type=ws&allowInsecure=0&sni=new01.asaltabie.monster#@icv2ray
@@ -252,4 +253,3 @@ vless://d97a084e-f7b2-421c-b7fc-7bce5ad2e066@985e21576e56.sueeostarrs.ir:8080?se
 vless://d97a084e-f7b2-421c-b7fc-7bce5ad2e066@f631e3fa.westorstentor.ir:443?security=reality&encryption=none&pbk=FX-ZnGCOAnTzlmqxqw6zxKZoAPpC72KPUtWcIcWy6H0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=69aba81532d19cb1#🇦🇿145823 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d97a084e-f7b2-421c-b7fc-7bce5ad2e066@f631e3fa.westorstentor.ir:443?security=reality&encryption=none&pbk=FX-ZnGCOAnTzlmqxqw6zxKZoAPpC72KPUtWcIcWy6H0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=69aba81532d19cb1#🇦🇿AZ-🚀@VPNine1
 vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chrome.yas-nowin.ir#@Alfred_Config
-vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@45.130.125.66:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chrome.yas-nowin.ir#@Alfred_Config
