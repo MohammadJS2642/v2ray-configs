@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=2560&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@configprxy
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=2560&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@irconfiig
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=2560&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@tootffarangi🍓
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=2560&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@tootffarangi🍓-1
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=?ed=2560&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#GeneralConfiig
@@ -253,3 +251,5 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.225.158:62145?#🇳🇱1456
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.219.126:62145#🇨🇴CO-🚀@VPNine1
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.219.126:62145?#🇨🇴145751 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.172:62145?#🇨🇴145613 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.58.85:62145?&type=tcp&headerType=none&path=/#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.170.175:62145?#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
