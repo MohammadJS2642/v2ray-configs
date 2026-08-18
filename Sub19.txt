@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ac502822-5b7a-40cd-8d79-a786b4c0f629@104.17.101.26:443?path=/?u=TAiTANiCVPN&security=tls&encryption=none&insecure=0&host=coral-grove-8a62.golden-robin-b352.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=coral-grove-8a62.golden-robin-b352.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://ac631df8-ee1b-7c2f-e104-743d74bc63fc@69.46.46.20:443?path=/ws/ac631df8-ee1b-7c2f-e104-743d74bc63fc#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-9008.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-9008.up.railway.app#@MARAMBASHI 🇩🇪
 vless://ac9933e9-0528-4a67-9fdf-0f111c3b3202@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in1&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Canada-ca-client
 vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#🩵+@Azarakhsh_Proxy+🩷
@@ -252,4 +253,3 @@ vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923/?type=grpc&encryp
 vless://ba746959-18e7-471c-b00f-fa5cdd930abf@skk.moe:8880/?type=ws&encryption=none&flow=&host=crimson-bread-c38e.295.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#香港
 vless://ba8c4d40-34b6-ec8a-557c-239493d986b1@ch2.arazcctv.ir:2020?security=reality&encryption=none&pbk=IYibu2-py_vJWQXwfzgSr98BDj51iNcp9kLTM-M-zlA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.icloud.com&sid=fa4d1c3e#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️507🌐🆕️
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&headerType=none&type=tcp&sni=decdn7.suio.me#@CUSTOMVPNSERVER
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=decdn7.suio.me#⚡Telegram =@CUSTOMVPNSERVER

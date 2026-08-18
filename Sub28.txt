@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@104.26.15.137:443?sni=www.ignitelimit.com#%E6%9C%AA%E7%9F%A568
 trojan://humanity@104.16.73.213:443?sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A77
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD7
 trojan://humanity@104.18.152.155:443?sni=www.ignitelimit.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
@@ -252,4 +253,3 @@ trojan://PQ05174892@regular-raptor.rooster465.autos:443/?type=tcp&security=tls&a
 trojan://PQ05174892@stable-python.rooster465.autos:443/?type=tcp&security=tls&sni=stable-python.rooster465.autos&allowInsecure=1#新加坡
 trojan://PQ05174892@usable-dogfish.rooster465.autos:443?fp=chrome#🌀9@oneclickvpnkeys
 trojan://PqTfgecg@trojan.wefuckgfw.gq:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
-trojan://RHCyMRXeOBf41ia7WrpJc00EBWZEoJNK@awex1.awexio.ir:2082?security=reality&pbk=YcE0ofDAVLs0QhEk3Yj5vy2hAqLB67tUVKSGe53prjA&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=52b8b53f2b340356#🇹🇷145826 | ⚡️Telegram = t.me/SOSkeyNET

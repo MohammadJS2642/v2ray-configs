@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://44824a9f-b551-41f3-b561-0c130978d540@Fan1land09km.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮@FreakConfig
 vless://44a23aca-1eda-22f3-5303-82e34b321fca@inetchnl-production-6101.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=inetchnl-production-6101.up.railway.app&path=/xhttp-siz10/stream-up/44a23aca-1eda-22f3-5303-82e34b321fca&sni=inetchnl-production-6101.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇺🇸@iNetChnl-XHTTP2
 vless://45172ad2-bfb4-4403-a525-2b60b4e75985@185.126.236.181:2053?path=/&security=none&encryption=none&host=www.icloud.com&type=ws#@configprxy
 vless://45172ad2-bfb4-4403-a525-2b60b4e75985@185.126.236.181:2053?path=/&security=none&encryption=none&host=www.icloud.com&type=ws#✅ t.me/bigAVPN ایران آزاد 👑
@@ -252,4 +253,3 @@ vless://5320c560-896e-e988-fea9-04253436cbcf@x4g-production-d9ac5.up.railway.app
 vless://53426f60-add2-4118-9627-91adaedcd92f@sv33.lithiumhost.ir:41722?security=none&encryption=none&headerType=none&type=tcp#B2Hub⭐
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@188.253.123.164:39561/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323#新加坡
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.133:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=fr133.mechvpn.online&fp=chrome#法国
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@194.24.161.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=fr140.mechvpn.online&fp=chrome#法国
