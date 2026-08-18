@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2042?security=none&encryption=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp#@ShadowFlux2 | کانال ما در تلگرام 🇳🇱
 vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2064?security=none&encryption=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp#@ShadowFlux2 | کانال ما در تلگرام 🇫🇮
 vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@104.21.12.116:8880?path=/pyip&security=&encryption=none&host=young-leaf-a723.162-4da.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&type=xhttp&mode=auto&host=f927b3b16dff26f5.mizgerdiran.com&path=/iran/ws?ed=2083&security=tls&fp=chrome&sni=f927b3b16dff26f5.mizgerdiran.com&alpn=h3,h2,http/1.1#@HosseinStore_Za
@@ -253,3 +252,4 @@ vless://93944f49-75cf-3a81-bf96-df734db609b6@69.46.46.20:443?path=/ws/93944f49-7
 vless://93944f49-75cf-3a81-bf96-df734db609b6@69.46.46.20:443?path=/ws/93944f49-75cf-3a81-bf96-df734db609b6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-c94d.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-c94d.up.railway.app#🇺🇸@FreakConfig
 vless://93a7dcd7-9bba-4594-8de8-cc67726f877c@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=hamrah.dgclix.ir#@bird_angry (mci)
 vless://93a9d63a-03b8-4167-92bd-3fa932af1c91@172.96.141.210:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=room.rootvana.top&allowInsecure=1&fp=chrome&security=reality&pbk=Y0zCjvOLHuHWgv4HUyqb9O0lSMnTrl26XO8qwnWoQXw&sid=b85875a13da4&packetEncoding=xudp#美国
+vless://93a9d63a-03b8-4167-92bd-3fa932af1c91@[2605:9880:200:401:135:7700:ef0a:e05]:54835/?type=ws&encryption=none&flow=&host=2605:9880:200:401:135:7700:ef0a:e05&path=/&packetEncoding=xudp#美国
