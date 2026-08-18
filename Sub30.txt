@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://FH72359861@national-stingray.rooster465.autos:443?allowInsecure=1&sni=national-stingray.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
+trojan://FH72359861@summary-firefly.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://FH72359861@sterling-fowl.rooster465.autos:443?allowInsecure=0&sni=sterling-fowl.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
+trojan://FH72359861@optimal-urchin.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://FH72359861@pro-crane.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://FH72359861@summary-lemming.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://FH72359861@touching-turtle.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://FH72359861@renewed-chigger.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -247,9 +253,3 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q1ZGaTNxNmVCZWxSc25KWFhpb3pQTXBSbE5PRDJiVzh
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UWJRamwzclRML2t0ckoyVVZGTDhaQkYzQlAxdElReU5jdC9yNEFDWUt5RT06OTQ2OVgxRmY0Y1RwalpNMGMxS0lpMlRTd2k2WDB4UGRNalpBVXNxS2FLdz0@138.124.90.40:54052?#🇦🇹139725 | ⚡️Telegram = t.me/SOSkeyNET
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3pPRGxoTmpsaU5HWT06TUROaE5tTm1ZVEV0TVdRM015MDBOVEV6TFdKaU9HTXRNVFJtWXpZeE9UUT1AY2NjY3QuMjg0LnBpY3M6NjUwMTE#香港专线
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3pPRGxoTmpsaU5HWT06TUROaE5tTm1ZVEV0TVdRM015MDBOVEV6TFdKaU9HTXRNVFJtWXpZeE9UUT1AY2NjY3QuMjg0LnBpY3M6NjUwMTI#香港专线
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3pPRGxoTmpsaU5HWT06TkdVeFptUTFOV1V0T1RRNU1TMDBORGMzTFdFM09ESXRZak0zT0dJeU5qVT1AY2NjY3QuMjg0LnBpY3M6NjUwMTE#香港
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3pPRGxoTmpsaU5HWT06TkdVeFptUTFOV1V0T1RRNU1TMDBORGMzTFdFM09ESXRZak0zT0dJeU5qVT1AY2NjY3QuMjg0LnBpY3M6NjUwMTI#香港
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3pPRGxoTmpsaU5HWT06WmpZMll6QXhaV1l0TWpWa09DMDBOMlprTFdJMU5UWXROVFUyT1RBMk5EZz1AY2NjY3QuMjg0LnBpY3M6NjUwMTE#香港家宽专线
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRFeVkyVmlPR1UwTVdKaU5EY3dOMlZsWWpVM016a3pPRGxoTmpsaU5HWT06WmpZMll6QXhaV1l0TWpWa09DMDBOMlprTFdJMU5UWXROVFUyT1RBMk5EZz1AY2NjY3QuMjg0LnBpY3M6NjUwMTI#香港家宽专线
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#@v2rayng3
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZVJreUROSEVKT0RWZlBxMFJEL25FTlc4RkRTWUdabmdtM25SU08yYVBxST06c3o5QXVTdFVrUG9ibDFZbHl1cVZoRXg3SzJCMUlWN0swK2JaK212UlZIMD0@138.124.90.40:40374?#🇦🇹139727 | ⚡️Telegram = t.me/SOSkeyNET
