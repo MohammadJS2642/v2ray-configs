@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?security=reality&encryption=none&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb1.murhost.network&sid=84f9881951050a30#@v2ray313 کانالمون 🤟🏻
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?security=reality&encryption=none&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb1.murhost.network&sid=84f9881951050a30#[🏁]t.me/ConfigsHub
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?security=reality&encryption=none&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb1.murhost.network&sid=84f9881951050a30#kurdconfig
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?security=reality&encryption=none&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb1.murhost.network&sid=84f9881951050a30#🚀t.me/iProxyChannel
@@ -252,4 +253,3 @@ vless://b44c0f43-6824-b02f-4827-2ac84bfa6802@69.46.46.111:443?path=/ws/b44c0f43-
 vless://b44c0f43-6824-b02f-4827-2ac84bfa6802@69.46.46.111:443?path=/ws/b44c0f43-6824-b02f-4827-2ac84bfa6802&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-7dfb.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-7dfb.up.railway.app#🚀t.me/iProxyChannel
 vless://b47a1c70-d033-4c31-b24f-6058d6cd04bf@2.144.26.237:9443?path=/nova-geo-psiphon-be&security=tls&encryption=none&insecure=0&host=vip.polnejat.ir&type=ws&allowInsecure=0&sni=vip.polnejat.ir#vpnsal
 vless://b543c35e-ec44-4979-849b-84099ca8a3d8@88.218.196.52:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@NETMelliAnti
-vless://b543c35e-ec44-4979-849b-84099ca8a3d8@tuns.aminicity.ir:9032?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@NETMelliAntii
