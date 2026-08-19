@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&flow=xtls-rprx-vision&sni=www.samsung.com&encryption=none&fp=chrome&spx=/b46a29a208a37d1&sid=61&headerType=none&security=reality&type=tcp&host=/?BIA_TELEGRAM@TOOTFFARANGI_TOOTFFARANGI#@Alpha_v2rayIP
 vless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?security=reality&encryption=none&pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&headerType=none&fp=chrome&spx=/b46a29a208a37d1&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=61#@filembad
 vless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?security=reality&encryption=none&pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&headerType=none&fp=chrome&spx=/b46a29a208a37d1&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=61#@freenettir
 vless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?security=reality&encryption=none&pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&headerType=none&fp=chrome&spx=/b46a29a208a37d1&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=61#@meliproxyy
@@ -252,4 +253,3 @@ vless://3f5ebdae-4d8e-db0c-41fd-15029566f398@66.33.22.36:443?path=/ws/3f5ebdae-4
 vless://40605cc9-1457-4525-9337-f05be718ae99@23.235.42.251:80?encryption=none&security=none&type=ws&headerType=none&path=/SSstatic/assets/js/main.bundle.v2.5.12.ab12cd34ef56.min.js?ed=2048&host=nether2orgg.global.ssl.fastly.net#🇺🇸147114 | ⚡️Telegram = t.me/SOSkeyNET
 vless://40605cc9-1457-4525-9337-f05be718ae99@WelcomeToNasa.com:27590?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=www.icloud.com&fp=chrome&pbk=_SxUd4IXcfDVeRnBXygVFY7WUcmGEjvrtZSqxGJuGX0&sid=9966633908b9d4b1#🌍147115 | ⚡️Telegram = t.me/SOSkeyNET
 vless://40605cc9-1457-4525-9337-f05be718ae99@frdr.whooisthebest.ir:22216?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=sTE0YXI6Pv6OQUNbM-hNpNOhzon0_m2YUd7B1_g-JAU&sid=0f4412d42129f080#🇫🇷147118 | ⚡️Telegram = t.me/SOSkeyNET
-vless://40605cc9-1457-4525-9337-f05be718ae99@ger2dr.whooisthebest.ir:22216?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=sTE0YXI6Pv6OQUNbM-hNpNOhzon0_m2YUd7B1_g-JAU&sid=0f4412d42129f080#🇩🇪147119 | ⚡️Telegram = t.me/SOSkeyNET
