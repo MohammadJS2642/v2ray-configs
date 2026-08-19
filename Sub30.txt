@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://AE62539071@51.44.161.22:443?allowInsecure=1&fp=chrome&sni=distinct-quail.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://AE62539071@adapted-martin.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ASG
 trojan://AE62539071@adapted-whippet.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ASG
 trojan://AE62539071@absolute-hare.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ASG
 trojan://AE62539071@elegant-marten.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ASG
@@ -251,5 +253,3 @@ trojan://FH72359861@bright-quagga.rooster465.autos:443?security=tls&sni=bright-q
 trojan://ND91608427@3.113.24.17:443?security=tls&sni=nearby-egret.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.24.17-0217
 trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.182.132-0179
 trojan://AE62539071@13.114.122.131:443?security=tls&sni=whole-grub.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.122.131-0149
-trojan://AE62539071@exciting-grizzly.rooster465.autos:443?security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.182.132-0185
-trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.118.96-0219

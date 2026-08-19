@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://PQ05174892@stable-python.rooster465.autos:443/?type=tcp&security=tls&sni=stable-python.rooster465.autos&allowInsecure=1#新加坡
+trojan://PQ05174892@usable-dogfish.rooster465.autos:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#Germany 🇩🇪
 trojan://PQ05174892@welcome-monitor.rooster465.autos:443#🎈83@oneclickvpnkeys
 trojan://PQ05174892@welcome-monitor.rooster465.autos:443?allowInsecure=0&sni=welcome-monitor.rooster465.autos#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 trojan://PqTfgecg@trojan.wefuckgfw.gq:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
@@ -251,5 +253,3 @@ trojan://AE62539071@54.169.117.191:443?fp=chrome&sni=excited-sole.rooster465.aut
 trojan://AE62539071@54.169.174.154:443?fp=chrome&sni=absolute-hare.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ASG
 trojan://AE62539071@54.74.210.220:443?fp=chrome&sni=funny-hen.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://AE62539071@54.169.241.164:443?fp=chrome&sni=rested-osprey.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ASG
-trojan://AE62539071@51.44.161.22:443?allowInsecure=1&fp=chrome&sni=distinct-quail.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://AE62539071@adapted-martin.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ASG
