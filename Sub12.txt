@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.97.3:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/I7f6VOnkgtdCosoK?ed=2560#Join Tel: @CxrolVPN (6)
-vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/flrSNTQ2nbV5eH6t?ed=2560&sni=cxrolvpn.vipserver4.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (4)
 vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/wtQnVPnbjKOmqP7b?ed=2560#Join Tel: @CxrolVPN (2)
 vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?path=/faq&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=adderall.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=adderall.adaspoloandco.com&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.16.211:80/?type=ws&encryption=none&flow=&host=nnmkl.2nn.ccwu.cc&path=/hBasD7EdpBQ0zGAzsYHmsMrnO&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
@@ -253,3 +251,5 @@ vless://5ff43ffd-4ca3-4d3b-8248-706cf431cc59@cloud5.abalonhost.ir:6005?encryptio
 vless://5ff43ffd-4ca3-4d3b-8248-706cf431cc59@cloud6.abalonhost.ir:6006?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=myket.ir&mode=stream-up&extra={"xPaddingBytes":"100-1000"}#🇦🇪AE-🚀@VPNine1
 vless://5ff43ffd-4ca3-4d3b-8248-706cf431cc59@cloud6.abalonhost.ir:6006?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=myket.ir&mode=stream-up&extra={"xPaddingBytes":"100-1000"}#🇮🇷147391 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5ff43ffd-4ca3-4d3b-8248-706cf431cc59@dash4.abalonhost.ir:6004?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=myket.ir&mode=stream-up&extra={"xPaddingBytes":"100-1000"}#🇮🇷147394 | ⚡️Telegram = t.me/SOSkeyNET
+vless://5ff43ffd-4ca3-4d3b-8248-706cf431cc59@dash4.abalonhost.ir:6004?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=myket.ir&mode=stream-up&extra={"xPaddingBytes":"100-1000"}#🇮🇷IR-🚀@VPNine1
+vless://601e4ca5-df0a-43a1-97c2-0b1f5c0ae413@212.135.38.193:443?security=reality&encryption=none&pbk=LQ4cJhrzBRuRu3Nb3xUaHEBkPEJ7P5Uca5bFAbMj0is&host=www.cloudflare.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b8e2ce6fc1d12895#@configprxy

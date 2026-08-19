@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d171491a-9995-46ce-8719-f64463ca3a45@104.26.0.7:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@B2Hub
-vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php&security=tls&alpn=http/1.1,h2&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#Channel id: @ConfigV2RayNG 🇨🇦
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@FarazV2ray
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@V2rayng_Fast
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@tootffarangi🍓-13
@@ -253,3 +251,5 @@ vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.92.229:8443?path=/&security=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.185.140:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram
 vless://d9f4bcb7-d0cf-49e9-9009-f275852df5ee@62.60.223.109:9090?encryption=none&security=none&type=tcp#🇮🇷139735 | ⚡️Telegram = t.me/SOSkeyNET
 vless://da0bf72f-445c-45df-8fef-e472f8840f82@104.25.15.14:2082?encryption=none&security=none&type=httpupgrade&host=safechannel.samisaf.shop&path=/#@Ap_Ir6
+vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-77.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
+vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-81.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@

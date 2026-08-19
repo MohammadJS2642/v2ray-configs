@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-77.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
-vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-81.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
 vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-82.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
 vless://da462d02-eb32-51c6-a1f5-bb6938e03091@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/da462d02-eb32-51c6-a1f5-bb6938e03091#111
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#🚀t.me/iProxyChannel
@@ -253,3 +251,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?security=none&encr
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.78.15:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.78.15:22222?encryption=none&security=none&type=tcp#🇩🇪147322 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.78.15:22222?encryption=none&security=none&type=tcp#🇩🇪DE-🚀@VPNine1
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.78.15:22223?encryption=none&security=none&type=tcp#🇩🇪147324 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.78.15:22223?encryption=none&security=none&type=tcp#🇩🇪DE-🚀@VPNine1

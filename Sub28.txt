@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&host=lsjaoijji.global.ssl.fastly.neT&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&type=ws&security=tls&path=%2F&host=music1000.melobitmusic1.ir&sni=music1000.melobitmusic1.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&insecure=0&allowInsecure=0#%3E%3E%40freeland8%3A%3APL
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@music1000.melobitmusic1.ir:2053?path=%2F&security=tls&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=chrome&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#%3E%3E%40configV2rayNG%3A%3APL
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.246.118:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3ADE
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.246.118:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3ADE
@@ -253,3 +251,5 @@ trojan://AE62539071@absolute-hare.rooster465.autos:443#🎈79@oneclickvpnkeys
 trojan://AE62539071@adapted-martin.rooster465.autos:443#🎈89@oneclickvpnkeys
 trojan://AE62539071@adapted-whippet.rooster465.autos:443#🎈82@oneclickvpnkeys
 trojan://AE62539071@awaited-lark.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
+trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
+trojan://AE62539071@distinct-quail.rooster465.autos:443?allowInsecure=1#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
