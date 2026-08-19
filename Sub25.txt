@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f6da8274-44be-4599-a8d8-66929c980677@185.241.208.89:2054?security=reality&encryption=none&pbk=OyptJTnaUSyaiYY3_iB-Lrst04EoVetdB1ZMoHDViyI&fp=chrome&type=grpc&serviceName=grpc&sni=www.ibm.com&sid=e5fe88d9c232c341#🇵🇱 Poland, Warsaw | [BL]
-vless://f6da8274-44be-4599-a8d8-66929c980677@92.255.78.9:443?security=reality&encryption=none&pbk=NzaCxfbgTDajw93CJs3uFkFJzp7DWhzJIqcnzoZwGQ4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=5e6f7a8b#🇷🇺 Russia, St Petersburg | 🌐 | [BL]
 vless://f6facd31-c0f7-444f-8b7d-be754eaea9cc@43.224.150.210:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cQ4VTKqrqqCRqcfMx9F4rOV56w7KmOXAyv_FlEZy7C4&sid=5f8bf82edbd1569b&spx=/HesarWeb#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
 vless://f6facd31-c0f7-444f-8b7d-be754eaea9cc@43.224.150.210:443?fp=chrome&sid=5f8bf82edbd1569b&type=tcp&security=reality&flow=xtls-rprx-vision&headerType=none&encryption=none&sni=www.cloudflare.com&pbk=cQ4VTKqrqqCRqcfMx9F4rOV56w7KmOXAyv_FlEZy7C4#@Napsternetvirani
 vless://f6facd31-c0f7-444f-8b7d-be754eaea9cc@43.224.150.210:443?security=reality&encryption=none&pbk=cQ4VTKqrqqCRqcfMx9F4rOV56w7KmOXAyv_FlEZy7C4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5f8bf82edbd1569b#@filembad
@@ -253,3 +251,5 @@ vless://4c67a898-2de1-49b4-c35d-43b65ab63bf7@s2.skullvpn.xyz:443?path=downloader
 vless://4d300575-73cb-4a88-9bc5-99e0cdcff752@v.abolfazlsafeti.top:50148/?type=ws&security=none&path=%2F#10%40GB5لینک برای برنامه nv ) پولیه سریع بزنید✅😈@mahsaamoon1
 vless://4af0082b-d1cf-4b02-e29c-ff42daf50d6d@v.abolfazlsafeti.top:34376/?type=ws&security=none&path=%2F#10%40GB4اکانت جدید پولیه بزنید✅ارسال کنید برای رفقا❤️🔥
 vless://042890e0-b519-11ed-b559-1239d0255272@de2.socifiles.com:443?security=tls&encryption=none&headerType=none&type=tcp&sni=telewebion.comt.me/dijiblack#%40cpy_teel⚙ ایرانسل
+vless://234ed7ea-00eb-443d-e558-3a603f5a9f1f@VPNCUSTOMIZE2.ddns.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=d.downloade.date#VPNAzadiOfficiali[ایالات متحده امریکا ]
+vless://1e9f5961-a660-46ed-c8ad-98461fea739c@95.217.243.42:443?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#h6-%E2%9C%85+%40v2rayNG_VPNN+-+%D8%B1%D9%81%D8%B9+%D9%81%DB%8C%D9%84%D8%AA%D8%B1⚙ ایرانسل
