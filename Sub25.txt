@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e8ba10b4-1a69-4afb-a2da-5f80a014e3aa@www.parsashonam-bot.host:443?security=reality&encryption=none&pbk=8iZthEek8HsCb3m2YY1jPGOS-WlCC_6VeROra4WuCw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-apple.com&sid=74d37a95022cc957#🇩🇪139749 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e8bec62c-ba78-45e9-a216-44c1a138b88d@adheres-scruple.quick-cdn.net:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=adheres-scruple.quick-cdn.net&fp=chrome&type=ws&allowInsecure=0&sni=adheres-scruple.quick-cdn.net#🇩🇪147619 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e8bec62c-ba78-45e9-a216-44c1a138b88d@adheres-scruple.quick-cdn.net:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=adheres-scruple.quick-cdn.net&fp=chrome&type=ws&allowInsecure=0&sni=adheres-scruple.quick-cdn.net#🇺🇸US-🚀@VPNine1
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@tanhanet قطع شد باز میذاریم
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@162.159.253.41:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@ai_duet عضو باشید
@@ -251,5 +253,3 @@ vless://f5293312-411f-4b80-9f55-b2eccb7ae683@am255.amin5646.ir:2082?type=xhttp&e
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#🇹🇭 Join+Telegram:@Farah_VPN 🇹🇭
 vless://f564970a-8d90-4139-aec2-72cfbf6b1e24@sv33.lithiumhost.ir:41722?security=none&encryption=none&headerType=none&type=tcp#@V2ray_Alpha🦝 3
 vless://f588839c-1f68-4317-9799-11deeb957690@account-alert-cyt.mobileahmad.ir:2091?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/#@Daily_Configs
-vless://f588839c-1f68-4317-9799-11deeb957690@report-omk.mobileahmad.ir:2091?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/#@Daily_Configs
-vless://f58a9d78-d4cc-c8bc-03d0-2810846a33d1@104.21.7.43:2053?path=/sync&security=tls&encryption=none&insecure=0&host=hossein.shhrsbzhsyn.workers.dev&type=ws&allowInsecure=0&sni=hossein.shhrsbzhsyn.workers.dev#🚀t.me/iProxyChannel

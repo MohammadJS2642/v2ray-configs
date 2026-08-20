@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-156
+vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#🇷🇴147769 | ⚡️Telegram = t.me/SOSkeyNET
 vless://4d9f6a86-2a45-8d53-f573-5152587abe0f@irhub-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=irhub-production.up.railway.app&path=/ws/4d9f6a86-2a45-8d53-f573-5152587abe0f&sni=irhub-production.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸147724 | ⚡️Telegram = t.me/SOSkeyNET
 vless://4d9f6a86-2a45-8d53-f573-5152587abe0f@irhub-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=irhub-production.up.railway.app&path=/ws/4d9f6a86-2a45-8d53-f573-5152587abe0f&sni=irhub-production.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸US-🚀@VPNine1
 vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?path=/faq&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=adderall.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=adderall.adaspoloandco.com&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
@@ -251,5 +253,3 @@ vless://603819a3-dd65-408a-abab-15d8dc49887f@134.209.26.200:8880?security=none&e
 vless://603819a3-dd65-408a-abab-15d8dc49887f@134.209.26.200:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇬🇧@FreakConfig
 vless://603819a3-dd65-408a-abab-15d8dc49887f@165.245.255.56:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@Nexus_Panell چنل تلگرام
 vless://603819a3-dd65-408a-abab-15d8dc49887f@178.128.195.36:443?encryption=none&type=tcp&headerType=http&host=store.steampowered.com#@meliproxyy
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia 🇸🇬
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#🚀t.me/iProxyChannel
