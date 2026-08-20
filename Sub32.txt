@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://FH72359861@noted-cougar.rooster465.autos:443?allowInsecure=0&sni=noted-cougar.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
+trojan://FH72359861@pretty-adder.rooster465.autos:443?allowInsecure=0&sni=pretty-adder.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
+trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://FH72359861@relative-labrador.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ASG
 trojan://FH72359861@probable-weasel.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ASG
 trojan://FH72359861@nearby-cod.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://FH72359861@national-stingray.rooster465.autos:443?allowInsecure=1&sni=national-stingray.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
@@ -245,11 +249,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYkVOMGc2UmJuc3llOEVKWno5NE9GQDEwOC42MS4yMjM
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFlQDEyMS40Ni4yMzAuMjM1OjY1NDQz#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4ZkAyMTIuMTkyLjE1LjQ2OjYwMTEy#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF
 ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZUAxOTUuMTMzLjIzLjIwMDoxMDk5OA==#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ==@45.8.158.176:10801#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%2016.6KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#United+States
 ss://...@example.ir:8180?security=none&encryption=none&type=tcp#🌍147505 | ⚡️Telegram = t.me/SOSkeyNET
 ss://2022-blake3-chacha20-poly1305:1MX/11eaRm2ObfaODRKi4ZNAWWxrsaPFCKtiyssCJMs=@129.151.84.137:61312#🍏21@oneclickvpnkeys
-ss://2022-blake3-chacha20-poly1305:7CCOp1icO5ZfmmzSweQowSvA5+efeJ3HrKxHDAAJmUc=@129.151.88.180:61312#🍏34@oneclickvpnkeys
-ss://2022-blake3-chacha20-poly1305:dBzhdBpUjjungwbNFFQOLIrxd9SYfqP4Qt2l29/2uYo=@129.151.65.200:61312#🍏24@oneclickvpnkeys
