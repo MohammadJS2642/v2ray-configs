@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/flrSNTQ2nbV5eH6t?ed=2560&sni=cxrolvpn.vipserver4.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (4)
 vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/wtQnVPnbjKOmqP7b?ed=2560#Join Tel: @CxrolVPN (2)
 vless://4d9f6a86-2a45-8d53-f573-5152587abe0f@irhub-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=irhub-production.up.railway.app&path=/ws/4d9f6a86-2a45-8d53-f573-5152587abe0f&sni=irhub-production.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸147724 | ⚡️Telegram = t.me/SOSkeyNET
 vless://4d9f6a86-2a45-8d53-f573-5152587abe0f@irhub-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=irhub-production.up.railway.app&path=/ws/4d9f6a86-2a45-8d53-f573-5152587abe0f&sni=irhub-production.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸US-🚀@VPNine1
@@ -252,4 +253,3 @@ vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=t
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=nurenbbbb.appleseraj.ir&sni=nurenbbbb.appleseraj.ir&fp=chrome#🇩🇪| 𝐍𝐮𝐫𝐞𝐧𝐛𝐞𝐫𝐠
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=nuverv.appleseraj.ir&sni=nuverv.appleseraj.ir&fp=chrome#🇩🇪| 𝐍𝐮𝐫𝐞𝐧𝐛𝐞𝐫𝐠𝟐
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=polobash.appleseraj.ir&sni=polobash.appleseraj.ir&fp=chrome#🇵🇱| 𝐏𝐨𝐥𝐚𝐧𝐝
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=rouwwwfrance.appleseraj.ir&sni=rouwwwfrance.appleseraj.ir&fp=chrome#🇬🇧| 𝐋𝐨𝐧𝐝𝐨𝐧
