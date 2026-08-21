@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cdc86ade-9bc3-41eb-a7b9-879130378820@118.26.59.85:443?security=reality&encryption=none&pbk=-Ngz1wsLiTc5fP1MdkFMS2oor1jRoFLAYD8oOgybGFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=e6d2c443d8f7702a#@freenettir
 vless://cdc86ade-9bc3-41eb-a7b9-879130378820@118.26.59.85:443?security=reality&encryption=none&pbk=-Ngz1wsLiTc5fP1MdkFMS2oor1jRoFLAYD8oOgybGFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=e6d2c443d8f7702a#@meliproxyy
 vless://cdc86ade-9bc3-41eb-a7b9-879130378820@118.26.59.85:443?security=reality&encryption=none&pbk=-Ngz1wsLiTc5fP1MdkFMS2oor1jRoFLAYD8oOgybGFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=e6d2c443d8f7702a#@tootffarangi🍓-10
 vless://cdc86ade-9bc3-41eb-a7b9-879130378820@118.26.59.85:443?security=reality&encryption=none&pbk=-Ngz1wsLiTc5fP1MdkFMS2oor1jRoFLAYD8oOgybGFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=e6d2c443d8f7702a#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
@@ -252,4 +253,3 @@ vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?security=none&
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?encryption=none&type=httpupgrade&path=/&host=xn-deplay.google.com.dbsll.ir#@MDvpnSEC
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?path=/&security=none&encryption=none&host=xn-deplay.google.com.dbsll.ir&type=httpupgrade#@Alpha_V2rayip
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?path=/&security=none&encryption=none&host=xn-deplay.google.com.dbsll.ir&type=httpupgrade#@Capoit
-vless://d2a8066a-1e0e-4098-8941-4acb50e9417a@89.23.116.82:1293?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6

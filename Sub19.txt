@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@icv2ray
 vless://XpnTeam-11@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@mehrosaboran
@@ -252,4 +253,3 @@ vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2
 vless://ac502822-5b7a-40cd-8d79-a786b4c0f629@104.17.101.26:443?path=/?u=TAiTANiCVPN&security=tls&encryption=none&host=coral-grove-8a62.golden-robin-b352.workers.dev&fp=chrome&type=ws&sni=coral-grove-8a62.golden-robin-b352.workers.dev#kurdconfig
 vless://ac6a8052-b2d2-4b75-9352-10756a445ca5@195.78.49.163:443?security=reality&encryption=none&pbk=IzgffKkveDU5cboe6pVJz4wYxXYz9Vv3ll0kWym4VEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.hipertune.ru&sid=c279a74d19205d38#@meliproxyy
 vless://ac6a8052-b2d2-4b75-9352-10756a445ca5@195.78.49.163:443?security=reality&encryption=none&pbk=IzgffKkveDU5cboe6pVJz4wYxXYz9Vv3ll0kWym4VEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.hipertune.ru&sid=c279a74d19205d38#MTMVPN
-vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#🩵+@Azarakhsh_Proxy+🩷
