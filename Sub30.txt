@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@104.18.152.143:443?allowInsecure=1&sni=www.ignitelimit.com#%E2%9D%93%E6%9C%AA%E7%9F%A5%E4%B8%A8yoyapai.com%5Cr
+trojan://humanity@104.18.152.152:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
 trojan://humanity@104.18.152.207:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
 trojan://humanity@104.26.15.137:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?allowInsecure=1&sni=blackshadow.dpdns.org#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
@@ -251,5 +253,3 @@ trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1#🇦🇺 J
 trojan://AE62539071@grateful-crawdad.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 trojan://AE62539071@known-albacore.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 trojan://AE62539071@magical-kodiak.rooster465.autos:443#5🐦‍🔥@oneclickvpnkeys
-trojan://AE62539071@modest-foal.rooster465.autos:443#2🍥@oneclickvpnkeys
-trojan://AE62539071@modest-foal.rooster465.autos:443#🇭🇰149326 | ⚡️Telegram = t.me/SOSkeyNET
