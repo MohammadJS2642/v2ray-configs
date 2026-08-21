@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🚀t.me/iProxyChannel
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=reality&type=tcp&sid=c39cc7310a&encryption=none&flow=xtls-rprx-vision&host=Telegram-Leviko_v2ray&sni=yahoo.com&headerType=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#1 🇺🇸 @V2RAYNG_IP
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=reality&type=tcp&sid=c39cc7310a&encryption=none&flow=xtls-rprx-vision&host=Telegram-Leviko_v2ray&sni=yahoo.com&headerType=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#@meliproxyy
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=reality&type=tcp&sid=c39cc7310a&encryption=none&flow=xtls-rprx-vision&host=Telegram-Leviko_v2ray&sni=yahoo.com&headerType=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#configprxy
 vless://d662d09d-61e8-42ba-bc17-a40121589b26@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=a1b2c3d4#@FarazV2ray
@@ -253,3 +250,6 @@ vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?encryption=none&
 vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?path=/host&security=none&encryption=none&host=www.filimo.com&type=httpupgrade#@Begoo_VPN ²⁷⁶
 vless://e2609ee9-08f6-45b2-8eed-8889a799945f@green.iranidrive.ir:2092?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=reality&fp=chrome&sni=www.yahoo.com&pbk=7UbUiwU9tjzhwCuEDqIXlF4zU8V7Gn-SkEcwcBqgNDU&sid=4e&spx=/DFm1fdkZikXIQ1r#green
 vless://e2773031-7418-424e-ae49-99b4b474aeba@167.233.59.162:443?security=reality&encryption=none&pbk=VwWuZIAZf4msfvsDZQjQHY6hZPK5r0O-s7yStyjOqhk&headerType=none&fp=chrome&spx=/U575ktM2xSCSQeZ&type=tcp&flow=xtls-rprx-vision&sni=drive.google.com&sid=fc87828b94144d#TEL;Father_vpn
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
+vless://e315526f-c838-44db-9bd4-01ccb03450b9@77.42.83.112:8443?mode=auto&path=/?ed=1024&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=SpAT1bZbRpAZa_gf61IapZMZ0CUMz4HTT5Yxvn7Nw1k&host=www.speedtest.net&fp=chrome&spx=/5qhfUw9F3zy8lUa&type=xhttp&sni=amzn.com&sid=14fae250#@Ap_Ir6
+vless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va28.serverh1ub.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#channel : @freedomofinfor
