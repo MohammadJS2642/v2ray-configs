@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🇨🇦CA_2382_@Surfboardv2ray
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🚀t.me/iProxyChannel
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.157:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#🇨🇦139876 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +252,4 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=re
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🚀t.me/iProxyChannel
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=reality&type=tcp&sid=c39cc7310a&encryption=none&flow=xtls-rprx-vision&host=Telegram-Leviko_v2ray&sni=yahoo.com&headerType=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#1 🇺🇸 @V2RAYNG_IP
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=reality&type=tcp&sid=c39cc7310a&encryption=none&flow=xtls-rprx-vision&host=Telegram-Leviko_v2ray&sni=yahoo.com&headerType=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#@meliproxyy
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=reality&type=tcp&sid=c39cc7310a&encryption=none&flow=xtls-rprx-vision&host=Telegram-Leviko_v2ray&sni=yahoo.com&headerType=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#configprxy

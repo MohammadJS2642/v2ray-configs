@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://cf0248f7-afaa-49fd-821e-6adc951df1a5@www.speedtest.net:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=bpb-c4afefbb.djfvbkjdfv.workers.dev&path=%2FeyJqdW5rIjoibzdETUxDZXk3RjNkY1BBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&security=tls&sni=BPb-C4AfEfbB.djFvbKjDfV.woRKeRs.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://be3960db-f339-479a-be7b-c1a130601141@94.156.45.130:443?security=reality&encryption=none&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=electric-mantis.cdn.cachefleet.com#%3E%3E%40configV2rayNG%3A%3APL
 vless://cccf62bc-7acf-4029-ada1-4b3952110b7d@www.speedtest.net:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=loG-SVc-27d1be.Ci-rUnNEr-E5B8Dd.WoRKErS.DeV&path=%2FeyJqdW5rIjoickg0WGJ1UzA2dzBtIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiYnBiLnlvdXNlZi5pc2VnYXJvLmNvbSJdfQ&security=tls&sni=LoG-SvC-27d1BE.CI-runNer-E5b8dd.workers.Dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://cae7b931-eef6-4637-a782-5537bca137f1@trp.soundfiy.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3AXX
@@ -253,3 +252,4 @@ trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&i
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=t11.qifei.app#@v2ray313 کانالمون🤍
 trojan://8bS8vVC5CQ2GsckhM8hIT1jv@193.124.46.65:443?security=tls&sni=193.124.46.65&fp=chrome&allowinsecure=0&type=tcp&headerType=none#vpnsal
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?alpn=http/1.1&fp=chrome#1🍏@oneclickvpnkeys
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#@icv2ray
