@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://Telegram:@Free_VPN_CH@62.182.192.49:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@62.182.193.76:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@72.167.243.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram@212.34.140.205:443?encryption=none&security=tls&sni=tn1rr.qzz.io&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
@@ -253,3 +252,4 @@ vless://a9ee1f5f-ee06-4465-bbb7-f23a637a3996@104.21.69.44:8080?security=none&typ
 vless://a9ee1f5f-ee06-4465-bbb7-f23a637a3996@188.114.98.220:8080?security=none&type=ws&host=10-156-sbbbBbbbedfvbgdxfvbsdfbdsvsdswrhefh10-545hjtrfg.mralpha-vpn.COM.&path=/Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit?ed=2048#@Hope_Net-join-us-on-Telegram
 vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#@tanhanet
 vless://aa817985-4a53-47c0-bbaf-0c121f117685@69.46.46.123:443?encryption=none&security=tls&sni=spiderpanel-production-b008.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&host=spiderpanel-production-b008.up.railway.app&path=/ws/aa817985-4a53-47c0-bbaf-0c121f117685#@Daily_Configs
+vless://aa817985-4a53-47c0-bbaf-0c121f117685@69.46.46.123:443?path=/ws/aa817985-4a53-47c0-bbaf-0c121f117685&security=tls&alpn=http/1.1&encryption=none&host=spiderpanel-production-b008.up.railway.app&fp=chrome&type=ws&sni=spiderpanel-production-b008.up.railway.app#@v2ray_phoenix

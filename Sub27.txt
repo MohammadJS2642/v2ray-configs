@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@172.67.216.227:8443?path=/RizZrAcK&security=tls&encryption=none&insecure=0&host=focalin.adaspoloandco.com&type=ws&allowInsecure=0&sni=focalin.adaspoloandco.com#🇨🇦CA_3352_@Surfboardv2ray
 vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@172.67.216.227:8443?path=/RizZrAcK&security=tls&encryption=none&insecure=0&host=focalin.adaspoloandco.com&type=ws&allowInsecure=0&sni=focalin.adaspoloandco.com#🔰 @ConfigV2RayNG (تلگرام)
 vless://ef770523-8eb5-403f-9e95-06b328719c87@lucky-sunset-d12e.201-98c.workers.dev:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&type=ws#@EXPRESSVPN_420
 vless://efc23e98-f747-17d3-47c5-13717cb4a884@212.87.199.95:443?security=reality&encryption=none&pbk=PBnTKkMwNAC6DtiVg4SYWqaV_3dJWWZPdFb7UQbvvUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com#🚀t.me/iProxyChannel
@@ -253,3 +252,4 @@ vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@72.56.240.99:443?security=reality&e
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@81.19.135.191:443?security=reality&encryption=none&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614#@meliproxyy
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?encryption=none&security=none&type=tcp&headerType=http#کانال تلگرام : Free_VPN_CH@
 vless://fe0e87be-8875-4c20-a592-d86ec09d2779@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
+vless://fe28f746-6051-481c-801c-1d153ebc5995@pichi.picmusic.ir:15882?security=reality&encryption=none&pbk=gZT_3S5MB7JX7lYznOoo9CgMXpJtwEy7ChVtybbUjz4&headerType=none&fp=chrome&spx=/&type=tcp&sni=arxiv.org&sid=f378eb2f#@Begoo_VPN ²⁷⁹
