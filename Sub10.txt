@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?type=grpc&serviceName=grpc#🇪🇪 Join+Telegram:@Farah_VPN 🇪🇪
 vless://1f347596-193a-baf6-a33b-4eeb1bbb548b@69.46.46.17:443?path=/ws/1f347596-193a-baf6-a33b-4eeb1bbb548b&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-cc31.up.railway.app&fp=chrome&type=ws&sni=rvg-production-cc31.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@45.91.202.27:8444?alpn=http/1.1&encryption=none&fp=chrome&host=bridge.meshbeat.online&path=/api/v1/devices/c79c81b07c/telemetry&security=tls&sni=bridge.meshbeat.online&type=ws#[26609] - Telegram : @V2All
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@45.91.202.27:8444?alpn=http/1.1&encryption=none&fp=chrome&host=bridge.meshbeat.online&path=/api/v1/devices/c79c81b07c/telemetry&security=tls&sni=bridge.meshbeat.online&type=ws#🧮8@oneclickvpnkeys
@@ -252,4 +253,3 @@ vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.glitchout.ir:443?security=none&en
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://2e622f08-444a-46d0-8dac-6f9709f4d172@check-host.net:8880?path=/&security=none&encryption=none&host=sni.abilim.info&type=httpupgrade#@V2rayng3
 vless://2e834c8c-2b4d-4cc5-9725-23ed738b4333@AzarakhshProxy.fast.hosting-ip.com:80?path=/?ed=2048&security=none&encryption=none&host=lookivpn3.ir&type=ws#🩵+@Azarakhsh_Proxy+🩷
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[26602] - Telegram : @V2All
