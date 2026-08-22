@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@Selinc
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@V2rayng_Fast
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@bored_vpn
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@icv2ray
@@ -253,3 +252,4 @@ vless://af8c4c45-ed83-4d32-83af-da720be0fbef@104.17.107.45:2087?path=/145bfd44df
 vless://af8c4c45-ed83-4d32-83af-da720be0fbef@104.17.107.45:2087?path=/145bfd44df21&security=tls&encryption=none&insecure=0&host=hazel-otter-95e4.oa225cbhm3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hazel-otter-95e4.oa225cbhm3.workers.dev#@vpnserverrr🍋‍🟩
 vless://af8c4c45-ed83-4d32-83af-da720be0fbef@hazel-otter-95e4.oa225cbhm3.workers.dev:443?path=/145bfd44df21&security=tls&encryption=none&insecure=0&host=hazel-otter-95e4.oa225cbhm3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hazel-otter-95e4.oa225cbhm3.workers.dev#@vpnbaz 🌊
 vless://af8c4c45-ed83-4d32-83af-da720be0fbef@hazel-otter-95e4.oa225cbhm3.workers.dev:443?path=/145bfd44df21&security=tls&encryption=none&insecure=0&host=hazel-otter-95e4.oa225cbhm3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hazel-otter-95e4.oa225cbhm3.workers.dev#@vpnserverrr🌊
+vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?mode=gun&security=reality&encryption=none&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&fp=chrome&type=grpc&serviceName=GrpcFuckRKN&sni=www.microsoft.com&sid=deadbeef#@v2rayngzendegimamad🕊️

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c62313f5-7661-41f8-bcd6-7ea9a3adebe4@frzn.borna-otbos.ir:2095?mode=gun&security=none&encryption=none&type=grpc#B2 2
 vless://c6c03582-a4d2-4efe-9af1-83e730b11f9a@130.185.123.32:19896?security=&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 💙
 vless://c6c03582-a4d2-4efe-9af1-83e730b11f9a@130.185.123.32:19896?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#@appsooner کانال تلگرام 🕊️
@@ -253,3 +252,4 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=/GOrbEh&secur
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@FarazV2ray
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@TEHRANARGO
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@V2rayng_Fast
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@configprxy
