@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%201ms
 vless://d01d5a74-09fb-4e9e-b0d9-38b5fd77ad70@167.233.132.108:443?security=reality&encryption=none&pbk=j4Ny4oGjMLcq2mxWMxt2S2VDFk_YHyvR2_2ZIoAa8Hs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=6b80b599#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2F%3FTELEGRAM-leviconfigs%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20❔%20XX%20161ms
@@ -98,7 +97,6 @@ vless://511c1563-2cb6-4064-abc6-a59ee49818a8@in1.levikogjgfdd.ir:40443?security=
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=ios&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🆔configx2ray%20🔒%20VL-WS-N/A%20❔%20XX%20256ms
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@cf.levikogjgfdd.ir:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#🆔configx2ray%20🔒%20VL-WS-N/A%20❔%20XX%20241ms
 vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&fp=&headerType=http&path=%2Fnaranv2ray&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&security=reality&sid=9e0fac51cc19d2&sni=play.google.com&type=tcp#%F0%9F%A6%8174@oneclickvpnkeys
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%A6%8417@oneclickvpnkeys
 vless://...@example.ir:8180?security=none&encryption=none&type=tcp
 vless://0014fa64-cd57-361b-1d44-7b52d286b9bd@69.46.46.25:443?path=/ws/0014fa64-cd57-361b-1d44-7b52d286b9bd&security=tls&alpn=http/1.1&encryption=none&host=limo-production-c1f7.up.railway.app&fp=chrome&type=ws&sni=limo-production-c1f7.up.railway.app#✅  @vistav2ray  👈👈کانال ما ✅
 vless://0014fa64-cd57-361b-1d44-7b52d286b9bd@69.46.46.25:443?path=/ws/0014fa64-cd57-361b-1d44-7b52d286b9bd&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=limo-production-c1f7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=limo-production-c1f7.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -253,3 +251,5 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryp
 vless://085c75ad-c00b-43fb-8fea-fa0caefa0a60@38.125.120.76:443?security=reality&encryption=none&pbk=tOWJAWnCPaJZvqorglX2JAuT5mDrSSA9VPCd90DSZRY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=241c2a5b9073f934#@v2raybaaz⁴
 vless://085c75ad-c00b-43fb-8fea-fa0caefa0a60@38.125.120.76:443?security=reality&encryption=none&pbk=tOWJAWnCPaJZvqorglX2JAuT5mDrSSA9VPCd90DSZRY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=241c2a5b9073f934#@v2raybaaz⁵
 vless://08ef1d56-08b7-4dc8-9e64-2a0982622752@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#-aa7oo2wc
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&fp=chrome&path=/&security=tls&sni=be2.wba-pn.ru&type=ws#🫟28@oneclickvpnkeys
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&security=tls&sni=be2.wba-pn.ru&fp=chrome&allowinsecure=0&type=ws&path=/#@meliproxyy
