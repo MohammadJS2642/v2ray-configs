@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d171491a-9995-46ce-8719-f64463ca3a45@104.26.0.7:443?path=/download.php&security=tls&alpn=http/1.1,h2&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#MTMVPN11
+vless://d171491a-9995-46ce-8719-f64463ca3a45@104.26.0.7:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@leviconfigs🪐-23
+vless://d171491a-9995-46ce-8719-f64463ca3a45@104.27.66.214:443?path=/download.php&security=tls&alpn=http/1.1,h2&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
+vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-ICV2RAY?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@icv2ray
+vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@MARAMBASHI 🇬🇧
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@B2Hub
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@ConfigV2RayNG 🇹🇷
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@MARAMBASHI 🇹🇷
@@ -248,8 +253,3 @@ vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@45.130.125.66:443?path=/cloud-vps&s
 vless://d997b836-7ad5-433e-af01-e0adc687dc6b@v2.jexu.ir:2003?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#awlix_ir
 vless://d9f4bcb7-d0cf-49e9-9009-f275852df5ee@62.60.223.109:9090?encryption=none&security=none&type=tcp#🇮🇷139735 | ⚡️Telegram = t.me/SOSkeyNET
 vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-77.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
-vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-81.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
-vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-82.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
-vless://da462d02-eb32-51c6-a1f5-bb6938e03091@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/da462d02-eb32-51c6-a1f5-bb6938e03091#111
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.118.45:2053?type=ws&security=tls&sni=music1000.melobitmusic1.ir&path=/&host=music1000.melobitmusic1.ir#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.180.173:2053?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#@v2ray313 کانالمون 💖
