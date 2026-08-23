@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@140.99.233.254:2096?security=tls&sni=De13.SiMaNsAnAt.Ir.&type=ws&host=De13.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@154.197.80.55:2096?security=tls&sni=De15.SiMaNsAnAt.Ir.&type=ws&host=De15.SiMaNsAnAt.Ir.#@Hope_Net-join-us-on-Telegram
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#@CUSTOMVPNSERVER
 vless://11e559f8-f5b7-48be-9ab5-7fc0915569e0@38.180.132.206:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=MvZRXOgSBhkQB88kC6CnjiKs7pveuPMWA_TFSOvyRQ0&sid=cf12caecc0&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
@@ -252,4 +253,3 @@ vless://1d8c331b-616b-72d5-881d-267460b41843@shayrad-production-8c26.up.railway.
 vless://1da18def-6804-44c8-bb6d-83cff995f567@78.159.131.235:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#𝗝𝗼𝗶𝗻➠@TEHRANARGO
 vless://1dd5f2be-f124-4f35-9239-8abc042829c2@149.33.31.115:14302?type=tcp&headerType=none&security=reality&encryption=none&sni=www.samsung.com&fp=chrome&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c&flow=xtls-rprx-vision#کانال ما
 vless://1dd5f2be-f124-4f35-9239-8abc042829c2@149.33.31.115:14302?type=tcp&headerType=none&security=reality&encryption=none&sni=www.samsung.com&fp=chrome&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c&flow=xtls-rprx-vision#🇷🇸150166 | ⚡️Telegram = t.me/SOSkeyNET
-vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🔷️@ai_duet
