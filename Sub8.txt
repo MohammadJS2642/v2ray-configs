@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244?security=reality&encryption=none&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=axisvpn.ru&sid=6ba85179e30d4fc2#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20176ms
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20161ms
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%201ms
 vless://d01d5a74-09fb-4e9e-b0d9-38b5fd77ad70@167.233.132.108:443?security=reality&encryption=none&pbk=j4Ny4oGjMLcq2mxWMxt2S2VDFk_YHyvR2_2ZIoAa8Hs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=6b80b599#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2F%3FTELEGRAM-leviconfigs%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%202ms
@@ -253,3 +251,5 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://085c75ad-c00b-43fb-8fea-fa0caefa0a60@38.125.120.76:443?security=reality&encryption=none&pbk=tOWJAWnCPaJZvqorglX2JAuT5mDrSSA9VPCd90DSZRY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=241c2a5b9073f934#@v2raybaaz⁴
+vless://085c75ad-c00b-43fb-8fea-fa0caefa0a60@38.125.120.76:443?security=reality&encryption=none&pbk=tOWJAWnCPaJZvqorglX2JAuT5mDrSSA9VPCd90DSZRY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=241c2a5b9073f934#@v2raybaaz⁵
+vless://08ef1d56-08b7-4dc8-9e64-2a0982622752@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#-aa7oo2wc
