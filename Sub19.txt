@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8d44a812-229a-4c54-a461-8109b29621a7@91.92.33.95:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#filembad-279
 vless://8d44a812-229a-4c54-a461-8109b29621a7@91.92.33.95:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇩🇪DE-🚀@VPNine1
 vless://8d44a812-229a-4c54-a461-8109b29621a7@95.85.241.208:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇨🇿CZ-🚀@VPNine1
 vless://8d44a812-229a-4c54-a461-8109b29621a7@95.85.252.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&type=tcp&headerType=none#🇩🇪DE-🚀@VPNine1
@@ -253,3 +252,4 @@ vless://9d440601-dafc-40fc-a844-f7328b303604@soskeynets.lockdwn.com:8443?securit
 vless://9dc3a0e3-0115-488e-aff0-444035c5f5eb@tgju.org:443?path=/api/ai/v1&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chatgpt.sanqelo.ir#کانال ما
 vless://9dc3a0e3-0115-488e-aff0-444035c5f5eb@tgju.org:443?path=/api/ai/v1&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chatgpt.sanqelo.ir#🇨🇦150680 | ⚡️Telegram = t.me/SOSkeyNET
 vless://9dc3a0e3-0115-488e-aff0-444035c5f5eb@tgju.org:443?path=/api/ai/v1&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chatgpt.sanqelo.ir#🚀@VPNine1
+vless://9dc3a0e3-0115-488e-aff0-444035c5f5eb@tgju.org:8443?path=/api/ai/v2&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chatgpt.sanqelo.ir#[27361] - Telegram : @V2All
