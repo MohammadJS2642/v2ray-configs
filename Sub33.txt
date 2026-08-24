@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@104.18.152.113:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#3
+trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#2
+trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4
+trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#2
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hex_proxy ³
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Capoit
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون 💚
+trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
+trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#Telegram:@v2rayng3
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#1
+trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ᴬᴸᴸ3➣@mainv2ray
+trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇵 𝐅𝐑 - @V2rayNG_SPDNet
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#@v2rayng3
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@ATOVPN 💫 تخفیف ویژه ده گیگ ۴۵ هزار تومان
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@V2rayng3
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#@v2rayng3
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@v2rayng3
@@ -41,7 +57,6 @@ trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrom
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443/?type=tcp&security=tls&sni=tr-latvia1.unlimited-access.ru&alpn=http/1.1&allowInsecure=1&fp=chrome#拉脱维亚
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#کانال ما
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#🇨🇭151354 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#🇨🇭CH-🚀@VPNine1
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#🏓71@oneclickvpnkeys
@@ -64,6 +79,8 @@ trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=no
 trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#🇺🇸151313 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#TEL;Father_vpn
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
+trojan://telegram-id-directvpn@18.116.106.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-directvpn@18.116.106.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[27805] - Telegram : @V2All
 trojan://telegram-id-privatevpns@18.153.172.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@18.197.182.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
@@ -234,22 +251,5 @@ ss://2022-blake3-chacha20-poly1305:qDuLP+56cM4kraLQoKuNGS+a4A+RbcidAw7iXWtddTE=@
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MU1YLzExZWFSbTJPYmZhT0RSS2k0Wk5BV1d4cnNhUEZDS3RpeXNzQ0pNcz0@129.151.84.137:61312#英国
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Mmd0ZWNyY05YYkxvMXFtRUhJcWVWQm1hQkVhZmpubThYSk11TDJkR1BsUT0@152.67.52.97:59319#@Nexus_Panell چنل تلگرام
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NWU2TTdUY3ptVFhva2s4R0QvNHFiVVlXNTdETGlLMkRFTEpTRHN5eDlGRT0@134.185.94.203:56927#新加坡
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6S0ExL09BSGhhd1UydldwekNXemJvaDVTeTdQZjVvSlJhV3BVVWRWR25Wdz0@161.118.225.224:56927#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6S1NUeWNWR2pkM3hkdUxReStxanRiTW9vb2V1TW1KVXMrTUtzM3ltMzl6Zz0@130.61.177.119:59924#تو کانال نتورلت نباشید قطع میشن@networld_vpn
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SDhMS1lOcTMvNFdwZzlkS3ZOY0NvM1EvWjEyazNSMnNReUh6a2pFQmZIaz0@168.107.68.247:56927#🇸🇬SG
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633?note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VDhuRFpBOWh5QXkyTXJEbEpCTDF3NUY2SE16Zk5OeU44WXNrMVNlMUlOYz0@158.180.13.253:45819#تو کانال نتورلت نباشید قطع میشن@networld_vpn
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VFdiRHZkUWt0bUdzdDZOMlljMi9MNUlDOWUzK2t0dHpGSk92NmRveHNQdz0@130.61.113.169:59924#@networld_vpn
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YS9VSzhMSEYvOTBTQWVoUW5uNTZSUDVwVWdkWEtGTGVQNHNYdC9EN1ZPdz0@129.151.75.194:61312#英国
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZkxOSUliSEF2L2c1OGs0SndNeDg3aENqQTgrVW9kM0R1VTdmbzZ5aTFCaz0@129.146.113.93:50356#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZkxOSUliSEF2L2c1OGs0SndNeDg3aENqQTgrVW9kM0R1VTdmbzZ5aTFCaz0@129.146.113.93:50356#🇺🇸US-🚀@VPNine1
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aktOTWFNRWQzbWl2RU90SlpDL1h4dXZ3R1RTOGZERThHVVdzN1Yvd21kUT0=@130.61.80.61:59924#🇩🇪151320 | ⚡️Telegram = t.me/SOSkeyNET
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aktOTWFNRWQzbWl2RU90SlpDL1h4dXZ3R1RTOGZERThHVVdzN1Yvd21kUT0=@130.61.80.61:59924#🇩🇪DE-🚀@VPNine1
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6b05oMWVML1E0dzhoemgwd1k2L0pQbkZqRk1pZGY2RlpMaElDV2QxR21vaz0@134.65.60.219:61312#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTJ1dzB6SkN2TWVBcGRWTlEyVyszbVlISHNNazFZVHViZG5FblNSa2oyMD0@130.61.38.10:59924#kurdconfig
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bVNzRHlsRVdFVnM0Ukp1ZGNrNE8wU2NIaGV6WEI5UlpzOU43MGw1ZXNxTT0@134.98.144.146:45819#@v2ray313 کانالمون ❤️‍🔥
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6c1BIK3RsYmRYdDRqNlBKaTZzVU11VXEzZmE2VFQ1Mzc1cG1QYWsvYlFkcz0@129.146.221.27:50356#تو کانال نتورلت نباشید قطع میشن@networld_vpn
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dkRDYXNxWjh4UHVDdURZN0V4TVh2K2tnYnd1OE9TNnlFUU1Sc2IzOHpVYz0@130.61.145.58:59924#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206THZJbVhOR1J3YTVmWlNRdytSYlBLdz09@151.242.125.198:51886#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#TW
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WTJGa056aGhaV1EwTXpBMU56bGhaQT09Ok9ETmlNalE0TkRNdFlUWTJNaTAwTWc9PQ@evjd8xfji5of.cdn000.com:31404#kurdconfig
