@@ -1,3 +1,4 @@
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:8444?alpn=http%2F1.1&encryption=none&host=nl3.meshbeat.online&path=%2Fapi%2Fv1%2Fdevices%2F7c05e2fb91%2Ftelemetry&security=tls&sni=nl3.meshbeat.online&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@81.177.214.150:443?encryption=none&host=81.177.214.150&path=%2F&security=tls&sni=fin4.wba-pn.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@51.77.76.61:8444?alpn=http%2F1.1&encryption=none&fp=firefox&host=link.meshbeat.online&path=%2Fapi%2Fv1%2Fdevices%2Fff3c56308c%2Ftelemetry&security=tls&sni=link.meshbeat.online&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AEE
@@ -97,4 +98,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?encryption=none&host=vms.lifetime58.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?path=%2F&security=&encryption=none&host=vms.lifetime04.workers.dev&type=ws#%3E%3E%40shadowproxy66%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?encryption=none&host=vms.lifetime36.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://63f1ef69-92fd-427a-b3e4-98ffddf81ac6@www.speedtest.net:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=young-rice-749e.heliy78750.workers.dev&path=%2FnPKoVRUdyuRZ6jpY%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbSxwcm94eWlwLmNtbGl1c3Nzcy5uZXQsbmltYS5uc2NsLmlyLHR1cmsucmFkaWNhbGl6YXRpb24uaXI%3D&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
