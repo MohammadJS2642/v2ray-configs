@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://51b7b320-fe34-422c-93fd-feea4f102c25@update.georkup.ir:2050?encryption=none&security=reality&sni=perplexity.ai&fp=chrome&pbk=87HZewEoPUrnq4LxNZjPDArFr7IyfX74eGkisGBwQH8&sid=f26c8fd2&spx=/a367a68b9348617&type=tcp&headerType=none#@Daily_Configs
-vless://51b7b320-fe34-422c-93fd-feea4f102c25@update.georkup.ir:2050?encryption=none&type=tcp&security=reality&headerType=none&sni=perplexity.ai&fp=chrome&insecure=1&allowInsecure=1&pbk=87HZewEoPUrnq4LxNZjPDArFr7IyfX74eGkisGBwQH8&sid=f26c8fd2&spx=/a367a68b9348617#configprxy
 vless://51b7b320-fe34-422c-93fd-feea4f102c25@update.georkup.ir:2050?security=reality&encryption=none&pbk=87HZewEoPUrnq4LxNZjPDArFr7IyfX74eGkisGBwQH8&headerType=none&fp=chrome&spx=/a367a68b9348617&type=tcp&sni=perplexity.ai&sid=f26c8fd2#@B2Hub
 vless://51b7b320-fe34-422c-93fd-feea4f102c25@update.georkup.ir:2050?security=reality&encryption=none&pbk=87HZewEoPUrnq4LxNZjPDArFr7IyfX74eGkisGBwQH8&headerType=none&fp=chrome&spx=/a367a68b9348617&type=tcp&sni=perplexity.ai&sid=f26c8fd2#@FarazV2ray
 vless://51b7b320-fe34-422c-93fd-feea4f102c25@update.georkup.ir:2050?security=reality&encryption=none&pbk=87HZewEoPUrnq4LxNZjPDArFr7IyfX74eGkisGBwQH8&headerType=none&fp=chrome&spx=/a367a68b9348617&type=tcp&sni=perplexity.ai&sid=f26c8fd2#@V2rayng_Fast
@@ -253,3 +251,5 @@ vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?path=/sg-amz&secur
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@45.130.125.207:443/?type=ws&encryption=none&flow=&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome#@networld_vpn
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@45.130.125.207:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🏓53@oneclickvpnkeys
 vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none#@Daily_Configs
+vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none#@Daily_Configs : کانال
+vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none#@Daily_Configs

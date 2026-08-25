@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.89.120:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@hex_proxy ⁴
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.32.47:443?path=/&security=tls&encryption=none&insecure=0&host=ro-3.ariyuz.org&type=ws&allowInsecure=0&sni=ro-3.ariyuz.org#@hex_proxy ⁷
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.19.229.21:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@hex_proxy ⁵
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.19.229.21:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@Nexus_Panell چنل تلگرام
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ro-3.ariyuz.org&type=ws&allowInsecure=0&sni=ro-3.ariyuz.org#@v2ray313 کانالمون ⚡
@@ -253,3 +251,5 @@ vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&p
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#@mehrosaboran
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#MTMVPN 24
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#MTMVPN 43
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#TELEGRAM:@ConfigV2RayNG
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Telegram:@v2rayng3
