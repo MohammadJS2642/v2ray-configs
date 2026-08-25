@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#🇹🇭 Join+Telegram:@Farah_VPN 🇹🇭
+vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?encryption=none&type=ws&path=/&host=chatgpt.com#@Maznet - SOS521
 vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:443?encryption=none&type=tcp&headerType=http&path=/&host=google.com#@Maznet - SOS523
 vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:8443?encryption=none&type=xhttp&path=/&host=chatgpt.com&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@Maznet - SOS522
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?&security=tls&fp=chrome&sni=129.121.95.159&type=ws&headerType=none&host=129.121.95.159&path=/connect#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
@@ -251,5 +253,3 @@ vless://ff9307e6-f04a-4905-8cd4-7e690bd63eb8@104.17.119.248:8080?path=/eyJqdW5rI
 vless://ffaa7a93-f809-1702-2e94-de0651371116@69.46.46.106:443?encryption=none&security=tls&sni=popco-production.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=popco-production.up.railway.app&path=/ws/ffaa7a93-f809-1702-2e94-de0651371116#✅  @vistav2ray  👈👈کانال ما ✅
 vless://ffaa7a93-f809-1702-2e94-de0651371116@69.46.46.106:443?path=/ws/ffaa7a93-f809-1702-2e94-de0651371116&security=tls&alpn=http/1.1&encryption=none&host=popco-production.up.railway.app&fp=chrome&type=ws&sni=popco-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://ffaa7a93-f809-1702-2e94-de0651371116@69.46.46.106:443?path=/ws/ffaa7a93-f809-1702-2e94-de0651371116&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=popco-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=popco-production.up.railway.app#@FarazV2ray
-vless://ffaa7a93-f809-1702-2e94-de0651371116@69.46.46.106:443?path=/ws/ffaa7a93-f809-1702-2e94-de0651371116&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=popco-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=popco-production.up.railway.app#@V2ray_Alpha🐇 8
-vless://ffaa7a93-f809-1702-2e94-de0651371116@69.46.46.106:443?path=/ws/ffaa7a93-f809-1702-2e94-de0651371116&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=popco-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=popco-production.up.railway.app#@meliproxyy

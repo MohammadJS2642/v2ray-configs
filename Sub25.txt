@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?encryption=none&type=ws&security=tls&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&insecure=0&allowInsecure=0#@meliproxyy
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?encryption=none&type=ws&security=tls&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&insecure=0&allowInsecure=0#configprxy
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh#TELEGRAM-Bisto4_service?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@Bisto4_service 🫂
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh#TELEGRAM-ICV2RAY?ed=2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@icv2ray
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh#TELEGRAM-ICV2RAY?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@icv2ray
@@ -251,5 +253,3 @@ vless://d34a3c99-5ea8-488b-8df4-a20af43b740b@79.174.92.85:6443?security=reality&
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@104.18.32.47:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#@hopev2ray🧡
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#@hopev2ray❤️
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#@hopev2ray🩵
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@cf.levikogjgfdd.ir:2053?path=/J5aLQOY1R9ONWYCM&insecure=0&sni=ov.iran-servers.shop&fp=chrome&host=ov.iran-servers.shop&type=ws&security=tls&encryption=none&allowInsecure=0#🇫🇷@V2RAYNG_IP
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@cf.levikogjgfdd.ir:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&host=ov.iran-servers.shop&fp=chrome&type=ws&sni=ov.iran-servers.shop#🇫🇷 CDN
