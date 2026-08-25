@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra02.rkitman.ru:443?encryption=none&type=tcp&security=reality&headerType=none&sni=node-fra02.rkitman.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd&flow=xtls-rprx-vision#🔵@chillguy_vpn
 vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-nd01.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-nd01.rkitman.ru&sid=88d9dc52ef39c8bd#Channel id: @ConfigV2RayNG 🇳🇱
 vless://64abd4e7-59ad-4a74-e3df-cd5d87cc105a@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565/?type=ws&encryption=none&flow=&path=/#新加坡
@@ -252,4 +253,3 @@ vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd6.vahidzhv.ir:506
 vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd6.vahidzhv.ir:5064?security=none&encryption=none&headerType=http&type=tcp#vpnsal
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.108:2087?encryption=none&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇦139744 | ⚡️Telegram = t.me/SOSkeyNET
 vless://77e8c26d-f139-16c4-dba1-fdb9dd604127@69.46.46.123:443?path=/ws/77e8c26d-f139-16c4-dba1-fdb9dd604127&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sr-production-32df.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-32df.up.railway.app#@outline_ir
-vless://77e8c26d-f139-16c4-dba1-fdb9dd604127@69.46.46.123:443?path=/ws/77e8c26d-f139-16c4-dba1-fdb9dd604127&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sr-production-32df.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-32df.up.railway.app#@vmess_ir
