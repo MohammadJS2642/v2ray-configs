@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ed3a873c-aae2-4de0-9366-0fbea7f34acf@84.21.189.98:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4KnE37yTOsJdP72-zbpN9NuL8VMH9LQC7CIWvGMXVRQ&security=reality&sid=5c11551f290914&sni=www.sony.com&type=tcp#🏓92@oneclickvpnkeys
 vless://ed3a873c-aae2-4de0-9366-0fbea7f34acf@84.21.189.98:8443?security=reality&encryption=none&pbk=4KnE37yTOsJdP72-zbpN9NuL8VMH9LQC7CIWvGMXVRQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=5c11551f290914#Channel : @Daily_Configs
 vless://ed713345-61f4-4eca-8708-b3a1e9bfbb40@38.180.104.152:21077?path=/&security=none&encryption=none&host=www.google.com&type=ws#🇹🇷 @GozargahVPN
 vless://ed9a0afe-1f54-40af-8821-0995cef0225a@api6.maps-yandex.net:10970?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=_RCN3b8MUJE61ES111k45TLrvB_nUi1pywAO5sc0OF0&sid=cb8ba29900e2f68b&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
@@ -252,4 +253,3 @@ vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?path=/download.ph
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?path=/download.php#TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#kurdconfig
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?path=/download.php#TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#🇵🇱@FreakConfig
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@tootffarangi🍓-10
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@v2raybaaz ⁴

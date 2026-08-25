@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8633ca81-65f6-4aa4-af09-6edc31f13eaa@193.233.133.152:58862?security=reality&encryption=none&pbk=uyj9cFlYSb1mJnA1kyHGIaHxoMokvvXj8ive54wn_xs&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.amazon.com&sid=ef42cf8770e2d6a9#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://86381230-4563-4281-909c-1c967ebfeb6a@altaria.proxy.rlwy.net:11181?encryption=none&fp=&mode=auto&path=/&pbk=vYpCDeOJsI02tI_fOXUHcnm-6YBKLvEM8gNWjtKSy38&security=reality&sid=9a2d73&sni=is1-ssl.mzstatic.com&type=xhttp#🏓67@oneclickvpnkeys
 vless://86930779-64ec-46a5-97d9-55e3107f3ce3@23.251.47.71:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&security=reality&pbk=E6TSsyOKiYD_V3m3-4BTZVJBbHDgn2dEDg6cCDpASxU&sid=dde3c2dca27ae6e7#@networld_vpn
 vless://86930779-64ec-46a5-97d9-55e3107f3ce3@23.251.47.71:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=E6TSsyOKiYD_V3m3-4BTZVJBbHDgn2dEDg6cCDpASxU&security=reality&sid=dde3c2dca27ae6e7&sni=www.apple.com&type=tcp#🏓98@oneclickvpnkeys
@@ -252,4 +253,3 @@ vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=/cloud-vps&se
 vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=amiin.yas-nowin.ir#@Alfred_Config
 vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=amin.yas-nowin.ir#@Alfred_Config
 vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cloud.yas-nowin.ir#@Alfred_Config
-vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=icloud-ios-chrome.yas-nowin.ir#@Alfred_Config
