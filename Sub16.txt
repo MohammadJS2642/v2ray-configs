@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018@freenettir ²
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018@freenettir ¹
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@B2Hub
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#Proxy_mtm🍍
@@ -253,3 +252,4 @@ vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@172.65.90.52:8880?path=/pyip&securi
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@hopev2ray❤️
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@v2ray313 کانالمون 🌚
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@v2ray313 کانالمون 💚
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@188.114.97.6:443?path=/sg-amz&security=tls&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=unsafe&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Channel id: @ConfigV2RayNG 🇺🇸
