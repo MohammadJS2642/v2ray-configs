@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@ehsawn8
 vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#چنل عضو شو @v2ra_config
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#channel : @freedomofinfor
 vless://1c94a079-e41d-48d3-b5b6-d8f7f761a00d@188.114.97.6:443?encryption=none&security=tls&sni=SILENt-kiNG-5030.AipRoINteR.WorkErS.DEv&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=silent-king-5030.aiprointer.workers.dev&path=/eyJqdW5rIjoiZ3RXWk45UVhpRVB3R3VPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19#🇨🇦CA_492_@Surfboardv2ray
@@ -253,3 +252,4 @@ vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?encrypt
 vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=/#vpnsal
 vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=/#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=/#🇩🇪All³ | @BigSmoke_Config
+vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=/#🇩🇪All¹³ | @BigSmoke_Config
