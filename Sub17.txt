@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none#@Daily_Configs
 vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&allowinsecure=0&type=tcp&headerType=none#🇩🇪All¹ | @BigSmoke_Config
 vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁶ | @BigSmoke_Config
 vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#@B2Hub
@@ -252,4 +253,3 @@ vless://7bd8e88e-56d3-4396-87b3-854315db88f5@2.27.18.136:443?security=reality&en
 vless://7be30ab7-2077-4115-f6cb-125226afd3c9@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://7c3e7eb3-289a-4664-b783-e459713aed4f@cdn.devmixa.ir:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=english.havray2025.ir&fp=chrome&type=ws&sni=english.havray2025.ir#@v2rayng3
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#@Net2ray Germany 🇩🇪
-vless://7cd14083-d991-4842-ba06-06d174dde3d9@shop.jarorobo.ir:443?security=reality&encryption=none&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&headerType=none&fp=chrome&spx=/d811a710404cb29&type=tcp&sni=www.semiconductor.samsung.com&sid=8ebe2a89#@v2raybaaz
