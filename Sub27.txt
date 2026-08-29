@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c10f24d6-90ca-4acc-87c9-86aa398bf704@13.143.217.2:443?encryption=none&security=reality&sni=cloudrynth.com&fp=chrome&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&type=tcp&headerType=none#🇩🇪155826 | ⚡️Telegram = t.me/SOSkeyNET
-vless://c10f24d6-90ca-4acc-87c9-86aa398bf704@13.143.217.2:443?encryption=none&security=reality&sni=cloudrynth.com&fp=chrome&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&type=tcp&headerType=none#🇳🇱NL-🚀@VPNine1
 vless://c10f24d6-90ca-4acc-87c9-86aa398bf704@13.143.253.2:443?encryption=none&sni=cloudrynth.com&type=tcp&fp=chrome&headerType=none&security=reality&spx=/ahmadv2ray&fm=ahmadv2ray&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇩🇪155838 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c10f24d6-90ca-4acc-87c9-86aa398bf704@13.143.253.2:443?encryption=none&sni=cloudrynth.com&type=tcp&fp=chrome&headerType=none&security=reality&spx=/ahmadv2ray&fm=ahmadv2ray&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇺🇸US-🚀@VPNine1
 vless://c10f24d6-90ca-4acc-87c9-86aa398bf704@de.cloudrynth.com:443?security=reality&encryption=none&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&headerType=none&fp=chrome&type=tcp&sni=cloudrynth.com#@V2ray_Alpha🏉 1
@@ -253,3 +251,5 @@ vless://d0ee468a-084b-411d-b2be-b886a61065d1@k2.cloud--vpn.site:443?path=/&secur
 vless://d0ee468a-084b-411d-b2be-b886a61065d1@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#MTMVPN 6
 vless://d0ee468a-084b-411d-b2be-b886a61065d1@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#کانال تلگرام-MTMVPN
 vless://d0ee468a-084b-411d-b2be-b886a61065d1@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇩🇪| @ConfigV2RayNG
+vless://d0ee468a-084b-411d-b2be-b886a61065d1@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn
+vless://d0f6c857-c814-438a-83f8-f34232294194@109.169.84.146:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#Channel : @Daily_Configs

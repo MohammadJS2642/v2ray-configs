@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://fe2e9525-2eeb-e076-1de6-977f2a7da0e2@inetchnl-production-9ddb.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-9ddb.up.railway.app&path=/ws/fe2e9525-2eeb-e076-1de6-977f2a7da0e2&sni=inetchnl-production-9ddb.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3#🇳🇱@iNetChnl
-vless://fe3c9256-22d3-4629-9804-6e6f5a4e0906@82.40.62.199:37430?type=tcp&encryption=none&security=reality&pbk=MNKg9Lti8zBudF2zQbCqIZPoqLMSxINa6QwzpODpE20&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#@vpn_kurdnet-منبع کانفیگ های رایگان
 vless://fe6f28ad-178b-4cd3-9c4d-a52ab1407e7d@217.69.5.160:13903?security=&encryption=none&headerType=none&type=tcp#@B2Hub
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@CUSTOMVPNSERVER
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
@@ -253,3 +251,5 @@ vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&secur
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=firefox&type=xhttp&sni=www.google.com#%3E%3E%40configV2rayNG%3A%3ADE
 vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.76:2053?mode=gun&security=none&encryption=none&type=grpc&serviceName=v-grpc#%3E%3E%40v2ray1_ng%3A%3AXX
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.233.193:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.233.193:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.233.193:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AGB

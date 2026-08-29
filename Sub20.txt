@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://73bcd72f-9545-4cb8-8daf-7d004501880d@188.114.97.6:443?path=/proxyip=179.255.104.87,179.255.116.198,179.255.101.56,142.248.218.6,142.248.218.4,45.76.79.239,179.255.152.163,208.68.180.240&security=tls&encryption=none&insecure=0&host=wzknb.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=wzknb.pages.dev#@B2Hub
-vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@dl2.gooniforoshi.fun:443?path=/download.php&security=tls&encryption=none&insecure=0&host=dl2.gooniforoshi.fun&type=ws&allowInsecure=0&sni=dl2.gooniforoshi.fun#🇮🇷139765 | ⚡️Telegram = t.me/SOSkeyNET
 vless://7412605e-18de-4b34-af4e-82e9f544cc24@95.85.231.231:42321?security=reality&encryption=none&pbk=C8lo017EXpVnG_TxCYibs_NBzbgoW-61IQH4qZhHGmw&headerType=none&type=tcp&sni=www.github.com&sid=3f080f861d7f#@leviconfigs🪐-8
 vless://74537cd2-28ff-3e41-e06a-299a60612247@69.46.46.100:443?path=/ws/74537cd2-28ff-3e41-e06a-299a60612247&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-11b2.up.railway.app&fp=chrome&type=ws&sni=rvg-production-11b2.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://7483fa54-0bbe-4382-ba8c-b445349962bf@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#🇫🇷⇝ @GpConnectSho کانکت شو! 💠
@@ -253,3 +251,5 @@ vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.80.1:80?security=none&encryp
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/VeJJ5MwyXaAbhkV8?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (3)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/83JWdcC2XXJrBR5m?ed=2560#CxrolVPN - Free (1)
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&fp=&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&security=reality&sid=aae8&sni=deepl.com&type=tcp#🪞44@oneclickvpnkeys
+vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&security=reality&sni=deepl.com&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&sid=aae8&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=aae8#@hex_proxy ⁷
