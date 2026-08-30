@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?encryption=none&security=reality&sni=palworld.mega-play.app&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&sid=ae47480fa46b76b0&allowinsecure=0&type=tcp&headerType=none#🇩🇪All¹³ | @BigSmoke_Config
-vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?encryption=none&security=reality&sni=palworld.mega-play.app&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&sid=ae47480fa46b76b0&type=tcp&headerType=none#@Daily_Configs
-vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?encryption=none&security=reality&sni=palworld.mega-play.app&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&sid=ae47480fa46b76b0&type=tcp&headerType=none#@filembad
-vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?encryption=none&security=reality&sni=palworld.mega-play.app&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&sid=ae47480fa46b76b0&type=tcp&headerType=none#@meliproxyy
 vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&sid=ae47480fa46b76b0&encryption=none&security=reality&type=tcp&headerType=none&sni=palworld.mega-play.app#@filembad
 vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&sid=ae47480fa46b76b0&encryption=none&security=reality&type=tcp&headerType=none&sni=palworld.mega-play.app#🔵@chillguy_vpn
 vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?security=reality&encryption=none&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&headerType=none&type=tcp&sni=palworld.mega-play.app&sid=ae47480fa46b76b0#@bored_vpn
@@ -253,3 +249,7 @@ vless://db5dc039-a37e-4c23-b7a9-bdf6c729f7f3@a2.arshia-nova.ir:443?path=/&securi
 vless://db5dc039-a37e-4c23-b7a9-bdf6c729f7f3@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@icv2ray
 vless://db5dc039-a37e-4c23-b7a9-bdf6c729f7f3@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@vmesskhodam
 vless://db5dc039-a37e-4c23-b7a9-bdf6c729f7f3@am8.levikogjgfdd.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 V2raySaman
+vless://db5dc039-a37e-4c23-b7a9-bdf6c729f7f3@am8.levikogjgfdd.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 fastly
+vless://dbb5075f-2ff4-4aad-a952-bcc82e4a6355@109.69.17.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bzzru.hat.apruxdomain.space&fp=chrome&security=reality&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&sid=b2ba734eff38baa9#俄罗斯
+vless://dbb5075f-2ff4-4aad-a952-bcc82e4a6355@144.31.216.40:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch1.hat.onl&sid=76132b3b39704c44#@meliproxyy
+vless://dbb5075f-2ff4-4aad-a952-bcc82e4a6355@77.91.66.178:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.hat.onl&sid=76132b3b39704c44#🇩🇪 | 9
