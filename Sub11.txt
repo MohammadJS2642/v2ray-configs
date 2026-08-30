@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&security=reality&sid=a0a305ccc8e94aa8&sni=www.intel.com&type=tcp#🚘43@oneclickvpnkeys
 vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8#@hex_proxy ⁶
 vless://16a1eeb0-8408-4592-a469-ecd33751021e@lvksp.kintuso.com:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lvksp.kintuso.com#@Net2ray | 🇫🇷 France, Paris
 vless://16b34a60-cb57-4659-b802-da89506c7ff8@pl-2.wrs.tconnect.services:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=EYL4xS6Msvddf6qwmFHfHplw18bmntv98GkoQBK1fhM&sid=71e87186710e710e#🦉@FreeConfigForYou
@@ -253,3 +252,4 @@ vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@Bulgauryexi.horlutr.ir:2087?securit
 vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@Bulgauryexi.horlutr.ir:2087?security=none&encryption=none&host=/&headerType=http&type=tcp#@Lent_Gc²⁰⁰
 vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@am8.levikogjgfdd.ir:443?encryption=none&type=ws&host=frenchji.global.ssl.fastly.net.&path=/&security=tls&sni=ssl.fastly.com#🇨🇵 @V2RAYNG_IP 🚀
 vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@am8.levikogjgfdd.ir:443?path=/&security=tls&encryption=none&host=frenchji.global.ssl.fastly.net.&type=ws&sni=ssl.fastly.com#bisto4_service
+vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@am8.levikogjgfdd.ir:443?path=/&security=tls&encryption=none&insecure=0&host=frenchji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@IRAN_V2RAY1

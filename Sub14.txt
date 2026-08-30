@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#[🇲🇩]t.me/ConfigV2RayNG
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#kurdconfig
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#🏴‍☠️@FreakConfig
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#Channel id: @ConfigV2RayNG 🇲🇩
@@ -253,3 +252,4 @@ vless://39473ed8-fa83-4ef3-8aa6-92b865b6cb4f@188.114.97.6:443?path=/jasnppws&sec
 vless://39473ed8-fa83-4ef3-8aa6-92b865b6cb4f@188.114.97.6:443?path=/jasnppws&security=tls&encryption=none&insecure=0&host=639232800095312190.outback-homaxe.info&fp=chrome&type=ws&allowInsecure=0&sni=639232800095312190.outback-homaxe.info#@V2raySaman
 vless://39473ed8-fa83-4ef3-8aa6-92b865b6cb4f@188.114.97.6:443?path=/jasnppws&security=tls&encryption=none&insecure=0&host=639232800095312190.outback-homaxe.info&fp=chrome&type=ws&allowInsecure=0&sni=639232800095312190.outback-homaxe.info#@V2rayng_Fast
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#TEL;Father_vpn
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#TEL;Father_vpn

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://88d7a648-fd4c-44ea-8d57-be2d83d34066@169.40.32.176:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@v2ray313 کانالمون 💟
 vless://88de9f34-576c-472e-bc11-2b1f63ef19e5@pichi.picmusic.ir:15882?security=reality&encryption=none&pbk=gZT_3S5MB7JX7lYznOoo9CgMXpJtwEy7ChVtybbUjz4&headerType=none&fp=chrome&spx=/&type=tcp&sni=arxiv.org&sid=f378eb2f#@Begoo_VPN ²⁷⁷
 vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.160:443?security=reality&encryption=none&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=w-mebel.pro&sid=c603efb3ddaf633d#@tootffarangi🍓-7
 vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.208:443?security=reality&encryption=none&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=w-mebel.pro&sid=c603efb3ddaf633d#@tootffarangi🍓-3
@@ -253,3 +252,4 @@ vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.41.10:443?security=reality&
 vless://930cfa02-05f0-4a38-3f6b-cdbe2fa59e78@69.46.46.30:443?path=/ws/930cfa02-05f0-4a38-3f6b-cdbe2fa59e78&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-4a7f.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-4a7f.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@v2rayng3
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.178:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#چنل عضو شو @v2ra_config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Ai_DueT🌐

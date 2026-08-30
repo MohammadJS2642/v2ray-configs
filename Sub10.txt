@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0b0f1f7b-d005-4765-939f-9a2f6a2f3d85@ip1.berzema.ir:6806?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#Channel : @Daily_Configs
 vless://0b694f0a-48c3-4394-8862-a1b7cd1a184e@18.171.164.29:32073?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@KAFING_2
 vless://0bbe023b-0a73-4a1d-af0f-c3dd793cfa17@banko.cncoo.ir:443?path=/connect/yUdhkk0l8Fwb5sQ3bwI8FJcK&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=banko.cncoo.ir#🇳🇱 | 13
 vless://0bd6aa8d-3bdb-4fa3-893e-75a844e2e409@104.16.101.215:8880?path=/&security=none&encryption=none&host=wispy-cake-ec69.193-bc6.workers.dev&type=ws#@confing_v2rayy کانفینگ بیشتر در چنل 👈
@@ -253,3 +252,4 @@ vless://1667f049-f3c4-4c42-85f0-0f243467736e@69.46.46.123:443?path=/ws/1667f049-
 vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443/?type=grpc&encryption=none&flow=&security=tls&sni=torr.wlrus.cfd&allowInsecure=1&fp=chrome#荷兰
 vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&security=reality&sid=a0a305ccc8e94aa8&sni=www.intel.com&type=tcp#🇮🇹156395 | ⚡️Telegram = t.me/SOSkeyNET
 vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&security=reality&sid=a0a305ccc8e94aa8&sni=www.intel.com&type=tcp#🇮🇹IT-🚀@VPNine1
+vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&security=reality&sid=a0a305ccc8e94aa8&sni=www.intel.com&type=tcp#🚘43@oneclickvpnkeys

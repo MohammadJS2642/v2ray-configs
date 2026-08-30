@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.64.235.30:8880?encryption=none&host=vms.lifetime09.workers.dev&path=/&security=none&type=ws#🐲26@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.0.79.109:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?telegram🇮🇷+@shadowproxy66=#کانال تلگرام : Free_VPN_CH@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.79.104.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram🇨🇳+@wangcai2#کانال تلگرام : Free_VPN_CH@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?encryption=none&security=tls&sni=sni.111000.indevs.in&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#کانال تلگرام : Free_VPN_CH@
@@ -253,3 +252,4 @@ vless://70d94f75-064c-4e34-d2cf-0b6ef4d49ef7@k2.cloud--vpn.site:443?path=/&secur
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&security=tls&sni=derman.neobo-tooth.ru&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc&mode=gun#🇩🇪DE_1400_@Surfboardv2ray
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&security=tls&sni=derman.neobo-tooth.ru&fp=chrome&type=grpc&mode=gun&authority=&serviceName=grpc#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2096?path=/&security=none&encryption=none&type=ws#@hopev2ray🩷
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2096?encryption=none&host=usejh2.neobo-tooth.ru&path=/&security=none&type=ws#🪞9@oneclickvpnkeys
