@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8038f7de-9bba-4ebd-8352-556bc7316c11@91.107.169.16:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@KAFING_2
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@KAFING_2
 vless://805c6485-a1f2-4e95-bc6f-3fa2350ce36c@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://80acd2cf-7a37-4145-ada8-7a27c46b12fe@neth1.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#کانال ما
@@ -252,4 +253,3 @@ vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@MARAMBASHI_MARAMBASHI?ed=2048&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#@ConfigV2RayNG 🇩🇪
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@MARAMBASHI_MARAMBASHI?ed=2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#@MARAMBASHI 🇳🇱
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@MARAMBASHI_MARAMBASHI?ed=2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#[🇫🇮]t.me/ConfigV2RayNG
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#[🇫🇮]t.me/ConfigV2RayNG
