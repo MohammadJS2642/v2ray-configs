@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b8356cb0-d2cb-4839-94e3-726a18a1a3eb@31.76.31.235:443?security=reality&encryption=none&pbk=NweAmwfe6_o_kpCZTAyY5W7yvQaAvNXfwDh6wSkmF2U&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pop-01.file-rkat.online&sid=3f69ecc51edc3231#@meliproxyy
 vless://b85ee0d2-65b0-df8b-6347-5ec96723523d@inetchnl-production-aa9d.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-aa9d.up.railway.app&path=/ws/b85ee0d2-65b0-df8b-6347-5ec96723523d&sni=inetchnl-production-aa9d.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3#🇺🇸@iNetChnl
 vless://b87df517-d7c4-d51b-3dd4-a1c663c55eec@inetchnl-production-f987.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-f987.up.railway.app&path=/ws/b87df517-d7c4-d51b-3dd4-a1c663c55eec&sni=inetchnl-production-f987.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3#🇺🇸@iNetChnl
 vless://b8875d59-7568-4041-829a-cc6c82b70022@test.ghwhdr51.workers.dev:443/?type=ws&encryption=none&flow=&security=tls&fp=chrome#channel_@networld_vpn
@@ -253,3 +252,4 @@ vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-de01.korvexe.ir:14676?path=/
 vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-de01.korvexe.ir:14676?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.VmcUq5lkeaieE-x2wFNjsmupvkOa9EncGvwAU29SYAo&host=direct-de01.korvexe.ir&type=ws#@V2ray_Alpha😏 7
 vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-de01.korvexe.ir:14676?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.VmcUq5lkeaieE-x2wFNjsmupvkOa9EncGvwAU29SYAo&host=direct-de01.korvexe.ir&type=ws#@meliproxyy
 vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-de01.korvexe.ir:14676?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.VmcUq5lkeaieE-x2wFNjsmupvkOa9EncGvwAU29SYAo&host=direct-de01.korvexe.ir&type=ws#Channel : @Daily_Configs
+vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-de01.korvexe.ir:14676?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.VmcUq5lkeaieE-x2wFNjsmupvkOa9EncGvwAU29SYAo&host=direct-de01.korvexe.ir&type=ws#vpnsal

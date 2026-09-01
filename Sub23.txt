@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8ee40067-e8f1-431b-8109-21eaa82a7a23@shortline.proxy.rlwy.net:31186?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.RUo28PqrpKdE0tCsbuLu4Y1YUTEwblkpZz68jalpaXI&type=ws#Channel : @Daily_Configs
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@104.17.162.123:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#Arshiavpn12
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#@KAFING_2
 vless://8f646a01-2cc1-4270-ad43-f87e157e4d44@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-29Mordad-1
@@ -253,3 +252,4 @@ vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encr
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#@MIMITDL کانال ما🔥⚡
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#@MIMITDL کانال ما🔥⚡  کانفیگ رایگان(به اتمام رسید)  پنل با همین کیفیت موجود شد(امروز
 vless://My-chanel-5-@ATOVPN@138.124.29.81:57021?security=&encryption=none&headerType=none&type=tcp#@ATOVPN | گیگی 3500 ⚡
+vless://OwLimbo@65.20.84.60:443/?type=tcp&encryption=none&flow=&sni=amp-api-edge.apps.apple.com&fp=chrome&security=reality&pbk=rW32mnGIawfF0HfU6-NYsue8jXVfGIBgEwgIEHC-FBY&sid=485c0fafd745#印度

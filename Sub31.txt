@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22224?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22224?encryption=none&security=none&type=tcp&headerType=none#🇩🇪All⁸ | @BigSmoke_Config
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22224?security=none&encryption=none&headerType=none&type=tcp#@Nexus_Panell چنل تلگرام
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.172.239:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
@@ -253,3 +252,4 @@ vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?se
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?security=reality&encryption=none&pbk=D-lJlqG_tR0QSqyKj4KZRImMRfZbhp88loaf8jP0mhc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-as.data-media-social.org&sid=f3a9d2b1c7d4f608#Channel : @Daily_Configs
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?security=reality&encryption=none&pbk=D-lJlqG_tR0QSqyKj4KZRImMRfZbhp88loaf8jP0mhc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-as.data-media-social.org&sid=f3a9d2b1c7d4f608#🏴‍☠️@FreakConfig
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-bl.data-media-social.org:443?security=reality&encryption=none&pbk=FM_FCyXj3OKqsDvc7ABvxiYC5G1dP_H5W0wjqPOg2Sc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-bl.data-media-social.org&sid=f3a9d1b1c7d4f708#[🇧🇬]t.me/ConfigV2RayNG
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-de.data-media-social.org:443?security=reality&encryption=none&pbk=7X8ifHa-K72alW7ly5SRYwotXdjA-gEQoEGUK1EagVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-de.data-media-social.org&sid=f3c4d918e7c4f744#@vmesskhodam

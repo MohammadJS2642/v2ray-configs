@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d3815c21-ef06-43e2-82e1-ca313962b489@app25.jarvestip.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ojDrVO838PScByjy1cb1-LLEpEh4LhJKG_jldp8g7xo&security=reality&sid=8beb2706&sni=app25.jarvestip.ru&type=tcp#🔒24@oneclickvpnkeys
 vless://d3815c21-ef06-43e2-82e1-ca313962b489@app26.jarvestip.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=c5vsnqZ0Lr_bFoto-ES-3bVD63PwFeogqfc7xTj2rig&security=reality&sid=3f7fb4ee&sni=app26.jarvestip.ru&type=tcp#🪆18@oneclickvpnkeys
 vless://d3815c21-ef06-43e2-82e1-ca313962b489@app27.jarvestip.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OYvSeQqu0XhV12blOVAR2Cn_3m6HI95raTdlqnVobjk&security=reality&sid=360de9e1&sni=app27.jarvestip.ru&type=tcp#🪆25@oneclickvpnkeys
 vless://d3815c21-ef06-43e2-82e1-ca313962b489@app47.jarvestip.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&security=reality&sid=8ece2039&sni=app47.jarvestip.ru&type=tcp#🪆20@oneclickvpnkeys
@@ -253,3 +252,4 @@ vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/&security=
 vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@hopev2ray
 vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#☃ | @configprxy | 538
