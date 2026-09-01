@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegram:@Free_VPN_CH@160.153.136.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@176.125.240.147:2053?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@176.125.240.51:2053?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@185.139.228.126:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@185.156.19.8:2096?encryption=none&security=tls&sni=tn1rr.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@185.156.19.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
@@ -250,6 +253,3 @@ vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@pol5.helper-internet.com:443/?type=
 vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@pol5.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pol5.helper-internet.com&sid=ff776ff77be48b88#🇵🇱 | 7
 vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@tai.helper-internet.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tai.helper-internet.com&fp=chrome&security=reality&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#泰国
 vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@tur5.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tur5.helper-internet.com&sid=ff776ff77be48b88#🇹🇷 | 22
-vless://a4efbdb6-b72e-411d-b516-59919045957c@45.59.126.91:110?security=none&encryption=none&headerType=none&type=tcp#@filembad
-vless://a4efbdb6-b72e-411d-b516-59919045957c@45.59.126.91:110?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
-vless://a4efbdb6-b72e-411d-b516-59919045957c@45.59.126.91:110?security=none&encryption=none&headerType=none&type=tcp#کانال ما

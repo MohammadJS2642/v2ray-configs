@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@208.123.190.14:2046?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&fp=chrome&type=ws&allowInsecure=0&sni=f5link.ru#@V2rayng_Fast 🇧🇷
+vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@208.123.190.14:2046?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=f5link.ru#@FarazV2ray
+vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@208.123.190.14:2046?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=f5link.ru#@V2raySaman
 vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@217.11.167.94:2046?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=f5link.ru#@v2ray_phoenix
 vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@217.11.167.94:2046?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=f5link.ru#@icv2ray
 vless://85479e2e-8b2e-c7f7-6075-ea4fa1f2b2e2@subgift.up.railway.app:443?path=/ws/85479e2e-8b2e-c7f7-6075-ea4fa1f2b2e2&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift.up.railway.app#114
@@ -250,6 +253,3 @@ vless://8f1a15bf-a352-4c32-aee2-957039a6847b@104.17.162.123:8443?path=/?ed=2560&
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#@KAFING_2
 vless://8f646a01-2cc1-4270-ad43-f87e157e4d44@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-29Mordad-1
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.196.65:62145?encryption=none&security=none&type=tcp#🇳🇱139835 | ⚡️Telegram = t.me/SOSkeyNET
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.232.137:62145?&type=tcp&headerType=none&path=/#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.177:62145?#@meliproxyy
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.177:62145?#🔵@chillguy_vpn
