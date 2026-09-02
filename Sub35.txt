@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#Telegram:@v2rayng3
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#@leviconfigs🪐-27
 trojan://6gWB1XO7xC@104.167.199.251:23?security=none&type=kcp&headerType=dns&seed=aqy5LgXqSh&fm={"udp":[{"type":"header-dns"},{"settings":{"password":"aqy5LgXqSh"},"type":"mkcp-aes128gcm"}]}#🇩🇪All⁵ | @BigSmoke_Config
 trojan://7fb5f16d-4a73-42e6-b6c2-4f76f35af6f4@bestcdn2.868863.xyz:2087/?type=ws&host=17878361433987.206353.xyz&path=/agrbniuh&security=tls&sni=206353.xyz#美国
@@ -252,4 +253,3 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TzM5aC9QaisvNlFzWFd1UlJDT2ZycUFUbE9
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TzM5aC9QaisvNlFzWFd1UlJDT2ZycUFUbE9vejB2NW9rVU9mSytYNFhXTT0@158.101.202.112:45819#🇳🇱 | 4
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YUpERHJPbk5vSzdzWStOcHBsOWN3RTNJc1pLeWVBTnNuWFVjSkVUaW5ZVT0@144.24.228.8:61312#@v2ray313 کانالمون 💖
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6a1I3VWoxS1ZtbFlVbmZHRWpPMVZLVFl5MGdKeFg2Qm14ZFZOaUgzQTh4ST0@129.151.93.161:61312#英国
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cVBGQ1ZuY3p0dWdGMmJHUHdwNkt0NXRZcG90Rm83UHJQRnRaV29rdDhOYz0@92.5.171.85:59924#@V2ray_Alpha🧠 1
