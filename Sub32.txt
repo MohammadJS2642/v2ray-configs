@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://eda6b321-aa59-4b1e-b823-3616af020b4a@194.5.207.6:443?type=tcp&sid=d6c3c9&pbk=8Cho6K3KB6Aoty9x_TCAbY3yv7m-ToCHqaKkZTxR3jM&sni=play.google.com&encryption=none&security=reality&headerType=none&fp=chrome&spx=/#@v2rayng3
 vless://edae0c5c-6979-44ba-b82b-1575cb5804d6@r.telewebion.ir.varzesh3.com.de:443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩
 vless://eddee2c9-fdf9-4b55-b8ac-3481a680b060@52.194.245.53:33486?security=reality&encryption=none&pbk=0XefSfdaAV77RBJrVSVBIdRNUHUlaMGmFT5mX_Aw6G8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=1671781f157ac27e#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://ee4bdede-a6cf-4931-a6cf-7ee4792ee76e@1conf.top:3333?security=none&encryption=none&headerType=http&type=tcp#Arshiavpn12
@@ -253,3 +252,4 @@ vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@194.238.42.191:443/?type=tcp&encryp
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@217.179.220.226:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ang.freeinternat.com&fp=chrome&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#英国
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@83.168.111.61:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pol4.freeinternat.com&fp=chrome&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#波兰
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol3.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pol3.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://fbdee94a-ddc1-0dbb-f471-8a68d0c812eb@prisonvpnc-production-2f95.up.railway.app:443?encryption=none&security=tls&type=ws&host=prisonvpnc-production-2f95.up.railway.app&path=/ws/fbdee94a-ddc1-0dbb-f471-8a68d0c812eb&sni=prisonvpnc-production-2f95.up.railway.app&fp=chrome&alpn=http/1.1#RVG-@PRISONVPNc

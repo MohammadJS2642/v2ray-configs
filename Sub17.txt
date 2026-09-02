@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?path=/5c62e3c616d8&security=none&encryption=none&type=ws#@V2raySaman
 vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?path=/5c62e3c616d8&security=none&encryption=none&type=ws#@V2rayng_Fast
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&security=reality&sid=01d1bf2d4755d40c&sni=deepl.com&type=tcp#🔒42@oneclickvpnkeys
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#@Capoit
@@ -253,3 +252,4 @@ vless://514bedc0-9677-4ae1-9cd0-43d7689cfb63@f1.ngvip.org:44799?alpn=h2,http/1.1
 vless://518a99df-54f6-4f42-819d-b60abd880edf@176.96.138.122:443?security=reality&encryption=none&pbk=O_YZOJVON0LE1U01hAtNUOVRy7z6fkBUXbMtpCGoGEg&host=/?&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kind-vortex.cdn.cachefleet.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://5202d00b-4d95-49da-8da3-466d07842edb@89.208.106.218:8443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=RqrMeYgZHipaCyfygSF9TM6eKmpCJ2FCqcoB3vvFJD0&sid=441a01bb10389a31&spx=/4580d5855419f7e&type=xhttp&path=/subgift&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@subgift-120
 vless://522500fb-a77e-4304-8189-470c5ac16782@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#🇮🇹⇝ @GpConnectSho کانکت شو! 💠
+vless://523e5056-3d47-4ddb-ae55-c1ad54990bfc@lans1.milkabebar.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇫🇷⇝ @GpConnectSho کانکت شو! 💠
