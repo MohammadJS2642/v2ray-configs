@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#@vmesskhodam
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#@meliproxyy
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#Telegram-MTMVPN-12
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#🪄 @ConfigV2RayNG
@@ -252,4 +253,3 @@ vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=deproxy2.lckdwn.ru#🇩🇪AZARBAYJAB1
 vless://93ee032f-b67f-4cac-a239-da1295aec528@germanndnew.mamadhpbot.ir:50118?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇩🇪
 vless://93ee032f-b67f-4cac-a239-da1295aec528@turk.mamadhpbot.ir:50118?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇹🇷
-vless://93fb79d5-b84f-44de-9588-ee4fd5e8bd1c@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI
