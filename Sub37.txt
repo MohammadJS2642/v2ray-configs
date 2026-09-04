@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://MiTiVPN@151.101.56.7:443?path=Telegram:@v2rayng3---Telegram:@v2rayng3---Telegram:@v2rayng3---Telegram:@v2rayng3&security=tls&alpn=http/1.1&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Telegram:@v2rayng3
+trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=mitivpn-ss-ss.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#@V2ray_confiig
 trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=mitivpn-ss-ss.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#🇩🇪All⁷ | @BigSmoke_Config
 trojan://MiTiVPN@151.101.56.7:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#[37420] - Telegram : @V2All
 trojan://MiTiVPN@188.114.96.3:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -251,5 +253,3 @@ trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?path=%2Ftrojanws
 trojan://Go5e2nKM8T@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN[همراه اول]
 trojan://Go5e2nKM8U-v2rayNG_VPNN@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN⚙ ایرانسل
 trojan://telegram-id-privatevpns@52.19.49.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#VPNAzadiOfficiali[🔰ایرلند]
-trojan://telegram-id-directvpn@18.118.16.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔰
-trojan://telegram-id-directvpn@3.236.90.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@VPNAzadiOfficiali🔰

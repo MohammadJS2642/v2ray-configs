@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.129:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
@@ -251,5 +253,3 @@ vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-de01.korvexe.ir:14676?path=/
 vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-de01.korvexe.ir:14676?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.VmcUq5lkeaieE-x2wFNjsmupvkOa9EncGvwAU29SYAo&host=direct-de01.korvexe.ir&type=ws#Channel : @Daily_Configs
 vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-de01.korvexe.ir:14676?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.VmcUq5lkeaieE-x2wFNjsmupvkOa9EncGvwAU29SYAo&host=direct-de01.korvexe.ir&type=ws#Tel-@ProxyMtAlpha🥒 2
 vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-de01.korvexe.ir:14676?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.VmcUq5lkeaieE-x2wFNjsmupvkOa9EncGvwAU29SYAo&host=direct-de01.korvexe.ir&type=ws#vpnsal
-vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-tr01.korvexe.ir:21570?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.5SJmX8GGvlmVzd0r_T8yMc25nAj-kXw9Q4Cp831Vj1Y&host=direct-tr01.korvexe.ir&type=ws#vpnsal
-vless://c7e9c591-2764-423a-afca-efbd010fd396@104.21.70.21:443?path=/&security=tls&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&insecure=0&host=freeuse.firta.ru&type=ws&allowInsecure=0&sni=freeuse.firta.ru#kurdconfig

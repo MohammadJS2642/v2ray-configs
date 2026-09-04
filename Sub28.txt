@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://b2043d16-2dcc-4813-a2a6-180cf0bd1a91@46.8.209.137:18083?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&mode=auto&path=/api/v3/events&security=reality&encryption=none&pbk=a1MdDR-BBYGSzhVAlLdOIPXUWbTRz_YAT_31hEcVe2o&fp=chrome&type=xhttp&sni=royalehosting.net&sid=5f6af0122209fc10#[ 🇷🇺 ] | @Cfox_SerVer
+vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@176.96.138.122:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=plucky-xenon.cdn.cachefleet.com&fp=chrome&security=reality&pbk=O_YZOJVON0LE1U01hAtNUOVRy7z6fkBUXbMtpCGoGEg&sid=&packetEncoding=xudp#Unknown
 vless://b2424c2b-196c-4924-af15-747d27ef44a1@213.156.152.42:8089?security=reality&encryption=none&pbk=dx7cY0aeosAvz0hzRR9DrAtAiKAuMH44KRBSufYYMmk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=992a171518f6f60e#@Maznet - SOS515
 vless://b25f7b44-0d85-4e89-9a71-34053e074961@95.38.210.142:35021?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://b2bef9e4-0e52-43d7-9613-f6e73c2eb970@109.169.76.34:443?security=reality&encryption=none&pbk=JZ6o_q7-OSJ87w9kTrcn9I4UiMVZdPUnjXoRs4TbLzE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=61811b12a62fb2a4#Telegram 🆔@cnetvpn
@@ -251,5 +253,3 @@ vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@95.85.230.35:443?security=reality&e
 vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@95.85.230.35:443?security=reality&encryption=none&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.oblaco.bet#@V2ray_Alpha🥨 5
 vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@95.85.230.35:443?security=reality&encryption=none&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.oblaco.bet#@meliproxyy
 vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12

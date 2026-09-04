@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fb9b7935-e1d8-4342-b26c-d71c439fa29d@185.110.189.172:443?encryption=mlkem768x25519plus.native.0rtt.-0MXXOstBc09cB1tSeGN1pwYBzVEiVW__njsxK2hd14&security=none&type=tcp#@Capoit
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol3.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pol3.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://fbdee94a-ddc1-0dbb-f471-8a68d0c812eb@prisonvpnc-production-2f95.up.railway.app:443?encryption=none&security=tls&type=ws&host=prisonvpnc-production-2f95.up.railway.app&path=/ws/fbdee94a-ddc1-0dbb-f471-8a68d0c812eb&sni=prisonvpnc-production-2f95.up.railway.app&fp=chrome&alpn=http/1.1#RVG-@PRISONVPNc
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#🇸🇪139845 | ⚡️Telegram = t.me/SOSkeyNET
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#🇧🇬139856 | ⚡️Telegram = t.me/SOSkeyNET
@@ -251,5 +253,3 @@ vless://414b2c7f-26e8-4c08-a357-a4f00043804e@192.166.82.74:8443?security=reality
 vless://3d15500f-f7f9-4ae0-a5f9-10df9ce32083@5.78.48.21:39824?security=&encryption=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&host=SC-TheNetherlands1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?encryption=none&path=%2F5c62e3c616d8&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:2095?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:2086?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#%3E%3E%40v2nodes%3A%3AUS

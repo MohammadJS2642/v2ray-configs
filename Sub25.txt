@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8ff24c63-a8ab-443b-98c4-cf2ea1741382@38.148.253.32:9443?security=reality&encryption=none&pbk=z5ey3dBNwJciLD1_V2P_rKYGEd2Lk_V1IOl2uRDZwhQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=blog.jetbrains.com&sid=f5b880a0529326c1#@Begoo_VPN ²⁸⁸
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://8ff538e4-330c-43c1-97c8-0c90bf989331@81.12.56.132:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shoping2.gfdcty.ir#@appsooner کانال تلگرام 🕊️
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-01.sfproxy.fuck-rkn.dev:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jobinvest.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#法国
 vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
@@ -251,5 +253,3 @@ vless://@Cooonfig@Cooonfig@@@65.109.217.127:53618?security=none&encryption=none&
 vless://@Cooonfig@Cooonfig@@@65.109.217.127:53618?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@configprxy
 vless://@Cooonfig@Cooonfig@@@65.109.217.127:53618?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@meliproxyy
 vless://@Cooonfig@Cooonfig@@@65.109.217.127:53618?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@tootffarangi🍓-8
-vless://@Cooonfig@Cooonfig@@@65.109.217.127:53618?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@vasl_bashim
-vless://@Cooonfig@Cooonfig@@@65.109.217.127:53618?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@vmesskhodam
