@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://00e76985-35cb-44f2-a9b3-b0a29a8ac782@172.64.146.23:2087?path=/&security=tls&encryption=none&host=kurdnet.kurdmarivanzaribar.xyz&fp=chrome&type=httpupgrade&sni=kurdnet.kurdmarivanzaribar.xyz#@v2ray_phoenix
+vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#@configforVPN
 vless://0149f8a4-c31a-4bcf-98b6-cf98a5f11d76@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://01566881-bc1c-4376-9531-d540963c287b@f1.springpaatogh8.store:2053?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=chess.sorza.ir&path=/?ed=2560/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet#کانال تلگرام : Free_VPN_CH@
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=none&encryption=none&host=bale.ai&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
@@ -251,5 +253,3 @@ vless://09ea8f16-0817-41e6-9773-a246655bc607@204.10.194.82:56539?encryption=mlke
 vless://09ea8f16-0817-41e6-9773-a246655bc607@204.10.194.82:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@V2raySaman
 vless://09ea8f16-0817-41e6-9773-a246655bc607@204.10.194.82:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@V2rayng_Fast
 vless://09f2e2f4-3225-4342-bc92-cb58ee841f72@201.24.49.228:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@151.242.2.81:443?encryption=none&host=cf9.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=cf9.rumedia-cdn.com&type=ws#⛑️69@oneclickvpnkeys
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@206.245.132.50:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.google.com&pbk=ikgjW7sTpGgWMRVewLHLpovWxHa_FFdczKrq8kMiSFQ&sid=f1c868899d48ba08&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁹ | @BigSmoke_Config

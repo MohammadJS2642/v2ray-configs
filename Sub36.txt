@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AGB
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AGB
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AGB
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#%3E%3E%40v2ray1_ng%3A%3AUS
@@ -48,7 +50,6 @@ vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@69.84.182.20:443?security=tls&sni=r
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
 vless://764a13da-76a5-4bc0-a2c9-e2a02f62408f@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#@Everyday_VPN | 01 🇩🇪⚡️
-trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40Shh_Proxy-New%E2%81%B8
 trojan://humanity@104.18.152.103:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 trojan://humanity@104.18.152.208:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
@@ -252,4 +253,3 @@ trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2ray_Alpha🥎 10
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2ray_confiig
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@icv2ray
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti³⏳
