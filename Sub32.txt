@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df08fd27-d7c2-4cd2-8a79-a32287682a79@193.239.179.15:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=worldoftanks.com#[🇱🇺]t.me/ConfigV2RayNG
-vless://df08fd27-d7c2-4cd2-8a79-a32287682a79@193.239.179.15:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=worldoftanks.eu#[🇱🇺]t.me/ConfigV2RayNG
-vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fr2.janusgate.org&sid=6ed1d644822b2951#@Nexus_Panell چنل تلگرام
 vless://df9f5aca-eda0-428f-a752-e53866153d12@31.56.189.27:2087?encryption=none&fp=chrome&security=tls&serviceName=freegrpc&sni=srv-21bac9.vless.monster&type=grpc#کانال ما
 vless://df9f5aca-eda0-428f-a752-e53866153d12@31.56.189.27:2087?encryption=none&fp=chrome&security=tls&serviceName=freegrpc&sni=srv-21bac9.vless.monster&type=grpc#☺️39@oneclickvpnkeys
@@ -253,3 +250,6 @@ vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@84.32.189.155:443?mode=auto&path=/&
 vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@84.32.189.155:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=e7e90e6b.ferrin.uk#@hopev2ray🧡
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#@hopev2ray💕
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#Tel-@ProxyMtAlpha🍐 3
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&alpn=h2&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#Tel-@ProxyMtAlpha🕌 6
+vless://e8b6ba37-7b99-4b5a-8971-bbb89e7d9463@de3.seyhellodigi.com:2001?path=/api/add/2qnYtSDZhdin2KYsdiqINmB24zZhNiq2LEg2YbaqdmG&security=none&encryption=none&host=play.google.com&type=ws#@meliproxyy
+vless://e8b6ba37-7b99-4b5a-8971-bbb89e7d9463@de4.seyhellodigi.com:2002?path=/api/add/2qnYtSDZhdin2KYsdiqINmB24zZhNiq2LEg2YbaqdmG&security=none&encryption=none&host=play.google.com&type=ws#@meliproxyy

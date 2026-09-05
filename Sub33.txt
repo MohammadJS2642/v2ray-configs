@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&alpn=h2&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#Tel-@ProxyMtAlpha🕌 6
-vless://e8b6ba37-7b99-4b5a-8971-bbb89e7d9463@de3.seyhellodigi.com:2001?path=/api/add/2qnYtSDZhdin2KYsdiqINmB24zZhNiq2LEg2YbaqdmG&security=none&encryption=none&host=play.google.com&type=ws#@meliproxyy
-vless://e8b6ba37-7b99-4b5a-8971-bbb89e7d9463@de4.seyhellodigi.com:2002?path=/api/add/2qnYtSDZhdin2KYsdiqINmB24zZhNiq2LEg2YbaqdmG&security=none&encryption=none&host=play.google.com&type=ws#@meliproxyy
 vless://e8b6ba37-7b99-4b5a-8971-bbb89e7d9463@de4.seyhellodigi.com:2002?path=/api/add/2qnYtSDZhdin2KYsdiqINmB24zZhNiq2LEg2YbaqdmG&security=none&encryption=none&host=play.google.com&type=ws#@vmesskhodam
 vless://e8b6ba37-7b99-4b5a-8971-bbb89e7d9463@fl2.seyhellodigi.com:2003?path=/api/add/2qnYtSDZhdin2KYsdiqINmB24zZhNiq2LEg2YbaqdmG&security=none&encryption=none&host=play.google.com&type=ws#@meliproxyy
 vless://e8b6ba37-7b99-4b5a-8971-bbb89e7d9463@fr2.seyhellodigi.com:2006?path=/api/add/2qnYtSDZhdin2KYsdiqINmB24zZhNiq2LEg2YbaqdmG&security=none&encryption=none&host=play.google.com&type=ws#@meliproxyy
@@ -253,3 +250,6 @@ vless://ef770523-8eb5-403f-9e95-06b328719c87@lucky-sunset-d12e.201-98c.workers.d
 vless://efabf259-6e31-4fb3-aa96-fa29287fca66@ser.astershop.ir:56076?encryption=none&security=none&type=tcp&headerType=none#@V2ray_confiig
 vless://efabf259-6e31-4fb3-aa96-fa29287fca66@ser.astershop.ir:56076?security=&encryption=none&headerType=none&type=tcp#@B2Hub
 vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=/?JOIN_TELEGRAM@leviconfigs&headerType=none&type=tcp&allowInsecure=0&sni=nl-spec-1.atlanta-api.com#@leviconfigs🪐-11
+vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@31.77.170.110:443?security=reality&encryption=none&pbk=TC8D2edifNXaro0S31ZiC9izi8tAmXJyxdOHptwNUTw&host=/?JOIN_TELEGRAM@leviconfigs_leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=edge-nl.mystatic-cdn.ru&sid=660c1badc77a422b#@leviconfigs🪐-4
+vless://eff4b847-75bf-4c89-b469-814a2cab2d9b@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
+vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@167.233.47.127:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2rayng3
