@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://db8b37db-6205-425f-9073-e9cb14efec90@87.58.148.202:443?mode=gun&security=reality&encryption=mlkem768x25519plus.native.0rtt.lYiflGteJEqrmQaN12H0VCu3_224gb-a12ZEu6nM9Bk&pbk=qwAnwGzDx7sHdZdktrBd6y7VPhlJF5anjntWvCqzlhw&fp=chrome&spx=/74r3W9hwq49GlpY&type=grpc&sni=play.google.com&sid=cf3f27l#kurdconfig
 vless://db8b37db-6205-425f-9073-e9cb14efec90@87.58.148.202:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.lYiflGteJEqrmQaN12H0VCu3_224gb-a12ZEu6nM9Bk&pbk=qwAnwGzDx7sHdZdktrBd6y7VPhlJF5anjntWvCqzlhw&fp=chrome&spx=/74r3W9hwq49GlpY&type=grpc&sni=play.google.com&sid=cf3f27#@uonvpn اختصاصی
 vless://dbb5075f-2ff4-4aad-a952-bcc82e4a6355@109.69.17.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bzzru.hat.apruxdomain.space&fp=chrome&security=reality&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&sid=b2ba734eff38baa9#俄罗斯
 vless://dbdf1950-b40e-4533-88bb-05ebca375781@104.18.155.141:8443?path=/&security=tls&encryption=none&host=dig.jhju.ir&fp=chrome&type=ws&sni=dig.jhju.ir#@appsooner کانال تلگرام 🕊️
@@ -253,3 +252,4 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=/fp&security
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/sg-melbi#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=hhlfy.twiladaphne.ndjp.net&sni=hhlfy.twiladaphne.ndjp.net&insecure=0&allowInsecure=0#@Capoit
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi&security=tls&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws&sni=hhlfy.twiladaphne.ndjp.net#@appsooner کانال تلگرام 🕊️
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@leviconfigs🪐-11

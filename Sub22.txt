@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#@icv2ray
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#@meliproxyy
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#@vasl_bashim
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#Tel-@ProxyMtAlpha🍤 1
@@ -253,3 +252,4 @@ vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.18.24.194:443?path=/@zyzzzoao&s
 vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.21.53.134:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#@hopev2ray💕
 vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.21.85.220:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#@hopev2ray💚
 vless://7893b302-3882-4c38-9ab6-6313f1575d1a@172.67.213.31:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#@hopev2ray💯
+vless://78941009-6b9c-4754-a89b-e94dc34a4aca@well.arosakforosh.ir:9932?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.krmkbckycnkKq29MKnNpZCtkqMKlO9q4svhCzMA5enw&host=amp-api-edge.apps.apple.com&type=ws&flow=xtls-rprx-vision#@v2ray_phoenix
