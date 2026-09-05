@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.154.51:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tTXroX_MhV9m5MsLiAEncsC4u9VoV4fiHC01reGCv0k&security=reality&sid=7c9d968a&sni=apiv11.jarvesitw.ru&type=tcp#☺️77@oneclickvpnkeys
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.176.6:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&security=reality&sid=ef5d4ad5&sni=apiv13.betust.net&type=tcp#🩳17@oneclickvpnkeys
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.176.6:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=apiv13.betust.net&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.176.6:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#@Alpha_V2rayip
@@ -253,3 +252,4 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@51.38.127.93:443?path=/GOrbEh&secur
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@51.38.127.93:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@icv2ray
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?encryption=none&fp=chrome&path=/GOrbEh&security=tls&type=ws#☺️51@oneclickvpnkeys
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&type=ws&path=/GOrbEh#@Daily_Configs
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=/GOrbEh&security=tls&encryption=none&fp=chrome&type=ws&allowInsecure=0#@Alpha_V2rayip
