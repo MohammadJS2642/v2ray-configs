@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d3815c21-ef06-43e2-82e1-ca313962b489@84.32.102.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=app23.jarvestip.ru&fp=chrome&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&sid=2aef5875&type=tcp&headerType=none&host=--v2rayNplus--v2rayNplus--v2rayNplus--#🇳🇱 NL
 vless://d3815c21-ef06-43e2-82e1-ca313962b489@84.32.102.168:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app23.jarvestip.ru&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&sid=2aef5875&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://d3815c21-ef06-43e2-82e1-ca313962b489@84.32.102.168:443?security=reality&encryption=none&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app23.jarvestip.ru&sid=2aef5875#@V2ray_Alpha🫑 5
 vless://d3815c21-ef06-43e2-82e1-ca313962b489@84.32.102.168:443?security=reality&encryption=none&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app23.jarvestip.ru&sid=2aef5875#@configprxy
@@ -253,3 +252,4 @@ vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@54.39.96.233:8443?path=/uploader.ph
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@54.39.96.233:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#🔵@chillguy_vpn
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/uploader.php#🇺🇳 UN
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&type=ws&path=/uploader.php#@Daily_Configs
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&type=ws&path=/uploader.php#@proxy_kafee
