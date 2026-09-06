@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2a8cafda-479d-4e30-82d1-0bd4c6da6db9@www.baipiao.eu.org:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=delicate-meadow-15da.423-c77.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20113ms
-vless://2feda6f7-8baa-4591-a851-1e2037a58572@109.121.44.61:443?sid=4a1b0c7d&fp=firefox&headerType=none&encryption=none&sni=s3-m.perecmusic.ru&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&type=tcp&security=reality&flow=xtls-rprx-vision#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20149ms
-vless://2feda6f7-8baa-4591-a851-1e2037a58572@31.77.111.31:43435?type=grpc&pbk=mc5GFUALNT1V4TgYZ4OWJHB2DQ-G-b4qLYsRlgWB-VQ&security=reality&sni=cdn.higames.ru&serviceName=api&encryption=none&fp=firefox&sid=37dc4f92a7470fa0#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%20180ms
-vless://2feda6f7-8baa-4591-a851-1e2037a58572@91.233.8.31:443?fp=firefox&type=tcp&encryption=none&flow=xtls-rprx-vision&sid=4a1b0c7d&security=reality&headerType=none&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&sni=tnt-cloud.ru#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20147ms
-vless://30e4c878-15ca-4f53-ab32-04c60ecd3f31@104.17.21.137:8880?host=blue-rice-7142.30-346.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&sni=blue-rice-7142.30-346.workers.dev&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.2:2087?encryption=none&path=%2F3bfc3e3ed603&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20149ms
 vless://09e90d43-f7de-48ef-947f-c584144f75d9@uae1-ravannet-dl-persianmusics.xirnaro.ir:20588?path=%2Fapi%2Fv2%2Fmovies%2Fdownload%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=uae1-ravannet-dl-persianmusics.xirnaro.ir&fp=chrome&type=ws&allowInsecure=0&sni=uae1-ravannet-dl-persianmusics.xirnaro.ir#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20444ms
 vless://1cb011db-0211-4120-8984-13d8510a612b@77.222.53.218:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20196ms
@@ -253,3 +248,8 @@ vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?encryption=non
 vless://0014fa64-cd57-361b-1d44-7b52d286b9bd@69.46.46.25:443?path=/ws/0014fa64-cd57-361b-1d44-7b52d286b9bd&security=tls&alpn=http/1.1&encryption=none&host=limo-production-c1f7.up.railway.app&fp=chrome&type=ws&sni=limo-production-c1f7.up.railway.app#✅  @vistav2ray  👈👈کانال ما ✅
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@neth2.nihaovpn.ru:443?mode=gun&security=reality&encryption=none&pbk=qNCzfY_ga5_n3NCD0g1XoiBWcnofF4SHUM27jvoBAyw&fp=chrome&type=grpc&serviceName=grpc&sni=stackoverflow.com&sid=0ea83f18e6b2#@appsooner کانال تلگرام 🕊️
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@VpnCostumer+|+بیا+تو+وصل+باش+💙
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
+vless://008678b8-5e27-49fa-b95a-1fff4c61a849@www.g.mobilesari.ir:4777?security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#[🇩🇪]t.me/ConfigV2RayNG
+vless://00be8dab-84dc-c4a3-5214-0987fbb4cbb3@69.46.46.34:443?path=/ws/00be8dab-84dc-c4a3-5214-0987fbb4cbb3&security=tls&alpn=http/1.1&encryption=none&host=ivory-ridge-9884-production.up.railway.app&fp=chrome&type=ws&sni=ivory-ridge-9884-production.up.railway.app#2 🇺🇸 @V2ngNet
+vless://00d1eaf8-14a6-4ea7-a939-e80ad114a819@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#کانال تلگرام : Free_VPN_CH@
