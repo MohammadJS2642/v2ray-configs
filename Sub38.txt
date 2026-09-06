@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@85.90.246.11:28443?security=tls&sni=download.windowsupdate1.com#%F0%9F%87%A9%F0%9F%87%AADE-85.90.246.11-0198
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@194.233.171.25:443?security=tls&sni=download.windowsupdate1.com#%F0%9F%87%A9%F0%9F%87%AADE-194.233.171.25-0199
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@5.181.4.104:28443?security=tls&sni=download.windowsupdate1.com#%F0%9F%87%AD%F0%9F%87%B0HK-5.181.4.104-0200
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.77.154:28443?security=tls&sni=glckr.hruqoaw.cn#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.77.154-0201
@@ -252,4 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#@SylphNet | 2026-06-27 05:13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080?type=tcp&headerType=none#@EVAY_VPN 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#TEL;Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#@v2rayng3
