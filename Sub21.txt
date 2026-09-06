@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.186.182:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪@FreakConfig
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.186.182:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪AZARBAYJAB1
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@162.217.248.241:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kombo.api3-max.ru&alpn=h2,http/1.1&fp=chrome#@Vpn_Mafia 🇺🇸
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.12:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz4.api3-max.ru&alpn=h2,http/1.1&fp=chrome#@Vpn_Mafia 🇫🇷
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.12:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=kamaz4.api3-max.ru#برای اتصال دائمی جوین شو🥎 TelegramID ⌲Express_freevpn 🪩
@@ -253,3 +251,5 @@ vless://612e616d-54da-e82e-102a-d6731c2e8715@www.speedtest.net:443?path=/v2&secu
 vless://612e616d-54da-e82e-102a-d6731c2e8715@www.speedtest.net:443?path=/v2&security=tls&encryption=none&insecure=0&host=a.v2boxerfree8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.v2boxerfree8.workers.dev#🚀@VPNine1
 vless://61344a01-5e77-45ad-9f0b-243eedff1dd3@de-node.official-happ.online:22886/?type=tcp&encryption=none&flow=#德国
 vless://61344a01-5e77-45ad-9f0b-243eedff1dd3@de-node.official-happ.online:22886?security=none&encryption=none&headerType=none&type=tcp#@Azaranv2ray
+vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?security=&encryption=mlkem768x25519plus.native.0rtt.N1oxcKhA4M6Jl_2oVZAXib6-LS2QMRutMviT6-9AKmU&host=account.xiaomi.com&headerType=http&type=tcp#@confiig_hub
+vless://615d9f74-4d51-bad3-f240-2a840000000b@104.18.13.149:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/silaber&security=tls&encryption=none&insecure=0&host=main.packetloss-com.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=main.packetloss-com.workers.dev#@GozargahAzad|🏁

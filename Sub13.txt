@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@FarazV2ray
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@V2raySaman
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@V2ray_confiig
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@V2rayng_Fast
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -253,3 +251,5 @@ vless://176bc48c-460b-4260-abbd-68fd5ea85270@31.56.184.133:443?security=reality&
 vless://179491f7-0b4f-420d-8a38-3282674c6604@188.114.97.6:8443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=bot.cloudi-host.ir&fp=chrome&type=ws&allowInsecure=1&sni=bot.cloudi-host.ir#کانال ما
 vless://179491f7-0b4f-420d-8a38-3282674c6604@188.114.97.6:8443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=bot.cloudi-host.ir&fp=chrome&type=ws&allowInsecure=1&sni=bot.cloudi-host.ir#🇨🇦163426 | ⚡️Telegram = t.me/SOSkeyNET
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=none&encryption=none&host=188.40.210.8&headerType=none&type=tcp#کانال تلگرام : Free_VPN_CH@
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@AZARBAYJAB1.Uk.1.PAGES.DEV:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?TM@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&type=ws&sni=bpb-worker-panel-h5f.pages.dev#@GozargahAzad|🏁
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@AZARBAYJAB1.Uk.1.PAGES.DEV:2053?path=/?TM@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&type=ws&sni=bpb-worker-panel-h5f.pages.dev#@Hope_Net-join-us-on-Telegram

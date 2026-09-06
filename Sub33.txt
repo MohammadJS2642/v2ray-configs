@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=hhlfy.twiladaphne.ndjp.net&sni=hhlfy.twiladaphne.ndjp.net&insecure=0&allowInsecure=0#@Capoit
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi&security=tls&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws&sni=hhlfy.twiladaphne.ndjp.net#@appsooner کانال تلگرام 🕊️
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@leviconfigs🪐-11
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@leviconfigs🪐-19
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@leviconfigs🪐-2
@@ -253,3 +251,5 @@ vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@2.56.120.24:443?fp=chrome&flow=xtls
 vless://eec46bd2-a16c-4b10-af49-79506f054141@95.217.13.209:2095?security=none&encryption=none&headerType=none&type=tcp#کانال ما
 vless://eec46bd2-a16c-4b10-af49-79506f054141@95.217.13.209:2095?security=none&encryption=none&headerType=none&type=tcp#🇫🇮163364 | ⚡️Telegram = t.me/SOSkeyNET
 vless://eec46bd2-a16c-4b10-af49-79506f054141@95.217.13.209:443?security=none&encryption=none&headerType=none&type=tcp#کانال ما
+vless://eec46bd2-a16c-4b10-af49-79506f054141@95.217.13.209:443?security=none&encryption=none&headerType=none&type=tcp#🇫🇮163366 | ⚡️Telegram = t.me/SOSkeyNET
+vless://eec46bd2-a16c-4b10-af49-79506f054141@95.217.13.209:901?security=none&encryption=none&headerType=none&type=tcp#کانال ما

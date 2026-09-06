@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443/?type=ws&encryption=none&flow=#نتورلد تو تلگرام جستجو کنید
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&security=none&type=ws#☺️67@oneclickvpnkeys
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443/?type=ws&encryption=none&flow=#@networld_vpn
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443/?type=ws&encryption=none&flow=#نتورلد تو تلگرام جستجو کنید
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?encryption=none&security=none&type=ws#☺️66@oneclickvpnkeys
@@ -253,3 +251,5 @@ vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?TELEGRAM?ed
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#[🇨🇦]t.me/ConfigV2RayNG
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&host=xwrivr.pages.dev&type=ws&sni=xwrivr.pages.dev#@configprxy
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@B2Hub
+vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@FarazV2ray
+vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#@V2raySaman
