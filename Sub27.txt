@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://XpnTeam-68@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=/#@proxy_kafee : کانال
 vless://XpnTeam-68@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=/#Telegram: @Daily_Configs
 vless://XpnTeam-68@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=/#Telegram: @proxy_kafee
 vless://XpnTeam-68@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
@@ -253,3 +252,4 @@ vless://ab5a2531-acc1-4a54-b16c-e14665dc88a5@direct.freelauner.ir:443?security=n
 vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@193.42.12.34:18443?encryption=none&fp=&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&serviceName=grpc&sid=5c766813929a1fdd&sni=gp2.steptofsvo.com&type=grpc#⭐️14@oneclickvpnkeys
 vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@193.42.12.34:18443?mode=gun&security=reality&encryption=none&authority=Telegram-Leviko_v2ray&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&type=grpc&serviceName=grpc&sni=gp2.steptofsvo.com&sid=5c766813929a1fdd#🇺🇸 direct
 vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@193.42.12.34:18443?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&type=grpc&serviceName=grpc&sni=gp2.steptofsvo.com&sid=5c766813929a1fdd#Channel : @Daily_Configs
+vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@gp2.steptofsvo.com:18443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=gp2.steptofsvo.com&security=reality&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd#تو کانال نتورلد نباشید قطع میشن@networld_vpn

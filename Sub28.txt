@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@gp2.steptofsvo.com:18443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=gp2.steptofsvo.com&security=reality&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@gp2.steptofsvo.com:18443?encryption=none&fp=&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&serviceName=grpc&sid=5c766813929a1fdd&sni=gp2.steptofsvo.com&type=grpc#⭐️81@oneclickvpnkeys
 vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@gp2.steptofsvo.com:18443?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&fp=chrome&type=grpc&serviceName=grpc&sni=gp2.steptofsvo.com&sid=5c766813929a1fdd#@ICV2RAY
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#@configprxy
@@ -253,3 +252,4 @@ vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@91.228.227.172:443?security=none&en
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@91.228.227.172:8080?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@142.91.105.104:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp.servers.gracevpnbuy.com&fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@144.31.5.171:753?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=b91a73752053b039#@leviconfigs🪐-6
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&sid=b91a73752053b039#@leviconfigs🪐-1

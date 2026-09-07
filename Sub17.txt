@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&encryption=none&type=grpc&sid=221ba6174224ca5b#🇲🇩164724 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#46 🇲🇩 Tel: @ConfigV2RayNG
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=&fp=chrome&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&type=grpc&authority=&serviceName=hub.v1.SyncService&mode=gun#@GozargahAzad|🇲🇩
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?encryption=none&security=reality&sni=md2.univesalsrv.com&fp=chrome&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&type=grpc&authority=&serviceName=hub.v1.SyncService&mode=gun#@Daily_Configs
@@ -253,3 +252,4 @@ vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@cncdn.cc:80?path=/14708/31d3c856199
 vless://384bc9c9-28cc-54ae-812f-2847a473f5bf@finland.netpllus.ir:2095?encryption=none&security=none&sni=1&type=tcp&headerType=http&host=fast.com#کانال تلگرام : Free_VPN_CH@
 vless://384e448a-880b-46ab-860d-91ece3f0f803@144.31.77.71:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&security=reality&sid=abcd1234&sni=de.yservice.help&type=tcp#⭐️49@oneclickvpnkeys
 vless://384e448a-880b-46ab-860d-91ece3f0f803@31.77.149.204:443?security=reality&encryption=none&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.yservice.help&sid=abcd1234#برای اتصال دائمی جوین شو🎡 TelegramID ⌲Express_freevpn 🪩
+vless://384e448a-880b-46ab-860d-91ece3f0f803@31.77.149.204:443?security=reality&encryption=none&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.yservice.help&sid=abcd1234#☑➜چنلمون: Express_freevpn@

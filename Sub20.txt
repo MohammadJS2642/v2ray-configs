@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://50d23ee5-96dd-4e77-9b6d-8aa9e8335cb9@t5rnllobbe35.dx4x.com:3939?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=jDLgjb0-BD4samYabw5rmOX4asnuJ1VhwaRgvdNWSxU&sid=b7c2547d2c6ddfea&type=tcp&headerType=none#@filembad
 vless://50d23ee5-96dd-4e77-9b6d-8aa9e8335cb9@t5rnllobbe35.dx4x.com:3939?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=jDLgjb0-BD4samYabw5rmOX4asnuJ1VhwaRgvdNWSxU&sid=b7c2547d2c6ddfea&type=tcp&headerType=none#کانال ما
 vless://50d23ee5-96dd-4e77-9b6d-8aa9e8335cb9@t5rnllobbe35.dx4x.com:3939?encryption=none&type=tcp&security=reality&fp=chrome&sni=amp-api-edge.apps.apple.com&pbk=jDLgjb0-BD4samYabw5rmOX4asnuJ1VhwaRgvdNWSxU&sid=b7c2547d2c6ddfea&spx=/@v2_line#@v2_line rl
 vless://50d23ee5-96dd-4e77-9b6d-8aa9e8335cb9@t5rnllobbe35.dx4x.com:3939?encryption=none&type=tcp&security=reality&fp=chrome&sni=amp-api-edge.apps.apple.com&pbk=jDLgjb0-BD4samYabw5rmOX4asnuJ1VhwaRgvdNWSxU&sid=b7c2547d2c6ddfea&spx=/@v2_line#@v2_line rl new 🇩🇪 1
@@ -253,3 +252,4 @@ vless://5c4e540b-c430-486e-2ec7-84e4ab62efef@69.46.46.32:443?path=/ws/5c4e540b-c
 vless://5ca098ea-8220-42bb-b6b6-e155a6a62094@5.75.194.217:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#@V2ray_Alpha🛣️ 4
 vless://5ca098ea-8220-42bb-b6b6-e155a6a62094@5.75.195.244:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=SSw.1.apple1.ir&headerType=http&type=tcp#@V2ray_Alpha🛣️ 1
 vless://5cb1dfeb-4d93-4a96-89ca-47cf1699f813@sakura.proxy.rlwy.net:43756?path=/&security=none&encryption=none&type=ws#@appsooner کانال تلگرام 🕊️
+vless://5cc814de-2bbb-4409-ad8c-ee841ca7bad1@84.22.150.39:7443?path=/@Marisa_kristi&security=tls&encryption=none&insecure=0&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev#[🇫🇮]t.me/ConfigV2RayNG
