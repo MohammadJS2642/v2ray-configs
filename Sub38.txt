@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@85.90.246.11:28443?security=tls&sni=download.windowsupdate1.com#%F0%9F%87%A9%F0%9F%87%AADE-85.90.246.11-0198
 trojan://b3845d95-c82e-47f8-b626-0f27d861e8f7@los.ydnode.us:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.214-0060
 trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.239.104-0194
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@210.0.158.220:28443?security=tls&sni=download.windowsupdate1.com#%F0%9F%87%AD%F0%9F%87%B0HK-210.0.158.220-0196
@@ -252,4 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#@vas
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#Channel id: @ARGO_VPN1 🇮🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#Tel-@ProxyMtAlpha🥒 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#برای اتصال دائمی جوین شو🎡 TelegramID ⌲Express_freevpn 🪩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#برای اتصال دائمی جوین شو🥎 TelegramID ⌲Express_freevpn 🪩

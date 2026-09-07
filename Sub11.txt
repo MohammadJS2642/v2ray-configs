@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
 vless://00be8dab-84dc-c4a3-5214-0987fbb4cbb3@69.46.46.34:443?path=/ws/00be8dab-84dc-c4a3-5214-0987fbb4cbb3&security=tls&alpn=http/1.1&encryption=none&host=ivory-ridge-9884-production.up.railway.app&fp=chrome&type=ws&sni=ivory-ridge-9884-production.up.railway.app#2 🇺🇸 @V2ngNet
@@ -252,4 +253,3 @@ vless://0a83252b-df4e-4a09-a054-45d5a1f731eb@am255.amin5646.ir:2082?type=xhttp&e
 vless://0abd5d38-fdf1-11ed-bade-f23c91369f2d@219.77.167.19:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com#@meliproxyy
 vless://0abd5d38-fdf1-11ed-bade-f23c91369f2d@a558fe2a-tl4g00-txkkcl-1fli7.hk3.hyhuawei.com:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com#@meliproxyy
 vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=/ws/0ac6ad68-45cb-cd9e-459b-446568d15f69&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1#107
-vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=/ws/0ac6ad68-45cb-cd9e-459b-446568d15f69&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1#107  حجم: 50

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6df75f42-4447-4ade-a53e-350f4eb69858@n8.loyalemu.sbs:8443?path=/ws8&security=tls&alpn=http/1.1&encryption=none&host=n8.loyalemu.sbs&fp=chrome&type=ws&sni=n8.loyalemu.sbs#@appsooner کانال تلگرام 🕊️
 vless://6e256a9a-957b-496a-841c-b7e9fe8deb33@104.17.108.1:443?encryption=none&type=xhttp&mode=packet-up&host=aa.farxmode.ir&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=aa.farxmode.ir&alpn=h2,http/1.1#@EVAY_VPN
 vless://6e55c426-4c88-61ff-409c-c938db3d4cae@69.46.46.102:443?path=/ws/6e55c426-4c88-61ff-409c-c938db3d4cae&security=tls&alpn=http/1.1&encryption=none&host=maple-atlas-b6b2-production.up.railway.app&fp=chrome&type=ws&sni=maple-atlas-b6b2-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://6e55c426-4c88-61ff-409c-c938db3d4cae@69.46.46.102:443?path=/ws/6e55c426-4c88-61ff-409c-c938db3d4cae&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=maple-atlas-b6b2-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=maple-atlas-b6b2-production.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -252,4 +253,3 @@ vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.179.82:443?encryption=none&s
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@v2rayng3
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@v2rayng3
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@EXPRESSVPN_420
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.207:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&type=ws&sni=shegeftihaaa.net#@v2rayng3
