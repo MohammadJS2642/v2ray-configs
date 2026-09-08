@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a8eabfe5-0140-4fbf-a3b1-7f807d879f79@145.63.132.218:59726?security=reality&encryption=none&pbk=7gvZqfl2U6DhRaaT6WAttHQSuVXrvuoVUDwuTvVhzmk&headerType=none&fp=chrome&spx=/0d696d59d83a232&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=2050c0ac613e#🇩🇪@FreakConfig
 vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@172.67.176.60:443/?type=ws&encryption=none&flow=&host=3-m19.south-afriCa.Ccwu.Cc&path=/CjBjB9sn5pCvaSwScc&security=tls&sni=3-M19.SoUtH-afRIcA.CCwu.Cc&fp=chrome&packetEncoding=xudp#美国
 vless://a9169cac-0e9b-4e6b-a5f1-861d29df9cda@turkii.parsclad.ir:22491?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=g4YeImudDPGxprH2bSiQkh3UjBRzfl1rjRf-kV1g5U4&sid=b5bb955bbc&spx=/037108cf7ff5611&type=xhttp&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#vu2v2aomxxXHTTP2
 vless://a9169cac-0e9b-4e6b-a5f1-861d29df9cda@turkii.parsclad.ir:22491?mode=auto&path=/&security=reality&encryption=none&pbk=g4YeImudDPGxprH2bSiQkh3UjBRzfl1rjRf-kV1g5U4&fp=chrome&spx=/037108cf7ff5611&type=xhttp&sni=www.cloudflare.com&sid=b5bb955bbc#@erfanandroid
@@ -252,4 +253,3 @@ vless://b79f78f6-ca4e-bad4-029f-4f9c43b6b6d9@69.46.46.124:443?path=/ws/b79f78f6-
 vless://b79f78f6-ca4e-bad4-029f-4f9c43b6b6d9@69.46.46.124:443?path=/ws/b79f78f6-ca4e-bad4-029f-4f9c43b6b6d9&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://b7c0b208-8f36-4433-ac80-1737a49209b1@asia6.novahomedesigntips.com:6677?path=/&security=&encryption=none&type=ws#channel : @freedomofinfor
 vless://b7ee8185-a285-7f38-4e42-411da1656523@cf2.3pita.com:443?encryption=none&security=tls&sni=de.www.hitgram.ir&alpn=h2&fp=chrome&type=xhttp&host=de.www.hitgram.ir&path=/mitivpn&mode=packet-up&extra={"headers":{}}#کانال تلگرام : Free_VPN_CH@
-vless://b7f8a470-e576-48ed-a5d5-d56d9605d307@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-26Mordad-Night

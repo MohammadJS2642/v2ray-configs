@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?encryption=none&security=reality&sni=bg4.univesalsrv.com&fp=chrome&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&type=grpc&authority=&serviceName=cloud.v1.RelayService&mode=gun#@Daily_Configs
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?encryption=none&security=reality&sni=bg4.univesalsrv.com&fp=chrome&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&type=grpc&authority=MTMVPN&serviceName=cloud.v1.RelayService&mode=gun#@Daily_Configs
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?encryption=none&security=reality&sni=bg4.univesalsrv.com&fp=chrome&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&type=grpc&authority=MTMVPN&serviceName=cloud.v1.RelayService&mode=gun#Channel: @Daily_Configs
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?encryption=none&type=grpc&mode=gun&serviceName=cloud.v1.RelayService&security=reality&fp=chrome&sni=bg4.univesalsrv.com&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319#@V2RAYNG_IP 🍫
@@ -252,4 +253,3 @@ vless://31f5621c-f67a-c7ba-8501-fd00a31d6766@prisonvpnc-production-8e1b.up.railw
 vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:443?encryption=none&type=ws&security=none#@V2RAYNG_IP 🌟
 vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:443?security=none&encryption=none&type=ws#@hopev2ray🤍
 vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=neth.lckdwn.ru#@hex_proxy ⁷
-vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=neth.lckdwn.ru#@v2ray313 کانالمون ⭐
