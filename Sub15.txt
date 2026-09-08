@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?security=reality&encryption=none&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&headerType=none&fp=chrome&type=tcp&sni=ru2.skydrgn-online.online&sid=0b#@ICV2RAY
 vless://21e26ef9-c061-4ae3-88e4-ecc4513a3bb7@de2frisveryfarfromyou.arakphone.ir:58586?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=3QmQU1zXUCaPCzvHW6TEgMyASExmAxwxMNaXL3IRmyM&headerType=none&fp=chrome&type=tcp&sni=orfi.net.tr&sid=c50efc0fd5a955be#@GozargahAzad|🇩🇪
 vless://21e26ef9-c061-4ae3-88e4-ecc4513a3bb7@de2frisveryfarfromyou.arakphone.ir:58586?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=orfi.net.tr&pbk=3QmQU1zXUCaPCzvHW6TEgMyASExmAxwxMNaXL3IRmyM&sid=c50efc0fd5a955be#@filembad
 vless://21e26ef9-c061-4ae3-88e4-ecc4513a3bb7@de2frisveryfarfromyou.arakphone.ir:58586?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=orfi.net.tr&pbk=3QmQU1zXUCaPCzvHW6TEgMyASExmAxwxMNaXL3IRmyM&sid=c50efc0fd5a955be#کانال ما
@@ -253,3 +252,4 @@ vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@api.pl.pngv.top:4999?security=none&
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@fr-po.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇷 چنل تلگرام : @EXPRESSVPN_420
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@gr-direct.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 چنل تلگرام : @EXPRESSVPN_420
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@gr-direct2.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪2 - چنل تلگرام : @EXPRESSVPN_420
+vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@old.v2xpin.de:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-fr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-fr1.ipng.site#🇫🇷 چنل تلگرام : @EXPRESSVPN_420

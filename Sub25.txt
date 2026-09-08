@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8a51f3d9-30cc-44e6-8d31-700211a29066@130.94.115.231:2087/?type=ws&encryption=none&flow=&path=/721740e567c7&packetEncoding=xudp#加拿大
 vless://8a527097-96a8-476d-8612-6043e51e75f4@hollowcon4.onrender.com:443?encryption=none&security=tls&sni=hollowcon4.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon4.onrender.com&path=/ws/8a527097-96a8-476d-8612-6043e51e75f4#@hollowcon
 vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@jush.sukario.ir:443?encryption=none&type=ws&security=tls&path=/mashdi&host=KxUkNaDj13.mUlTiCuT.BoNd&sni=KxUkNaDj13.mUlTiCuT.BoNd&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#@EVAY_VPN 5
 vless://8ac637bf-554e-4902-94d7-baf01780a83c@94.241.174.157:40443?security=reality&encryption=none&pbk=mM33xyzf1GPaU2CQXAGYoGkTuYzEZRYT6S-NngyqfHQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=beb4#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
@@ -253,3 +252,4 @@ vless://935ed92d-68c3-42c7-8c32-2db2595737e6@95.85.247.98:443?mode=auto&path=/ap
 vless://935ed92d-68c3-42c7-8c32-2db2595737e6@95.85.247.98:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=axial.medic-ml.ru&sid=e1ac2faf5e5f309e#@VConfing
 vless://935ed92d-68c3-42c7-8c32-2db2595737e6@axial.medic-ml.ru:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=axial.medic-ml.ru&sid=e1ac2faf5e5f309e#@V2ray_confiig
 vless://935ed92d-68c3-42c7-8c32-2db2595737e6@axial.medic-ml.ru:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=axial.medic-ml.ru&sid=e1ac2faf5e5f309e#@VConfing🔥
+vless://935ed92d-68c3-42c7-8c32-2db2595737e6@kl18.x5specially.online:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=kl18.x5specially.online&sid=e1ac2faf5e5f309e#@Nexus_Panell چنل تلگرام

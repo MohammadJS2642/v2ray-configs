@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@hel1.nordlinkcloud.com:443?path=%2Fapi%2Fv3%2Fstream%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=hel1.nordlinkcloud.com#🆔vpnbaz%20🔒%20VL-XHTTP-N/A%20❔%20XX%20down
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#🆔vpnbaz%20🔒%20VL-TCP-%20❔%20XX%20216ms
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@45.136.126.70:8443?security=reality&encryption=none&pbk=6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=67933d8be5b42f78#🆔vpnbaz%20🔒%20VL-TCP-%20❔%20XX%20118ms
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?encryption=none&type=ws&security=tls&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net&sni=hhlfy.twiladaphne.ndjp.net&insecure=0&allowInsecure=0#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%2012ms
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@185.55.240.199:443?encryption=none&type=tcp&security=tls&headerType=none&sni=fr199.mechvpn.online&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#🆔capoit%20🔒%20VL-TCP-N/A%20❔%20XX%20down
@@ -251,5 +253,3 @@ vless://ca22f744-95a9-4740-b8df-e757045892bd@pk-play.mobileemdad.top:443?securit
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%20226ms
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%20229ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.226.230.177:48132?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20down
-vless://d422c2ef-8399-4d2e-b0ff-ddf471ea2e40@zephyr.proxy.rlwy.net:49443?encryption=none&host=&path=%2F&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%2050ms
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2012ms
