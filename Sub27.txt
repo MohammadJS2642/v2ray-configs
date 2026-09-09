@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@194.71.227.213:443?sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173fp=chrome&security=tls#[044464] - 🇧🇪 Belgium | ⚡️ 34.47ms | @freenettir
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@62.182.192.195:443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=no…#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇸🇪
 vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-76.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@KAFING_2
 vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@KAFING_2
 vless://9cf7c39e-6ba9-489d-be99-adb1f67082e8@italic.dearhossein-taktaz.ir:443?sni=bale.ai&encryption=mlkem768x25519plus.native.0rtt.k9LGUTCm_w6B_wpL-_NQeX_hKYU3Pb1HRamE3zYqDhU&sid=7a4fa74472c79f&path=/@sia_vpn23&mode=stream-one&extra={"mode":"stream-one","xPaddingBytes":"200-1200","xPaddingObfsMode":true,"xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"800-1200","hMaxReusableSecs":"3200","maxConcurrency":"120","maxConnections":0}}&spx=/b63bba4ec67d8c1&type=xhttp&fp=chrome&pbk=kLo9YHZbzPDH448Qssu0qfpeC2179GiVYdbhzSjRs0o&security=reality&host=italic.dearhossein-taktaz.ir#vuzbtjwgwo
@@ -253,3 +251,5 @@ vless://XpnTeam-70@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-70@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-70@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@leviconfigs🪐-6
 vless://XpnTeam-70@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-70@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@tootffarangi🍓-6
+vless://XpnTeam-70@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@vmesskhodam
