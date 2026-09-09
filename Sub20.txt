@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@NOFiLTERING2🇩🇪
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@v2rayng3
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#@EVAY_VPN 7
 vless://4d259f79-e02b-4aa3-ebde-92c177df2d87@3.120.187.17:36632?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://4d55dc30-c198-4f95-b3cf-8e65c5787cdc@digia.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digia.riziro.ir&mode=auto&path=/&pbk=Ve-mF0aFGxV4deOSEA8jDe3FdjxLddF7n4IchNKvcDc&security=reality&sid=ddaafd&sni=search.semiconductor.samsung.com&spx=/IUjV6zFUgjtAU76&type=xhttp&x_padding_bytes=100-1000#🇳🇱hollowcon-t1@hollowcon
 vless://4d55dc30-c198-4f95-b3cf-8e65c5787cdc@digin.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digin.rizrio.ir&mode=auto&path=/&pbk=zKeOuPoCS_FA1bsfFr-A8MmdYIS-DhcHwxmhDC1WaSA&security=reality&sid=c3e004ba0a&sni=www-ams.samsung.com&spx=/kU5m24oEYKluItb&type=xhttp&x_padding_bytes=100-1000#🇺🇸hollowocn-t1@hollowcon
@@ -250,6 +253,3 @@ vless://594d466e-8ac3-4fda-b1d1-eeb817853518@staging.lastilhame.monster:443?type
 vless://59691413-4c83-4232-8a79-ff6dc376dd53@gr.edge-cache.onevanet.ir:8876?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&sid=9262c6710896560f&type=tcp&headerType=none#@Daily_Configs : کانال
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.186.182:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪AZARBAYJAB1
 vless://5990e0a5-fc5f-43c6-8fdc-39612c60a9cd@172.66.140.62:8880?path=/pyip&security=&encryption=none&host=jolly-butterfly-24e0.212-cb3.workers.dev&type=ws#filembad-175
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@162.217.248.241:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kombo.api3-max.ru&alpn=h2,http/1.1&fp=chrome#@Vpn_Mafia 🇺🇸
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.12:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz4.api3-max.ru&alpn=h2,http/1.1&fp=chrome#@Vpn_Mafia 🇫🇷
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.206:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz03.api3-max.ru&alpn=h2,http/1.1&fp=chrome#@Vpn_Mafia 🇫🇷
