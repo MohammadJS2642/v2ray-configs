@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegramjoin:TurboConfigs @82.22.40.102:2091?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@VEGAAS_VPN🇵🇱⚡
+vless://Telegramjoin:TurboConfigs @82.22.40.102:80?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=/&security=none&type=tcp#@VEGAASVPN🇵🇱⚡
 vless://Telegramjoin:TurboConfigs @82.22.40.195:9090?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#@Ap_Ir6
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#@Capoit
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#vmessorg
@@ -251,5 +253,3 @@ vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encr
 vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori3.up.railway.app&path=/Telegram1:@Configfori#config1-configfori
 vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori3.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#config3-configfori
 vless://a7913e8e-56a7-435f-843e-ad71fbb8d218@5.75.195.244:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=SSw.1.apple1.ir&headerType=http&type=tcp#@ICV2RAY
-vless://a7913e8e-56a7-435f-843e-ad71fbb8d218@5.75.195.244:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=SSw.1.apple1.ir&headerType=http&type=tcp#Free x183 @Outline_Vpn
-vless://a79acce2-37ec-42b9-bc57-8c0c5c5b57c6@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray
