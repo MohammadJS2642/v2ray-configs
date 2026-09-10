@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2096?pbk=SxwVIGxEH4b7_lUoInpjwEd4Ga9ngcWyUEomP5zU3Fk&flow=xtls-rprx-vision&type=tcp&encryption=none&sid=e3e76808b9fcd591&security=reality&sni=conrad.de&headerType=none&fp=chrome#🇮🇹⇝ @GpConnectSho کانکت شو! 💠
 vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2096?security=reality&encryption=none&pbk=SxwVIGxEH4b7_lUoInpjwEd4Ga9ngcWyUEomP5zU3Fk&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#@MARAMBASHI 💟
 vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2096?security=reality&encryption=none&pbk=SxwVIGxEH4b7_lUoInpjwEd4Ga9ngcWyUEomP5zU3Fk&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#@V2rayng_Fast 💟
 vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2096?security=reality&encryption=none&pbk=SxwVIGxEH4b7_lUoInpjwEd4Ga9ngcWyUEomP5zU3Fk&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#@meliproxyy
@@ -252,4 +253,3 @@ vless://70d482eb-7584-4841-a02a-c668f1ee33e7@de2.routeliora.ru:8443?security=rea
 vless://70d482eb-7584-4841-a02a-c668f1ee33e7@de2.routeliora.ru:8443?security=reality&encryption=none&pbk=bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de2.routeliora.ru&sid=9f3a7c2d#@v2ray_phoenix
 vless://70d94f75-064c-4e34-d2cf-0b6ef4d49ef7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@confiig_hub
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&security=tls&sni=derman.neobo-tooth.ru&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc&mode=gun#🇩🇪 DE
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&security=tls&sni=derman.neobo-tooth.ru&fp=chrome&type=grpc&mode=gun&authority=&serviceName=grpc#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
