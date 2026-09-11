@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?path=/4bc027a44532&security=none&encryption=none&type=ws#Free x199 @Outline_Vpn
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087/?type=ws&encryption=none&flow=&path=/4bc027a44532&packetEncoding=xudp#波兰
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&type=ws&headerType=none&path=/4bc027a44532#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?type=ws&headerType=none&path=/4bc027a44532#@Alpha_V2rayip
@@ -253,3 +252,4 @@ vless://c9da5fd7-62bb-46c0-8006-f89a18e38f4b@static.onevanet.ir:1128?encryption=
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@CUSTOMVPNSERVER
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@hopev2ray🖤
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#⚡Telegram =@CUSTOMVPNSERVER
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@hopev2ray🩶

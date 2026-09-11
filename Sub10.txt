@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#%F0%9F%87%B1%F0%9F%87%AE%20Liechtenstein%20%28%D9%84%DB%8C%D8%AE%D8%AA%D9%86%E2%80%8C%D8%A7%D8%B4%D8%AA%D8%A7%DB%8C%D9%86%29
 vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
 vless://6bb4d50a-56f9-47d5-8ce8-d8b7fe9aa474@64.225.9.191:25023?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran
@@ -253,3 +252,4 @@ vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@TFast.clnet.site:443?mode=auto&path
 vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@nnbfyhcgiiiutfc.vahidzhv.ir:20379?security=reality&encryption=mlkem768x25519plus.native.0rtt.nuL_xOMI1AYLLIcXFgTXsn2mCEOZTg6yohbwKklqdSk&pbk=sZj_UtK8nPx4R049jGyhn5mn_khqHxg6Zilpp8mlEWo&headerType=none&fp=chrome&type=tcp&sni=store-images.s-microsoft.com&sid=b472a98152b40914#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20556ms
 vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@nsjwiwueijeneeiejdndn.neninet.ir:20379?security=reality&encryption=mlkem768x25519plus.native.0rtt.nuL_xOMI1AYLLIcXFgTXsn2mCEOZTg6yohbwKklqdSk&pbk=sZj_UtK8nPx4R049jGyhn5mn_khqHxg6Zilpp8mlEWo&headerType=none&fp=chrome&type=tcp&sni=store-images.s-microsoft.com&sid=b472a98152b40914#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20281ms
 vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@nsjwiwueijeneeiejdndn.neninet.ir:42813?security=none&encryption=mlkem768x25519plus.native.0rtt.Gu-KSpH9m5bbaKh-CvzzJVA2sMSXuuYYiLL5Q85Rx3o&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
+vless://12ddc97d-12ee-4c33-8cf3-8810a5f6733a@yowyow.dadashjan.space:2020?security=reality&encryption=none&pbk=01TmVsvbmbveLx8HyqYg04RidqRBZg3fUYLre4kG7Ao&headerType=none&fp=chrome&type=tcp&sni=jetbrains.com&sid=21e093a23ee93e47#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20226ms

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.33.59:443?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#[43115] - Telegram : @V2All
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cfvvv-ev1.pages.dev&path=/&security=tls&sni=cfvvv-ev1.pages.dev&type=ws#🛠️12@oneclickvpnkeys
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=/&security=tls&encryption=none&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#@Alpha_V2rayip
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=/&security=tls&encryption=none&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&sni=cfvvv-ev1.pages.dev#kurdconfig
@@ -253,3 +252,4 @@ vless://50414e45-4c5f-5a45-5553-7f29cf678cc7@fbzy8ge4uzls.3tzux7euu3gs.workers.d
 vless://50414e45-4c5f-5a45-5553-7f29cf678cc7@fbzy8ge4uzls.3tzux7euu3gs.workers.dev:80?path=/stream/PANEL_ZEUS/7f29cf678cc7&security=&encryption=none&host=fbzy8ge4uzls.3tzux7euu3gs.workers.dev&fp=chrome&type=ws&sni=fbzy8ge4uzls.3tzux7euu3gs.workers.dev#ZEUS | 🌐 | Rokervpn
 vless://50414e45-4c5f-5a45-5553-8ab06d2b3ccd@104.16.188.108:443?path=/stream/PANEL_ZEUS/8ab06d2b3ccd/loc-0&security=tls&encryption=none&insecure=0&host=nfz5qieuu29s.66zqafe8uq8s.workers.dev&type=ws&allowInsecure=0&sni=nfz5qieuu29s.66zqafe8uq8s.workers.dev#@meliproxyy
 vless://50414e45-4c5f-5a45-5553-8ab06d2b3ccd@104.16.188.108:443?path=/stream/PANEL_ZEUS/8ab06d2b3ccd/loc-0&security=tls&encryption=none&insecure=0&host=nfz5qieuu29s.66zqafe8uq8s.workers.dev&type=ws&allowInsecure=0&sni=nfz5qieuu29s.66zqafe8uq8s.workers.dev#Tel--@V2rayAlpha--7
+vless://50414e45-4c5f-5a45-5553-8ab06d2b3ccd@104.16.188.108:443?path=/stream/PANEL_ZEUS/8ab06d2b3ccd/loc-0&security=tls&encryption=none&insecure=0&host=nfz5qieuu29s.66zqafe8uq8s.workers.dev&type=ws&allowInsecure=0&sni=nfz5qieuu29s.66zqafe8uq8s.workers.dev#vpnsal
