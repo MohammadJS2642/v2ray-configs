@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.134.170:443?path=/stream/PANEL_ZEUS/635698a6bb9c/loc-0&security=tls&encryption=none&insecure=0&host=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&allowInsecure=0&sni=jdzit4e4urks.xwzohsebujps.workers.dev#@meliproxyy
 vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.134.170:443?path=/stream/PANEL_ZEUS/635698a6bb9c/loc-0&security=tls&encryption=none&insecure=0&host=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&allowInsecure=0&sni=jdzit4e4urks.xwzohsebujps.workers.dev#Tel--@V2rayAlpha--10
 vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.134.170:443?path=/stream/PANEL_ZEUS/635698a6bb9c/loc-0&security=tls&encryption=none&insecure=0&host=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&allowInsecure=0&sni=jdzit4e4urks.xwzohsebujps.workers.dev#vpnsal
 vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.134.170:443?path=/stream/PANEL_ZEUS/635698a6bb9c/loc-0&security=tls&encryption=none&insecure=0&host=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&allowInsecure=0&sni=jdzit4e4urks.xwzohsebujps.workers.dev#🇺🇦 Join+Telegram:@Farah_VPN 🇺🇦
@@ -252,4 +253,3 @@ vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@31.76.119.63:47010?security=reality
 vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@31.76.119.63:47010?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#@tootffarangi🍓-2
 vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@31.76.119.63:47010?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#@vmesskhodam
 vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@31.76.119.63:47010?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&host=&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#@vmesskhodam
-vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@31.76.119.63:47010?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&host=/?TELEGRAM--ICV2RAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#@ICV2RAY
