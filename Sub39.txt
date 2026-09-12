@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
+trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#🇬🇧 direct
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#TEL;Father_vpn
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
+trojan://u78pf9hiyifswgg9@185.204.170.125:252?path=/&security=tls&alpn=h2,http/1.1&insecure=0&host=185.204.170.125&fp=chrome&ech=AGL+DQBeAAAgACA47RSS1LmVkphlPWHOkD83GKKoGFbpeMDwc+SVMO/CdAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xODUuMjA0LjE3MC4xMjUAAA==&type=ws&allowInsecure=0&sni=185.204.170.125#MTMVPN 10
 trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
 trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 3
 trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎
@@ -51,27 +57,24 @@ trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.
 trojan://eabf1999fefbb7d2@waysi.waysi6688.workers.dev:2087?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=ios&host=waysi.waysi6688.workers.dev&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://MiTiVPN@199.232.78.160:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40freeland8%3A%3AFR
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10824?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.9-4880
-trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?security=tls&sni=cdn.qchwnd.moe#%F0%9F%87%B8%F0%9F%87%ACSG-139.177.189.122-0157
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@183.245.146.20:31001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.245.146.20-0161
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@36.138.100.57:31001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.138.100.57-0162
-trojan://FH72359861@charming-puma.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.172.178-0164
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@36.138.100.57:31002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.138.100.57-0165
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:11002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0195
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:11001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0196
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@183.245.146.20:11002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.245.146.20-0201
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@183.245.146.20:11001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.245.146.20-0205
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.220:11002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.220-0206
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.220:11001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.220-0207
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@36.138.100.57:11002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.138.100.57-0208
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@36.138.100.57:11001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.138.100.57-0209
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@183.245.146.20:41001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.245.146.20-0212
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:21005?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0214
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:21004?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0215
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:21003?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0216
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:21002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0217
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:21001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0226
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@183.245.146.20:21001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.245.146.20-0230
+trojan://a1e12464-9208-4583-bd21-ab6889fdd242@172.105.222.177:443?security=tls&sni=cdn.qchwnd.moe#%F0%9F%87%AF%F0%9F%87%B5JP-172.105.222.177-0032
+trojan://FH72359861@charming-puma.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.172.178-0159
+trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?security=tls&sni=cdn.qchwnd.moe#%F0%9F%87%B8%F0%9F%87%ACSG-139.177.189.122-0175
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@183.245.146.20:31001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.245.146.20-0179
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@36.138.100.57:31001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.138.100.57-0180
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@36.138.100.57:31002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.138.100.57-0183
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:11002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0213
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:11001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0214
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@183.245.146.20:11002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.245.146.20-0219
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@183.245.146.20:11001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.245.146.20-0223
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.220:11002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.220-0224
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.220:11001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.220-0225
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@36.138.100.57:11002?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.138.100.57-0226
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@36.138.100.57:11001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.138.100.57-0227
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@183.245.146.20:41001?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.245.146.20-0230
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:21005?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0232
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:21004?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0233
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:21003?security=tls&sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3CN-117.164.185.222-0234
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD%2026.1KB%2Fs
 ss://2022-blake3-aes-256-gcm:KYFtNXJrl3Jei35nSh9hMDqzlRdOjd6NlrtV6wyOVsw=:YBLEjXrK2Rh6XigucXQ4aqV/m70sjyErBcbtt1SFFds=@77.90.61.217:56670?type=tcp#Telegram-@vpnon4u
 ss://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#[049652] - 🇷🇺 Russia | @freenettir
@@ -250,6 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXb0JtN29tUEpjbnhLVDVB@98.71.73.147:443?outline=1&prefix=POST N3586feQ#🇮🇪IE-🚀@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#@ghand_sheken
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@89.187.160.73:1080#[049677] - 🇯🇵 Japan | @freenettir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#TEL;Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZaTVrMUo1S1ZiZlR1UDV2SHplTE84K1VEUHlBQzByU0ljWlVCaG5kK2lnPQ@e1.cover20.ir:51570#🇮🇷139798 | ⚡️Telegram = t.me/SOSkeyNET
