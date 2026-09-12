@@ -1,3 +1,5 @@
+vless://b8cff836-8a21-4b72-a77d-231c8678c711@217.12.194.226:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.cloudflare.com&fp=firefox&insecure=1&allowInsecure=1&pbk=oOp4xgD1R9MGm17qYp4XIHiq1dAfTaknr39UvhOv8Gc&sid=ab55ed2e71e8f58e&flow=xtls-rprx-vision#🆔configfa%20🔒%20VL-TCP-%20🇺🇸%20US%20down
+vless://c26fe2f0-5c69-11f1-8a1a-bf116ceb9215@c-2.mrcloudi.ir:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&sni=jsv-p-de1.donick.ir&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20🇺🇸%20US%20110ms
 vless://d384974a-87c2-430b-a10c-ae367bc7ced8@germany24kvlcvkzcxvlqwe312adscrfsdcrc234cef.soft421.ir:1152?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&sid=86a68a48b7d45f43#🆔configfa%20🔒%20VL-TCP-%20🇩🇪%20DE%20222ms
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.92:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🆔surfboardv2ray%20🔓%20VL-GRPC-N/A%20❔%20XX%20down
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?encryption=none&security=reality&sni=md2.univesalsrv.com&fp=chrome&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&type=grpc&authority=%2F%3FBIA_TELEGRAM%E2%80%93madshopx&serviceName=hub.v1.SyncService&mode=gun#🆔surfboardv2ray%20🔒%20VL-GRPC-%20❔%20XX%20148ms
@@ -96,5 +98,3 @@ vless://433c0703-dff5-48b2-8926-2eefcc3a5086@213.145.82.137:443?encryption=none&
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.173.207:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%204ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.255.71:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.127.60:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.147.231:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.227.86:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
