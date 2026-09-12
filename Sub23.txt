@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://756a76ad-7461-4fd3-9eaa-c01617afa707@vodcez.vipstarone.com:35445?encryption=none&fp=chrome&pbk=_gGKYAmNhjqudkqhmBEfZkZ4FzeuUGojkhDG19y4YkM&security=reality&sid=f089&sni=www.google.com&spx=/034c3a53403b6b0&type=tcp#@filembad
 vless://756a76ad-7461-4fd3-9eaa-c01617afa707@vodcez.vipstarone.com:35445?encryption=none&fp=chrome&pbk=_gGKYAmNhjqudkqhmBEfZkZ4FzeuUGojkhDG19y4YkM&security=reality&sid=f089&sni=www.google.com&spx=/034c3a53403b6b0&type=tcp#کانال ما
 vless://756a76ad-7461-4fd3-9eaa-c01617afa707@vodcez.vipstarone.com:35445?security=reality&encryption=none&pbk=_gGKYAmNhjqudkqhmBEfZkZ4FzeuUGojkhDG19y4YkM&headerType=&fp=chrome&spx=/034c3a53403b6b0&type=tcp&sni=www.google.com&sid=b15425573eb5d914#@filembad
 vless://756a76ad-7461-4fd3-9eaa-c01617afa707@vodcez.vipstarone.com:35445?security=reality&encryption=none&pbk=_gGKYAmNhjqudkqhmBEfZkZ4FzeuUGojkhDG19y4YkM&headerType=&fp=chrome&spx=/034c3a53403b6b0&type=tcp&sni=www.google.com&sid=b15425573eb5d914#کانال ما
@@ -252,4 +253,3 @@ vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&sec
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch: @pPal03😛جوین بدید😛
 vless://8033102198@144.31.171.233:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.fast-connect-service.site#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@91.107.169.16:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@KAFING_2
-vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@KAFING_2
