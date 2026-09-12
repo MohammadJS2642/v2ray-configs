@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.201.230:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#@configprxy : چنل
 vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.201.28:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#@configprxy
 vless://b732329b-8c5a-ac60-0bfd-8bb353dd7a22@69.46.46.126:443?path=/ws/b732329b-8c5a-ac60-0bfd-8bb353dd7a22&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-productionopop.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-productionopop.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://b75e7509-12c4-485b-98d3-cd84d7d37d0f@5.78.54.64:43291?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
@@ -253,3 +252,4 @@ vless://c3d907c3-2c00-4e0d-bd5a-04f7df6cc304@45.131.66.247:20002?encryption=none
 vless://c3d907c3-2c00-4e0d-bd5a-04f7df6cc304@45.131.66.247:20002?encryption=none&fp=chrome&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&path=/@Marisa_kristi&security=tls&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&type=ws#☸️41@oneclickvpnkeys
 vless://c3d907c3-2c00-4e0d-bd5a-04f7df6cc304@45.131.66.247:20002?encryption=none&fp=chrome&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&path=/@Marisa_kristi&security=tls&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&type=ws#🇩🇪169470 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c3e2c992-6721-443f-a051-331cb8a29fad@13.229.47.178:20414?security=reality&encryption=none&pbk=H4ZErlTUck4uQYnxtURj9aHLVXQIUHIPMI8dBz7wMVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=ed2cfa4d6d47e0#🇸🇬 | 10
+vless://c3e2c992-6721-443f-a051-331cb8a29fad@13.229.47.178:20414?security=reality&encryption=none&pbk=H4ZErlTUck4uQYnxtURj9aHLVXQIUHIPMI8dBz7wMVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=ed2cfa4d6d47e0#🇸🇬 | 14
