@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://238e492b-bc20-4380-92b6-135d39112ca4@185.154.193.137:443?security=reality&encryption=none&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec#@V2ray_Alpha🌉 7
-vless://238e492b-bc20-4380-92b6-135d39112ca4@185.154.193.137:443?security=reality&encryption=none&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec#@V2ray_Alpha🌉 8
 vless://238e492b-bc20-4380-92b6-135d39112ca4@185.154.193.137:443?security=reality&encryption=none&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec#@V2ray_confiig
 vless://238e492b-bc20-4380-92b6-135d39112ca4@185.154.193.137:443?security=reality&encryption=none&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec#@V2rayng_Fast
 vless://238e492b-bc20-4380-92b6-135d39112ca4@185.154.193.137:443?security=reality&encryption=none&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec#@fastkanfig 2
@@ -253,3 +251,5 @@ vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@gr-direct2.pngv.top:4999?security=n
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@old.v2xpin.de:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-fr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-fr1.ipng.site#🇫🇷 چنل تلگرام : @EXPRESSVPN_420
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@www1.n.ahmadhamoumi.fun:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-tr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-tr.ipng.site#🇹🇷 چنل تلگرام : @EXPRESSVPN_420
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.glitchout.ir:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
