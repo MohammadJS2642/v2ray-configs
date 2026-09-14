@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@leviconfigs🪐-11
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@leviconfigs🪐-19
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@leviconfigs🪐-2
-vless://e5fc79a3-e331-f47d-ac58-ee616dceb901@69.46.46.20:443?path=/ws/e5fc79a3-e331-f47d-ac58-ee616dceb901&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-438b.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-438b.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://e62aa442-9f2c-4b5b-8b95-bdefdddce556@go.lumen.com:2095?path=download&security=&encryption=none&host=eco-de.v2shop.xyz&type=ws# 🇩🇪 - آلمان (5566666)
 vless://e65852a5-9d9e-48e0-b454-5df6a44c72d0@167.233.227.12:35443?security=reality&encryption=none&pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=bd2e4421#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️545🌐🆕️
 vless://e685dff4-9d49-407e-8930-3c22dbb60184@france5.selqora.ir:31663?security=none&encryption=none&headerType=none&type=tcp#@configprxy
@@ -253,3 +249,7 @@ vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@fcs013.getdcz.me:443?encryption=non
 vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@fcs013.getdcz.me:443?path=/6d2fed050b30&security=tls&encryption=none&insecure=0&host=fcs013.getdcz.me&fp=chrome&type=ws&allowInsecure=0&sni=fcs013.getdcz.me#@ICV2RAY
 vless://f0d24eb0-a88a-455f-92b8-3a99c38dfb0c@hys42.wba-pn.ru:443?encryption=none&security=tls&sni=hys42.wba-pn.ru&type=ws&path=/#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://f0d24eb0-a88a-455f-92b8-3a99c38dfb0c@hys42.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=hys42.wba-pn.ru#Free x139 @Outline_Vpn
+vless://f0eac976-e4e2-4e24-bc86-cda82ee31442@5.129.215.87:40443?security=reality&sni=deepl.com&fp=chrome&pbk=7QJA1tXQcNj8gioQVzief5a4KeUTDT7R8FE0jfKU41k&sid=3180&type=tcp&path=/#🇷🇺139910 | ⚡️Telegram = t.me/SOSkeyNET
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#[45493] - Telegram : @V2All
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#🇸🇨171042 | ⚡️Telegram = t.me/SOSkeyNET
+vless://f1349fb7-899b-4076-ad67-c2cc6e4bd1f9@140.233.177.28:39521?security=&encryption=none&headerType=&type=tcp#🇩🇪139731 | ⚡️Telegram = t.me/SOSkeyNET

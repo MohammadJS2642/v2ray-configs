@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@31.76.119.63:47010?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&host=/?TELEGRAM--V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#@V2ray_confiig
-vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@31.76.119.63:47010?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&host=/?TELEGRAM-TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#@tootffarangi🍓-8
-vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@mine-host.mcufa.pro:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=on.mcufa.pro&fp=chrome&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&allowinsecure=0&type=tcp&headerType=none#[ 🇷🇺 ] | @Cfox_SerVer
-vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@mine-host.mcufa.pro:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=on.mcufa.pro&fp=chrome&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁶ | @BigSmoke_Config
 vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@mine-host.mcufa.pro:443?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=on.mcufa.pro#[ 🇷🇺 ] | @Cfox_SerVer
 vless://5bd820f0-69cb-4d6a-b42d-c0dfe2edffcd@5.152.223.192:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#@appsooner کانال تلگرام 🕊️
 vless://5bfb1d65-4dac-48c6-a5c8-3a4be1964b84@status.luminesight.com:443?encryption=none&security=tls&sni=status.luminesight.com&fp=chrome&allowinsecure=0&type=ws&host=dews.irandoc.info&path=/15754/socket#🇩🇪All¹ | @BigSmoke_Config
@@ -253,3 +249,7 @@ vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&pa
 vless://66c38516-8d85-45b7-afcd-4b1b0352e38c@188.213.198.238:7080?security=none&encryption=none&headerType=none&type=tcp#🇩🇪گیگی ۵۵۰۰ @ATOVPN
 vless://675ee872-adb2-4c66-8358-bd360259311f@185.173.147.141:9090?mode=packet-up&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.a-nUkey-_SyhFBJ_XhbEgSL69XWCWYqjH-nIW9Ro9zE&type=xhttp&flow=xtls-rprx-vision#@Capoit
 vless://676e31b1-da5a-49ae-86d5-803031549189@194.110.207.59:443?security=reality&encryption=none&pbk=mWzXDVWUhjGcuizZHA-rEnRpxv2wgeSZUIuHmQdteiA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=f576da5e05a1d4d2#𝗝𝗼𝗶𝗻 ➡️ @configprxy 🔥
+vless://676e31b1-da5a-49ae-86d5-803031549189@194.110.207.59:443?security=reality&encryption=none&pbk=mWzXDVWUhjGcuizZHA-rEnRpxv2wgeSZUIuHmQdteiA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=f576da5e05a1d4d2#🇳🇴@AZARBAYJAB1
+vless://67a5a206-7bd8-43ec-8cff-769994f18db1@altaria.proxy.rlwy.net:18050?encryption=none&security=none&type=ws&path=/#🇳🇱 NL
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?security=reality&encryption=none&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=91af08b1ce1f#@hopev2ray💜
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@cdn2.portalcode.ir:2095?path=/&security=&encryption=none&host=usv4.monopolitass.ir&type=httpupgrade#canfingV2rayNG-213
