@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d6c178d6-4594-4031-9870-2d5e1663d55d@209.50.60.243:443?security=none&encryption=none&headerType=none&type=tcp#🇺🇸171312 | ⚡️Telegram = t.me/SOSkeyNET
-vless://d6c595c9-bff4-4510-893a-dfa3c87fa0cd@skk.moe:8880?encryption=none&security=none&type=ws&host=lucky-cell-d20c.78-107.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇺🇸☁️ US
 vless://d6e792d5-ea82-4e6c-b679-89f49ff7996e@104.143.223.66:2085?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=grpc&serviceName=vless#@meliproxyy
 vless://d6e792d5-ea82-4e6c-b679-89f49ff7996e@104.143.223.69:2085?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=grpc&serviceName=vless#@meliproxyy
 vless://d6e792d5-ea82-4e6c-b679-89f49ff7996e@194.87.59.7:2085?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=grpc&serviceName=vless#@meliproxyy
@@ -253,3 +251,5 @@ vless://e0e49d1c-c56b-4347-9053-6cbed0966124@81.12.54.134:5050?path=/&security=t
 vless://e0f66109-6639-58bc-6e8b-800894f1d8e6@69.46.46.125:443?path=/ws/e0f66109-6639-58bc-6e8b-800894f1d8e6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-production-fd1c.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production-fd1c.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?mode=auto&path=/&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=chrome&type=xhttp&sni=www.google.com#@v2ray313 کانالمون 😍
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?mode=auto&path=/&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=chrome&type=xhttp&sni=www.google.com#@v2ray313 کانالمون 🥶
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?mode=auto&path=/&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=chrome&type=xhttp&sni=www.google.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://e1311f3b-049a-4204-8915-f0836ba909f9@199.232.78.159:80?path=/&security=&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#@HoosheMasnui

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?mode=auto&path=/&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=chrome&type=xhttp&sni=www.google.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://e1311f3b-049a-4204-8915-f0836ba909f9@199.232.78.159:80?path=/&security=&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#@HoosheMasnui
 vless://e1311f3b-049a-4204-8915-f0836ba909f9@199.232.78.159:80?path=/&security=none&encryption=none&host=BlackGod.global.ssl.fastly.net&type=ws#filembad-376
 vless://e14abf99-8718-ca16-ce8a-4fe7d9ea50d5@69.46.46.31:443?path=/ws/e14abf99-8718-ca16-ce8a-4fe7d9ea50d5&security=tls&alpn=http/1.1&encryption=none&host=hidden-glacier-c2dd-production.up.railway.app&fp=chrome&type=ws&sni=hidden-glacier-c2dd-production.up.railway.app#1 🇳🇱 @V2ngNet
 vless://e1dde74e-3439-ac43-2007-0fa078a4756a@69.46.46.101:443?path=/ws/e1dde74e-3439-ac43-2007-0fa078a4756a&security=tls&alpn=http/1.1&encryption=none&host=willow-heron-f3a9-production.up.railway.app&fp=chrome&type=ws&sni=willow-heron-f3a9-production.up.railway.app#All Operators @MaSTeRSeRVeR1
@@ -253,3 +251,5 @@ vless://e9973ea4-3c6b-4d58-aa92-1c567a53c312@94.249.180.6:443?mode=gun&security=
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&allowInsecure=0&sni=YjF03nNq0B.sOlEnTrAa.InFo#🇨🇦139802 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🔥Join+Telegram:@Azarbayjab1🟣
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#@v2ray_phoenix
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&host=/?TELEGRAM--i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#@i10VPN🚏
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&host=/?TELEGRAM--i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#@i10VPN🧧
