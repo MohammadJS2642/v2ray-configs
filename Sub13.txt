@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@46.19.69.201:443?path=/?TELEGRAM--TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wsnl7.wba-pn.ru#@Nexus_Panell چنل تلگرام
-vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#Free x147 @Outline_Vpn
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=tcp#@V2ray_confiig
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=tcp#🔵@chillguy_vpn
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@hopev2ray🩷
@@ -253,3 +251,5 @@ vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.97.1:8880?encryption=none&s
 vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/IA3ruOefK9v20v3w17m0Z43bZCevdBsy?ed=2560#💦 8. VLESS - Clean IP : 8080
 vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@www.speedtest.net:80?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/bluVNvVS87bNnQsw14XsL3e4qMG?ed=2560#💦 4. VLESS - Clean IP : 80
 vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@www.speedtest.net:8880?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/e7b7xGIM6nadrDQ7TO7ADMXSW?ed=2560#💦 12. VLESS - Clean IP : 8880
+vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev:2052?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/WV8Fq5ZRoeLPjNrRjBu7gYiRyAK39R?ed=2560#💦 13. VLESS - Domain : 2052
+vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev:8080?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/0aJmZcqucFD6HKUsK?ed=2560#💦 5. VLESS - Domain : 8080

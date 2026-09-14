@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/JEtBk8DPXKH88SZ5?ed=2560#Join Tel: @CxrolVPN (10)
-vless://860b7321-21de-4611-94e2-79fe3d2d93c1@NJH.FARS-REMEN.IR:37739?security=reality&encryption=none&pbk=X2via1s2pTcQzUcS1IPI-Yhj6UWZjoRJdclX2z3PeWs&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=769731e9683ce530#Free x187 @Outline_Vpn
 vless://862f9ab3-e9db-f0f2-0bf6-a582d09dcdb0@69.46.46.22:443?path=/ws/862f9ab3-e9db-f0f2-0bf6-a582d09dcdb0&security=tls&alpn=http/1.1&encryption=none&host=velvet-glacier-70e1-production.up.railway.app&fp=chrome&type=ws&sni=velvet-glacier-70e1-production.up.railway.app#🇩🇪 @V2ngFast
 vless://8633ca81-65f6-4aa4-af09-6edc31f13eaa@193.233.133.152:58862?security=reality&encryption=none&pbk=uyj9cFlYSb1mJnA1kyHGIaHxoMokvvXj8ive54wn_xs&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.amazon.com&sid=ef42cf8770e2d6a9#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://8663a9b2-2b3c-4bfd-8ffd-26436822346b@188.114.99.2:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=kurdnet.arianetmili.xyz&path=/random&security=tls&sni=kurdnet.arianetmili.xyz&type=httpupgrade#⚡️ KURDNET | کرد نت
@@ -253,3 +251,5 @@ vless://90fa5ced-3ce8-4f44-b599-fc12efb26be6@31.56.150.33:8443?encryption=none&f
 vless://90fa5ced-3ce8-4f44-b599-fc12efb26be6@31.56.150.33:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3L3i_4b1jo-cCwx3TwIEjjOxQIMm6ysblH3AvTlvgBk&security=reality&sid=6ab35813f22b9cea&sni=cs605123.vk.me&type=tcp#🇪🇪EE-🚀@VPNine1
 vless://90fa5ced-3ce8-4f44-b599-fc12efb26be6@31.56.150.33:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3L3i_4b1jo-cCwx3TwIEjjOxQIMm6ysblH3AvTlvgBk&security=reality&sid=6ab35813f22b9cea&sni=cs605123.vk.me&type=tcp#🏀62@oneclickvpnkeys
 vless://90fa5ced-3ce8-4f44-b599-fc12efb26be6@31.56.150.34:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ObdaDJ1-OGV8eq3pV3uw7CX1LR9snkN9YDkaCqfxtik&security=reality&sid=0dbc71ad79ff7805&sni=cs605123.vk.me&type=tcp#🇪🇪171509 | ⚡️Telegram = t.me/SOSkeyNET
+vless://90fa5ced-3ce8-4f44-b599-fc12efb26be6@31.56.150.34:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ObdaDJ1-OGV8eq3pV3uw7CX1LR9snkN9YDkaCqfxtik&security=reality&sid=0dbc71ad79ff7805&sni=cs605123.vk.me&type=tcp#🇪🇪EE-🚀@VPNine1
+vless://90fa5ced-3ce8-4f44-b599-fc12efb26be6@31.56.150.34:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ObdaDJ1-OGV8eq3pV3uw7CX1LR9snkN9YDkaCqfxtik&security=reality&sid=0dbc71ad79ff7805&sni=cs605123.vk.me&type=tcp#🏀52@oneclickvpnkeys
