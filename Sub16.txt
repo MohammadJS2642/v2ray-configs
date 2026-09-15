@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1af93670-c30e-4207-8458-7a0fc5638e53@185.216.71.225:443?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام
+vless://1b4b3567-559f-4d78-a5c4-c00d1f61d62f@any.zavqeron.ir:2053?path=/de1-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=any.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@meliproxyy
+vless://1b4b3567-559f-4d78-a5c4-c00d1f61d62f@any.zavqeron.ir:2053?path=/de1-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=any.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#🔵@chillguy_vpn
 vless://1b4b3567-559f-4d78-a5c4-c00d1f61d62f@bul.zavqeron.ir:2053?path=/tr2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=bul.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@meliproxyy
 vless://1b4b3567-559f-4d78-a5c4-c00d1f61d62f@bul.zavqeron.ir:2053?path=/tr2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=bul.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#🔵@chillguy_vpn
 vless://1b4b3567-559f-4d78-a5c4-c00d1f61d62f@herd.zavqeron.ir:2053?path=/de2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=herd.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#@meliproxyy
@@ -250,6 +253,3 @@ vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@cz.cloudtechone.org:443?security=re
 vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@cz.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cz.cloudtechone.org&sid=f93c9d5127e622e4#Tel-@ProxyMtAlpha🍫 1
 vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@nl.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.cloudtechone.org&sid=f93c9d5127e622e4#@v2ray_phoenix
 vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@pl.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.cloudtechone.org&sid=f93c9d5127e622e4#@fastkanfig کانال تلگرام
-vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@tr.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.cloudtechone.org&sid=f93c9d5127e622e4#@ICV2RAY
-vless://2b325596-af9c-45ce-8b09-8344dd91bd4f@marzban-node-production-e513.up.railway.app:443?path=/vless&security=tls&alpn=h2&encryption=none&host=marzban-node-production-e513.up.railway.app&fp=chrome&type=ws&sni=marzban-node-production-e513.up.railway.app#@v2ray_phoenix
-vless://2b325596-af9c-45ce-8b09-8344dd91bd4f@marzban-node-production-e513.up.railway.app:443?path=/vless&security=tls&alpn=h2&encryption=none&insecure=0&host=marzban-node-production-e513.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=marzban-node-production-e513.up.railway.app#@ICV2RAY
