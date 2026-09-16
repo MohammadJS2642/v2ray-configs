@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#@configprxy
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@itl4.mechanicir.ir:10694?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb&allowinsecure=0&type=tcp&headerType=none#@meliproxyy
 vless://abc83c2b-9b3b-438f-9145-192dd4d85cbb@207.241.172.98:12345?security=reality&encryption=none&pbk=1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=2b368990a94e8cbb#@v2raybaaz ³
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#@𝐓𝐮𝐧𝐧𝐞𝐥𝐜𝐫𝟕🇩🇪
@@ -252,4 +253,3 @@ vless://bb681249-1823-4bc0-9778-883bf5bd0b1f@www.web.far30bazi.ir:443?security=r
 vless://bb681249-1823-4bc0-9778-883bf5bd0b1f@www.web.far30bazi.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=5002b5329814b487#@MARAMBASHI 🇮🇹
 vless://bb681249-1823-4bc0-9778-883bf5bd0b1f@www.web.far30bazi.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=5002b5329814b487#@V2rayng_Fast 🇮🇹
 vless://bb721a70-68ac-4fcf-89b1-0b0f85e5a6e6@95.111.208.18:443?security=reality&encryption=none&pbk=3uS936EU48fXb2sIN-scwGtWmrPp6ZhS1SL1iy8-rnk&headerType=none&fp=chrome&spx=/135a9559f851171&type=tcp&sni=fr-ca.rogers.yahoo.com&sid=ecf9#🇫🇷⇝ @GpConnectSho کانکت شو! 💠
-vless://bb8c74a1-abc1-4511-b100-9876e30cb65c@172.64.152.23:443?path=/2?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xfjd79v2tjscrm6jqo.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=xfjd79v2tjscrm6jqo.zjde5.de5.net#Arshiavpn12
