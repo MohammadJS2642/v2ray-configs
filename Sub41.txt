@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40freeland8%3A%3AFR
+trojan://ef81a036-1db9-45ed-a3aa-f932a4750066@172.105.222.177:443?security=tls&sni=cdn.qchwnd.moe#%F0%9F%87%AF%F0%9F%87%B5JP-172.105.222.177-0060
+trojan://ef81a036-1db9-45ed-a3aa-f932a4750066@194.195.254.50:443?security=tls&sni=cdn.qchwnd.moe#%F0%9F%87%A6%F0%9F%87%BAAU-194.195.254.50-0071
+trojan://ef81a036-1db9-45ed-a3aa-f932a4750066@45.33.57.17:443?security=tls&sni=cdn.qchwnd.moe#%F0%9F%87%BA%F0%9F%87%B8US-45.33.57.17-0255
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.150.206:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[056153] - 🇫🇷 France | @freenettir
 ss://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.63:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#@filembad
 ss://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=fd55b698ee8c3629#[056154] - 🇬🇧 United Kingdom | @freenettir
 ss://2022-blake3-aes-256-gcm:KYFtNXJrl3Jei35nSh9hMDqzlRdOjd6NlrtV6wyOVsw=:YBLEjXrK2Rh6XigucXQ4aqV/m70sjyErBcbtt1SFFds=@77.90.61.217:56670?type=tcp#Telegram-@vpnon4u
@@ -248,8 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@SylphNet | 2026-06-27 04:27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#TEL;Father_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#@v2mystery 👈 عضو شو
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#Channel : @Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#گیگی 5500 @ATOVPN ⚡️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#چنل عضو شو @v2ra_config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#T.me/Vpn_Mafia 🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443#@V2ray_confiig
