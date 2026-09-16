@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a592b4ac-e209-4a13-3cef-539600000005@188.114.96.6:443?path=/sync&security=tls&encryption=none&insecure=0&host=0404.infinityconfig5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=0404.infinityconfig5.workers.dev#🇨🇦172994 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a5b1d1ec-327c-f1c5-5856-b34600000000@172.64.80.1:443?path=/sync&security=tls&encryption=none&insecure=0&host=ez-541f9d.ezaccess1d3db24.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-541f9d.ezaccess1d3db24.workers.dev#🇩🇪 | 2
 vless://a5eb4618-c4b5-458b-aafb-e74558d9592d@uae-user-naran.chamehdan.ir:8080?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://a62a4c64-2270-4d41-828b-2591906c48ba@www.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=sweet-disk-a026.253-54b.workers.dev&packetEncoding=xudp#[ 🇨🇦 ] | @Cfox_SerVer
@@ -252,4 +253,3 @@ vless://b69b43d1-091d-4d7c-90b2-7a8bbad9d6a9@45.130.125.126:443?encryption=none&
 vless://b6f4cdf1-e223-4c79-a0d5-c18a184947f1@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@confiig_hub
 vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.193.170:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=adg.sws.applespeed.ir&headerType=http&type=tcp#@configprxy : چنل کانفیگ
 vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.195.244:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=SSw.1.apple1.ir&headerType=http&type=tcp#@configprxy
-vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.201.230:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#@configprxy : چنل
