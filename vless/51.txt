@@ -1,3 +1,4 @@
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@50.7.92.252:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv1.jarvesitw.ru&fp=chrome&security=reality&pbk=ojDrVO838PScByjy1cb1-LLEpEh4LhJKG_jldp8g7xo&sid=8beb2706&packetEncoding=xudp#英国
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.102.254:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv3.jarvesitw.ru&fp=chrome&security=reality&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&sid=2aef5875&packetEncoding=xudp#荷兰
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.176.6:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=apiv13.betust.net&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.177.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv5.jarvesitw.ru&fp=chrome&security=reality&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&sid=cf41f778&packetEncoding=xudp#荷兰
@@ -97,4 +98,3 @@ vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@k2.cloud--vpn.site:443?encryption=n
 vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#[ 🇺🇸 ] | @Cfox_SerVer
 vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@FarazV2ray
 vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2raySaman
-vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2rayng_Fast
