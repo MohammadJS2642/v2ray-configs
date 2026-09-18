@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://8ff746cc-0264-b1f0-1035-98bf7be3de0e@69.46.46.25:443?path=/ws/8ff746cc-0264-b1f0-1035-98bf7be3de0e&security=tls&alpn=http/1.1&encryption=none&host=cobalt-ember-6fbb-production.up.railway.app&fp=chrome&type=ws&sni=cobalt-ember-6fbb-production.up.railway.app#🇩🇪 @V2ngFast
 vless://8ff8fe86-569e-4072-abf6-6d27eb5a1470@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray
 vless://8ff8fe86-569e-4072-abf6-6d27eb5a1470@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray برای تهیه اشتراک اختصاصی به ایدی زیر پیام بدین
@@ -252,4 +253,3 @@ vless://By7uBvXuVtQAgS@uk.rvpn.online:443?security=reality&encryption=none&pbk=f
 vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@hk1-r.link-t7.com:10126/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#香港
 vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@hk2-r.link-t7.com:10127/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#香港
 vless://Channel-ITV2RAY@iTV2RAY.ddns.net:969?path=/iTV2RAY&security=reality&encryption=none&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4&host=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&fp=chrome&spx=/iTV2RAY&type=http&sni=www.speedtest.net&sid=d05b9020#@iTV2RAY+/+All+oprator+/+iOS
-vless://Channel-iTV2RAY@iTV2RAY.ddns.net:696?mode=gun&security=reality&encryption=none&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c&fp=chrome&spx=/iTV2RAY&type=grpc&serviceName=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&sni=www.speedtest.net&sid=04158025#@iTV2RAY+/+All+oprator+/+Android

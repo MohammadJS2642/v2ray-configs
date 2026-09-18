@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2083?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=russia2.appleseraj.ir&type=ws&allowInsecure=0&sni=russia2.appleseraj.ir#@KAFING_2
 vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=nurenburges.appleseraj.ir&type=ws&allowInsecure=0&sni=nurenburges.appleseraj.ir#@KAFING_2
 vless://5aafc2be-9348-4dec-b896-f4a91253bbca@170.114.46.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@hopev2ray💕
 vless://5aafc2be-9348-4dec-b896-f4a91253bbca@202.37.33.80:443?path=/id-tksi/?TELEGRAM-leviconfigs_leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@leviconfigs🪐-2
@@ -252,4 +253,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.30:8880?path=/&security=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.40:8880?&type=ws&headerType=none&host=vms.lifetime11.workers.dev&path=/#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chat.openai.com:8880?security=none&encryption=none&host=vms.lifetime29.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chat.openai.com:8880?security=none&encryption=none&host=vms.lifetime29.workers.dev&type=ws#🔵@chillguy_vpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chat.openai.com:8880?type=ws&host=vms.lifetime29.workers.dev#@meliproxyy
