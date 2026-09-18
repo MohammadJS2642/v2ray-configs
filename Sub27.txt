@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Channel-ITV2RAY@iTV2RAY.ddns.net:969?path=/iTV2RAY&security=reality&encryption=none&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4&host=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&fp=chrome&spx=/iTV2RAY&type=http&sni=www.speedtest.net&sid=d05b9020#@iTV2RAY+/+All+oprator+/+iOS
 vless://Channel-iTV2RAY@iTV2RAY.ddns.net:696?mode=gun&security=reality&encryption=none&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c&fp=chrome&spx=/iTV2RAY&type=grpc&serviceName=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&sni=www.speedtest.net&sid=04158025#@iTV2RAY+/+All+oprator+/+Android
 vless://Channel-iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(   @iTV2RAY   )&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI
 vless://Channel-iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(   @iTV2RAY   )&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖
@@ -252,4 +253,3 @@ vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encr
 vless://a79acce2-37ec-42b9-bc57-8c0c5c5b57c6@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray
 vless://a79acce2-37ec-42b9-bc57-8c0c5c5b57c6@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray برای تهیه اشتراک اختصاصی به ایدی زیر پیام بدین
 vless://a7b8b48e-1000-46f5-a974-f6606d94f3b4@104.24.152.211:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=&encryption=none&host=misty-hill-4b94.146-c18.workers.dev&type=ws#@v2ray313 کانالمون 😘
-vless://a80cf066-cabc-4c6c-802b-b887f4dc7d1a@199.232.78.159:443?path=/&security=tls&encryption=none&host=Swedenman.global.ssl.fastly.net.&type=ws&sni=ssl.fastly.com#[49728] - Telegram : @V2All
