@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8ff8fe86-569e-4072-abf6-6d27eb5a1470@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray برای تهیه اشتراک اختصاصی به ایدی زیر پیام بدین
+vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&sid=85c86a9863&spx=/ozks0ksxmyHue4v&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?security=reality&encryption=none&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&headerType=none&fp=chrome&spx=/ozks0ksxmyHue4v&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=85c86a9863#Free x228 @Outline_Vpn
+vless://9016cdb1-f78f-3a26-3981-0dad54ceb3a6@eaglepanel-production-bc07.up.railway.app:443?path=/ws/9016cdb1-f78f-3a26-3981-0dad54ceb3a6&security=tls&alpn=h2&encryption=none&insecure=0&host=eaglepanel-production-bc07.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eaglepanel-production-bc07.up.railway.app#@V2ray_Alpha🍳 8
 vless://9016cdb1-f78f-3a26-3981-0dad54ceb3a6@eaglepanel-production-bc07.up.railway.app:443?path=/ws/9016cdb1-f78f-3a26-3981-0dad54ceb3a6&security=tls&alpn=h2&encryption=none&insecure=0&host=eaglepanel-production-bc07.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eaglepanel-production-bc07.up.railway.app#@meliproxyy
 vless://901e6dca-1b73-4266-978b-f7dc1266a7f6@153.80.249.125:443?security=reality&encryption=none&pbk=1_a2G1x-DIEjDogZAiV4WFuOczGWcj-3zPiPxenUZhs&host=/?BIA--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=23ae46816e87c7b8#@v2mystery 👈 عضو شو
 vless://903cbea5-278a-4f9b-b841-e97077d94633@66.33.22.238:49194?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=oho2ZfrpJKDlXr9w4VsAE-61QJLG_y070pOMvEzHzyY&fp=chrome&spx=/65252048ef0ebb8&type=xhttp&sni=yellow.ai&sid=6b58f6#@Shh_Proxy-New²
@@ -249,7 +253,3 @@ vless://Channel-iTV2RAY@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encrypti
 vless://Channel:telegram:TurboConfigs@5.75.207.9:8035?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@tootffarangi🍓-12
 vless://Channel:telegram:TurboConfigs@61.245.11.28:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@v2ray_phoenix
 vless://Channel:telegram:TurboConfigs@61.245.11.28:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#Free x288 @Outline_Vpnx269
-vless://Channel:telegram:TurboConfigs@65.109.200.1:7070?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@tootffarangi🍓-15
-vless://Channel:telegram:TurboConfigs@65.109.200.1:8084?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#⚡︎🇫🇮@𝙑𝙀𝙂𝘼𝘼𝙎_𝙑𝙋𝙉
-vless://Channel:telegram:TurboConfigs@65.109.205.148:8084?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#@Daily_Configs
-vless://Channel:telegram:TurboConfigs@65.109.205.148:8084?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#Telegram: @Daily_Configs
