@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9894?mode=gun&security=reality&encryption=none&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#@tootffarangi🍓-11
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9894?mode=gun&security=reality&encryption=none&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#@tootffarangi🍓-13
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9894?security=reality&encryption=none&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#@ICV2RAY
 vless://5d1d5947-72de-4bca-844d-af55ed0e4691@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://5d287c19-b677-41cb-a56a-d4157813a23c@pl-waw-2.blook.network:443?security=reality&encryption=none&pbk=fySMRTC4X8TFAGNlb7bOZUV2wzWU8VWFO8-tuLl9Mms&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=pl-waw-2.blook.network&sid=41f8#202
@@ -251,5 +253,3 @@ vless://6806dc9a-8f5c-4981-b64d-3527b9522b62@46.33.8.20:443?security=reality&enc
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#@CUSTOMVPNSERVER
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#⚡Telegram =@CUSTOMVPNSERVER
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#@KAFING_2
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#⚡Telegram =@CUSTOMVPNSERVER
-vless://68bf40c3-401c-88b5-478c-6057fbe9710b@69.46.46.19:443?path=/ws/68bf40c3-401c-88b5-478c-6057fbe9710b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-31f7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-31f7.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
