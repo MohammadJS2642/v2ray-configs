@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b2593749-691c-428c-9481-14979cba3446@fi1.zuoai.cf:443?encryption=none&host=xi.tbv.ccwu.cc&path=/proxyip=us.xiabibi.cf&security=tls&sni=xi.tbv.ccwu.cc&type=ws#🍅45@oneclickvpnkeys
 vless://b2593749-691c-428c-9481-14979cba3446@kz3.zuoai.cf:443?encryption=none&host=xi.tbv.ccwu.cc&path=/proxyip=us.xiabibi.cf&security=tls&sni=xi.tbv.ccwu.cc&type=ws#🍅60@oneclickvpnkeys
 vless://b2593749-691c-428c-9481-14979cba3446@kz3.zuoai.cf:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#🔵@chillguy_vpn
 vless://b2593749-691c-428c-9481-14979cba3446@nl4.zuoai.cf:443?encryption=none&host=xi.tbv.ccwu.cc&path=/&security=tls&sni=xi.tbv.ccwu.cc&type=ws#🍅64@oneclickvpnkeys
@@ -253,3 +252,4 @@ vless://c04bfdea-a7e5-4a23-87d9-425151c140cc@fnd9f.artamireo.ir:2087?security=no
 vless://c06b2815-c117-4319-8cf2-725fbf864f7e@freeiran-opiran-2.shaygan.site:8880?path=/&security=none&encryption=none&type=ws#@KAFING_2
 vless://c08f2e82-b02d-48cf-a742-6b4e4a49f8cd@206.1.97.61:443?encryption=none&type=tcp&security=reality&sni=Miro.com&fp=chrome&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&sid=d7397feef49deef9&allowInsecure=1#[ 🇹🇷 ] | @Cfox_SerVer
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Sha.artarona.ir&fp=chrome&type=ws&allowInsecure=0&sni=Sha.artarona.ir#TEL;Father_vpn
+vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lol6.artarona.ir&type=ws&allowInsecure=0&sni=lol6.artarona.ir#TEL;Father_vpn
