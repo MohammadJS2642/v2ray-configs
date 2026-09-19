@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://dc3f60be-490e-450b-bed1-ae9ae4c5fa98@tun.trt1379.site:8880?encryption=none&security=none&type=tcp#🇩🇪⇝ @GpConnectSho کانکت شو! 💠
 vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#Free x305 @Outline_Vpn
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@v2rayng3
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&host=---v2rayNplus&type=ws#configprxy
@@ -253,3 +252,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.254.51:22224?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.254.51:22224?security=&encryption=none&headerType=none&type=tcp#Free x280 @Outline_Vpnx269
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.29.85:22224?encryption=none&security=none&type=tcp&headerType=none#🇩🇪All² | @BigSmoke_Config
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.129.194:22224?security=none&encryption=none&headerType=none&type=tcp#@Shh_Proxy-New¹
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22222?#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷

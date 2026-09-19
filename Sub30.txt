@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b732329b-8c5a-ac60-0bfd-8bb353dd7a22@69.46.46.126:443?path=/ws/b732329b-8c5a-ac60-0bfd-8bb353dd7a22&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-productionopop.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-productionopop.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://b742d8e7-ed7d-4f7d-bb16-bf49bdb4cb44@23.235.33.98:80?mode=auto&path=/fast&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=g-sgood-wopd-butnorwa-butter.global.ssl.fastly.net&type=xhttp#@NETMelliAnti
 vless://b742d8e7-ed7d-4f7d-bb16-bf49bdb4cb44@23.235.33.98:80?mode=auto&path=/fast&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tr-sgood-wopd-butnorwa-butter.global.ssl.fastly.net&type=xhttp#@NETMelliAnti
 vless://b761689d-592e-46b2-b704-af7a9110b0ac@shop.theawesomenpl.ru:50715?security=reality&encryption=none&pbk=YyF_0swCrKvtCDKmnGhz9UshtvQxUbpemVO8d_Bj6Ro&headerType=none&fp=chrome&type=tcp&sni=www.nvidia.com&sid=75#@fastkanfig 4
@@ -253,3 +252,4 @@ vless://c1f840b9-84fc-4c8c-ba1b-646869079d8b@199.232.78.159:443?path=/&security=
 vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?encryption=none&security=none&type=ws&host=neth8.lunariai.ru&path=/#@Sparrk_VPN
 vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?encryption=none&security=none&type=ws&host=neth8.lunariai.ru&path=/#🇺🇸US_3037_@Surfboardv2ray
 vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?encryption=none&security=none&type=ws&path=/#🇺🇸US_3038_@Surfboardv2ray
+vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?path=/&security=none&encryption=none&host=neth8.lunariai.ru&type=ws#@IRAN_V2RAY1 🌟

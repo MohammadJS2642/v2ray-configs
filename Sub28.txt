@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://Tel:archivd_android@65.109.193.102:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@V2ray_Alpha🍳 10
 vless://Tel:archivd_android@65.109.193.102:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@meliproxyy
 vless://Tel:archivd_android@65.109.193.102:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@𝙑𝙀𝙂𝘼𝘼𝙎_𝙑𝙋𝙉🇫🇮
 vless://Tel:archivd_android@65.109.193.102:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#Tel-@ProxyMtAlpha📿 4
@@ -253,3 +252,4 @@ vless://aad12e2c-2c98-487a-92a1-a08b2c502c5e@91.107.178.93:6422?mode=auto&path=/
 vless://aad12e2c-2c98-487a-92a1-a08b2c502c5e@91.107.178.93:6422?mode=auto&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.i6xtvCpnlGhVOMcqCvCmYgV9f-NaHwGkQBvI0PTOeD4&type=xhttp#🔵@chillguy_vpn
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#@configprxy
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@itl4.mechanicir.ir:10694?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb&allowinsecure=0&type=tcp&headerType=none#@meliproxyy
+vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#@𝐓𝐮𝐧𝐧𝐞𝐥𝐜𝐫𝟕🇩🇪

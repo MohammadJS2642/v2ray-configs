@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://923e051a-f598-4ea5-9c6c-f7e37c438a60@104.21.96.56:80?type=ws&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev&path=/vl/D2pryqVs9LAgCYdTK76lsafWY?ed=2560#🚀@VPNine1
 vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080/?type=tcp&encryption=none#🇩🇪 آلمان | https://t.me/FREECONFIGSPLUS ✨
 vless://92c8098f-1143-05ef-4d67-004d9c81343d@subgift3.up.railway.app:443?encryption=none&security=tls&sni=subgift3.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=subgift3.up.railway.app&path=/ws/92c8098f-1143-05ef-4d67-004d9c81343d&packetEncoding=xudp#117
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.178:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#چنل عضو شو @v2ra_config
@@ -253,3 +252,4 @@ vless://T.me:Daredevil_404@8.47.69.78:443?mode=auto&path=/TelegramChannel:@dared
 vless://Teelegram:Nap_v2ray@65.109.193.102:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@tootffarangi🍓-13
 vless://Teelegram:V2rayng_Fast@65.109.193.102:9090?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#⚡︎🇫🇮@𝙉𝙖𝙥_𝙫2𝙧𝙖𝙮
 vless://Tel:archivd_android@65.109.193.102:9090?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@meliproxyy
+vless://Tel:archivd_android@65.109.193.102:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@V2ray_Alpha🍳 10
