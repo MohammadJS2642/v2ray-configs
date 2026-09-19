@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://67671bce-990e-47fe-96c3-55a869800b00@104.143.223.56:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🆔lrnbymaa%20🔓%20VL-GRPC-N/A%20❔%20XX%2090ms
+vless://d65a82af-a403-405e-8b7b-27a68b830511@freeman.bestxau.ir:19210?mode=auto&path=%2F&security=reality&encryption=none&pbk=112X7iICOgZtFOHXdn59EY7m_gwKultc-zwYPzBv6wU&fp=chrome&type=xhttp&sni=play-apps-features.googleusercontent.com&sid=4f69072c426d46a6#🆔lrnbymaa%20🔒%20VL-XHTTP-%20❔%20XX%20266ms
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.110:9830?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🆔lrnbymaa%20🔒%20VL-GRPC-%20❔%20XX%20down
+vless://2fa4235a-51a7-452b-a760-498951646043@herd.zavqeron.ir:2053?path=%2Fde2-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=herd.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#🆔lrnbymaa%20🔒%20VL-WS-N/A%20❔%20XX%20179ms
 vless://2fa4235a-51a7-452b-a760-498951646043@land.zavqeron.ir:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#🆔lrnbymaa%20🔒%20VL-WS-N/A%20❔%20XX%209ms
 vless://XpnTeam-4@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🆔lrnbymaa%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://2fa4235a-51a7-452b-a760-498951646043@nether11.velqixa.ir:8448?mode=auto&path=%2Fnl-xhttp&security=reality&encryption=none&pbk=GKUHECPMuiffveVgQMvRHHg1GgOSNp5lVWPLjRZGN0c&fp=qq&type=xhttp&sni=play.google.com&sid=d6fdcd5c4aa0e050#🆔lrnbymaa%20🔒%20VL-XHTTP-%20❔%20XX%2097ms
@@ -249,7 +253,3 @@ vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@14ang88.snusoed.baby:443?encryption
 vless://4d4bfd21-88fc-4de7-87bd-c2ddaedc4078@34.154.47.33:443?encryption=none&fp=&pbk=jGfJxbIyf2aLRFQyT9NsJBu1CzJmrAa2sF19GNw46z8&security=reality&sid=29615707650b941d&sni=www.cloudflare.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2097ms
 vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.63:443?security=reality&encryption=none&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=srv-waw.kintecolas.com&sid=22f534c530d37170#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2092ms
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.99.251.120:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%2098ms
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20178ms
-vless://d8d23e60-d5aa-4556-b513-875e1e85d924@itunes.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20153ms
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.96.67:443?security=tls&encryption=none&insecure=1&headerType=&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-571299667-direct.mbghalibaf.com#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%2092ms
-vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.107:443?path=%2Fws%2FDefault&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api-c72c99-afd3e6-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=api-c72c99-afd3e6-production.up.railway.app#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%203ms
