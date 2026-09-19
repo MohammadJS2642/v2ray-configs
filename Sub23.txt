@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5f00ca4e-3f26-473e-ad1c-414112abb0a3@95.179.169.44:53224?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://5f00ca4e-3f26-473e-ad1c-414112abb0a3@95.179.169.44:53224?encryption=none&type=tcp&allowInsecure=1#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://5f00ca4e-3f26-473e-ad1c-414112abb0a3@95.179.169.44:53224?security=&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-3
 vless://5f00ca4e-3f26-473e-ad1c-414112abb0a3@95.179.169.44:53224?security=&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-4
@@ -252,4 +253,3 @@ vless://6a32736d-4b7f-4c35-a1cf-4489d49f2cfb@one.alpheratzz.org:443?mode=stream-
 vless://6a32736d-4b7f-4c35-a1cf-4489d49f2cfb@one.alpheratzz.org:443?mode=stream-one&path=/&security=tls&alpn=h2&encryption=none&extra={"xmux":{"maxConnections":1,"maxReuseTimes":0}}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=app-6aae70d4.adhil.uk#🇫🇮176198 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6a32736d-4b7f-4c35-a1cf-4489d49f2cfb@one.alpheratzz.org:443?mode=stream-one&path=/&security=tls&alpn=h2&encryption=none&extra={"xmux":{"maxConnections":1,"maxReuseTimes":0}}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=app-6aae70d4.adhil.uk#🔵@chillguy_vpn
 vless://6a7a3212-09c4-f25e-6fd3-82cb873c2248@69.46.46.25:443?path=/ws/6a7a3212-09c4-f25e-6fd3-82cb873c2248&security=tls&alpn=http/1.1&encryption=none&host=quartz-glacier-0ede-production.up.railway.app&fp=chrome&type=ws&sni=quartz-glacier-0ede-production.up.railway.app#🇩🇪 @V2ngFast
-vless://6a9f6c23-2b38-4720-9305-337f494f50a4@138.124.109.158:443?security=reality&encryption=none&pbk=cttKOS1BlF-u-mvX63PWNPJK6W_RXfx1wo8yjBEt1hI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a2eb8d694a5480ff#🇪🇺 @V2_MOD_SHOP
