@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori3.up.railway.app&path=/Telegram2:@Configfori#config2-configfori
 vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori3.up.railway.app&path=/Telegram1:@Configfori#config1-configfori
 vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori3.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#config3-configfori
 vless://a79acce2-37ec-42b9-bc57-8c0c5c5b57c6@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray
@@ -253,3 +252,4 @@ vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.222:443?encryption=none&
 vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.32:443?encryption=none&host=xi.tbv.ccwu.cc&path=/&security=tls&sni=xi.tbv.ccwu.cc&type=ws#🍅51@oneclickvpnkeys
 vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.32:443?encryption=none&security=tls&sni=xi.tbv.ccwu.cc&type=ws&host=xi.tbv.ccwu.cc&path=/#@V2ray_confiig
 vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.86:443?encryption=none&host=xi.tbv.ccwu.cc&path=/proxyip&security=tls&sni=xi.tbv.ccwu.cc&type=ws#[51145] - Telegram : @V2All
+vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.86:443?encryption=none&host=xi.tbv.ccwu.cc&path=/proxyip&security=tls&sni=xi.tbv.ccwu.cc&type=ws#🚨52@oneclickvpnkeys

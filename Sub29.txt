@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.86:443?encryption=none&host=xi.tbv.ccwu.cc&path=/proxyip&security=tls&sni=xi.tbv.ccwu.cc&type=ws#🚨52@oneclickvpnkeys
 vless://b2593749-691c-428c-9481-14979cba3446@212.104.128.206:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#@Shh_Proxy-New⁸
 vless://b2593749-691c-428c-9481-14979cba3446@216.205.52.0:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=/proxyip=us.xiabibi.cf&fp=chrome#🇺🇸176956 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b2593749-691c-428c-9481-14979cba3446@216.205.52.108:443?encryption=none&host=xi.tbv.ccwu.cc&security=tls&sni=xi.tbv.ccwu.cc&type=ws#🍅55@oneclickvpnkeys
@@ -253,3 +252,4 @@ vless://bf667068-11cb-4c37-a867-4a2b03b45555@104.21.23.72:8880?encryption=none&f
 vless://bf667068-11cb-4c37-a867-4a2b03b45555@104.21.23.72:8880?encryption=none&fp=chrome&host=flat-sun-b8d3.225-154.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&sni=flat-sun-b8d3.225-154.workers.dev&type=ws#🚀@VPNine1
 vless://bf921bce-7a42-48d3-9181-b06dd03d4200@www.web.far30bazi.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=5002b5329814b487#@V2ray_confiig
 vless://bf9f28f2-e4cd-da2c-7c4a-7da78cdb337f@69.46.46.31:443?path=/ws/bf9f28f2-e4cd-da2c-7c4a-7da78cdb337f&security=tls&alpn=http/1.1&encryption=none&host=golden-harbor-6f04-production.up.railway.app&fp=chrome&type=ws&sni=golden-harbor-6f04-production.up.railway.app#1 🇺🇸 @V2ngNet
+vless://c041788d-1801-4bd7-863f-781a8af0854d@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray

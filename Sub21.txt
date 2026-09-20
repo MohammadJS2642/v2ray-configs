@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4c67f74c-84d4-467d-b127-136517d98746@kelvin73.fars-remen.ir:443?encryption=mlkem768x25519plus.native.0rtt.l3mvTzzaVMf4WsI2Esh3pPbQhYkB9CpYdSdBGsVsD0g&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#🇩🇪All⁸ | @BigSmoke_Config
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=/?ed&security=&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#channel : @freedomofinfor
 vless://4ca0489d-9d16-45e9-bf31-75993c964c0f@edge.aiteamplus.ir:10009?security=none&encryption=none&host=outlook.office365.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://4cac189c-5611-4cfa-9946-bf1b2b3d152c@185.146.173.37:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=/#@Hope_Net-join-us-on-Telegram
@@ -253,3 +252,4 @@ vless://5934b979-e128-4c90-a600-744b97bffc8c@104.21.32.142:443?encryption=none&f
 vless://5934b979-e128-4c90-a600-744b97bffc8c@172.67.152.98:443?encryption=none&fp=chrome&host=5dktcuajb2a1jxix7csnrmeucg.mahrademami.workers.dev&path=/vl/Fi3kP8cNjBoo8UPv?ed=2560&security=tls&sni=5dktcuajb2a1jxix7csnrmeucg.mahrademami.workers.dev&type=ws#[ 🇨🇦 ] | @Cfox_SerVer
 vless://5934cc4f-c17b-41c0-9280-c75eb222f4b7@152.53.209.72:8443?path=/assets/api&security=reality&encryption=none&pbk=O_13gTb5W88d_u8W22JYm15-Ns6eAFg7wSAWpPVFgHQ&fp=chrome&type=xhttp&sni=magoo.cykotix.com#Telegram @mtmvpn
 vless://5934cc4f-c17b-41c0-9280-c75eb222f4b7@152.53.210.68:8443?path=/assets/api&security=reality&encryption=none&pbk=O_13gTb5W88d_u8W22JYm15-Ns6eAFg7wSAWpPVFgHQ&fp=chrome&type=xhttp&sni=magoo.cykotix.com#Telegram @mtmvpn
+vless://5934cc4f-c17b-41c0-9280-c75eb222f4b7@node-usa.usel.pro:8443?mode=auto&path=/assets/api&security=reality&encryption=none&pbk=O_13gTb5W88d_u8W22JYm15-Ns6eAFg7wSAWpPVFgHQ&fp=chrome&type=xhttp&sni=magoo.cykotix.com#Telegram @mtmvpn

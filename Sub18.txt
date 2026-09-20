@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#@FarazV2ray
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#@V2ray_Alpha😎 8
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#@V2ray_Alpha😎 9
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#@configprxy
@@ -253,3 +252,4 @@ vless://3b3d3966-59db-4145-8d61-08d2ad559ced@68.183.186.105:443?encryption=none&
 vless://3b3d3966-59db-4145-8d61-08d2ad559ced@89.106.207.216:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#THUS-K@QiangLieTuiJian
 vless://3b3d3966-59db-4145-8d61-08d2ad559ced@91.213.186.189:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#THUS-K@QiangLieTuiJian
 vless://3b4fb8d7-e166-93b1-55e5-076250c77a19@69.46.46.100:443?path=/ws/3b4fb8d7-e166-93b1-55e5-076250c77a19&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=hidden-glacier-c2dd-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=hidden-glacier-c2dd-production.up.railway.app#@confiig_hub
+vless://3b6a9df3-f1d1-4bc1-94a5-0d8f2d5512b1@188.225.27.78:443?security=reality&encryption=none&pbk=Rf2jgZShaYRQ2kh9nF79eB2KFcIdiYHwPWJyFKA_CWU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#@Shh_Proxy-New⁶
