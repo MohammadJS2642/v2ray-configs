@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@89.125.227.112:443?security=reality&encryption=none&pbk=JoIT56dCrKkeYJWSPA6-rllSqlXYKPg1rC2w7D_xogU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.node-edge09.com&sid=212a8beb0ea4817b#@meliproxyy
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@89.125.227.112:443?security=reality&encryption=none&pbk=JoIT56dCrKkeYJWSPA6-rllSqlXYKPg1rC2w7D_xogU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.node-edge09.com&sid=212a8beb0ea4817b#[ 🇩🇪 ] | @Cfox_SerVer
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@89.125.227.112:443?security=reality&encryption=none&pbk=JoIT56dCrKkeYJWSPA6-rllSqlXYKPg1rC2w7D_xogU&host=/?&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.node-edge09.com&sid=212a8beb0ea4817b#@filembad
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@89.125.227.112:443?security=reality&encryption=none&pbk=JoIT56dCrKkeYJWSPA6-rllSqlXYKPg1rC2w7D_xogU&host=/?&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.node-edge09.com&sid=212a8beb0ea4817b#@tootffarangi🍓-1
@@ -252,4 +253,3 @@ vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@140.82.34.114:25585?encryption=none
 vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@140.82.34.114:25585?security=&encryption=none&headerType=none&type=tcp#Free x284 @Outline_Vpnx269
 vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@140.82.34.114:25585?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://e487634d-133b-43ac-9ee6-517907fdf257@5.255.109.155:443?mode=packet-up&path=/xhttppath/&security=reality&encryption=none&extra={"xmux":{"cMaxReuseTimes":"100-200","maxConnections":1,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"600-900"}}&pbk=gAMVu3QAvpGEziGiqOofwGK8frg2dkQ1Hnd5fG_-QHM&host=github.com&fp=chrome&spx=/&type=xhttp&sni=github.com&sid=ae4815632e89c513#🇳🇱 @V2_MOD_SHOP

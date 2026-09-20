@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
 vless://4f2bc7ac-458b-49cf-b861-6340bd316adb@sr5.kivra.fun:443?security=reality&encryption=none&pbk=AKTROUZ03ghRLr5wYqigzZEccftHgx6PpTmwclD3DhY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=g5.kivra.fun&sid=57d598708fb7e8b0#[ 🇮🇷 ] | @Cfox_SerVer
 vless://4f35284c-311a-4c2c-b196-fda3ac8a0b66@85.198.101.160:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ&fp=chrome&spx=/api/87567408&flow=xtls-rprx-vision&encryption=none#Продлите в боте @opengatevpn_bot - @Raydikalx
 vless://4f35284c-311a-4c2c-b196-fda3ac8a0b66@85.198.101.160:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ&fp=chrome&spx=/api/87567408&flow=xtls-rprx-vision&encryption=none#☝️ Подключите, чтобы зайти в TG ☝️ - @Raydikalx
@@ -252,4 +253,3 @@ vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&securi
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@VConfing
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@MARAMBASHI ❤️‍🔥
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@MARAMBASHI 💙
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@V2rayng_Fast 💙
