@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?mode=auto&path=/assets/v2/pkg&security=reality&encryption=none&extra={  "xmux" : {    "maxConcurrency" : "16-32"  }}&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#Free x335 @Outline_Vpn
+vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?mode=auto&path=/assets/v2/pkg&security=reality&encryption=none&extra={"xmux":{"maxConcurrency":"16-32"}}&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#@B2Hub
+vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?path=/assets/v2/pkg&security=reality&encryption=none&extra={  "xmux" : {    "maxConcurrency" : "16-32"  }}&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#@V2ray_confiig
+vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?path=/assets/v2/pkg&security=reality&encryption=none&extra={  "xmux" : {    "maxConcurrency" : "16-32"  }}&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#آلمان @CONFIG7X
 vless://aa920853-1dec-4b17-afd4-d367635adfc4@80.93.217.193:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=qbvlpz4b8508.dop100.com#🔵@chillguy_vpn
 vless://aa9aafdb-531d-4b72-8ad0-66ad9b226749@live.theworldwidewolf.com:80?mode=auto&path=/vpnon4u&security=none&encryption=none&host=borakshop.co&type=xhttp#🇫🇮channel-🆔 vpnon4u
 vless://aabcb69e-9f17-44bd-aaac-552dd23e9691@57.128.177.218:30963?encryption=none&fp=&pbk=XxNAqnYJDizM_4_ycJxyaa9xbx29hpDfwAtCv1Wga1M&security=reality&serviceName=grpc_common1&sid=c776352067&sni=us.vrzn.download.nvidia.com&type=grpc#🇫🇷FR-🚀@VPNine1
@@ -249,7 +253,3 @@ vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.131:443?encryption=none&
 vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.131:443?encryption=none&host=xi.tbv.ccwu.cc&path=/proxyip=us.xiabibi.cf&security=tls&sni=xi.tbv.ccwu.cc&type=ws#🛖41@oneclickvpnkeys
 vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.156:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#@Shh_Proxy-New⁴
 vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.222:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#51
-vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.32:443?encryption=none&security=tls&sni=xi.tbv.ccwu.cc&type=ws&host=xi.tbv.ccwu.cc&path=/#@V2ray_confiig
-vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.32:443?encryption=none&security=tls&sni=xi.tbv.ccwu.cc&type=ws&host=xi.tbv.ccwu.cc&path=/#🔵@chillguy_vpn
-vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.32:443?path=/&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#152
-vless://b2593749-691c-428c-9481-14979cba3446@195.26.229.32:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&host=xi.tbv.ccwu.cc#@Alpha_V2rayip
