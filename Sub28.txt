@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a9fb0f8c-89e9-44ee-9574-a310c5bd259c@104.18.189.234:8880?encryption=none&security=none&type=ws&host=autumn-leaf-eefd.119-38e.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#[ 🇨🇦 ] | @Cfox_SerVer
 vless://a9fb0f8c-89e9-44ee-9574-a310c5bd259c@104.18.189.234:8880?encryption=none&security=none&type=ws&host=autumn-leaf-eefd.119-38e.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#[51836] - Telegram : @V2All
 vless://a9fb0f8c-89e9-44ee-9574-a310c5bd259c@104.18.189.234:8880?encryption=none&security=none&type=ws&host=autumn-leaf-eefd.119-38e.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇨🇦177779 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a9fb0f8c-89e9-44ee-9574-a310c5bd259c@104.18.189.234:8880?encryption=none&security=none&type=ws&host=autumn-leaf-eefd.119-38e.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🔵@chillguy_vpn
@@ -252,4 +253,3 @@ vless://b2593749-691c-428c-9481-14979cba3446@216.205.52.108:443?path=/&security=
 vless://b2593749-691c-428c-9481-14979cba3446@216.205.52.108:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&host=xi.tbv.ccwu.cc#@Alpha_V2rayip
 vless://b2593749-691c-428c-9481-14979cba3446@216.205.52.11:443?path=/proxyip&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#@hex_proxy ⁴
 vless://b2593749-691c-428c-9481-14979cba3446@216.205.52.222:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#@meliproxyy
-vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.170:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#@Shh_Proxy-New²
