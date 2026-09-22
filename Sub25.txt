@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://9503e890-3702-4847-af0a-2bceac2f0da0@151.101.56.6:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@MARAMBASHI 🇫🇮
 vless://9503e890-3702-4847-af0a-2bceac2f0da0@151.101.56.6:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@MARAMBASHI 🇫🇷
 vless://9503e890-3702-4847-af0a-2bceac2f0da0@151.101.56.6:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@MARAMBASHI 🇮🇹
 vless://9503e890-3702-4847-af0a-2bceac2f0da0@151.101.56.6:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2rayng_Fast 🇫🇷
@@ -252,4 +253,3 @@ vless://Default@69.46.46.45:443?path=/ws/vless/Default?ed=2048&security=tls&alpn
 vless://Default@69.46.46.46:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-3b26.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-3b26.up.railway.app#4 🇺🇸 @V2ngNet
 vless://Default@69.46.46.46:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-810d.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-810d.up.railway.app#⁴🇩🇪 @V2ngfast
 vless://Default@69.46.46.47:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-0f2f.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-0f2f.up.railway.app#4 🇺🇸 @V2ngNet
-vless://Default@web-production-397a4.up.railway.app:443?encryption=none&security=tls&sni=web-production-397a4.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-397a4.up.railway.app&path=/ws/Default#@hollowcon
