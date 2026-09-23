@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2052?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=185.71.219.128#@v2ray_phoenix
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2082?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=play.google.com&fp=chrome&type=httpupgrade&sni=185.71.219.128#@v2ray_phoenix
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2082?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=play.google.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=185.71.219.128#@V2ray_Alpha🍨 14
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2082?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=play.google.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=185.71.219.128#@meliproxyy
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2082?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=play.google.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=185.71.219.128#[54020] - Telegram : @V2All
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:8080?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=185.71.219.128#@v2ray_phoenix
 vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:8080?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=185.71.219.128#@V2ray_Alpha🍨 15
 vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:8080?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=185.71.219.128#@meliproxyy
 vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:8080?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=185.71.219.128#[54019] - Telegram : @V2All
@@ -247,9 +253,3 @@ vless://turboo-server@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe
 vless://turboo-server@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=turboo-server-telegram.com&fp=chrome&type=ws&allowInsecure=0&sni=turboo-server-telegram.com#@v2ray313 کانالمون 😤
 vless://turboo-server@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=turboo-server-telegram.com&fp=chrome&type=ws&allowInsecure=0&sni=turboo-server-telegram.com#@vasl_bashim
 vless://turboo-server@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=turboo-server-telegram.com&fp=chrome&type=ws&allowInsecure=0&sni=turboo-server-telegram.com#Telegram : @Daily_Configs
-vless://turboo-server@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=turboo-server.com&fp=chrome&type=ws&allowInsecure=0&sni=turboo-server.com#@B2Hub
-vless://turboo-server@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=turboo-server.com&fp=chrome&type=ws&allowInsecure=0&sni=turboo-server.com#‎🛰️ @VConfing
-vless://turboo-server@web.turbooserver.net.tr:8443?security=&encryption=none&host=dynu.com&headerType=http&type=tcp#@v2ray313 کانالمون 😷
-vless://turboo-server@web.turbooserver.net.tr:8443?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#@Capoit
-vless://turboo-server@web.turbooserver.net.tr:8443?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#Free x342 @Outline_Vpn
-vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33269?type=grpc&security=tls&serviceName=@DigiV2ray&sni=freev2ray.v2ray4.xyz#%40DigiV2ray%3A%DA%86%D9%86%D9%84%20%D9%85%D8%A7%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%A9%F0%9F%87%AA💛 💜بزنید روش کپی میشه😉Location 🇩🇪🇩🇪🇩🇪1️⃣0️⃣0️⃣🔤🔤🏃‍♂️ری اکشن فراموش نشه@DigiV2ray  ✈️
