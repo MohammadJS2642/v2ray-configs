@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c95f2cfc-ebae-4293-ad37-68c60553182c@psumszdg.danqela.ir:51595?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All² | @BigSmoke_Config
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&type=tcp&headerType=none#@meliproxyy
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@CUSTOMVPNSERVER
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@ICV2RAY
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@hopev2ray🖤
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#⚡Telegram =@CUSTOMVPNSERVER
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&host=/?TELEGRAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#2
@@ -253,3 +248,8 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=/channels/a
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=/channels/act&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@207.148.99.230:443?&security=tls&fp=chrome&sni=cdn8848.776676.xyz&type=ws&headerType=none&host=cdn8848.776676.xyz&path=/test/company/library?ed=2560#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.12.206.160:81?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/members/playlist?ed=2560fp=chrome&security=tls#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.12.206.160:81?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=/members/playlist?ed=2560&security=tls&sni=cdn8848.776676.xyz&type=ws#[ 🇵🇱 ] | @Cfox_SerVer
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.12.206.160:81?path=/members/playlist?ed=2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#Free x402 @Outline_Vpn
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@43.175.131.30:443?&security=tls&fp=chrome&sni=cdn8848.776676.xyz&type=ws&headerType=none&host=cdn8848.776676.xyz&path=/article?ed=2560#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@43.175.131.30:443?&security=tls&fp=chrome&sni=cdn8848.776676.xyz&type=ws&headerType=none&host=cdn8848.776676.xyz&path=/article?ed=2560#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.101.230.110:443?path=/drama?ed=2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#@ICV2RAY
