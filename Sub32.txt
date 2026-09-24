@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=/channels/act&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#Free x352 @Outline_Vpn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=/channels/act&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@207.148.99.230:443?&security=tls&fp=chrome&sni=cdn8848.776676.xyz&type=ws&headerType=none&host=cdn8848.776676.xyz&path=/test/company/library?ed=2560#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.12.206.160:81?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/members/playlist?ed=2560fp=chrome&security=tls#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
@@ -253,3 +252,4 @@ vless://d8d23e60-d5aa-4556-b513-875e1e85d924@apps.navard.net:80?security=none&en
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@music.navard.net:80?security=&encryption=none&headerType=http&type=tcp#@v2ray313 کانالمون 🌝
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@music.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#vpnsal
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?type=tcp&headerType=none&security=reality&fp=chrome&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#@SylphNet | 2026-06-27 03:57
+vless://d9224de0-fcff-4534-bfcb-1d7bdb1453e8@www.speedtest.net:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=blacknet0.blacknet89.workers.dev&path=/eyJqdW5rIjoiaEZzc0lFSmlmbHdNUWYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=blacknet0.blacknet89.workers.dev&type=ws#🇨🇦179930 | ⚡️Telegram = t.me/SOSkeyNET

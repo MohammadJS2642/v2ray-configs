@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@151.101.56.7:443?path=/&security=tls&encryption=none&insecure=0&host=kayko.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Tel-@ProxyMtAlpha🦜10
 vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@199.232.22.39:443?path=/&security=tls&encryption=none&insecure=0&host=Nonetrap.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#9115 @proxy_online_net
 vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@199.232.237.245:443?path=/&security=tls&encryption=none&insecure=0&host=Tirandazl.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#9108 @proxy_online_net
 vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@199.232.246.236:443?path=/&security=tls&encryption=none&insecure=0&host=teranko.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#9105 @proxy_online_net
@@ -253,3 +252,4 @@ vless://974f2c7e-a292-4207-8315-ef4151bdca41@147.45.148.6:443?security=reality&e
 vless://974f2c7e-a292-4207-8315-ef4151bdca41@147.45.148.6:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&host=/?&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#68
 vless://974f2c7e-a292-4207-8315-ef4151bdca41@147.45.148.6:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&host=/?&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#74
 vless://974f2c7e-a292-4207-8315-ef4151bdca41@147.45.148.6:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#@MARAMBASHI 🇬🇧
+vless://974f2c7e-a292-4207-8315-ef4151bdca41@147.45.148.6:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#@MARAMBASHI 🩵

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#@i10VPN²
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#@i10VPN³
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#Free x363 @Outline_Vpn
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#31
@@ -253,3 +252,4 @@ vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2082?path=/&security
 vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2082?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=play.google.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=185.71.219.128#@meliproxyy
 vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:8080?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=185.71.219.128#@v2ray_phoenix
 vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:8080?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=185.71.219.128#@V2ray_Alpha🍨 15
+vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:8080?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=185.71.219.128#@meliproxyy
