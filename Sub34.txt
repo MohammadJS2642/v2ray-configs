@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@91.215.40.6:443?mode=gun&security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&fp=chrome&type=grpc&serviceName=grpc&sni=id.dframe.app&sid=5c766813929a1fdd#@irdusti(13)🇷🇺
-vless://e3ec2866-96cd-4cc3-86c9-e7336ea2fbc2@147.45.71.23:443?mode=auto&path=/xh&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=01au.hello-there.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=01au.hello-there.ru#@irdusti(9)🇦🇹
-vless://e3ec2866-96cd-4cc3-86c9-e7336ea2fbc2@62.60.157.19:443?mode=auto&path=/xh&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=01fra.hello-there.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=01fra.hello-there.ru#@irdusti(9)🇫🇷
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed=1861&security=none#@V2fetch
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed=1861&security=none#@V2fetch  👑جهت دریافت اشتراک اختصاصی VIP
 vless://e3fcc645-cec2-9b16-3946-06174d59b7fa@69.46.46.104:443?path=/ws/e3fcc645-cec2-9b16-3946-06174d59b7fa&security=tls&alpn=http/1.1&encryption=none&host=polar-falcon-aaa4-production.up.railway.app&fp=chrome&type=ws&sni=polar-falcon-aaa4-production.up.railway.app#All Operators @MaSTeRSeRVeR1
@@ -253,3 +250,6 @@ vless://e84e0918-68ca-4fcc-a1d1-b566fd9ac7ee@193.23.201.65:5432?security=tls&enc
 vless://e84e0918-68ca-4fcc-a1d1-b566fd9ac7ee@193.23.201.65:5432?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#🌐 @V2_MOD_SHOP
 vless://e873b05b-498b-40cd-9f29-6623b9ee2801@xn--1dee-ow4bt2570a.netbazshop.ir:33017?encryption=none&security=none&type=tcp&headerType=http&path=/&host=dynu.com#🇫🇷⇝ @GpConnectSho کانکت شو! 💠
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3#تو کانال نتورلد نباشید قطع میشن@networld_vpn
+vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3#تو کانال نتورلد نباشید قطع میشن@networld_vpn
+vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&security=reality&sni=www.cloudflare.com&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
