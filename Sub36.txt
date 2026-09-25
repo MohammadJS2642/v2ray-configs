@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-571299667-direct.mbghalibaf.com:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#39
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-571299667-direct.mbghalibaf.com:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#@hex_proxy ⁵
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@soskeynets-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#🇫🇷139779 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e8ba10b4-1a69-4afb-a2da-5f80a014e3aa@www.parsashonam-bot.host:443?security=reality&encryption=none&pbk=8iZthEek8HsCb3m2YY1jPGOS-WlCC_6VeROra4WuCw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-apple.com&sid=74d37a95022cc957#🇩🇪139749 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e8c5d791-ce76-4a41-b165-ca22e930b21d@tp.paydar.site:28110?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
@@ -251,5 +253,3 @@ vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@fra2.loozerp.wiki:443?security=real
 vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@germanz.ruletka.study:443?spx=/ahmadV2ray&sni=germanz.ruletka.study&type=tcp&encryption=none&sid=ff776ff77be48b88&fp=chrome&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&flow=xtls-rprx-vision&security=reality&headerType=none#@Alpha_V2rayip
 vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@kazak.koniki.beer:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=kazak.koniki.beer&sid=ff776ff77be48b88#@Alpha_V2rayip
 vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2052?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=185.71.219.128#@v2ray_phoenix
-vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2082?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=play.google.com&fp=chrome&type=httpupgrade&sni=185.71.219.128#@v2ray_phoenix
-vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2082?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=play.google.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=185.71.219.128#@V2ray_Alpha🍨 14

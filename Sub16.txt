@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@preview.netraidly.ru:40443?security=reality&encryption=none&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=84fc#@leviconfigs🪐-14
+vless://16166760-7a77-4d26-8b2e-5bf7e5a500ed@65.109.199.174:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#9168 @proxy_online_net
 vless://16227db7-1914-4a97-bb6b-7bf98e6b525b@185.143.232.201:443?path=/&security=tls&encryption=none&insecure=0&host=zapzap.mc.filimo.cam&type=ws&allowInsecure=0&sni=zapzap.mc.filimo.cam#@v2rayng3
 vless://163130a7-42d6-40bf-9574-3d9eff14dcb2@153.76.185.150:3090?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#@Daily_Configs
 vless://163130a7-42d6-40bf-9574-3d9eff14dcb2@153.76.185.150:3090?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#✅  @vistav2ray کانال ما ✅
@@ -251,5 +253,3 @@ vless://20836693-ea23-4f40-a1e7-48a6da897917@netra-85a0ca.shoameni19.workers.dev
 vless://20c4c51f-2e66-451f-bf79-b3c63afab047@172.67.163.63:443?alpn=h3,h2,http/1.1&fm={"tcp":[{"settings":{"delay":"0","length":"1","maxSplit":"","packets":"tlshello"},"type":"fragment"}]}&fp=chrome&type=xhttp&sni=1.ksladoaofkdk.dpdns.org&mode=auto&path=/api&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":"6"}}&insecure=0&host=1.ksladoaofkdk.dpdns.org&allowInsecure=0#@Shh_Proxy-New⁴
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
-vless://20d439ac-16aa-4538-ab92-b683ad1ead5f@104.18.4.130:2082?type=ws&encryption=none&path=/@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none#🚸 Cephalon_ala-[21]
-vless://20dd9433-389e-4573-ba7b-689619cf13da@45.159.79.71:4443?security=reality&encryption=none&pbk=321Ii2xbCoyll6WJ0Qm1Sh8qcC0kxXvUaZhe3kyasD8&host=sentry.io&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sentry.io&sid=a1b2c3d4e5f6a7b8#@irdusti(12)🇺🇸¹
