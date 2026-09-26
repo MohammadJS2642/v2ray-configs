@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦 @GozargahVPN
 vless://970a807d-257b-4e4d-ab85-daf67f73ad07@199.232.78.159:443?path=%&security=tls&encryption=none&insecure=0&host=panelboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@vmesskhodam
 vless://970a807d-257b-4e4d-ab85-daf67f73ad07@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=panelboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@irdusti(19)🏳️¹
 vless://970a807d-257b-4e4d-ab85-daf67f73ad07@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=panelboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@tootffarangi🍓-11
@@ -252,4 +253,3 @@ vless://@𝐕𝟐𝐗𝐍𝐄𝐓@82.152.211.233:52963?mode=auto&path=/&security
 vless://AlfredConfig@104.17.107.134:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://AlfredConfig@159.246.55.251:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://AlfredConfig@164.38.155.135:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
-vless://AlfredConfig@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
