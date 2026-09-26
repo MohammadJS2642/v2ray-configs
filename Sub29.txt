@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://aeb7da2f-1eed-4bfa-8185-8788ca1c89cb@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@v2ray313 کانالمون 😪
-vless://aeb7da2f-1eed-4bfa-8185-8788ca1c89cb@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=netgerb.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@VConfing
 vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fin1.panel11.ru&fp=chrome&security=reality&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb#T.me/Vpn_Mafia 🇫🇮
 vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.208.184:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#📡@tanhanet
@@ -253,3 +251,5 @@ vless://bc8446e7-ba8e-4dfd-92df-8681793fe31e@185.218.17.127:443?encryption=none&
 vless://bc8446e7-ba8e-4dfd-92df-8681793fe31e@185.218.17.127:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=corporate.amazon.com&fp=chrome&pbk=QKaBb_u0KoNkMYbh9ljrxC9BDtnHyFoaMd4-s4xfKxQ&sid=33c0b6e213&spx=/36afe087d75c9f6&type=tcp&headerType=none#@v2mystery 👈 عضو شو
 vless://bca46025-bf43-40c0-895b-054a6fbcfd32@172.235.38.85:42942?security=reality&encryption=none&pbk=JmkfJoDWpAqt6gj4cbc4_cwItsdryMlV7joAGfNTKQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=a56d7d8da977f860#🇺🇸 | 12
 vless://bcc2f72f-62ea-4d2d-914a-8a6ae5409724@78.159.245.51:6443?security=reality&encryption=none&pbk=o-QrksJtRE_UOjwUEAkN_T_3wo8HWXFo5F97BOmzKAw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=docs.helpscenter.xyz&sid=4c2f8435d7555b76#@Tarkshodeh 🇮🇱
+vless://bcc2f72f-62ea-4d2d-914a-8a6ae5409724@78.159.245.51:6443?security=reality&encryption=none&pbk=o-QrksJtRE_UOjwUEAkN_T_3wo8HWXFo5F97BOmzKAw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=docs.helpscenter.xyz&sid=4c2f8435d7555b76#@iran_v2ray1 🌟
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER

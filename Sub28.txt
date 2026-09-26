@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=JOIN_BEDE_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@leviconfigs🪐-4
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@V2ray_Alpha🫔 4
 vless://a1b71e32-598c-4a69-9916-aff3787a1c24@hi.bangmyshop.ir:13453?path=/&security=none&encryption=none&host=hi.bangmyshop.ir&type=ws#𝗝𝗼𝗶𝗻 ➺ @CoonfigCloud • 🇬🇧
 vless://a1c20e5e-3430-4f7e-b2e8-bdb1f436f796@185.255.179.54:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g.card-choice.ru&fp=chrome&pbk=VQa_TglmxFiZQ6mXsuBBu49mwUQD57A95_8D87B5Lk4&sid=45b5f55af64c5d5a&type=tcp&headerType=none#Telegram: @Daily_Configs
 vless://a1c20e5e-3430-4f7e-b2e8-bdb1f436f796@185.255.179.54:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g.card-choice.ru&fp=chrome&pbk=VQa_TglmxFiZQ6mXsuBBu49mwUQD57A95_8D87B5Lk4&sid=45b5f55af64c5d5a&type=tcp&headerType=none#vpnsal
@@ -253,3 +251,5 @@ vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?security=none&type=ws&host=play.google.com&path=/api/v2/xtrnwqjbkr?ed=2560&encryption=none#@v2rayng3
 vless://aeb7da2f-1eed-4bfa-8185-8788ca1c89cb@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@VConfing
 vless://aeb7da2f-1eed-4bfa-8185-8788ca1c89cb@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@daredevill_404
+vless://aeb7da2f-1eed-4bfa-8185-8788ca1c89cb@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@v2ray313 کانالمون 😪
+vless://aeb7da2f-1eed-4bfa-8185-8788ca1c89cb@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=netgerb.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@VConfing
