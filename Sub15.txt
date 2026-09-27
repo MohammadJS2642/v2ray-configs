@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0c350e60-b7b4-4061-bd70-02280be45b09@p1real2.greewebservices.ir:1240?type=tcp&headerType=none&security=reality&fp=chrome&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🌕🇩🇪همه نت ها
-vless://0c9b603a-a90a-4e59-85c1-d3915456a727@amern.pages.dev:443/?type=ws&encryption=none&flow=&host=amern.pages.dev&path=/&security=tls&sni=amern.pages.dev&fp=chrome#嘎
-vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.16.132.136:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#🙃Tel:@pPal03🙃Join🙃
 vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.24.192.51:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#🙃Tel:@pPal03🙃Join🙃
 vless://0cfc585b-26f2-4597-9b70-e1bb1095a2f2@89.127.204.17:8443?security=reality&encryption=none&pbk=o8nHj0HmBGPkdRVTSrWd1r2eXPH5YRKDNfKY1FKvRCY&headerType=none&fp=chrome&spx=/mLLEKOBpOSMZdf4&type=tcp&flow=xtls-rprx-vision&sni=yandex.aero&sid=dfc3#@Begoo_VPN ²⁹²
 vless://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@172.67.175.86:443?path=/pa&security=tls&encryption=none&insecure=0&host=hs-495e987f.ndkwiut2718.ir&fp=chrome&type=ws&allowInsecure=0&sni=ndkwiut2718.ir#@KAFING_2
@@ -253,3 +250,6 @@ vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?secu
 vless://174622e3-2d1d-47ab-bf74-aef54996ec46@185.207.198.186:2087?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.xj-lv6l2bLps6EWhf85986XQ1mmBqnr8Ikh_hNB_vGA&insecure=0&host=film.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=film.dearhossein-taktaz.ir#🇫🇮 | 6
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.245:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#TEL;Father_vpn
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.252:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#TEL;Father_vpn
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.193.28.212:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#TEL;Father_vpn
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@188.114.97.6:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#TEL;Father_vpn
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@66.81.247.155:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#TEL;Father_vpn
