@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.117:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#@Shh_Proxy-New⁹
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.225:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#@v2ray313 کانالمون 😤
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@188.114.97.6:443?encryption=none&security=tls&sni=nb.lovecf.ggff.net&type=ws&host=nb.lovecf.ggff.net&path=/proxyip=us.xiabibi.cf&fragment=null,null,tlshello,0&fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"},"type":"fragment"},{"settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"},"type":"fragment"}]}#@V2ray_confiig
 vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.217:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#Free x427 @Outline_Vpn
 vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.119:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#@Shh_Proxy-New⁶
 vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.229:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#@Shh_Proxy-New²
@@ -253,3 +250,6 @@ vless://bfdb379c-e2f1-4e22-b4fd-02261501ce3d@192.209.62.143:34342?security=reali
 vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=&encryption=none&headerType=none&type=tcp#@Capoit
 vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=none&encryption=none&headerType=none&type=tcp#@V2ray_Alpha🗼7
 vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=none&encryption=none&headerType=none&type=tcp#@vasl_bashim
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=none&encryption=none&headerType=none&type=tcp#channel : @Daily_Configs
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:56413?security=reality&encryption=none&pbk=dBK1Uu9s-8Ke6NcE3vQnv_RMMczuMGbGIVFbIA_oIig&headerType=none&fp=chrome&spx=/31d632363f77d02&type=tcp&sni=0cc0f6a1.vless-reality-sni.staticedge-delivery.net&sid=0a809cfd4605f7b9#@Capoit
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:56413?security=reality&encryption=none&pbk=dBK1Uu9s-8Ke6NcE3vQnv_RMMczuMGbGIVFbIA_oIig&headerType=none&fp=chrome&spx=/31d632363f77d02&type=tcp&sni=0cc0f6a1.vless-reality-sni.staticedge-delivery.net&sid=0a809cfd4605f7b9#@V2raySaman
