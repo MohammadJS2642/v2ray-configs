@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.158.146:8880?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.32.108:8880?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2082?security=none&type=ws&path=/?ed=2560&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&encryption=none#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2095?type=ws&headerType=none&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&path=/?ed=2560#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 vless://483e8c71-ae8e-7554-42fe-667eca8d017d@69.46.46.104:443?mode=stream-up&path=/xhttp-siz10/stream-up/483e8c71-ae8e-7554-42fe-667eca8d017d&security=tls&alpn=h2&encryption=none&host=silent-horizon-f5de-production.up.railway.app&fp=chrome&type=xhttp&sni=silent-horizon-f5de-production.up.railway.app#All Operators @MaSTeRSeRVeR1
@@ -251,5 +253,3 @@ vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&
 vless://513beae3-56e7-4954-a17e-930e06237b27@www.speedtest.net:443?encryption=none&security=tls&sni=CfOI-2FX16g3-8rY2kdXmCJ.WJeSv2ILA3rXbUhpC2NSugRAchGaWK.WOrkeRs.DEV&fp=chrome&alpn=http/1.1&type=ws&host=cfoi-2fx16g3-8ry2kdxmcj.wjesv2ila3rxbuhpc2nsugrachgawk.workers.dev&path=/vl/3wSAeuGJbrGHwJ45DA6ircvHC6#[ 🇨🇦 ] | @Cfox_SerVer
 vless://518de0d4-6ce8-4404-80db-23c4a8806128@104.17.147.22:443?encryption=none&host=ez-5faafb.esmaoi.workers.dev&path=/eyJqdW5rIjoiQkFLTnhqM2tZTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&sni=ez-5faafb.esmaoi.workers.dev&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://5202d00b-4d95-49da-8da3-466d07842edb@89.208.106.218:8443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=RqrMeYgZHipaCyfygSF9TM6eKmpCJ2FCqcoB3vvFJD0&sid=441a01bb10389a31&spx=/4580d5855419f7e&type=xhttp&path=/subgift&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@subgift-120
-vless://521b29e7-8ce0-0012-a210-79069f701464@82.40.62.92:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#vpnsal
-vless://5221f28c-7bd4-238e-26cb-b4be057e6e7e@69.46.46.77:443?path=/ws/5221f28c-7bd4-238e-26cb-b4be057e6e7e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=opre-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=opre-production.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
