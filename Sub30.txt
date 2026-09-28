@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=none&encryption=none&headerType=none&type=tcp#@vasl_bashim
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=none&encryption=none&headerType=none&type=tcp#channel : @Daily_Configs
 vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:56413?security=reality&encryption=none&pbk=dBK1Uu9s-8Ke6NcE3vQnv_RMMczuMGbGIVFbIA_oIig&fp=chrome&spx=/31d632363f77d02&type=tcp&sni=0cc0f6a1.vless-reality-sni.staticedge-delivery.net&sid=0a809cfd4605f7b9#kurdconfig
 vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:56413?security=reality&encryption=none&pbk=dBK1Uu9s-8Ke6NcE3vQnv_RMMczuMGbGIVFbIA_oIig&headerType=none&fp=chrome&spx=/31d632363f77d02&type=tcp&sni=0cc0f6a1.vless-reality-sni.staticedge-delivery.net&sid=0a809cfd4605f7b9#@Capoit
 vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:56413?security=reality&encryption=none&pbk=dBK1Uu9s-8Ke6NcE3vQnv_RMMczuMGbGIVFbIA_oIig&headerType=none&fp=chrome&spx=/31d632363f77d02&type=tcp&sni=0cc0f6a1.vless-reality-sni.staticedge-delivery.net&sid=0a809cfd4605f7b9#@V2raySaman
@@ -251,5 +253,3 @@ vless://cccdb266-e17a-4411-9017-6935bd2a5fbf@hollowcon-6ogo.onrender.com:443?enc
 vless://cd16b981-0321-4c34-b7ca-db163f95f2d6@soskeynets.federal-usa.com:8443?encryption=none&security=reality&sni=rumulti.federal-usa.com&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0&type=xhttp&path=/&mode=auto&extra={"headers":{},"noGRPCHeader":false,"scMaxConcurrentPosts":100,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"16-32","maxConnections":0}}#🇷🇺139743 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cd1956d7-f803-4e5a-b8a4-f1540bd103d1@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
 vless://cd1956d7-f803-4e5a-b8a4-f1540bd103d1@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇩🇪@FreakConfig
-vless://cd1956d7-f803-4e5a-b8a4-f1540bd103d1@199.232.78.159:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@MARAMBASHI 🇩🇪
-vless://cd1956d7-f803-4e5a-b8a4-f1540bd103d1@199.232.78.159:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2rayng_Fast 🇩🇪
