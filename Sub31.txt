@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@vmess_ir
 vless://bfb8547f-2789-4446-a3e8-fb353b66bea0@zoi.zelmuro.ir:44443?encryption=none&security=tls&sni=zoi.zelmuro.ir&type=ws&path=/#Channel : @Daily_Configs
 vless://bfba8d8f-da4d-efe2-56c2-fe1e726c9d5f@faultpass-panel-production-800a.up.railway.app:443?path=/ws/bfba8d8f-da4d-efe2-56c2-fe1e726c9d5f&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=faultpass-panel-production-800a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=faultpass-panel-production-800a.up.railway.app#Free x560 @Outline_Vpn
 vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=&encryption=none&headerType=none&type=tcp#@Capoit
@@ -252,4 +253,3 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?encryption=none&s
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#@v2ray313 کانالمون 😆
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇬🇧@ELiV2Ray
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@tootffarangi🍓-42
