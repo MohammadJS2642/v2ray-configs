@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@Alfred_Config
+vless://AlfredConfig@45.130.125.66:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://Bia_too_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://Channel-ITV2RAY@iTV2RAY.ddns.net:969?path=/iTV2RAY&security=reality&encryption=none&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4&host=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&fp=chrome&spx=/iTV2RAY&type=http&sni=www.speedtest.net&sid=d05b9020#@iTV2RAY+/+All+oprator+/+iOS
 vless://Channel-iTV2RAY@iTV2RAY.ddns.net:696?mode=gun&security=reality&encryption=none&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c&fp=chrome&spx=/iTV2RAY&type=grpc&serviceName=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&sni=www.speedtest.net&sid=04158025#@iTV2RAY+/+All+oprator+/+Android
@@ -251,5 +253,3 @@ vless://a368752a-32fc-42f3-980a-6b049218b23f@107.148.158.102:443?security=realit
 vless://a368752a-32fc-42f3-980a-6b049218b23f@107.148.158.102:443?security=reality&encryption=none&pbk=iOXJkurGWCpwU-Z1B3RPJnjXGSQ_v1-H5XtHa6mEeFc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=usa-2.letsconnectpoint.com&sid=b1c1b5e2#75
 vless://a368752a-32fc-42f3-980a-6b049218b23f@107.148.158.102:443?security=reality&encryption=none&pbk=iOXJkurGWCpwU-Z1B3RPJnjXGSQ_v1-H5XtHa6mEeFc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=usa-2.letsconnectpoint.com&sid=b1c1b5e2#@Alpha_V2rayip
 vless://a368752a-32fc-42f3-980a-6b049218b23f@139.28.168.201:443?encryption=none&security=reality&type=tcp&sni=china.letsconnectpoint.com&flow=xtls-rprx-vision&fp=chrome&pbk=4ubYp4HaBJgn1qXwfo0hiejncurXCckII-O_FMDXTgI&sid=3b74d85e#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
-vless://a368752a-32fc-42f3-980a-6b049218b23f@139.28.168.201:443?security=reality&encryption=none&pbk=4ubYp4HaBJgn1qXwfo0hiejncurXCckII-O_FMDXTgI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=china.letsconnectpoint.com&sid=3b74d85e#6-All--@ProxyMtAlpha
-vless://a368752a-32fc-42f3-980a-6b049218b23f@139.28.168.201:443?security=reality&encryption=none&pbk=4ubYp4HaBJgn1qXwfo0hiejncurXCckII-O_FMDXTgI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=china.letsconnectpoint.com&sid=3b74d85e#@Alpha_V2rayip
