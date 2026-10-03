@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e9938bd6-4ee5-4ec1-a3b4-1b212406a8f0@178.104.219.134:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
+vless://e9938bd6-4ee5-4ec1-a3b4-1b212406a8f0@178.104.219.134:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@FreakConfig
+vless://e9938bd6-4ee5-4ec1-a3b4-1b212406a8f0@178.104.219.134:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇷⇝ @GpConnectSho کانکت شو! 💠
 vless://e9938bd6-4ee5-4ec1-a3b4-1b212406a8f0@178.104.219.134:9443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@ICV2RAY
 vless://e9938bd6-4ee5-4ec1-a3b4-1b212406a8f0@178.104.219.134:9443?encryption=none&type=tcp&headerType=http&host=play.google.com#@V2ray_confiig
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&allowInsecure=0&sni=YjF03nNq0B.sOlEnTrAa.InFo#🇨🇦139802 | ⚡️Telegram = t.me/SOSkeyNET
@@ -250,6 +253,3 @@ vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?encryption=none&f
 vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?security=reality&encryption=none&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cz1.animeteka.info&sid=232b1b09e45325a4#33
 vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=1Z6i1nhm.85858569.Xyz#@KAFING_2
 vless://f5293312-411f-4b80-9f55-b2eccb7ae683@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
-vless://f5c799a0-46d0-4c2f-8e1e-acccb1a87019@irraspi.darklink.ir:2063?path=/mina&security=none&encryption=none&type=ws#@Tarkshodeh 🇸🇻
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?encryption=none&type=ws&path=/&host=chatgpt.com#@Maznet - SOS521
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:443?encryption=none&type=tcp&headerType=http&path=/&host=google.com#@Maznet - SOS523
