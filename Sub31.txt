@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://b70df1e7-9d23-4df6-8f7a-41e0a17a6f32@s12.nimnewssup.com:1022?mode=stream-up&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.U-ambTGe_UnCXF1MpA-2gh9MygizVqxtQXnF4Qlmfhc&extra={"sessionIDKey":"100-1000"}&host=myket.ir&type=xhttp#kurdconfig
 vless://b70df1e7-9d23-4df6-8f7a-41e0a17a6f32@s12.nimnewssup.com:1022?mode=stream-up&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.U-ambTGe_UnCXF1MpA-2gh9MygizVqxtQXnF4Qlmfhc&extra={"sessionIDKey":"100-1000"}&host=myket.ir&type=xhttp#🇩🇪@FreakConfig
 vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.193.170:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=adg.sws.applespeed.ir&headerType=http&type=tcp#@configprxy : چنل کانفیگ
 vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.195.244:56539?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=SSw.1.apple1.ir&headerType=http&type=tcp#@configprxy
@@ -252,4 +253,3 @@ vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443/?type=tcp&encry
 vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇦🇿
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@147.90.26.57:443?path=/&security=tls&encryption=none&insecure=1&host=shuma.ccwu.cc&type=ws&allowInsecure=1&sni=shuma.ccwu.cc#Free x434 @Outline_Vpn
 vless://c1933829-eceb-4887-9bf3-6cce182d9c9d@test.amirh00sain.ir:443?path=/ws/c1933829-eceb-4887-9bf3-6cce182d9c9d&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=test.amirh00sain.ir&fp=chrome&type=ws&allowInsecure=0&sni=test.amirh00sain.ir#@VConfing
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@103.180.20.108:8443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
