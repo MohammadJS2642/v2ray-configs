@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b5d9ae01-a4fd-49ed-a37e-932203019405@185.106.97.96:2356?security=reality&encryption=none&pbk=xOvRaMt_OKG0ZfRGclQ8B4ARaFnbhroH979FsI3IkWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=9a73c118f64b2e40#🇩🇪⇝ @GpConnectSho کانکت شو! 💠
 vless://b625622c-e693-4023-3eee-11a49b0aafca@agemalmebashi-production.up.railway.app:443?path=/ws/b625622c-e693-4023-3eee-11a49b0aafca&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=agemalmebashi-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=agemalmebashi-production.up.railway.app#@Shh_Proxy-New²
 vless://b655491a-c67b-4c6b-880d-d0da3cddd916@84.32.100.169:8443?mode=auto&path=/edge/226ef6525e8d/&security=reality&encryption=none&pbk=yJZgUPduM3ePryc6rU0Cr9yoVvucTENzinJQSazx5mo&host=cdn-482.veltacdn.cc&fp=chrome&type=xhttp&sni=cdn-482.veltacdn.cc&sid=f27e655c75ba2c81#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?encryption=none&security=none&type=tcp&headerType=none#@configprxy
@@ -253,3 +252,4 @@ vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?path=/&security=non
 vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?path=/&security=none&encryption=none&host=neth8.lunariai.ru&type=ws#🇫🇮 direct
 vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
 vless://c26fe2f0-5c69-000B-8a1a-bf116ceb9215@c-1.mrcloudi.ir:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=jsv-p-de1.donick.ir#@Tarkshodeh 🇺🇲
+vless://c26fe2f0-5c69-0015-8a1a-bf116ceb9215@c-1.mrcloudi.ir:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=jsv-p-tr1.donick.ir#@Tarkshodeh 🇺🇲

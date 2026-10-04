@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://67a171fb-a31d-49f3-a9d6-98de350763e8@107.189.18.145:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=restnet.duckdns.org#@v2raybaaz
 vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@144.124.231.88:8443?security=reality&encryption=none&pbk=TZ0SHRR0aa4eBqUCKd1PzqTWOtNDWcaX7WRDmy2cYxo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=convertany.cc&sid=5f2a9c7e13b84d61#Telegram @mtmvpn
 vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@144.124.231.88:8443?security=reality&encryption=none&pbk=TZ0SHRR0aa4eBqUCKd1PzqTWOtNDWcaX7WRDmy2cYxo&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=convertany.cc&sid=5f2a9c7e13b84d61#@MARAMBASHI  🇩🇪
 vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@45.39.255.74:443?mode=auto&security=reality&encryption=none&pbk=nePVxxnByjxR4YMlM8dUl1bedOy72r578aNwNJxCdDI&fp=chrome&type=xhttp&sni=yahoo.com&sid=9f3c1a7b2d8e6041#Telegram @mtmvpn
@@ -253,3 +252,4 @@ vless://75c4c6b1-dc9a-4c59-9985-df8af6e9c707@103.246.248.20:443?security=reality
 vless://75c4c6b1-dc9a-4c59-9985-df8af6e9c707@103.246.248.20:443?security=reality&encryption=none&fm=AhmadV2ray&pbk=2YbfBDRn1xu5OOVvC6H7Pq0p0gRtZtvSqFS08-M-DUY&headerType=none&fp=chrome&spx=/AhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=pl.atlanta-api.com&sid=fad7e3b745b23e34#@meliproxyy
 vless://75c4c6b1-dc9a-4c59-9985-df8af6e9c707@103.246.248.20:443?security=reality&encryption=none&fm=AhmadV2ray&pbk=2YbfBDRn1xu5OOVvC6H7Pq0p0gRtZtvSqFS08-M-DUY&headerType=none&fp=chrome&spx=/AhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=pl.atlanta-api.com&sid=fad7e3b745b23e34#🔵@chillguy_vpn
 vless://75c4c6b1-dc9a-4c59-9985-df8af6e9c707@103.246.248.20:443?security=reality&fp=chrome&sid=fad7e3b745b23e34&sni=pl.atlanta-api.com&spx=/AhmadV2ray&headerType=none&pbk=2YbfBDRn1xu5OOVvC6H7Pq0p0gRtZtvSqFS08-M-DUY&type=tcp&encryption=none&flow=xtls-rprx-vision#@Alpha_V2rayip
+vless://75c4c6b1-dc9a-4c59-9985-df8af6e9c707@193.202.113.4:443?security=reality&encryption=none&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-uk2.mystatic-cdn.ru&sid=ee169e93d3c277a1#@meliproxyy

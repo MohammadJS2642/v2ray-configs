@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality&encryption=none&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=150a627d15154cf2#@i10VPN¹
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@k4direct.lynch.ir:2052?encryption=none&security=none&type=tcp&headerType=http&path=/&host=speedtest.net#[62994] - Telegram : @V2All
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@k4direct.lynch.ir:2052?encryption=none&security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇩🇪187148 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@k4direct.lynch.ir:2052?encryption=none&security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇩🇪187149 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +252,4 @@ vless://e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d@109.176.91.28:443?mode=gun&security
 vless://e431026f-d605-4a52-8b3b-0912a68dc9d1@188.114.97.6:443?path=/pyip=ProxyIP.US.CMLiussss.net&security=tls&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=sparkling-shadow-481d.342-429.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=sparkling-shadow-481d.342-429.workers.dev#🎩 ConfigV2RayNG
 vless://e4371581-c418-4770-b09a-d630f18290a6@194.59.245.250:40443?security=reality&encryption=none&pbk=WFvn-RRJzpt2qV4xwj_R93gDr6dduIjkQKO3De3Y2Hc&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=5d96#@Tarkshodeh 🇷🇴
 vless://e4371581-c418-4770-b09a-d630f18290a6@cassiopeia.yokkastars.com:40443?security=reality&encryption=none&pbk=WFvn-RRJzpt2qV4xwj_R93gDr6dduIjkQKO3De3Y2Hc&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=5d96#@i10VPN²
+vless://e4404d90-fdce-4214-a577-325cdba745db@81.12.80.140:4126?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tun.mitdns.ir#@daredevill_404

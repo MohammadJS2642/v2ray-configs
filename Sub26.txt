@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-Cnetvpn?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Telegram 🆔@cnetvpn
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@leviconfigs🪐-2
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@leviconfigs🪐-21
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/?TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@leviconfigs🪐-4
@@ -253,3 +252,4 @@ vless://8ee2927b-1be9-404d-9b96-61dcc51bbd37@185.90.61.12:443?mode=stream-one&pa
 vless://8ee2927b-1be9-404d-9b96-61dcc51bbd37@185.90.61.12:443?mode=stream-one&path=/api/v1/292b54c0&security=reality&encryption=none&pbk=PlP5L4lWEh_9h53_U-5kqwzl4C-eCrJoA6BF74cdfk8&host=vk.com&fp=chrome&spx=/&type=xhttp&sni=sberbank.ru&sid=4164bb3d830b817f#@IRAN_V2RAY1 🌟
 vless://8ee2927b-1be9-404d-9b96-61dcc51bbd37@185.90.61.12:443?mode=stream-one&path=/api/v1/292b54c0&security=reality&encryption=none&pbk=PlP5L4lWEh_9h53_U-5kqwzl4C-eCrJoA6BF74cdfk8&host=vk.com&fp=chrome&spx=/&type=xhttp&sni=sberbank.ru&sid=4164bb3d830b817f#@V2ray_Alpha، 🏣3
 vless://8ee2927b-1be9-404d-9b96-61dcc51bbd37@185.90.61.12:443?mode=stream-one&path=/api/v1/292b54c0&security=reality&encryption=none&pbk=PlP5L4lWEh_9h53_U-5kqwzl4C-eCrJoA6BF74cdfk8&host=vk.com&fp=chrome&spx=/&type=xhttp&sni=sberbank.ru&sid=4164bb3d830b817f#@V2ray_Alpha🏬 10
+vless://8ee2927b-1be9-404d-9b96-61dcc51bbd37@185.90.61.12:443?mode=stream-one&path=/api/v1/292b54c0&security=reality&encryption=none&pbk=PlP5L4lWEh_9h53_U-5kqwzl4C-eCrJoA6BF74cdfk8&host=vk.com&fp=chrome&spx=/&type=xhttp&sni=sberbank.ru&sid=4164bb3d830b817f#@V2ray_confiig
