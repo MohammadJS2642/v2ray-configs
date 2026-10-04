@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://XlnTeam-36@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
-vless://XlnTeam-36@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Free x524 @Outline_Vpn
 vless://XpnFree-5@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Tarkshodeh 🇧🇿
 vless://XpnTeam-11@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@EXPRESSVPN_420
 vless://XpnTeam-17@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@leviconfigs🪐-7
@@ -253,3 +251,5 @@ vless://aa30eabd-6b06-4d32-bf86-d250f71aa1d1@frs.netbazshop.ir:1001?encryption=n
 vless://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@cctvhikvision.center:2052?encryption=none&type=ws&path=/@BlueKnight_net--@BlueKnight_net&host=uwu.blueknightnet.qzz.io&sni=uwu.blueknightnet.qzz.io#🇨🇦187299 | ⚡️Telegram = t.me/SOSkeyNET
 vless://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@cctvhikvision.center:2052?encryption=none&type=ws&path=/@VPNine1--@VPNine1&host=uwu.blueknightnet.qzz.io&sni=uwu.blueknightnet.qzz.io#🚀@VPNine1
 vless://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@freesocks.work:2052?encryption=none&type=ws&path=/@BlueKnight_net--@BlueKnight_net&host=uwu.blueknightnet.qzz.io&sni=uwu.blueknightnet.qzz.io#🇨🇦187303 | ⚡️Telegram = t.me/SOSkeyNET
+vless://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@freesocks.work:2052?encryption=none&type=ws&path=/@VPNine1--@VPNine1&host=uwu.blueknightnet.qzz.io&sni=uwu.blueknightnet.qzz.io#🚀@VPNine1
+vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#@tanhanet
