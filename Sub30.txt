@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#@tanhanet
 vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?encryption=none&security=reality&sni=s3.netavex.com&fp=chrome&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0&type=xhttp&mode=auto&path=/assets/v2/pkg&extra={"xmux":{"maxConcurrency":"16-32"}}#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?path=/assets/v2/pkg&security=reality&encryption=none&extra={  "xmux" : {    "maxConcurrency" : "16-32"  }}&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#آلمان @CONFIG7X
 vless://aa73a8f7-6df1-4020-936e-95a4ac6383e1@momos3etesalger.rjwarehousing.ir:443?security=reality&encryption=none&pbk=m8ZKavK-ts_smPewSIcUnY-giFR8nwOI_yCxZmDUbz0&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=a27338bc1705f5dd#Telegram @mtmvpn
@@ -252,4 +253,3 @@ vless://b55dd203-630d-46a3-b506-c52ebcafa77c@154.222.9.98:443?security=reality&e
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?mode=auto&path=/?@leviconfigs_leviconfigs?ed=2048&security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&fp=chrome&type=xhttp&sni=api.getsavesafe.space&sid=62b6d6e64d461d78#@leviconfigs🪐-2
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.129:443?security=reality&encryption=none&pbk=gA6-Fj5hl4x-HOtbCcYqD99qsml4ActHRmw-VTkFU14&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dep.opngtr.nl&sid=7d6b6b7a606c21cf#@leviconfigs🪐-5
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.129:443?security=reality&encryption=none&pbk=gA6-Fj5hl4x-HOtbCcYqD99qsml4ActHRmw-VTkFU14&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dep.opngtr.nl&sid=7d6b6b7a606c21cf#@leviconfigs🪐-9

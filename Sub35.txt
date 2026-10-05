@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d6962b1a-4701-4456-ba61-deb28c913a66@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://d6962b1a-4701-4456-ba61-deb28c913a66@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@v2ray313 کانالمون 🌝
 vless://d6962b1a-4701-4456-ba61-deb28c913a66@199.232.78.170:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://d6962b1a-4701-4456-ba61-deb28c913a66@199.232.78.170:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
@@ -252,4 +253,3 @@ vless://e3e9805a-6c8b-4edd-8ee8-621df79806eb@162.35.242.252:443?security=reality
 vless://e3ec2866-96cd-4cc3-86c9-e7336ea2fbc2@185.203.4.218:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=ger-04.hello-there.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=ger-04.hello-there.ru#@Tarkshodeh 🇮🇴
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed=1861&security=none#@V2fetch
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed=1861&security=none#@V2fetch  👑جهت دریافت اشتراک اختصاصی VIP
-vless://e3fb01b6-69b4-41d7-babf-696d992de194@cctvhikvision.center:2052?encryption=none&type=ws&path=/@BlueKnight_net--@BlueKnight_net&host=uwu.blueknightnet.qzz.io&sni=uwu.blueknightnet.qzz.io#🇨🇦187300 | ⚡️Telegram = t.me/SOSkeyNET
