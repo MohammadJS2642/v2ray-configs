@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://790910c3-9a97-4375-998a-fcc36b0a2902@212.237.216.55:443?security=reality&encryption=none&pbk=QsXrvjhVX6Kwp5Gn9dMx8F9p3wUzXAp7ETkbPodmdC8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=af0c601348f39d8a#@filembad
 vless://790910c3-9a97-4375-998a-fcc36b0a2902@212.237.216.55:443?security=reality&encryption=none&pbk=QsXrvjhVX6Kwp5Gn9dMx8F9p3wUzXAp7ETkbPodmdC8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=af0c601348f39d8a#@tootffarangi🍓-7
 vless://790910c3-9a97-4375-998a-fcc36b0a2902@212.237.216.55:443?security=reality&encryption=none&pbk=QsXrvjhVX6Kwp5Gn9dMx8F9p3wUzXAp7ETkbPodmdC8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=af0c601348f39d8a#kurdconfig
 vless://790910c3-9a97-4375-998a-fcc36b0a2902@212.237.216.55:443?security=reality&encryption=none&pbk=QsXrvjhVX6Kwp5Gn9dMx8F9p3wUzXAp7ETkbPodmdC8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=af0c601348f39d8a#🇫🇮@FreakConfig
@@ -252,4 +253,3 @@ vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=/?TELEGRAM-
 vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=/?TELEGRAM-TOOTFFARANGI&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@tootffarangi🍓-1
 vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=pan2e.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#9781 @proxy_online_net
-vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@meliproxyy
