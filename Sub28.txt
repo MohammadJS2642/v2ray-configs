@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://9e4f675b-d6bf-42d1-be55-389f622783af@185.229.9.160:443?mode=gun&security=reality&encryption=none&pbk=4Y0QLEasqtkWqfbrRedWqrZSPTnB14FDfI9q1v5SsHs&fp=chrome&spx=/&type=grpc&sni=smartcaptcha.yandexcloud.net&sid=0afbd1d3#@Nexus_Panell چنل تلگرام
+vless://9e4f675b-d6bf-42d1-be55-389f622783af@62.152.58.182:443?encryption=none&type=grpc&security=reality&mode=gun&sni=360.yandex.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&sid=27e53bbcab7593d7&spx=/#@V2ray_confiig
+vless://9e4f675b-d6bf-42d1-be55-389f622783af@62.152.58.182:443?mode=gun&security=reality&encryption=none&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&fp=chrome&spx=/&type=grpc&sni=360.yandex.ru&sid=27e53bbcab7593d7#@Nexus_Panell چنل تلگرام
+vless://9e4f675b-d6bf-42d1-be55-389f622783af@62.152.58.182:443?mode=gun&security=reality&encryption=none&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&fp=chrome&spx=/&type=grpc&sni=360.yandex.ru&sid=27e53bbcab7593d7#@v2ray313 کانالمون 😁
+vless://9e4f675b-d6bf-42d1-be55-389f622783af@62.152.58.182:443?mode=gun&security=reality&encryption=none&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&fp=chrome&spx=/&type=grpc&sni=360.yandex.ru&sid=27e53bbcab7593d7#🇷🇺187549 | ⚡️Telegram = t.me/SOSkeyNET
+vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.16.144.131:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#🧔🏻Tel: @pPal03🧔🏻Join🧔🏻
+vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.24.66.98:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#🧔🏻Tel: @pPal03🧔🏻Join🧔🏻
+vless://9e998501-eaae-4d7e-bbe5-6cecfaef8334@217.69.167.135:15392?mode=gun&security=reality&encryption=none&pbk=O8yFUnhj9NOtJ2eUVQTwrGk8HrkHq94QAO090azV428&fp=chrome&spx=/&type=grpc&serviceName=grpc&sni=google.com&sid=6a326909#Telegram:@v2rayng3
 vless://9e9fd625-e4d7-4944-ae7e-4145342fa5db@199.232.78.159:443?encryption=none&type=ws&security=tls&host=pannn1.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#@V2ray_confiig
 vless://9e9fd625-e4d7-4944-ae7e-4145342fa5db@199.232.78.159:443?path=/&security=tls&encryption=none&host=pannn1.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://9e9fd625-e4d7-4944-ae7e-4145342fa5db@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@B2Hub
@@ -245,11 +253,3 @@ vless://XpnTeam-53@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-53@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-54@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-54@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
-vless://XpnTeam-55@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-55@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
-vless://XpnTeam-56@199.232.78.170:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=/#@V2ray_confiig
-vless://XpnTeam-56@199.232.78.170:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=/#Channel : @Daily_Configs
-vless://XpnTeam-56@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
-vless://XpnTeam-56@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
-vless://XpnTeam-56@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-56@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
