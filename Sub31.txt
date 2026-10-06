@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bba42dd4-b9fe-0903-2345-8c75399f5ac8@69.46.46.125:443?path=/ws/bba42dd4-b9fe-0903-2345-8c75399f5ac8&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@gamefictoinspeed.info:443?encryption=none&type=ws&security=tls&path=/meti&host=lw-5-wfcxvux8.belmivo.ir&sni=lw-5-wfcxvux8.belmivo.ir&fp=chrome&insecure=0&allowInsecure=0#@EVAY_VPN 8
+vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=reality&encryption=none&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&headerType=http&fp=chrome&spx=/gVCLnTsaoc7silZ&type=tcp&sni=www.oracle.com&sid=6b59#Ray-80.50GB📊
+vless://bbc62372-5e9e-4144-de1d-0bda3b9bd2be@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://bc221702-dd43-4642-a203-24d8d6a81165@159.195.253.15:8443?path=/au1&security=tls&encryption=none&insecure=0&host=au1.pad-service.com&fp=chrome&type=ws&allowInsecure=0&sni=au1.pad-sservice.lat#@Capoit
 vless://bc2b006a-7539-4e3f-9f1e-3f31056c7e7f@94.139.180.250:4109?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=cIT2rZEiec-gDgmnX-5l0KgIDw_Ik-qA-4pGzGoSkHY&sid=d38a24b31d88527f&type=tcp&headerType=none#@ICV2RAY
 vless://bc2b006a-7539-4e3f-9f1e-3f31056c7e7f@94.139.180.250:4109?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=cIT2rZEiec-gDgmnX-5l0KgIDw_Ik-qA-4pGzGoSkHY&sid=d38a24b31d88527f&type=tcp&headerType=none#@meliproxyy
@@ -249,7 +253,3 @@ vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@cf-mci.coixconqwe1.ir:2086?mode=aut
 vless://cc01f435-d561-4525-bf1f-7a9876d33207@178.215.236.95:5432?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 vless://cc157a07-8707-4ffa-b53f-0c8d8f5a4073@switchback.proxy.rlwy.net:48444?path=/&security=none&encryption=none&type=ws#kurdconfig
 vless://cc2b6933-0a5f-4688-8260-608b53ea1843@95.129.236.239:443?path=/stream/615428/socket&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=3ds.login.opendns.stream&fp=chrome&type=ws&allowInsecure=0&sni=3ds.login.opendns.stream#145
-vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@151.101.56.6:443?path=/?TELEGRAM--KANAL--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Tarkshodeh 🇮🇱
-vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 🌩️🌟
-vless://cc4a473a-2e15-4fc6-ec54-47c3aa5cec09@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#❤️5
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&type=ws&allowInsecure=0&sni=cyylr.eu.cc#TEL:Father_vpn

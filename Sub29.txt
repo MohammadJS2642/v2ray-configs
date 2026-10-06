@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-68@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
+vless://XpnTeam-68@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
+vless://XpnTeam-68@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-68@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@tootffarangi🍓-11
 vless://XpnTeam-68@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Tel-@ProxyMtAlpha🏫8
 vless://XpnTeam-69@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-6@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Tarkshodeh 🇧🇿
@@ -249,7 +253,3 @@ vless://aeb7da2f-1eed-4bfa-8185-8788ca1c89cb@Trmarztcpwshjf.horlutr.ir:2087?secu
 vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fin1.panel11.ru&fp=chrome&security=reality&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb#T.me/Vpn_Mafia 🇫🇮
 vless://aef560d5-1a65-4529-8a12-a4b78bd90ab3@hold.sub.solipanel.ddns.ge:443?path=/hup&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=hold.sub.solipanel.ddns.ge&fp=chrome&type=httpupgrade&allowInsecure=0&sni=hold.sub.solipanel.ddns.ge#@Soliconfاستفاده بدون جوین حرام🇳🇱
 vless://aef560d5-1a65-4529-8a12-a4b78bd90ab3@nord.solivpn.ddns.ge:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=titan&allowInsecure=0&sni=hold.sub.solipanel.ddns.ge#@Soliconfاستفاده بدون جوین حرام🇳🇱
-vless://aef560d5-1a65-4529-8a12-a4b78bd90ab3@nord.solivpn.ddns.ge:443?path=/vl-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=hold.sub.solipanel.ddns.ge&fp=chrome&type=ws&allowInsecure=0&sni=hold.sub.solipanel.ddns.ge#@Soliconfاستفاده بدون جوین حرام🇳🇱
-vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER
-vless://af02bcda-806b-4bdb-d0bd-83af1301dbed@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI
-vless://af02bcda-806b-4bdb-d0bd-83af1301dbed@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖
