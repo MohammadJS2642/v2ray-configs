@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@104.18.32.47:443?mode=auto&path=/sreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#channel : @freedomofinfor
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@143.246.208.113:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=cdn.v1.AssetService&allowInsecure=0&sni=assets-fr4.pleiades.codes#@ICV2RAY
 vless://0dea82cd-a030-4c11-bccd-f3c0be845297@201.24.114.60:443?security=reality&encryption=none&pbk=RRawEiil652RhrCcf0Oq94mBii7I21eN3YyOo34NrTY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=app.prostocalc.com&sid=47e4cb670b4e547d#@configprxy
 vless://0e6001f1-fe90-4e8c-9f4f-57071268af6e@digin.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digin.rizrio.ir&mode=auto&path=/&pbk=zKeOuPoCS_FA1bsfFr-A8MmdYIS-DhcHwxmhDC1WaSA&security=reality&sid=8586&sni=au2-images.shop.samsung.com&spx=/V7frB8cQ8PmGyNp&type=xhttp&x_padding_bytes=100-1000#🇺🇸hollowocn-T3@hollowcon
@@ -253,3 +252,4 @@ vless://1bbef2cd-2851-4f00-b37e-a2478a1e5a70@159.69.103.251:80?security=reality&
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839#@Vpn_Mafia 🇷🇺
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@ehsawn8
+vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#چنل عضو شو @v2ra_config

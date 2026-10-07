@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9f5762c0-2fbb-4609-be8a-f3cf4f22fd38@fast.jkerm.com:443?path=/&security=tls&encryption=none&insecure=0&host=italyji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@VEGAAS_VPN🇮🇹
 vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@94.228.160.245:443?security=reality&encryption=none&pbk=BPV8HJ-kqcYDM4o7BDXDv3M9VAMWStDfXkkXmyPICWQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-03-10.zetnik.site&sid=88e13e67db3f1a32#@IRAN_V2RAY1 🌟
 vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@94.228.160.245:443?security=reality&encryption=none&pbk=BPV8HJ-kqcYDM4o7BDXDv3M9VAMWStDfXkkXmyPICWQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-03-10.zetnik.site&sid=88e13e67db3f1a32#@outline_ir
 vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@nl-03-10.zetnik.site:443?security=reality&encryption=none&pbk=BPV8HJ-kqcYDM4o7BDXDv3M9VAMWStDfXkkXmyPICWQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-03-10.zetnik.site&sid=88e13e67db3f1a32#@IRAN_V2RAY1 🌟
@@ -253,3 +252,4 @@ vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@fl1.originmesh.online:443?security=
 vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@fl1.originmesh.online:443?security=reality&encryption=none&pbk=0V7SmsnnIasJwWkSpr4YgXTurHW-GMcjrwMa1TAVAyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=originmesh.online&sid=afee962d#Channel : @Daily_Configs
 vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@nl2.originmesh.online:443?security=reality&encryption=none&pbk=0V7SmsnnIasJwWkSpr4YgXTurHW-GMcjrwMa1TAVAyw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=originmesh.online&sid=afee962d#9964 @proxy_online_net
 vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@nl2.originmesh.online:443?security=reality&encryption=none&pbk=0V7SmsnnIasJwWkSpr4YgXTurHW-GMcjrwMa1TAVAyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=originmesh.online&sid=afee962d#1
+vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@pl1.originmesh.online:443?security=reality&encryption=none&pbk=0V7SmsnnIasJwWkSpr4YgXTurHW-GMcjrwMa1TAVAyw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=originmesh.online&sid=afee962d#9963 @proxy_online_net

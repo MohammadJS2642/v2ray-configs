@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@api.betust.net:443?security=reality&encryption=none&pbk=YczbievYAOeZIypa58aRpil6XbfdyifK_0cFJWn8-yg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.betust.net&sid=d6c172d3#@i10VPN🎍
 vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@cdn6.goonars.com:443?security=reality&encryption=none&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn6.goonars.com&sid=04a69fc6#@Tarkshodeh 🇸🇻
 vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&host=JOIN_BEDE_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#@leviconfigs🪐-27
 vless://01ce1507-0197-4261-9b91-1baab455dd7f@b---u----l.cd2-ger1.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=/#configprxy
@@ -253,3 +252,4 @@ vless://0d6e70a5-abfd-4766-8ad4-e502173ba82b@46.254.19.190:443?security=reality&
 vless://0d6e70a5-abfd-4766-8ad4-e502173ba82b@95.85.241.203:443?security=reality&encryption=none&pbk=CsHuHGKul9Soue4U9mFoJB6tWItZpHIin2_kPV77xVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se2.virtez.pro&sid=b5ceb348df65795d#@tootffarangi🍓-4
 vless://0d863091-6358-4cf5-9d3a-a47f29997baf@91.107.166.1:443?security=&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 vless://0d93e96f-8415-47af-b600-7d22d3231daa@66.33.22.226:42699?path=/&security=&encryption=none&type=ws#@Tarkshodeh 🇺🇲
+vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@104.18.32.47:443?mode=auto&path=/sreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#channel : @freedomofinfor
