@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-70@199.232.78.160:443?path=/?&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Telegram @mtmvpn
+vless://XpnTeam-71@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=/#Channel : @Daily_Configs
+vless://XpnTeam-71@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@tootffarangi🍓-11
+vless://XpnTeam-71@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
+vless://XpnTeam-71@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-72@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=/#Channel : @Daily_Configs
 vless://XpnTeam-72@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-72@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-72@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@tootffarangi🍓-12
@@ -247,9 +253,3 @@ vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.67.190.141:8880?encryption=none
 vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=2a80364e93d9#@V2ray_confiig
 vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=2a80364e93d9#@v2ray313 کانالمون 🚀
 vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=2a80364e93d9#Free x575 @Outline_Vpn
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#💫@ATOVPN گیگی
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#💫@ATOVPN گیگی ۳۵۰۰
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#@KAFING_2
-vless://ae1e1f22-6bea-98a9-92ba-fff78ec9582b@vodiwalkerpanel-production-1579.up.railway.app:443?encryption=none&security=tls&sni=vodiwalkerpanel-production-1579.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=vodiwalkerpanel-production-1579.up.railway.app&path=/ws/ae1e1f22-6bea-98a9-92ba-fff78ec9582b#@V2ray_confiig
-vless://ae1e1f22-6bea-98a9-92ba-fff78ec9582b@vodiwalkerpanel-production-1579.up.railway.app:443?encryption=none&security=tls&sni=vodiwalkerpanel-production-1579.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=vodiwalkerpanel-production-1579.up.railway.app&path=/ws/ae1e1f22-6bea-98a9-92ba-fff78ec9582b#🇩🇪All⁸ | @BigSmoke_Config
-vless://ae596d65-988a-4939-b782-c6f3e0bb4bcf@psc-1.weedly.top:2095?path=/&security=none&encryption=none&host=2606537d6d1cdf4a.certhost.ir&type=httpupgrade#@v2ray_phoenix
