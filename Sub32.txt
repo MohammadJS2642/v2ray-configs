@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c3369c07-f0d2-4a2c-97ab-0d3d47803912@79.108.225.112:8443?security=reality&encryption=none&pbk=1KY_jqa2yPLBEBa-3TG77zs4ak2zQLGul4eexxCueyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com#@Nexus_Panell چنل تلگرام
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@soskeynets.ns.cloudflare.com:443?encryption=none&security=tls&sni=octopusss5.info&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=/udfyfws@soskeynets#🇨🇦139773 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c3e2c992-6721-443f-a051-331cb8a29fad@13.229.47.178:20414?security=reality&encryption=none&pbk=H4ZErlTUck4uQYnxtURj9aHLVXQIUHIPMI8dBz7wMVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=ed2cfa4d6d47e0#🇸🇬 | 10
 vless://c3e2c992-6721-443f-a051-331cb8a29fad@13.229.47.178:20414?security=reality&encryption=none&pbk=H4ZErlTUck4uQYnxtURj9aHLVXQIUHIPMI8dBz7wMVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=ed2cfa4d6d47e0#🇸🇬 | 14
 vless://c423cc1b-f88e-421c-9a16-c480d84da20f@198.251.78.29:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Uk5b-Wh_uxeCc7R8NS9iWE40xc0h9wWC04rSB9yhgAw&sid=b5d625695ec82c7e&type=tcp&headerType=none#🇺🇸US_2943_@Surfboardv2ray
@@ -253,3 +251,5 @@ vless://d005cde6-263f-48ac-8b13-74ebf7f3f8ef@91.98.96.59:40017?security=none&enc
 vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@13.158.67.183:33561/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=158SMilJQo8T-Fi8-T1354xZsVFCYxA8dXQstKbIdVs&sid=6b9e61372a82002c#🇯🇵 日本@clashv8
 vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@13.230.30.102:38830/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=5E5p5boHrgCyBlt5qZPX1XozU9I90JoBgS4zmXngllI&sid=ac12ed79#🇯🇵 日本@clashv8
 vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@143.42.46.37:25605/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=trh3vhKtu_iAKb6E2GuUvloJDZ8tN0jtzyj4kpV5IQA&sid=6df42a2c#🇺🇸 美国@clashv8
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@172.104.237.173:20855/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=c6Pu0_yAYxIrnYjbwIYLsKB_xhcLsk17BgojLeaIvE8&sid=efe9#🇺🇸 美国@clashv8
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@172.239.19.53:56890/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=rLwUhSlO07MqPfOOvNjRfmFSHrByCO7r4NpgTt2YkCE&sid=13500590#🇺🇸 美国@clashv8

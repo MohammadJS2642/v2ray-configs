@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@172.104.237.173:20855/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=c6Pu0_yAYxIrnYjbwIYLsKB_xhcLsk17BgojLeaIvE8&sid=efe9#🇺🇸 美国@clashv8
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@172.239.19.53:56890/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=rLwUhSlO07MqPfOOvNjRfmFSHrByCO7r4NpgTt2YkCE&sid=13500590#🇺🇸 美国@clashv8
 vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@178.79.129.203:54865/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=frK9LTk4kF7lh4-ZVCuHCQm87Oy6uboRtoS-o6Fb6WE&sid=7436#🇬🇧 英国@clashv8
 vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@178.79.131.26:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=UvN2oqI7DGQUEB8VrOZ9c5eXs2EuEQAgAa5IyTuRcCU&sid=3436aa2833db50fa#🇬🇧 英国@clashv8
 vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@178.79.149.80:22117/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Vqwhml0SG253PsBtx9xi3GJY-hhyA6sgGUJ_wVI7Q1g&sid=c7994be0#🇬🇧 英国@clashv8
@@ -253,3 +251,5 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@i10VPN⁷
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@v2ray313 کانالمون ❣️
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@v2raybaaz
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@vpnbaz 🌊
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Tel-@ProxyMtAlpha🏣 4

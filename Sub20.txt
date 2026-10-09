@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://33659f3a-e55c-4276-8900-f656e9c4075a@xbm016bm.selqora.ir:31663?security=&encryption=none&headerType=none&type=tcp#🇩🇪All⁵ | @configprxy
-vless://33659f3a-e55c-4276-8900-f656e9c4075a@xbm016bm.selqora.ir:31663?security=none&encryption=none&host=apple.com&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://338764e6-0e53-4d51-8057-80ce8d49a963@xray2-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#@Shh_Proxy-New⁷
 vless://33918b20-9e02-4dc6-8b30-79b2d4b2e0e6@188.114.97.6:443?path=/eyJqdW5rIjoiUjJBU3JkVlRwSWtnciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=auto-scale-238b2b.infra-core-1630dd.workers.dev&type=ws&allowInsecure=0&sni=auto-scale-238b2b.infra-core-1630dd.workers.dev#🇩🇪 | 1
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=/?ed&security=&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#channel : @freedomofinfor
@@ -253,3 +251,5 @@ vless://419f25c1-bc35-412e-93fb-258efee859b5@162.35.231.31:443?security=reality&
 vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?path=/api/v2/stream&security=none&encryption=none&type=ws#🇳🇱@EliV2ray
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t07.tzteam.online&path=/?ed=2048&security=tls&sni=t07.tzteam.online&fp=chrome#@Vpn_Mafia
+vless://41db9eef-eeef-1c7c-d1af-57d03da5370c@69.46.46.33:443?path=/ws/41db9eef-eeef-1c7c-d1af-57d03da5370c&security=tls&alpn=http/1.1&encryption=none&host=sunny-horizon-9745-production.up.railway.app&fp=chrome&type=ws&sni=sunny-horizon-9745-production.up.railway.app#3 🇳🇱 @V2ngNet
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#@tanhanet

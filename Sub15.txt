@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@nl2.bbobr.win:443?encryption=none&fp=&pbk=eztZ1H-OkkHao6d4FhX8Q728qN1UIeFcYH2jObRq1gc&security=reality&serviceName=api.v2.nl2e63a0c5&sid=fbe9c012125d90d2&sni=nl2.bbobr.win&type=grpc#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%20143ms
-vless://2d309706-de61-4c33-a086-3888e595b8eb@104.18.34.245:8880?encryption=none&security=none&type=ws&host=soft-scene-d370.55-7ff.workers.dev&path=%2Fpyip#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%209ms
 vless://2ff7eec6-da48-46ab-b770-5c83400a528c@icy-glade-ad0f.412.workers.dev:8880?encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%2036ms
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.195:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&sid=4be4110078ebed4a#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://3661f782-96ab-43f1-ba97-847195fc2ecb@dns8.m3hrzd.ir:8030?encryption=none&security=reality&sni=race.egistration.ir&fp=edge&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&sid=38dda82955d5791e&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
@@ -253,3 +251,5 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%2063ms
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%2062ms
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%2063ms
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20169ms
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🆔vpnserverrr%20🔒%20VL-TCP-%20❔%20XX%2063ms
