@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.18.32.35:2052?path=/ws&security=none&encryption=none&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&type=ws#@prisonvpnc
+vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.19.42.130:443?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#@prisonvpnc
+vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.20.39.21:2086?path=/ws&security=none&encryption=none&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&type=ws#@prisonvpnc
+vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.20.44.170:443?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#@prisonvpnc
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.20.7.154:2053?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#@prisonvpnc
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.21.44.121:2096?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#@prisonvpnc
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.21.44.121:443?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#@prisonvpnc
@@ -249,7 +253,3 @@ vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@177.1.186.44:443?security=reality&e
 vless://55cce866-637d-44fa-b9aa-915439e1d50d@5u6up.pastilbastani.ir:2096?security=reality&encryption=none&pbk=Yef9_YrfRICUYUYnwCwDy3w9vzs7ljBmlOsPU9OVa1k&host=play.google.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=bc6942c1d5fe984d#@configprxy
 vless://55d5413e-932d-4b94-b760-089662d2e16a@gr3.epsiquadvpn.com:443?security=reality&encryption=none&pbk=7D1UFGuKwT_JBGX0c_ZJwme77xI5ssB3lAC7j0Kg_UY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.krakenlabs.ru&sid=007a#@tootffarangi🍓
 vless://55d5413e-932d-4b94-b760-089662d2e16a@gr3.epsiquadvpn.com:443?security=reality&encryption=none&pbk=7D1UFGuKwT_JBGX0c_ZJwme77xI5ssB3lAC7j0Kg_UY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.krakenlabs.ru&sid=007a#@tootffarangi🍓-1
-vless://55e9e2fe-c3d5-464e-86ba-846b3538f828@188.114.96.66:2082?type=ws&encryption=none&path=/@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none#🚸 Cephalon_ala-[23]
-vless://55ed97fc-77d1-4802-baf3-acef70776331@yt.orpheous.ru:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=e4aa362b5f9d07d7#‎🛰️ @EXPRESSVPN_420
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#TEL;Father_vpn
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#TEL;Father_vpn
