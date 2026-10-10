@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d2edc028-3452-46b5-8098-c22690cd4549@istan.zavqeron.ir:8444?security=reality&encryption=none&pbk=4_-SYNUa6FNFe4yKiomBiyW9UqUZwlJfA8LnXZ0QRXA&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#@configprxy
+vless://d2edc028-3452-46b5-8098-c22690cd4549@zavqeron.ir:2053?path=/tr2-cdn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#configprxy
 vless://d33dbb2a-104e-4978-ad51-77d91348b87c@91.107.147.213:65535?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#Free x514 @Outline_Vpn
 vless://d342d11e-d224-4463-b982-532309285094@144.31.99.252:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@V2ray_Alpha🏤 5
 vless://d342d11e-d224-4463-b982-532309285094@155.103.71.142:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=/fp=chrome#🇧🇬 Join+Telegram:@Farah_VPN 🇧🇬
@@ -251,5 +253,3 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@VConfing 🍓
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@v2raybaaz
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@vpnbaz 🍋‍🟩
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@i10VPN⁴
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@i10VPN⁶
