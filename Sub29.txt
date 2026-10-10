@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Channel:telegram:TurboConfigs@61.245.11.28:9090?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=/&security=none&type=tcp#⚡︎🇵🇭@𝙏𝙪𝙧𝙗𝙤𝘾𝙤𝙣𝙛𝙞𝙜𝙨
+vless://DIGiV2RAY-@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://DIGiV2RAY-@discord.gg:80?path=/Digiv2ray-&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#MCI
 vless://Default@69.46.46.110:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-ad76.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-ad76.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://Default@69.46.46.113:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-db1d.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-db1d.up.railway.app#All Operators @MaSTeRSeRVeR1
@@ -251,5 +253,3 @@ vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encr
 vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori3.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#config3-configfori
 vless://a7b8b48e-1000-46f5-a974-f6606d94f3b4@misty-hill-4b94.146-c18.workers.dev:8880?encryption=none&security=none&type=ws#✈️38@oneclickvpnkeys
 vless://a82ba292-5a68-4f01-94df-fcb9c0902525@dns5.m3hrzd.ir:8030?encryption=none&security=reality&sni=race.egistration.ir&fp=chrome&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&sid=38dda82955d5791e&type=tcp&headerType=none#@ICV2RAY
-vless://a82ba292-5a68-4f01-94df-fcb9c0902525@dns5.m3hrzd.ir:8030?encryption=none&security=reality&sni=race.egistration.ir&fp=chrome&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&sid=38dda82955d5791e&type=tcp&headerType=none#Channel : @Daily_Configs
-vless://a82ba292-5a68-4f01-94df-fcb9c0902525@dns6.m3hrzd.ir:8010?security=reality&encryption=none&pbk=Vtx_JlcgqBDRv8XWimo41kgKuZdxvSUzkQR62188xWQ&headerType=none&fp=chrome&type=tcp&sni=activision.com&sid=5ed0c99dd6c79bb5#@v2raybaaz
