@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ec553e40-bd11-44fc-91ba-284fe7264706@206.245.146.248:2085?encryption=none&security=none&serviceName=vless&type=grpc#🫡36@oneclickvpnkeys
+vless://ec553e40-bd11-44fc-91ba-284fe7264706@206.245.146.248:2085?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#kurdconfig
+vless://ec553e40-bd11-44fc-91ba-284fe7264706@206.245.146.248:2085?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#🇺🇸@FreakConfig
 vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?security=reality&encryption=none&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=377645738e782155#@VConfing
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=se.quattro-tech.ru&fp=chrome&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#T.me/Vpn_Mafia 🇸🇪
 vless://ecb9ab47-31aa-4dd9-92eb-191047b353bd@172.67.130.159:2096?path=/f7i3lo6xbs&security=tls&encryption=none&insecure=0&host=cdn-hk.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-hk.skyvora.app#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
@@ -250,6 +253,3 @@ vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.75:8444?security=realit
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#TR🇹🇷@ELiV2Ray
 vless://f5c799a0-46d0-4c2f-8e1e-acccb1a87019@irraspi.darklink.ir:2063?path=/mina&security=none&encryption=none&type=ws#@Tarkshodeh 🇸🇻
 vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?encryption=none&type=ws&path=/&host=chatgpt.com#@Maznet - SOS521
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:443?encryption=none&type=tcp&headerType=http&path=/&host=google.com#@Maznet - SOS523
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:8443?encryption=none&type=xhttp&path=/&host=chatgpt.com&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@Maznet - SOS522
-vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=/connect#TELEGRAM-Cnetvpn?ed=512&security=tls&encryption=none&insecure=0&host=129.121.95.159&fp=chrome&type=ws&allowInsecure=0&sni=129.121.95.159#Telegram 🆔@cnetvpn
