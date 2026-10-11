@@ -1,3 +1,6 @@
+vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2053?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=95.85.253.241#kurdconfig
+vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2053?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=95.85.253.241#@hex_proxy ⁷
+vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2087?security=tls&encryption=none&headerType=none&type=tcp&sni=95.85.253.241#@v2ray_phoenix
 vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2087?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=95.85.253.241#@V2ray_confiig
 vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2087?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=95.85.253.241#@meliproxyy
 vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2087?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=95.85.253.241#@meliproxyy
@@ -95,6 +98,3 @@ vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@game-survival.surverssss.pro:8443?s
 vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@game-survival.surverssss.pro:8443?security=reality&encryption=none&pbk=h-lXoMXS7rllNOzX6BL8NdhZMPFxEG6GEha-LmzpY2A&type=grpc&serviceName=grpc&sni=game-survival.surverssss.pro#@meliproxyy
 vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@ru1.hidenet.xyz:8444?security=reality&encryption=none&pbk=-79Cv006f06g2GMLmvR76tnorlTs-NvwrI5GdVluV0Y&type=grpc&serviceName=grpc-yt&sni=ru1.hidenet.xyz#10152@proxy_online_net
 vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@sw1.hidenet.xyz:8443?encryption=none&security=reality&sni=sw1.hidenet.xyz&pbk=KytvB8Lzvah7cEpkRxXCWhaVAdjIrGZgZ-i_RWW8i0E&type=grpc&authority=&serviceName=grpc&mode=gun#@ICV2RAY
-vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@sw1.hidenet.xyz:8443?encryption=none&security=reality&sni=sw1.hidenet.xyz&pbk=KytvB8Lzvah7cEpkRxXCWhaVAdjIrGZgZ-i_RWW8i0E&type=grpc&authority=&serviceName=grpc&mode=gun#@meliproxyy
-vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@sw1.hidenet.xyz:8443?encryption=none&security=reality&sni=sw1.hidenet.xyz&pbk=KytvB8Lzvah7cEpkRxXCWhaVAdjIrGZgZ-i_RWW8i0E&type=grpc&authority=&serviceName=grpc&mode=gun#Channel : @Daily_Configs
-vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@sw1.hidenet.xyz:8443?security=reality&encryption=none&pbk=KytvB8Lzvah7cEpkRxXCWhaVAdjIrGZgZ-i_RWW8i0E&type=grpc&serviceName=grpc&sni=sw1.hidenet.xyz#10161@proxy_online_net
