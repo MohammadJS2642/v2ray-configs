@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a9a95d7c-ee7e-4ee0-9cbd-89cb566d08e9@[2a01:4f8:1c18:4078::1]:443?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=NYZeZKuCbWGJGifmzP4jBqAueCm4iQCifv9gOEBEgnI&host=www.icloud.com&fp=chrome&spx=/&type=xhttp&sni=www.icloud.com&sid=b7ff5b90d8#@Alfred_Config
+vless://aa30eabd-6b06-4d32-bf86-d250f71aa1d1@frs.netbazshop.ir:1001?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=myket.ir&mode=stream-up&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true}&sni=sslcert.okamii1.ir#🇫🇷France🇮🇷
 vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#@tanhanet
 vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?encryption=none&security=reality&sni=s3.netavex.com&fp=chrome&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0&type=xhttp&mode=auto&path=/assets/v2/pkg&extra={"xmux":{"maxConcurrency":"16-32"}}#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://aa7c2760-e4c3-4034-9455-40a8a584f64c@199.232.78.159:443?path=?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇮🇹⇝ @GpConnectSho کانکت شو! 💠
@@ -251,5 +253,3 @@ vless://b40ddc5e-9d01-43e1-975c-30200fda12c4@dl6.sepid-dl.ir:80?path=/api/v2/htt
 vless://b441327d-d84b-42a8-9a2b-3797dcd631af@keris.ronaldosu3.tickyou.ir:2087?encryption=none&security=tls&sni=faezanavardo.ticklitickli.ir&alpn=h2&fp=chrome&type=ws&host=faezanavardo.ticklitickli.ir&path=/&headers={  "Host": "faezanavardo.ticklitickli.ir"}#🇩🇪All⁴ | @BigSmoke_Config
 vless://b45bf6a8-c7eb-437b-80e6-ea9de56ed06a@english.povrak.ir:28567?encryption=mlkem768x25519plus.native.0rtt.BlZ88R4MdUA1xdtpjyQ6eaeU-CV2rcJ2hSs7Iebs5Q0&type=tcp#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
 vless://b45bf6a8-c7eb-437b-80e6-ea9de56ed06a@english.povrak.ir:28567?security=none&encryption=mlkem768x25519plus.native.0rtt.BlZ88R4MdUA1xdtpjyQ6eaeU-CV2rcJ2hSs7Iebs5Q0&headerType=none&type=tcp#@v2ray_phoenix
-vless://b45bf6a8-c7eb-437b-80e6-ea9de56ed06a@english.povrak.ir:39373?encryption=mlkem768x25519plus.native.0rtt.v59e-XvZ4_lM_de_LHmhEyuZ9RvnzlN3kYMASe34yy0&security=none&type=tcp&headerType=none#🇩🇪All⁶ | @BigSmoke_Config
-vless://b4a433b0-6661-c68d-ad79-1b0b439df694@victoryprovpn-production-e95a.up.railway.app:443?encryption=none&security=tls&sni=victoryprovpn-production-e95a.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=victoryprovpn-production-e95a.up.railway.app&path=/ws/b4a433b0-6661-c68d-ad79-1b0b439df694#🇩🇪All¹⁰ | @BigSmoke_Config
