@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@openai.com:8880?mode=auto&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.CybG6umLP4jQpLdOkQISWZWrQD_caUk8ey4j8b4clx0&host=sitewebs.f8r.ir&type=xhttp#چنل عضو شو @v2ra_config
-vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@www.b.mobilesari.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=5002b5329814b487#چنل عضو شو @v2ra_config
 vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@www.c.mobilenarges.ir:2087?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=5002b5329814b487#چنل عضو شو @v2ra_config
 vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@www.e.mobilenarges.ir:7333?security=reality&alpn=http/1.1&encryption=none&pbk=isO0qF2Xg6UI1GKARgfg9UHZSrrUBcOazkz04mTl-kE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=0f62cf6250eb31c0#چنل عضو شو @v2ra_config
 vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?security=reality&encryption=none&pbk=LEoyslGYLVf2XWq9Bkq8Hod-EsB3ZoTlvR5AKK3rciQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-de.bulkavpn.top&sid=c885e8f8#95
@@ -253,3 +251,5 @@ vless://@ZhilaVPN@ZhilaVPN@88.198.108.26:29870?mode=auto&path=/&security=reality
 vless://@awlix_ir@213.163.207.91:443?type=tcp&encryption=none&path=/&headerType=http&security=none#@awlix_ir-bogszwn8
 vless://@awlix_ir@awlix.pcjxq.monster:12580?type=tcp&encryption=none&security=none#@awlix_ir-4y3sdcf8v
 vless://@awlix_ir@awlix.pcjxq.monster:42496?type=tcp&encryption=none&path=/&headerType=http&security=none#@awlix_ir-ifaj6bfo
+vless://@awlix_ir@v2.jexu.ir:40338?type=tcp&encryption=none&security=none#bkbxopp8
+vless://@narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#@narcod_ping1
