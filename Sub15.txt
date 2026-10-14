@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%203
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
 vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=%2F16838%2Fc89d26b724fe%2F&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🆔freeconfigsplus%20🔒%20VL-WS-N/A%20🇸🇬%20SG%20207ms
@@ -252,4 +253,3 @@ vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.
 vless://5625736d-8b68-dceb-bc63-b637ffa583e6@multipanel-production-f449.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-f449.up.railway.app&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fws%2F5625736d-8b68-dceb-bc63-b637ffa583e6&host=multipanel-production-f449.up.railway.app#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇺🇸%20US%2054ms
 vless://770ee6a8-00d3-4493-992d-61e3a0443fc8@188.114.97.6:443?ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&encryption=none&fp=chrome&host=majid123.iranhony.dpdns.org&path=%2Fws&security=tls&sni=majid123.iranhony.dpdns.org&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2028ms
 vless://884137ff-040f-49e2-9719-50abc0960115@vip.subrexo.com:10888?path=%2F&security=&encryption=none&host=vip.subrexo.ir&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20down
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@fert6.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20280ms
